@@ -1,0 +1,7 @@
+{
+    "problem": "At what value of $a$ do the graphs of $y=ax^2+3x+1$ and $y=-x-1$ intersect at exactly one point?",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "The graphs of $y=ax^2+3x+1$ and $y=-x-1$ intersect at exactly one point when the equation\n$$ax^2+3x+1=-x-1$$has only one solution. This equation simplifies to $ax^2+4x+2=0$, which has only one solution when the discriminant is $0$, in other words,\n$$4^2-4(a)(2)=0.$$Solving for $a$ gives $a=\\boxed{2}$.",
+    "socratic_questions": "1. Can you explain how the graphs of the two equations can intersect at exactly one point?\n2. What does it mean for the two equations to have exactly one solution? How does that relate to the graphs intersecting?\n3. What steps can we take to find the intersection point of the two graphs algebraically?\n4. How can we simplify the given equations to bring them into a form where they can be solved simultaneously?\n5. Can you identify the specific condition that needs to be satisfied in order for the two equations to have exactly one solution?\n6. What does the discriminant represent in this context? How can it help us determine the value of $a$ that satisfies the given condition?\n7. Can you solve the equation $4^2 - 4(a)(2) = 0$ to find the value of $a$ that gives exactly one solution?\n8. Are there any other possible values of $a$ that would satisfy the condition? Why or why not?\n9. Can you think of any other scenarios or equations where finding a single intersection point may require a similar line of thinking and steps?"
+}

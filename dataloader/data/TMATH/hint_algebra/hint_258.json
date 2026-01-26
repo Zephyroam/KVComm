@@ -1,0 +1,7 @@
+{
+    "problem": "Find $r$ such that $\\log_{81} (2r-1) = -1/2$.",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "Writing the equation $\\log_{81} (2r-1) = -1/2$ in exponential notation gives $2r-1 = 81^{-1/2} = (9^2)^{-1/2} = 9^{-1} = 1/9$. Solving $2r-1 = 1/9$ gives $r = \\boxed{\\frac{5}{9}}$.",
+    "socratic_questions": "1. Can you explain the first step to solve this equation?\n2. What different methods do you know that can be used to solve equations like this?\n3. If we choose to rewrite the equation in exponential form, what would it look like? How can we use this form to find the value of r?\n4. Why is logarithm used in this equation? What properties of logarithms make it applicable here?\n5. What is the equivalent exponential form of the given equation? How can we use it to solve for r?\n6. Can you think of any other types of equations where logarithms might be involved? How can a similar approach be applied to solve them?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "In the figure shown, segment $AB$ is parallel to segment $YZ$. If $AZ = 42$ units, $BQ = 12$ units, and $QY = 24$ units, what is the length of segment $QZ$? [asy]\nimport olympiad; import geometry; size(150); defaultpen(linewidth(0.8));\npair Y = (0,0), Z = (16,0), A = (0,8), B = (6,8);\ndraw(A--B--Y--Z--cycle);\nlabel(\"$A$\",A,W); label(\"$B$\",B,E); label(\"$Y$\",Y,W); label(\"$Z$\",Z,E);\npair Q = intersectionpoint(A--Z,B--Y);\nlabel(\"$Q$\",Q,E);\n[/asy]",
+    "level": "Level 2",
+    "type": "Geometry",
+    "solution": "Since $AB \\parallel YZ,$ we know that $\\angle A = \\angle Z$ and $\\angle B = \\angle Y.$ That works out nicely, since that means $\\triangle ABQ \\sim ZYQ.$ If $BQ = 12$ and $QY = 24,$ that means the ratio of sides in $ABQ$ to $ZYQ$ is $1:2.$\n\nSince $AZ = 42 = AQ + QZ$ and $AQ = \\dfrac{QZ}{2},$ that means $\\dfrac{3 \\cdot QZ}{2} = 42$ and thus $QZ = \\boxed{28}.$",
+    "socratic_questions": "1. Can you explain why segment AB is parallel to segment YZ?\n2. What do the given lengths AQ, QZ, and AZ represent in the figure?\n3. How can we determine the relationship between triangle ABQ and triangle ZYQ?\n4. Why is the ratio of sides in triangle ABQ to triangle ZYQ 1:2?\n5. How can we use the given information to find the length of segment QZ?\n6. Can you explain the reasoning behind setting up the equation $\\dfrac{3 \\cdot QZ}{2} = 42$?\n7. What is the final length of segment QZ and how did you arrive at this answer?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "If $f(x) = 8x^3 - 6x^2 - 4x + 5$, find the value of $f( -2)$.",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "We have  \\begin{align*}f(-2) &= 8(-2)^3 - 6(-2)^2 -4(-2) + 5\\\\\n& = 8(-8) -6(4) +8 + 5 = -64 -24 +8+5 = \\boxed{-75}.\\end{align*}",
+    "socratic_questions": "1. What does the notation \"$f(x)$\" mean in the given expression?\n2. Can you identify the degree of the polynomial $f(x)$? How is it determined?\n3. How would you substitute $-2$ for $x$ in the expression for $f(x)$? Can you explain the process step-by-step?\n4. What is the rationale behind substituting $-2$ for $x$ in order to find $f(-2)$?\n5. Can you simplify the expression $f(-2)$? If so, what is the result?\n6. How would you interpret the value of $f(-2)$ in the context of the original polynomial function $f(x)$?"
+}

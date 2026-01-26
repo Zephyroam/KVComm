@@ -1,0 +1,7 @@
+{
+    "problem": "Triangle $ABC$ is isosceles with angle $A$ congruent to angle $B$. The measure of angle $C$ is 30 degrees more than the measure of angle $A$. What is the number of degrees in the measure of angle $C$?",
+    "level": "Level 1",
+    "type": "Geometry",
+    "solution": "Let $x$ be the number of degrees in the measure of angle $A$.  Then angle $B$ measures $x$ degrees as well and angle $C$ measures $x+30$ degrees.  Since the sum of the interior angles in a triangle sum to 180 degrees, we solve $x+x+x+30=180$ to find $x=50$.  Therefore, angle $C$ measures $x+30=50+30=\\boxed{80}$ degrees.",
+    "socratic_questions": "1. Can you describe the first step in solving this problem?\n2. How does the fact that triangle ABC is isosceles with angle A congruent to angle B affect the measure of angle C? \n3. How can we express the measure of angle A in terms of x? And how does that relate to the measure of angle B?\n4. What relationship can we establish between the measures of angles A, B, and C using the given information?\n5. What equation can we set up to find the value of x? And how can we solve it to find the measure of angle C?\n6. Are there any other relationships or properties in geometry that can help us find the measure of angle C in similar problems?"
+}

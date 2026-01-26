@@ -1,0 +1,7 @@
+{
+    "problem": "How many positive multiples of $7$ that are less than $1000$ end with the digit $3$?",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "Listing the first 10 multiples of 7, which are 7, 14, 21, 28, 35, 42, 49, 56, 63, 70, we see that the only positive multiples of 7 that end in 3 are those that are the product of 7 and a number that ends in 9.  Therefore, the positive multiples of 7 that are less than 1000 and end with the digit 3 are $7\\cdot 9 = 63$, $7\\cdot 19= 133$, $7\\cdot 29 = 203$, . . .  Notice that we can get from each to the next by adding $7\\cdot 10 = 70$, so our multiples of 7 less than 1000 that end with the digit 3 are 63, 133, 203, . . ., 903, 973.  The last one is 910 more than the first. Since $910/70=13$, we see that we have taken 13 steps of 70 to get from the first number in the list to the last. Therefore, there are $\\boxed{14}$ numbers in the list.",
+    "socratic_questions": "1. What is the question asking for? \n2. Can you list some of the first positive multiples of 7? \n3. How can you determine which of these multiples of 7 end in the digit 3? \n4. Is there a pattern to these multiples of 7 that end in 3? \n5. How can we use this pattern to find all such multiples of 7 less than 1000 that end in 3? \n6. How many multiples of 7 less than 1000 end in 3? \n7. Can you explain how you arrived at this answer? \n8. Can you generalize this process to find the multiples of any given number in a certain range that end in a specific digit?"
+}

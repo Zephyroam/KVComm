@@ -1,0 +1,7 @@
+{
+    "problem": "23 people attend a party. Each person shakes hands with at least two other people. What is the minimum possible number of handshakes?",
+    "level": "Level 5",
+    "type": "Counting & Probability",
+    "solution": "If each person shakes hands with exactly two other people, then there will be $\\frac{23 \\cdot 2}{2} = \\boxed{23}$ handshakes. To achieve 23 handshakes, we arrange the participants in a circle. Each person shakes hands with the two people next to him or her.",
+    "socratic_questions": "1. Can you describe the problem in your own words?\n2. In this problem, what is the minimum number of handshakes given that each person shakes hands with at least two other people?\n3. How does the fact that there are 23 people attending the party affect the number of handshakes?\n4. What is the formula for calculating the total number of handshakes in a group of n people?\n5. Why is the minimum number of handshakes achieved when the participants are arranged in a circle and each person shakes hands with the two people next to him or her?\n6. Are there any other scenarios where the minimum number of handshakes can be achieved?"
+}

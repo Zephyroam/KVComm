@@ -1,0 +1,7 @@
+{
+    "problem": "Find the distance between the foci of the ellipse \\[x^2 + 4y^2 = 400.\\]",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "Dividing by $400,$ we get \\[\\frac{x^2}{20^2} + \\frac{y^2}{10^2} = 1.\\]Thus, the length of the major and minor axes are $2 \\cdot 20 = 40$ and $2 \\cdot 10 = 20,$ respectively. Then the distance between the foci of the ellipse is $\\sqrt{40^2 - 20^2} = \\boxed{20\\sqrt3}.$",
+    "socratic_questions": "1. Can you explain what an ellipse is and how it is different from other geometric shapes?\n2. How are equations of ellipses typically represented? Can you describe the standard equation for an ellipse and its key elements?\n3. In the given equation, can you identify the values of $a$ and $b$ in the standard equation? What do these values represent?\n4. How do we find the length of the major and minor axes of an ellipse based on its equation?\n5. What role do the major and minor axes play in determining the foci of an ellipse?\n6. How can we determine the distance between the foci of an ellipse from its equation?\n7. In the given equation, what are the lengths of the major and minor axes? Calculate them.\n8. How do we compute the distance between the foci using the lengths of the major and minor axes?\n9. By substituting the calculated lengths into the distance formula, what is the distance between the foci of the given ellipse?\n10. Can you generalize this process and explain how to find the distance between the foci of any given ellipse?"
+}

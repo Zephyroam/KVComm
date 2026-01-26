@@ -1,0 +1,7 @@
+{
+    "problem": "How many positive factors does 30 have?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "The prime factorization of 30 is $30=2\\cdot3\\cdot5$. A factor of 30 can have zero or one power of 2, zero or one power of 3, and zero or one power of 5. Thus, there are $2\\cdot2\\cdot2=\\boxed{8}$ factors of 30. The factors are 1, 2, 3, 5, 6, 10, 15, and 30.",
+    "socratic_questions": "1. How is the number of factors of a given integer related to its prime factorization?\n2. Using the prime factorization of 30, how can we determine the number of factors it has?\n3. How many factors of 30 are multiples of 2? Of 3? Of 5?\n4. Can a factor of 30 have powers of 2, 3, and 5 simultaneously? Why or why not?\n5. If we are given the prime factorization of an integer, can we always determine the number of factors it has? Why or why not?\n6. How can we determine if an integer is prime or composite using the concept of factors?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Let $f(x) = Ax + B$ and $g(x) = Bx + A$, where $A \\neq B$. If $f(g(x)) - g(f(x)) = B - A$, what is $A + B$?",
+    "level": "Level 5",
+    "type": "Algebra",
+    "solution": "First we find that $f(g(x)) = A(Bx + A) + B = ABx + A^2 + B$ and $g(f(x)) = B(Ax + B) + A = ABx + B^2 + A$.\n\nNow we plug back in. \\begin{align*}\nf(g(x)) - g(f(x)) &= B - A \\\\\n(ABx + A^2 + B) - (ABx + B^2 + A) &= B - A \\\\\nA^2 - B^2 + B - A &= B - A \\\\\nA^2 - B^2 &= 0 \\\\\n(A-B)(A+B) &= 0\n\\end{align*}\n\nSince we are given that $A \\neq B$, this means that $A + B = \\boxed{0}.$",
+    "socratic_questions": "1. Can you explain what the expression $f(g(x))$ means? How about $g(f(x))$? \n2. Given that $f(x) = Ax + B$ and $g(x) = Bx + A$, can you determine the values of $f(g(x))$ and $g(f(x))$? \n3. Now, substitute the expressions for $f(g(x))$ and $g(f(x))$ into the equation $f(g(x)) - g(f(x)) = B - A$. What does the equation look like now? \n4. How can we simplify the equation further? Can you combine like terms or rearrange the equation in any way? \n5. What is the coefficient of $x$ on both sides of the equation? What does this tell us about the values of $A$ and $B$? \n6. Using the information from the previous question, can you determine the values of $A$ and $B$ separately? \n7. Finally, what is the sum of $A$ and $B$?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Solve the inequality\n\\[2 - \\frac{1}{2x + 3} < 4.\\]",
+    "level": "Level 4",
+    "type": "Intermediate Algebra",
+    "solution": "The given inequality is equivalent to\n\\[\\frac{1}{2x + 3} + 2 > 0,\\]or\n\\[\\frac{4x + 7}{2x + 3} > 0.\\]If $x < -\\frac{7}{4},$ then $4x + 7 < 0$ and $2x + 3 < 0,$ so the inequality is satisfied.\n\nIf $-\\frac{7}{4} < x < -\\frac{3}{2},$ then $4x + 7 > 0$ and $2x + 3 < 0,$ so the inequality is not satisfied.\n\nIf $x > -\\frac{3}{2},$ then $4x + 7 > 0$ and $2x + 3 > 0,$ so the inequality is satisfied.  Thus, the solution is\n\\[x \\in \\boxed{\\left( -\\infty, -\\frac{7}{4} \\right) \\cup \\left( -\\frac{3}{2}, \\infty \\right)}.\\]",
+    "socratic_questions": "1. What is the first step you should take when solving this inequality?\n2. How did the given inequality get converted to the equivalent form $\\frac{4x+7}{2x+3}>0$?\n3. What is the significance of finding the critical points $x=-\\frac{7}{4}$ and $x=-\\frac{3}{2}$?\n4. Why does the inequality hold true for values of $x$ less than $-\\frac{7}{4}$ or greater than $-\\frac{3}{2}$?\n5. In the solution interval $x \\in \\left(-\\infty,-\\frac{7}{4}\\right) \\cup \\left(-\\frac{3}{2},\\infty\\right),$ how did you determine which intervals satisfy the inequality and which ones don't? \n6. Can you think of other types of inequalities where we can use this same type of analysis to determine the solution interval?"
+}

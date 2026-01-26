@@ -1,0 +1,7 @@
+{
+    "problem": "What is the value of $\\sqrt[3]{3^5 + 3^5 + 3^5}$?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "Simplify under the radical first: $3^5+3^5+3^5=3\\cdot 3^5=3^6$, and the cube root of $3^6$ is $3^{6/3}=3^2=\\boxed{9}$.",
+    "socratic_questions": "1. Can you explain what the expression inside the cube root represents?\n2. How would you simplify the expression inside the cube root?\n3. Why does the expression have three terms of $3^5$ added together?\n4. What is the value of $3^5$?\n5. How would you simplify the sum of three identical values of $3^5$?\n6. What is the cube root of the simplified expression?"
+}

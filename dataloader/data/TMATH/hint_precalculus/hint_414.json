@@ -1,0 +1,7 @@
+{
+    "problem": "The curve parameterized by $(x,y) = (2t + 4, 4t - 5)$ is a line, where $t$ is a real number.  Find the equation of the line.  Enter the equation in the form \"$y = mx + b$\".",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "Solving for $t$ in $x = 2t + 4,$ we find\n\\[t = \\frac{x - 4}{2}.\\]Then\n\\[y = 4t - 5 = 4 \\cdot \\frac{x - 4}{2} - 5 = 2x - 13.\\]Thus, the equation is $\\boxed{y = 2x - 13}.$",
+    "socratic_questions": "1. What is the given parameterization of the curve? Can you explain what each component represents?\n2. How can we relate the parameter $t$ to the variables $x$ and $y$?\n3. What does it mean for the curve to be a line? How can we express this algebraically?\n4. To find the equation of the line, what variable should we solve for in the given parameterization?\n5. Can you explain the steps involved in solving for $t$ in terms of $x$?\n6. Now that we have an expression for $t$ in terms of $x$, how can we find an expression for $y$ in terms of $x$?\n7. What is the final equation of the line in slope-intercept form ($y = mx + b$), using the derived expression for $y$ in terms of $x$?\n8. How can we verify that the equation we found represents a line?\n9. Are there any other parameterizations that could give us a different equation of the line?\n10. Can you think of any related concepts or examples where similar techniques are applicable?"
+}

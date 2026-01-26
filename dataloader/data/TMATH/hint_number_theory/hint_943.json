@@ -1,0 +1,7 @@
+{
+    "problem": "What is the greatest common divisor of $2^{1998}-1$ and $2^{1989}-1$?",
+    "level": "Level 5",
+    "type": "Number Theory",
+    "solution": "Let $m = 2^{1998} - 1$ and $n = 2^{1989}-1$. Then, $2^9n = 2^9(2^{1989}-1) = 2^{1998} - 2^9 = m - (2^9 - 1)$. By the Euclidean algorithm, it follows that \\begin{align*}\n\\text{gcd}\\,(m,n) &= \\text{gcd}\\,(n,m-2^9n) \\\\\n&= \\text{gcd}\\,(n,2^9-1). \\\\\n\\end{align*}Since $9$ divides $1998$, by the difference of odd powers factorization, it follows that $2^{1989}-1$ is divisible by $2^9 - 1$. Thus, the greatest common divisor of $m$ and $n$ is $2^9 - 1 = \\boxed{511}$.",
+    "socratic_questions": "1. Can you explain what the greatest common divisor (GCD) represents in terms of the given numbers?\n2. How can we determine the GCD of two numbers using the Euclidean algorithm?\n3. What is the relationship between the GCD of two numbers and their difference?\n4. Based on the given expressions, can you rewrite $m$ as a combination of $n$ and another term?\n5. According to the Euclidean algorithm, what is the new GCD value when we calculate the GCD of $n$ and $m - 2^9n$?\n6. Are there any properties or patterns that can help us determine the GCD of $n$ and $2^9-1$?\n7. Can you discuss the significance of the factorization $2^{1989}-1 = (2^9-1) \\times \\text{something}$ in relation to finding the GCD?\n8. What is the GCD of $n$ and $2^9-1$ based on the properties mentioned earlier?\n9. Therefore, what is the GCD of $2^{1998}-1$ and $2^{1989}-1$?"
+}

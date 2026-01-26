@@ -1,0 +1,7 @@
+{
+    "problem": "One root of the equation $5x^2+kx=4$ is 2. What is the other?",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "Rearranging the given equation, we get $5x^2+kx-4=0$. That means that the product of the roots of the equation is $-4/5$. If one of the roots of the equation is 2, then the other must be $(-4/5)/2=\\boxed{-\\frac{2}{5}}$.",
+    "socratic_questions": "1. How would you approach solving this equation given that one root is already known to be 2?\n2. What does it mean for a number to be a root of an equation? How does this knowledge assist us in solving for the other root?\n3. Can you identify any patterns or relationships between the coefficients and roots in quadratic equations?\n4. What steps would you take to find the other root of the equation, considering that one root is already given?\n5. How can you utilize the fact that the sum of the roots in a quadratic equation is equal to the negation of the coefficient of the linear term in order to find the other root?\n6. If you were to graphically represent the equation, what significance does the given root being 2 have on the graph? How does this aid in finding the other root?"
+}

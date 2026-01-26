@@ -1,0 +1,7 @@
+{
+    "problem": "In how many ways can I choose 2 cooks on a backpacking trip with 8 people if any of the 8 people may be cooks?",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "Since the order that we choose the cooks in doesn't matter, we can choose 2 of them out of 8 trip members in $\\binom{8}{2}=\\boxed{28}$ ways.",
+    "socratic_questions": "1. How many people are there on the backpacking trip?\n2. How many cooks do we need to choose for the backpacking trip?\n3. Does the order in which we choose the cooks matter?\n4. How many ways can we choose 2 cooks out of 8 trip members if order doesn't matter?\n5. What is the mathematical notation for choosing 2 cooks out of 8 trip members?\n6. Can you calculate the value of $\\binom{8}{2}$?\n7. How did you determine that the value of $\\binom{8}{2}$ is 28?\n8. Can you explain the concept of combination and how it applies to this problem?\n9. Can you think of any other scenarios or situations where the concept of combination can be used?"
+}

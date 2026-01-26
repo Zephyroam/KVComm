@@ -1,0 +1,7 @@
+{
+    "problem": "If $f(x)=\\frac{16}{5+3x}$, what is the value of $\\left[f^{-1}(2)\\right]^{-2}$?",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "Substituting $f^{-1}(x)$ into our expression for $f$, we get \\[f(f^{-1}(x))=\\frac{16}{5+3f^{-1}(x)}.\\]Since $f(f^{-1}(x))=x$ for all $x$ in the domain of $f^{-1}$, we have \\[x=\\frac{16}{5+3f^{-1}(x)}.\\]When $x=2$ this says \\[2=\\frac{16}{5+3f^{-1}(2)}.\\]Solving for $f^{-1}(2)$, we find $f^{-1}(2) = 1$.  Then $[f^{-1}(2)]^{-2} = 1^{-2} = \\boxed{1}$.",
+    "socratic_questions": "1. Can you explain what it means for a function to have an inverse? \n2. How do we find the inverse of a given function? \n3. In this case, what is the inverse of the function f(x)? \n4. How can we evaluate f^-1(2)? \n5. Once we have the value of f^-1(2), what does it mean to raise it to the power of -2? \n6. How can we calculate [f^-1(2)]^-2? \n7. Can you simplify the expression [f^-1(2)]^-2 further? \n8. What is the final value of [f^-1(2)]^-2?"
+}

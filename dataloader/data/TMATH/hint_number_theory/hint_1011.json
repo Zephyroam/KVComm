@@ -1,0 +1,7 @@
+{
+    "problem": "Let $n$ be a positive integer and $a,b$ be invertible integers modulo $n$ such that $a\\equiv b^{-1}\\pmod n$. What is the remainder when $ab$ is divided by $n$?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "Since $a\\equiv b^{-1}\\pmod n$, \\[ab\\equiv b^{-1}b\\equiv \\boxed{1}\\pmod n.\\]",
+    "socratic_questions": "1. Can you explain what it means for two integers, $a$ and $b$, to be invertible modulo $n$?\n2. How can we express $a \\equiv b^{-1} \\pmod n$ using modular arithmetic notation?\n3. Given the congruence $a \\equiv b^{-1} \\pmod n$, what does it tell us about the relationship between $a$ and $b$ modulo $n$?\n4. What does it mean for an integer $x$ to be congruent to $y$ modulo $n$?\n5. Given the congruence $ab \\equiv b^{-1}b \\equiv 1 \\pmod n$, what can we conclude about $ab$ modulo $n$?\n6. How would you determine the remainder when $ab$ is divided by $n$ based on the congruence we have?\n7. Can you think of any scenarios where similar reasoning and steps might be used to determine remainders in modulo arithmetic?"
+}

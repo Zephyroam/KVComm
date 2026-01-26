@@ -1,0 +1,7 @@
+{
+    "problem": "Find the greatest common divisor of $40304$ and $30203$.",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "By the Euclidean Algorithm: \\begin{align*}\n\\text{gcd}(40304, 30203) &= \\text{gcd}(40304-30203, 30203) \\\\\n&= \\text{gcd}(10101, 30203) \\\\\n&= \\text{gcd}(30203-2\\cdot10101, 10101) \\\\\n&= \\text{gcd}(10001, 10101) \\\\\n&= \\text{gcd}(10101 - 10001, 10001) \\\\\n&= \\text{gcd}(100, 10001) \\\\\n&= \\text{gcd}(10001 - 100\\cdot100, 100) \\\\\n&= \\text{gcd}(1, 100) \\\\\n\\end{align*}Therefore, the greatest common divisor of $40304$ and $30203$ is $\\boxed{1}$",
+    "socratic_questions": "1. What is the Euclidean Algorithm and how does it apply to finding the greatest common divisor of two numbers?\n2. Can you explain step by step how the Euclidean Algorithm was used to find the greatest common divisor of 40304 and 30203?\n3. What other methods are there for finding the greatest common divisor of two numbers? How do they compare to the Euclidean Algorithm?\n4. How can the concept of greatest common divisor be used in solving real-world problems?\n5. Can you think of a scenario where finding the greatest common divisor is necessary or useful?\n6. How does the greatest common divisor relate to other number theory concepts such as prime factorization and least common multiple?"
+}

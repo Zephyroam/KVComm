@@ -1,0 +1,7 @@
+{
+    "problem": "What is the total area, in square units, of the four triangular faces of a right, square-based pyramid that has base edges measuring 6 units and lateral edges measuring 5 units?",
+    "level": "Level 4",
+    "type": "Geometry",
+    "solution": "The triangular faces are isosceles triangles.  We drop an altitude from the apex to the base, and, since the triangle is isosceles, it will also be a median.  So it forms a right triangle with hypotenuse $5$ and one leg $3$, and thus the other leg, the altitude, is $4$.  The area of the triangle is then $\\frac{4(6)}{2}=12$.  Since there are $4$ triangular faces, the total area is $4(12)=\\boxed{48}$.",
+    "socratic_questions": "1. Can you describe the given pyramid and its triangular faces?\n2. How can we find the area of a triangular face? \n3. What information do we have about the triangle formed by dropping an altitude from the apex to the base? \n4. How can we determine the length of the altitude? \n5. What is the formula for calculating the area of a triangle? Can we apply it here? \n6. What is the base length of each triangular face? \n7. How can we calculate the area of each triangular face? \n8. How many triangular faces does the pyramid have? \n9. What is the total area of all the triangular faces? \n10. Can you explain why the total area is equal to the product of the area of one face and the number of faces?"
+}

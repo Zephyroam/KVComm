@@ -1,0 +1,7 @@
+{
+    "problem": "Expand the product $(9x+2)(4x^2+3)$.",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "Multiplying out the expression, we find that $(9x+2)(4x^2+3)=\\boxed{36x^3+8x^2+27x+6}$.",
+    "socratic_questions": "1. Can you explain what it means to expand a product?\n2. How would you begin expanding this particular product?\n3. Are there any specific rules or techniques you would apply in this process?\n4. Can you identify the terms that result from multiplying the first term of each binomial together?\n5. What about the terms that come from multiplying the second term of each binomial together?\n6. How would you combine like terms after expanding the product?\n7. Can you simplify the expression further?\n8. Are there any patterns or special properties you notice in the expanded expression?\n9. Can you think of any other examples where the expansion of a product would be useful?\n10. How does expanding this product contribute to your overall understanding of algebraic concepts?"
+}

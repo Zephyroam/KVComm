@@ -1,0 +1,7 @@
+{
+    "problem": "How many ways are there to put 5 balls in 2 boxes if the balls are not distinguishable but the boxes are?",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "Since the balls are indistinguishable, we need only count the number of balls in the distinguishable boxes.  We can put 5, 4, 3, 2, 1, or 0 balls in Box 1 (and the rest go in Box 2).  So there are $\\boxed{6}$ different arrangements.",
+    "socratic_questions": "1. How many boxes do we have?\n2. Are the balls distinguishable or indistinguishable?\n3. What does it mean for the boxes to be distinguishable?\n4. How many balls can we put in each box?\n5. Can we put all the balls in one box? Why or why not?\n6. How many different arrangements can we have if we put 5 balls in one box and 0 in the other? \n7. Can we have 4 balls in one box and 1 in the other? If so, how many different arrangements are possible in this case?\n8. Can you think of any other scenarios where we can distribute the balls in different ways?"
+}

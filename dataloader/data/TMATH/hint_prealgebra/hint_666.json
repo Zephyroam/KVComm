@@ -1,0 +1,7 @@
+{
+    "problem": "Marguerite drove 100 miles in 2.4 hours. If Sam drove for 3 hours at the same average rate as Marguerite, how many miles did he drive?",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "We have that Marguerite drove $100 \\textnormal{ miles}$ in $2.4 \\textnormal{ hours}$. We are told that this proportionality applies to Sam as well. So, if Sam drove for $3 \\textnormal{ hours},$ he must have traveled $100 \\textnormal{ miles} \\cdot \\frac{3 \\textnormal{ hours}}{2.4 \\textnormal{ hours}}$, or $\\boxed{125\\textnormal{ miles}}.$",
+    "socratic_questions": "1. What is the given information in the problem?\n2. How can we determine the ratio of distance to time for Marguerite's drive based on the given information?\n3. If the same ratio applies to Sam, how can we use it to find the distance he drove in 3 hours?\n4. Can we use the formula for speed to verify our answer? How would we do so?\n5. What would happen to the distance Sam drove if he traveled at a faster or slower pace than Marguerite?\n6. How can we use this problem to understand the relationship between distance, time, and speed in a proportional setting?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "If $\\frac{60}{2^3\\cdot5^8}$ is expressed as a decimal, how many non-zero digits are to the right of the decimal point?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "Rewriting and reducing the fraction, we get $\\frac{60}{2^3\\cdot5^8} = \\frac{2^2\\cdot3\\cdot5}{2^3\\cdot5^8} = \\frac{3}{2\\cdot5^7}$. Multiplying the numerator and denominator by $2^6$, we obtain\n\\[\\frac{3}{2\\cdot5^7}\\cdot\\frac{2^6}{2^6} = \\frac{3\\cdot2^6}{2^7 \\cdot 5^7} = \\frac{192}{10^7} = .0000192.\\]Therefore, there are $\\boxed{3}$ non-zero digits to the right of the decimal point.",
+    "socratic_questions": "1. How can we rewrite the given fraction in a simplified form?\n2. How can we express the simplified fraction as a decimal?\n3. What is the numerator and denominator of the simplified fraction?\n4. What is the significance of multiplying the numerator and denominator by $2^6$?\n5. How can we simplify the fraction after multiplying by $2^6$?\n6. What is the final decimal expression of the fraction?\n7. How many non-zero digits are to the right of the decimal point in the final expression?\n8. Can we generalize this method to find the number of non-zero digits in any fraction expressed as a decimal? If yes, how? If not, why not?\n9. Can we express the final decimal as a fraction? If yes, what is the fraction? If not, why not? \n10. How can we apply similar methods to solve problems involving different types of fractions or decimals?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "If $15\\%$ of $N$ is $45\\%$ of 2003, what is the value of $N$?",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "Multiply both sides of the equation \\[\n\\frac{15}{100}N=\\frac{45}{100}(2003)\n\\] by 20 to find that $3N=9(2003)$.  Divide both sides by 3 to obtain $N=3(2003)=\\boxed{6009}$.",
+    "socratic_questions": "1. What is the problem asking us to find?\n2. How do we express $15\\%$ and $45\\%$ as fractions or decimals?\n3. If $15\\%$ of $N$ is equal to $45\\%$ of 2003, how can we set up an equation to represent this relationship?\n4. Why do we multiply both sides of the equation by 20?\n5. How does multiplying by 20 help us solve for the value of $N$?\n6. Why do we divide both sides of the resulting equation by 3?\n7. How does this step help us find the value of $N$?\n8. If we had a different percentage of $N$, would the steps for finding its value be the same? Why or why not?\n9. Can you think of a real-world situation where you might need to use this type of problem-solving?"
+}

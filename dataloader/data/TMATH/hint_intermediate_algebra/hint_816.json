@@ -1,0 +1,7 @@
+{
+    "problem": "The function $f$ is not defined for $x = 0,$ but for all non-zero real numbers $x,$\n\\[f(x) + 2f \\left( \\frac{1}{x} \\right) = 3x.\\]Find the real solutions to $f(x) = f(-x).$  Enter the real solutions, separated by commas.",
+    "level": "Level 4",
+    "type": "Intermediate Algebra",
+    "solution": "We are given\n\\[f(x) + 2f \\left( \\frac{1}{x} \\right) = 3x.\\]Replacing $x$ with $\\frac{1}{x},$ we get\n\\[f \\left( \\frac{1}{x} \\right) + 2f(x) = \\frac{3}{x}.\\]We can view these equations as a system in $f(x)$ and $f \\left( \\frac{1}{x} \\right).$  Solving for $f(x),$ we find\n\\[f(x) = \\frac{2 - x^2}{x}.\\]Then the equation $f(x) = f(-x)$ becomes\n\\[\\frac{2 - x^2}{x} = \\frac{2 - x^2}{-x}.\\]Then $2 - x^2 = x^2 - 2,$ so $x^2 = 2.$  The solutions are $\\boxed{\\sqrt{2},-\\sqrt{2}}.$",
+    "socratic_questions": "1. What does the equation $f(x) + 2f \\left( \\frac{1}{x} \\right) = 3x$ tell us about the relationship between $f(x)$ and $f \\left( \\frac{1}{x} \\right)$?\n2. Why is $f(x)$ not defined for $x = 0$? How does this affect our understanding of the function?\n3. How can we obtain an expression for $f(x)$ using the given equation and the substitution $x \\rightarrow \\frac{1}{x}$?\n4. What is the equation $f(x) = f(-x)$ telling us? What does it mean in terms of symmetry about the x-axis?\n5. By substituting $f(x) = \\frac{2 - x^2}{x}$ into the equation $f(x) = f(-x)$, what solution(s) for $x$ do you obtain?\n6. Are these values consistent with the given conditions of the problem? Can you explain why?"
+}

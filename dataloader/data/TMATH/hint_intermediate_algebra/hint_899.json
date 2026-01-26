@@ -1,0 +1,7 @@
+{
+    "problem": "Compute the value of the infinite series \\[\n\\sum_{n=2}^{\\infty} \\frac{n^4+3n^2+10n+10}{2^n \\cdot \\left(n^4+4\\right)}\n\\]",
+    "level": "Level 5",
+    "type": "Intermediate Algebra",
+    "solution": "We factor the denominator: \\[n^4+4 = (n^2+2)^2-(2n)^2 = (n^2-2n+2)(n^2+2n+2).\\]Now,\n\n\\begin{eqnarray*}\n\\frac{n^4+3n^2+10n+10}{n^4+4} & = & 1 + \\frac{3n^2+10n+6}{n^4+4} \\\\\n& = & 1 + \\frac{4}{n^2-2n+2} - \\frac{1}{n^2+2n+2} \\\\\n\\Longrightarrow \\sum_{n=2}^{\\infty} \\frac{n^4+3n^2+10n+10}{2^n \\cdot \\left(n^4+4\\right)} & = & \\sum_{n=2}^{\\infty} \\frac{1}{2^n} + \\frac{4}{2^n\\cdot(n^2-2n+2)} - \\frac{1}{2^n\\cdot(n^2+2n+2)} \\\\\n& = & \\frac{1}{2} + \\sum_{n=2}^{\\infty} \\frac{1}{2^{n-2}\\cdot\\left((n-1)^2+1\\right)} - \\frac{1}{2^n\\cdot\\left((n+1)^2+1\\right)}\n\\end{eqnarray*}The last series telescopes to $\\frac{1}{2} + \\frac{1}{10}$; thus, our our desired answer is $\\frac{1}{2} + \\frac{1}{2} + \\frac{1}{10} = \\boxed{\\frac{11}{10}}$.",
+    "socratic_questions": "1. Can you explain the first step in solving this infinite series?\n2. What is the significance of factoring the denominator and how does it help simplify the expression?\n3. Why do we split the expression into three separate terms?\n4. How does the substitution of values for \\(n\\) in the series affect the value of each term?\n5. Can you explain why the last series telescopes and how that simplifies the expression?\n6. Are there any other types of series that can be solved using similar techniques and considerations?"
+}

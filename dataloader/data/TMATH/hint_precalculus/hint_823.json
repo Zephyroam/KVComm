@@ -1,0 +1,7 @@
+{
+    "problem": "Let $\\mathbf{a}$ and $\\mathbf{b}$ be two vectors such that\n\\[\\|\\mathbf{a} + \\mathbf{b}\\| = \\|\\mathbf{b}\\|.\\]Find the angle between the vectors $\\mathbf{a} + 2 \\mathbf{b}$ and $\\mathbf{a},$ in degrees",
+    "level": "Level 3",
+    "type": "Precalculus",
+    "solution": "From the equation $\\|\\mathbf{a} + \\mathbf{b}\\| = \\|\\mathbf{b}\\|,$ $\\|\\mathbf{a} + \\mathbf{b}\\|^2 = \\|\\mathbf{b}\\|^2,$ so\n\\[(\\mathbf{a} + \\mathbf{b}) \\cdot (\\mathbf{a} + \\mathbf{b}) = \\mathbf{b} \\cdot \\mathbf{b}.\\]Expanding, we get $\\mathbf{a} \\cdot \\mathbf{a} + 2 \\mathbf{a} \\cdot \\mathbf{b} + \\mathbf{b} \\cdot \\mathbf{b} = \\mathbf{b} \\cdot \\mathbf{b},$ so\n\\[\\mathbf{a} \\cdot \\mathbf{a} + 2 \\mathbf{a} \\cdot \\mathbf{b} = 0.\\]We can write this as $\\mathbf{a} \\cdot (\\mathbf{a} + 2 \\mathbf{b}) = 0.$  Thus, the vectors $\\mathbf{a}$ and $\\mathbf{a} + 2 \\mathbf{b}$ are orthogonal, and the angle between them is $\\boxed{90^\\circ}.$",
+    "socratic_questions": "1. What is the given equation involving the vectors $\\mathbf{a}$ and $\\mathbf{b}$? \n2. What is the equation we obtain after squaring both sides of the given equation? \n3. How do we get the expression $\\mathbf{a} \\cdot \\mathbf{a} + 2 \\mathbf{a} \\cdot \\mathbf{b} = 0$ from the equation we obtained in step 2? \n4. What is the relationship between the vectors $\\mathbf{a}$ and $\\mathbf{a} + 2 \\mathbf{b}$ based on this expression, and how does this relate to the angle between them? \n5. What is the angle between these vectors in degrees?"
+}

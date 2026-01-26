@@ -1,0 +1,7 @@
+{
+    "problem": "When three numbers are added two at a time the sums are 29, 46, and 53. What is the sum of all three numbers?",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "If we let our three numbers be $x$, $y$, and $z$, we have that $x+y=29$, $y+z=46$, and $z+x=53$. Adding these three equations together, we get that $(x+y)+(y+z)+(z+x)=29+46+53$, so $2x+2y+2z=128$. If we then divide both sides of this equation by $2$, we are left with the equation $x+y+z=64$. Therefore, the sum of the three numbers must equal $\\boxed{64}$.",
+    "socratic_questions": "1. How would you begin solving this problem?\n2. What do you notice about the three given sums (29, 46, 53)?\n3. Can you determine the relationship between these sums and the three numbers?\n4. What strategy could you use to find the individual numbers when only the sums are given?\n5. If you were to use a guess and check method, what would be your initial guess for one of the numbers?\n6. How would you adjust your guess if the sum of two numbers is 29 and one of the numbers is not 1?\n7. What other strategies could you use to find the individual numbers? Are there any mathematical properties or formulas that could help?\n8. Once you have found the individual numbers, how would you calculate their sum?\n9. Can you identify any patterns or connections between the given sums and the final sum of all three numbers?\n10. Are there any similar types of problems where you can apply a similar approach to find the sum of multiple numbers?"
+}

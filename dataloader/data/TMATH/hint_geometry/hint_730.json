@@ -1,0 +1,7 @@
+{
+    "problem": "What is the area, in square units, of a triangle with vertices at $(0,0)$, $(0,5)$, and $(7,12)$? Express your answer as a decimal to the nearest tenth.",
+    "level": "Level 3",
+    "type": "Geometry",
+    "solution": "The base of the triangle lies on the $y$-axis, and is 5 units long. The height of the triangle is the horizontal distance from the point $(7,12)$ to the $y$-axis, and is 7 units long. Thus, the area of the triangle is $\\frac{5\\cdot7}{2}=\\boxed{17.5}$ square units.",
+    "socratic_questions": "1. Can you describe the given scenario and the problem statement? \n2. How can we determine the base length and the height of the triangle in this scenario? \n3. How is the formula for the area of a triangle related to the given base and height? \n4. Can you explain the calculation process to find the area of the triangle using the given information? \n5. How do we express the answer in square units? \n6. Is there any specific reason or formula we use to calculate the area of a triangle with a base on the y-axis and a given height? \n7. Can you explain why we cancel the units when calculating the area? \n8. Is there any other method we can use to calculate the area of this triangle? \n9. Are there any other similar problems or scenarios in which we can apply the same concepts and formulas?"
+}

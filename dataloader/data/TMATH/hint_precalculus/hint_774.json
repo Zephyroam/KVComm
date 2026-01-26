@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\arctan ( \\tan 65^\\circ - 2 \\tan 40^\\circ )$. (Express your answer in degrees as an angle between $0^\\circ$ and $180^\\circ$.)",
+    "level": "Level 3",
+    "type": "Precalculus",
+    "solution": "From the identity $\\tan (90^\\circ - x) = \\frac{1}{\\tan x},$ we have that\n\\[\\tan 65^\\circ - 2 \\tan 40^\\circ = \\frac{1}{\\tan 25^\\circ} - \\frac{2}{\\tan 50^\\circ}.\\]By the double-angle formula,\n\\[\\frac{1}{\\tan 25^\\circ} - \\frac{2}{\\tan 50^\\circ} = \\frac{1}{\\tan 25^\\circ} - \\frac{1 - \\tan^2 25^\\circ}{\\tan 25^\\circ} = \\tan 25^\\circ,\\]so $\\arctan (\\tan 65^\\circ - 2 \\tan 40^\\circ) = \\boxed{25^\\circ}.$",
+    "socratic_questions": "1. What is the initial step you would take to compute the expression $\\arctan (\\tan 65^\\circ - 2 \\tan 40^\\circ)$?\n2. Can you explain the identity $\\tan (90^\\circ - x) = \\frac{1}{\\tan x}$ and how it relates to the given expression?\n3. By applying the identity, explain how we can rewrite $\\tan 65^\\circ - 2 \\tan 40^\\circ$ as $\\frac{1}{\\tan 25^\\circ} - \\frac{2}{\\tan 50^\\circ}$.\n4. How can you simplify the expression $\\frac{1}{\\tan 25^\\circ} - \\frac{2}{\\tan 50^\\circ}$ further using trigonometric identities? \n5. What is the final simplified expression for $\\arctan (\\tan 65^\\circ - 2 \\tan 40^\\circ)$?\n6. How does the value of $\\arctan (\\tan 65^\\circ - 2 \\tan 40^\\circ)$ relate to the original problem statement regarding angles between $0^\\circ$ and $180^\\circ$?"
+}

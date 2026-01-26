@@ -1,0 +1,7 @@
+{
+    "problem": "Our school's girls volleyball team has 14 players, including a set of 3 triplets: Alicia, Amanda, and Anna.  In how many ways can we choose 6 starters if all three triplets are in the starting lineup?",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "If all triplets are in the starting lineup, we are choosing the 3 remaining starters from 11 players, which can be done in  $\\binom{11}{3} = \\boxed{165}$ ways.",
+    "socratic_questions": "1. Why do we want to choose 6 starters from the girls volleyball team?\n2. How many players are in the girls volleyball team?\n3. How many triplets are there in the girls volleyball team?\n4. Are all three triplets included in the starting lineup?\n5. How many players do we need to choose to complete the starting lineup, considering the triplets are already included?\n6. How many choices do we have for the remaining starters?\n7. How can we calculate the number of combinations to choose the remaining starters?\n8. What is the formula for calculating combinations?\n9. Can you apply the formula to find the number of ways to choose the remaining starters? \n10. What is the result of the calculation?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "How many multiples of 10 are between 9 and 101?",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "The first multiple of $10$ greater than $9$ is $10$, and the last multiple of $10$ less than $101$ is $100$. The list of multiples of $10$ proceeds: $10$, $20$, $\\ldots$, $100$. Divide each number by $10$, and the list becomes $1$, $2$, $\\ldots$, $10$. It is easy to see that the number of numbers in this list is $\\boxed{10}$.",
+    "socratic_questions": "1. How do you determine the first and last multiples of 10 in the given range?\n2. What is the pattern in the list of multiples of 10 between the first and last numbers?\n3. How can you use this pattern to determine the number of multiples of 10 in the range?\n4. Can you come up with a formula to calculate the number of multiples of any integer between two given numbers?\n5. Are there any other methods you can use to solve this problem? How do they compare to the method used here?\n6. Can you generalize this problem to find the number of multiples of any integer between two given numbers?"
+}

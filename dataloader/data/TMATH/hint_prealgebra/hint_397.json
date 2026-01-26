@@ -1,0 +1,7 @@
+{
+    "problem": "If $a + b = c$ and $b+ c = 5$ and $c = 3$, what is the value of $a$?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Since $b+c=5$ and $c=3$, we have $b=2$.\n\nSo $a+b=c$ becomes\n\n$$a+2=3\\Rightarrow a=\\boxed{1}$$",
+    "socratic_questions": "1. What is the given information in the problem? \n2. How can we use the given information to find the value of a? \n3. Can we solve for a directly based on the given information? \n4. What is the value of b based on the given information? \n5. How can we use the value of b to solve for a? \n6. Is there more than one possible solution for the value of a? \n7. How can we check our solution to make sure it is correct? \n8. Can you think of a similar problem that uses the same concepts as this one?"
+}

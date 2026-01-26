@@ -1,0 +1,7 @@
+{
+    "problem": "The side of a triangle are 2, 2, and $\\sqrt{6} - \\sqrt{2}.$  Enter the angles of the triangle in degrees, separated by commas.",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "By the Law of Cosines, the cosine of one of the angles is\n\\[\\frac{2^2 + 2^2 - (\\sqrt{6} - \\sqrt{2})^2}{2 \\cdot 2 \\cdot 2} = \\frac{4 \\sqrt{3}}{8} = \\frac{\\sqrt{3}}{2},\\]so this angle is $\\boxed{30^\\circ}.$  The other two angles must be equal, so they are $\\boxed{75^\\circ, 75^\\circ}.$",
+    "socratic_questions": "1. What is the Law of Cosines and how does it relate to calculating the angles of a triangle?\n2. How can we use the Law of Cosines to solve for the angles of a triangle with given side lengths?\n3. How do we apply the Law of Cosines to the given triangle with sides 2, 2, and $\\sqrt{6} - \\sqrt{2}$?\n4. What is the formula we use to find the cosine of one of the angles in the given triangle using the Law of Cosines?\n5. How do we simplify the expression to find the cosine of one of the angles in the given triangle?\n6. What is the value of the cosine of the angle we found using the Law of Cosines? How do we use this value to find the measure of the angle in degrees?\n7. How do we know that the other two angles in the triangle are equal?\n8. What is the measure of the other two angles in the triangle?\n9. How do we check that the measures of the angles we found add up to 180 degrees, as expected for a triangle?"
+}

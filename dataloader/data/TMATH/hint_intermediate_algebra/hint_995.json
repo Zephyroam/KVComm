@@ -1,0 +1,7 @@
+{
+    "problem": "The function $f(x)$ satisfies\n\\[f(xy) = \\frac{f(x)}{y}\\]for all positive real numbers $x$ and $y.$  If $f(30) = 20,$ find $f(40).$",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "Setting $x = 30$ and $y = \\frac{4}{3},$ we get\n\\[f(40) = \\frac{f(30)}{4/3} = \\frac{20}{4/3} = \\boxed{15}.\\]",
+    "socratic_questions": "1. What does the given functional equation $f(xy) = \\frac{f(x)}{y}$ tell us about the relationship between the inputs and outputs of the function $f(x)$?\n2. Can you think of any other ways to rewrite the functional equation $f(xy) = \\frac{f(x)}{y}$ that might help us simplify or manipulate it?\n3. How can we use the value $f(30) = 20$ to find the value of $f(40)$? \n4. If we substitute $x=30$ and $y= \\frac{4}{3}$ into the functional equation, what do we get? \n5. How can we simplify $\\frac{f(30)}{4/3}$ to find the value of $f(40)$?\n6. Can you think of any other similar functional equations or problems that involve a similar approach or logic that could help us solve for $f(40)$?"
+}

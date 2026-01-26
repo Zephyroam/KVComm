@@ -1,0 +1,7 @@
+{
+    "problem": "A Senate committee has 5 Democrats and 5 Republicans. Assuming all politicians are distinguishable, in how many ways can they sit around a circular table without restrictions?  (Two seatings are considered the same if one is a rotation of the other.)",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "There are 10 people to place, so we can place them in $10!$ ways, but this counts each valid arrangement 10 times (once for each rotation of the same arrangement).  So the number of ways to seat them is $\\dfrac{10!}{10} = 9! = \\boxed{362,\\!880}$.",
+    "socratic_questions": "1. What is the total number of politicians in the Senate committee and what is the composition of Democrats and Republicans?\n2. What is the difference between a circular table and a regular rectangular table when it comes to seating arrangements?\n3. If there were no restrictions, how many ways could the politicians be seated around the circular table?\n4. How many times is each valid arrangement counted when determining the total number of possible seatings?\n5. How can we adjust the total number of possible seatings to account for rotations of the same arrangement?\n6. What is the final answer to the problem and how does it compare to the total number of ways to seat the politicians without considering the circular table restriction?\n7. Can we apply the same approach to solve problems involving seating arrangements with different numbers of people or constraints on who can sit next to whom?"
+}

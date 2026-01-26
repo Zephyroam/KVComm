@@ -1,0 +1,7 @@
+{
+    "problem": "Eleven is the fifth prime number. What is the tenth prime number?",
+    "level": "Level 1",
+    "type": "Number Theory",
+    "solution": "The five primes after 11 are 13, 17, 19, 23, and 29. The tenth prime number is $\\boxed{29}$.",
+    "socratic_questions": "1. Can you define what a prime number is?\n2. How do you determine if a number is prime or composite?\n3. Using the definition of prime numbers, can you prove that 11 is indeed a prime number?\n4. Is it possible to have a formula that generates prime numbers? If so, can you explain how it works?\n5. How many prime numbers are there between 1 and 100? Can you list them?\n6. With the knowledge that 11 is the fifth prime number, can you find a formula to determine the nth prime number?\n7. How many prime numbers are there between 10 and 50? Can you list them?\n8. What is the difference between twin primes and cousin primes? Can you provide examples?\n9. If we know the first 10 prime numbers, can we deduce the next one? If so, can you explain how?\n10. What would happen if 1 was considered a prime number? Would it change any of our current mathematical theorems and concepts related to prime numbers?"
+}

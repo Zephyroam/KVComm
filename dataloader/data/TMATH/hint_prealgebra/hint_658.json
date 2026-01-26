@@ -1,0 +1,7 @@
+{
+    "problem": "There are 6 married couples at a party. At the start of the party, every person shakes hands once with every other person except his or her spouse. How many handshakes are there?",
+    "level": "Level 5",
+    "type": "Prealgebra",
+    "solution": "All 12 people shake hands with 10 other people (everyone except themselves and their spouse).  In multiplying $12 \\times 10$, each handshake is counted twice, so we divide by two to get the answer of $\\dfrac{12 \\times 10}{2} = \\boxed{60}$ handshakes.",
+    "socratic_questions": "1. What is the total number of people at the party?\n2. How many handshakes does each person make at the party?\n3. Why do we multiply 12 by 10 in the calculation?\n4. Why do we divide the result by 2?\n5. Can you explain why each handshake is counted twice initially?\n6. Is there a general formula that can be used to find the number of handshakes in a group of n people?"
+}

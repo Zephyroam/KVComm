@@ -1,0 +1,7 @@
+{
+    "problem": "What is the value of $(9! \\cdot 5! \\cdot 2!) / (8! \\cdot 6!)$?",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "We do some simplification, taking advantage of the fact that $n! = n\\cdot (n-1)!$: \\begin{align*}\n\\frac{9!\\cdot 5!\\cdot 2!}{8!\\cdot 6!} &= \\frac{9\\cdot 8! \\cdot 5! \\cdot 2}{8!\\cdot 6\\cdot 5!}\\\\\n&= \\frac{9\\cdot 2}{6}\\\\\n&= \\boxed{3}.\n\\end{align*}",
+    "socratic_questions": "1. What is the given expression that we need to simplify?\n2. What is the definition of factorial notation in mathematics?\n3. How can we simplify the expression by using the factorial notation?\n4. What are the common factors that can be canceled out in the numerator and denominator?\n5. Why can we cancel out those factors in the given expression?\n6. What is the simplified expression after canceling out the common factors?\n7. What is the final value of the simplified expression?"
+}

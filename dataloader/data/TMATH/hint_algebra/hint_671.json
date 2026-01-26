@@ -1,0 +1,7 @@
+{
+    "problem": "What is the next term in the geometric sequence $$2, 6x, 18x^2, 54x^3, \\ldots ?$$ Express your answer in terms of $x$.",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "The common ratio is $\\frac{6x}{2} = 3x$; that is, each term is obtained by multiplying $3x$ to the previous term. The next term is thus $54x^3 \\cdot 3x = \\boxed{162x^4}$.",
+    "socratic_questions": "1. How would you define a geometric sequence?\n2. Can you identify any patterns or relationships between the terms in the given sequence?\n3. What is the common ratio in this geometric sequence? How did you determine it?\n4. To find the next term in the sequence, what operation(s) would you use? Why?\n5. Can you express the general term of this geometric sequence in terms of $x$?\n6. If the common ratio was different, would the same approach work to find the next term? Why or why not?\n7. Can you think of any real-world examples or applications where geometric sequences are used?\n8. Can you find the sum of the first $n$ terms of this geometric sequence? How would you go about doing that?\n9. What other mathematical concepts or topics are related to geometric sequences? How might they be connected?"
+}

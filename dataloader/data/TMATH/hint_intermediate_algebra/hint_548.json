@@ -1,0 +1,7 @@
+{
+    "problem": "Find the quadratic polynomial $p(x)$ such that $p(-7) = 0,$ $p(4) = 0,$ and $p(5) = -36.$",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "Since $p(-7) = p(4) = 0,$ the quadratic polynomial $p(x)$ is of the form\n\\[p(x) = c(x + 7)(x - 4),\\]for some constant $c.$  To find $c,$ we set $x = 5,$ and use the fact that $p(5) = -36$:\n\\[-36 = c(12)(1),\\]so $c = -3.$  Hence, $p(x) = -3(x + 7)(x - 4) = \\boxed{-3x^2 - 9x + 84}.$",
+    "socratic_questions": "1. What are the conditions given in the problem?\n2. What form will the quadratic polynomial $p(x)$ take if $p(-7) = 0$ and $p(4) = 0$?\n3. How can we use the condition $p(5) = -36$ to find the constant that appears in the quadratic expression for $p(x)$?\n4. Given that the quadratic polynomial is of the form $p(x) = c(x+7)(x-4),$ can we determine the value of $c$ using any other condition given in the problem?\n5. What is the final expression for the quadratic polynomial $p(x)$? How can we verify that it satisfies all the conditions given in the problem?\n6. Can you think of another problem that involves finding a quadratic polynomial given certain conditions, and how would you use a similar approach to solve it?"
+}

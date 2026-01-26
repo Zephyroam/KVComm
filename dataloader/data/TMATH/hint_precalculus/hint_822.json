@@ -1,0 +1,7 @@
+{
+    "problem": "Find the inverse of the matrix\n\\[\\begin{pmatrix} 6 & -4 \\\\ -3 & 2 \\end{pmatrix}.\\]If the inverse does not exist, then enter the zero matrix.",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "Since the determinant is $(6)(2) - (-4)(-3) = 0,$ the inverse does not exist, so the answer is the zero matrix $\\boxed{\\begin{pmatrix} 0 & 0 \\\\ 0 & 0 \\end{pmatrix}}.$",
+    "socratic_questions": "1. How do you determine if the inverse of a matrix exists?\n2. What is the formula for finding the inverse of a 2x2 matrix?\n3. How do you calculate the determinant of a 2x2 matrix?\n4. What does it mean if the determinant of a matrix is zero?\n5. Based on the determinant calculation, does the matrix in question have an inverse or not?\n6. If the inverse does not exist, what should be the value of the inverse matrix?\n7. Could you explain why the inverse matrix in this case is the zero matrix?\n8. Are there any other properties or characteristics of a matrix that prevent it from having an inverse?\n9. Can you think of any applications or contexts where finding the inverse of a matrix is important?\n10. What other methods or techniques can be used to find the inverse of a matrix, if it exists?"
+}

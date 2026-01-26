@@ -1,0 +1,7 @@
+{
+    "problem": "In the six-digit integer $3A6,\\!792$, what is the largest digit $A$ so that the six-digit integer will be divisible by 3?",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "The sum of the digits of the integer is $A+27$, so the integer is divisible by $3$ if $A$ is 0, 3, 6, or 9, since these are the only possible values of the digit $A$ that make $A + 27$ divisible by 3. The largest of these is $\\boxed{9}$.",
+    "socratic_questions": "1. Can you explain how the divisibility rule for 3 can be applied to this six-digit integer?\n2. What does it mean for a number to be divisible by 3? Why is it important to consider the sum of its digits in this case?\n3. How can we find the sum of the digits of the integer $3A6,792$? Can you break down the process step by step?\n4. What are the possible values of $A$ that make the sum of the digits $A+27$ divisible by 3? How did you determine these values?\n5. Can you explain why we only consider 0, 3, 6, or 9 as possible values for $A$? What property do these values have that makes the sum $A+27$ divisible by 3?\n6. What is the largest digit $A$ that satisfies the divisibility rule? Can you justify your answer?"
+}

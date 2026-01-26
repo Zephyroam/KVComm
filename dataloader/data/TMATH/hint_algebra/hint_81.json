@@ -1,0 +1,7 @@
+{
+    "problem": "What number must we add to $3-5i$ to get $2+7i$? Here, $i^2 = -1.$",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "We seek the number $z$ such that $3-5i + z = 2+7i$, so $z = 2+7i-3+5i = \\boxed{-1+12i}$.",
+    "socratic_questions": "1. How can we represent the number $3-5i$ and the number $2+7i$ in the form of $a+bi$?\n2. What does it mean to add two complex numbers? Can you provide an example?\n3. How can we set up an equation to find the number we need to add?\n4. What happens when we add the real parts of the numbers $3-5i$ and the unknown number? And what happens when we add the imaginary parts?\n5. Can we create an equation for the real parts and another equation for the imaginary parts of the numbers being added? How would we combine them?\n6. How can we isolate the variable in the equations to find the unknown number?\n7. If we find the unknown number, how can we verify that it is correct?"
+}

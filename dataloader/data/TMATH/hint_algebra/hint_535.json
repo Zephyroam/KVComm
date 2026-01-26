@@ -1,0 +1,7 @@
+{
+    "problem": "Evaluate $\\log_2 (4^2)$.",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "$\\log_24=\\boxed{2}$, so $\\log_2(4^2) = \\log_2((2^2)^2) = \\log_2 (2^4) = \\boxed{4}$",
+    "socratic_questions": "1. What is the definition of the logarithm function and how does it relate to exponential functions?\n2. How can we rewrite the expression $\\log_2 (4^2)$ using the properties of logarithms?\n3. What property of exponents allows us to simplify the expression further?\n4. Can we apply the power rule of logarithms to simplify this expression even more?\n5. What is the value of $4^2$ and how does it relate to the logarithmic expression?\n6. How can we evaluate $\\log_2$ of a power of 4 using the definition of logarithms?\n7. What does the resulting value of $\\log_2 (4^2)$ represent in terms of powers of 2?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "What is $\\left(\\dfrac{9819156364}{-24635745744574}\\right)^0$?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Any nonzero number raised to the zeroth power is $\\boxed{1}.$",
+    "socratic_questions": "1. What is the meaning of the phrase \"raised to the zeroth power\"? \n2. What is the numerator in the given expression? What about the denominator?\n3. What is the result of dividing the numerator by the denominator? \n4. How does the property of any nonzero number raised to the zeroth power being 1 apply in this situation? \n5. Can you think of any other examples where the rule of any nonzero number raised to the zeroth power being 1 could be utilized?"
+}

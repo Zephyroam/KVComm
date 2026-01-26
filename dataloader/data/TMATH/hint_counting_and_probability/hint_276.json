@@ -1,0 +1,7 @@
+{
+    "problem": "In how many ways is it possible to arrange the digits of 1150 to get a four-digit multiple of 5?",
+    "level": "Level 5",
+    "type": "Counting & Probability",
+    "solution": "A multiple of 5 has to end in 0 or 5. If it ends in 0, the three remaining digits can go anywhere. There are 3! ways to arrange 3 digits, but we must divide by 2! to correct for overcounting since the 1's are identical. If the number ends in 5, the digit 0 can go in either of 2 places. Then the two remaining digits can go anywhere. There are 2! ways to arrange 2 digits, but we must divide this by 2! to correct for overcounting since the 1's are identical. So, there are $3!/2!+2\\cdot 2!/2!=3+2=\\boxed{5}$ possible ways to arrange the digits of 1150 to get a four-digit multiple of 5.",
+    "socratic_questions": "1. Can you describe the first step in solving this problem? \n2. What are the different ways you can arrange the digits of 1150 to form a four-digit number? \n3. If the number ends in 0, how many ways are there to arrange the remaining three digits? \n4. Why do we need to divide the number of arrangements by 2!? \n5. If the number ends in 5, where can the digit 0 be placed? \n6. How many ways are there to arrange the remaining two digits in this case? \n7. Why do we need to divide the number of arrangements in this case by 2!? \n8. How can we calculate the total number of possible arrangements that form a four-digit multiple of 5? \n9. Can you think of other types of problems where similar thinking and steps might be required?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "What is the base ten equivalent of $54321_6$?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "$54321_6=5\\cdot6^4+4\\cdot6^3+3\\cdot6^2+2\\cdot6^1+1\\cdot6^0=6480+864+108+12+1=\\boxed{7465}$.",
+    "socratic_questions": "1. Can you explain how to convert a number from base 6 to base 10?\n2. What does each digit in the number $54321_6$ represent in base 6?\n3. How do you calculate the value of each digit when converting from base 6 to base 10?\n4. What is the value of the digit in the units place in $54321_6$ when converted to base 10?\n5. How does the position of a digit affect its value in base 6?\n6. Can you think of any other number system conversions that involve similar steps and thinking?"
+}

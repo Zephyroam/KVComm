@@ -1,0 +1,7 @@
+{
+    "problem": "If $x+y=4$ and $x^2+y^2=8$, find $x^3+y^3$.",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "We have that $8=x^2+y^2=x^2+2xy+y^2-2xy=(x+y)^2-2xy=16-2xy$, therefore $xy=\\frac{16-8}{2}=4$. Since $x^3+y^3=(x+y)(x^2-xy+y^2)=(x+y)(x^2+y^2-xy)$, we can directly substitute in the numerical values for each algebraic expression. This gives us $x^3+y^3=(4)(8-4)=\\boxed{16}$.",
+    "socratic_questions": "1. Can you describe the first step you would take to solve this problem?\n2. What different methods do you know that can be used to solve a system of equations like this?\n3. If you choose to solve it by substitution, how would you go about finding the values of x and y?\n4. Why is substitution a viable method for solving this system of equations? What characteristics make it suitable?\n5. Once you have found the values of x and y, how would you use them to find the value of x^3+y^3?\n6. Can you think of any other types of equations where solving them may require a similar approach and steps?"
+}

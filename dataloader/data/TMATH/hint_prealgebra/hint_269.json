@@ -1,0 +1,7 @@
+{
+    "problem": "The local theater has one ticket window. In how many ways can six people line up to buy a ticket?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "We must count the number of permutations of 6 people.  There are 6 choices for the first person in line, 5 choices for the second person in line, etc.  So the answer is $6\\cdot5\\cdot 4\\cdot 3\\cdot2\\cdot 1=\\boxed{720}$.",
+    "socratic_questions": "1. Can you explain what a permutation is?\n2. How many people are there in this problem? How many positions are there for them to be in?\n3. Can you explain the counting principle used to solve this problem?\n4. Are there any restrictions on the order in which the people can line up?\n5. What happens if there are more or fewer people in line? Does the number of permutations change?\n6. How can we check that our answer of 720 is correct?\n7. Can you think of any real-life situations where permutations might be important to consider?"
+}

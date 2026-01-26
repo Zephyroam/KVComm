@@ -1,0 +1,7 @@
+{
+    "problem": "Find the units digit of $n$ given that $mn = 21^6$ and $m$ has a units digit of 7.",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "The units digit of $mn$ is $1^6 = 1$.  Searching for a units digit for $n$ (which is clearly odd), we find that $7 \\cdot 3 = 1$, so $\\boxed{3}$ is the units digit of $n$.",
+    "socratic_questions": "1. How can we determine the units digit of a number when it is multiplied by another number?\n2. What is the relationship between the units digit of the product and the units digits of the individual factors?\n3. Given that $m$ has a units digit of 7, what digits can the units digit of $mn$ possibly be?\n4. What property allows us to determine the units digit of $mn$ without explicitly multiplying the two numbers?\n5. How can we use the given information about $mn$ being equal to $21^6$ to determine the units digit of $n$?\n6. Are there any other properties or rules that can help us determine the units digit of $n$ in a similar problem?"
+}

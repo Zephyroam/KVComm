@@ -1,0 +1,7 @@
+{
+    "problem": "George has an unfair six-sided die. The probability that it rolls a 6 is $\\frac{1}{2}$, and the probability that it rolls any other number is $\\frac{1}{10}$. What is the expected value of the number shown when this die is rolled? Express your answer as a decimal.",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "The expected value is $$\\frac{1}{10}(1) + \\frac{1}{10}(2) + \\frac{1}{10}(3) + \\frac{1}{10}(4) + \\frac{1}{10}(5) + \\frac{1}{2}(6) = \\frac{15}{10} + 3 = \\boxed{4.5}. $$",
+    "socratic_questions": "1. What is the definition of expected value? \n2. How is expected value calculated in this scenario? \n3. Why is the die considered \"unfair\"? \n4. What is the probability of rolling a number other than 6? \n5. How did we determine the probability of rolling a 6? \n6. Can we use expected value to predict the outcome of a single roll with certainty? Why or why not? \n7. What other scenarios might require the use of expected value?"
+}

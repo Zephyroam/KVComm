@@ -1,0 +1,7 @@
+{
+    "problem": "Find the integer $n,$ $-90 < n < 90,$ such that $\\tan n^\\circ = \\tan 1000^\\circ.$",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "Since the tangent function has period $180^\\circ,$\n\\[\\tan 1000^\\circ = \\tan (1000^\\circ - 6 \\cdot 180^\\circ) = \\tan (-80^\\circ),\\]so $n = \\boxed{-80}.$",
+    "socratic_questions": "1. What is the definition of the tangent function and how does it relate to a right triangle?\n2. What is the period of the tangent function and how can we use it to simplify the problem?\n3. How does the tangent function behave as the angle approaches multiples of $\\frac{\\pi}{2}$?\n4. How can we use the information about the period and behavior of the tangent function to determine the value of $n$?\n5. Are there any other solutions that we need to consider? If so, how can we find them?\n6. Can we generalize this problem to find solutions for $\\tan x = \\tan a$, where $a$ is any real number? If so, what is the general solution?"
+}

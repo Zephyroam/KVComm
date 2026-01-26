@@ -1,0 +1,7 @@
+{
+    "problem": "Find the area of the triangle with vertices $(6,5,3),$ $(3,3,1),$ and $(15,11,9).$",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "Let $\\mathbf{u} = \\begin{pmatrix} 6 \\\\ 5 \\\\ 3 \\end{pmatrix},$ $\\mathbf{v} = \\begin{pmatrix} 3 \\\\ 3 \\\\ 1 \\end{pmatrix},$ and $\\mathbf{w} = \\begin{pmatrix} 15 \\\\ 11 \\\\ 9 \\end{pmatrix}.$\n\nThen\n\\[\\mathbf{v} - \\mathbf{u} = \\begin{pmatrix} 3 \\\\ 2 \\\\ 2 \\end{pmatrix}\\]and\n\\[\\mathbf{w} - \\mathbf{u} = \\begin{pmatrix} 9 \\\\ 6 \\\\ 6 \\end{pmatrix} = 3 (\\mathbf{v} - \\mathbf{u}).\\]Since $\\mathbf{w} - \\mathbf{u}$ is a scalar multiple of $\\mathbf{v} - \\mathbf{u},$ all three vectors are collinear, so the area of the \"triangle\" is $\\boxed{0}.$",
+    "socratic_questions": "1. What are the coordinates of the given vertices of the triangle?\n2. What is the difference vector between the second and first vertices? \n3. What is the difference vector between the third and first vertices? \n4. Are these two difference vectors scalar multiples of each other? \n5. What does it mean for vectors to be collinear? \n6. Does the fact that the difference vectors are collinear have any implications for the shape of the triangle? \n7. How can we determine the area of a collinear triangle using vectors? \n8. What is the area of the triangle with the given vertices?"
+}

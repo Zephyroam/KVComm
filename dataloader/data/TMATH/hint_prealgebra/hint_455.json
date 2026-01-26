@@ -1,0 +1,7 @@
+{
+    "problem": "A $\\textit{palindrome}$ is a positive integer which reads the same forward and backward, like $12321$ or $4884$.\n\nHow many $4$-digit palindromes are there?",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "Once we've picked the first two digits of a $4$-digit palindrome, the other two digits are automatically chosen. Thus, we can make exactly one $4$-digit palindrome for every $2$-digit number. There are $90$ two-digit numbers ($10$ through $99$). Accordingly, there are also $\\boxed{90}$ four-digit palindromes.",
+    "socratic_questions": "1. Can you explain what a palindrome is?\n2. What does it mean for a number to be a 4-digit palindrome?\n3. How many choices do we have for the first two digits of a 4-digit palindrome? Why?\n4. Once we've picked the first two digits, how many choices do we have for the last two digits? Why?\n5. How many choices do we have in total for a 4-digit palindrome?\n6. Can you think of any constraints or restrictions on the choices for the first two digits? Why?\n7. Can you find a pattern or formula to calculate the number of 4-digit palindromes based on the given information?\n8. Are there any other similar problems or concepts that you can think of that might use similar thinking and steps?"
+}

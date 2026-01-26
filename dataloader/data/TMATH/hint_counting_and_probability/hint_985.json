@@ -1,0 +1,7 @@
+{
+    "problem": "The reality game show Survivor is played with 16 people divided into two tribes of 8. In the first episode, two people get homesick and quit. If every person has an equal chance of being one of the two quitters, and the probability that one person quits is independent of the probability that any other person quits, what is the probability that both people who quit are from the same tribe?",
+    "level": "Level 4",
+    "type": "Counting & Probability",
+    "solution": "There are $\\binom{16}{2} = 120$ ways to pick 2 of the 16 people to quit. There are $\\binom{8}{2} = 28$ ways for them to both be from the first tribe, and $\\binom{8}{2} = 28$ ways for them to both be from the other tribe, for a total of $28 + 28 = 56$ ways for them both to be from the same tribe. So the odds that both people who quit are from the same tribe is $56/120 = \\boxed{\\frac{7}{15}}$.",
+    "socratic_questions": "1. What is the total number of ways to pick 2 people out of the 16 contestants to quit?\n2. How many ways can both quitters be from the first tribe?\n3. How many ways can both quitters be from the second tribe?\n4. What is the total number of ways for both quitters to be from the same tribe?\n5. How can we calculate the probability when the number of favorable outcomes is known?\n6. What is the probability that both people who quit are from the same tribe?\n7. Can you simplify the fraction to its lowest terms?"
+}

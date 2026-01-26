@@ -1,0 +1,7 @@
+{
+    "problem": "What is the ratio of the volume of a cube with edge length six inches to the volume of a cube with edge length one foot? Express your answer as a common fraction.",
+    "level": "Level 2",
+    "type": "Geometry",
+    "solution": "Each side of the smaller cube is half that of the larger cube, so the ratio of the volumes is $\\left( \\frac{1}{2} \\right) ^3 = \\boxed{\\frac{1}{8}}.$",
+    "socratic_questions": "1. How would you describe the first step in solving this problem?\n2. What is the relationship between the edge lengths of the two cubes?\n3. How does the volume of a cube relate to the length of its edges?\n4. If the length of one side of the larger cube is six inches, what would be the length of one side of the smaller cube?\n5. How can you find the ratio of the volumes of two cubes?\n6. What is the volume of the smaller cube?\n7. What is the volume of the larger cube?\n8. How can you express the ratio of the volumes as a common fraction?"
+}

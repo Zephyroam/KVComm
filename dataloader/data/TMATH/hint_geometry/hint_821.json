@@ -1,0 +1,7 @@
+{
+    "problem": "A prism has 15 edges. How many faces does the prism have?",
+    "level": "Level 2",
+    "type": "Geometry",
+    "solution": "If a prism has 2 bases and $L$ lateral faces, then each base is an $L$-gon, so the two bases collectively have $2L$ edges.  Also, there are $L$ edges connecting corresponding vertices of the two bases, for a total of $3L$ edges.  Solving $3L=15$, we find that the prism has 5 lateral faces and hence $5+2=\\boxed{7}$ faces in total.",
+    "socratic_questions": "1. Can you describe the concept of a prism?\n2. What is the definition of an edge in geometry?\n3. How many bases does a prism have? Why?\n4. If each base of a prism is an L-gon, how many edges does the prism have in total?\n5. How are the bases and lateral faces of a prism connected? How many edges are formed from this connection?\n6. How can we determine the total number of edges in a prism, given that there are 15 edges?\n7. How can we find the number of lateral faces in a prism? How does it relate to the total number of faces?\n8. Using the information we have gathered, what is the total number of faces in the given prism?\n9. Can you think of any other geometric shapes or concepts that involve similar thinking and steps as we used to solve this problem?\n10. How would you use the Socratic questioning method to guide a student in understanding the concept of faces in a prism?"
+}

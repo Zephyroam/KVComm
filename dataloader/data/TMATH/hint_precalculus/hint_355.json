@@ -1,0 +1,7 @@
+{
+    "problem": "For some constants $a$ and $c,$\n\\[\\begin{pmatrix} a \\\\ -1 \\\\ c \\end{pmatrix} \\times \\begin{pmatrix} 7 \\\\ 3 \\\\ 5 \\end{pmatrix} = \\begin{pmatrix} -11 \\\\ -16 \\\\ 25 \\end{pmatrix}.\\]Enter the ordered pair $(a,c).$",
+    "level": "Level 4",
+    "type": "Precalculus",
+    "solution": "We have that\n\\[\\begin{pmatrix} a \\\\ -1 \\\\ c \\end{pmatrix} \\times \\begin{pmatrix} 7 \\\\ 3 \\\\ 5 \\end{pmatrix} = \\begin{pmatrix} -3c - 5 \\\\ -5a + 7c \\\\ 3a + 7 \\end{pmatrix}.\\]Comparing entries, we get $-3c - 5 = -11,$ $-5a + 7c = -16,$ and $3a + 7 = 25.$  Solving, we find $(a,c) = \\boxed{(6,2)}.$",
+    "socratic_questions": "1. What is the purpose of taking the cross product of the given vectors?\n2. What are the components of the resulting vector?\n3. How can we compare the components of the resulting vector to the given equation?\n4. What equations can we form by comparing the components of the resulting vector to the components of the given equation?\n5. How can we solve the system of equations formed in question 4?\n6. What values can we determine for $a$ and $c$ from solving the system of equations?"
+}

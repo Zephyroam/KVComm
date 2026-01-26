@@ -1,0 +1,7 @@
+{
+    "problem": "Define $E(a,b,c) = a \\times b^c$. What positive value of $r$ is the solution to the equation $E(r,r,3) = 625$?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "$E(r,r,3)=r(r^3)=r^4$.  So $r^4=625=5^4$, and $r=\\boxed{5}$.",
+    "socratic_questions": "1. Can you explain how the function $E(a,b,c)$ works? What does each variable represent?\n2. How can we use the function to solve the equation $E(r,r,3) = 625$? What steps would you take?\n3. Are there any other ways to approach this equation? Can you think of alternative methods?\n4. Why do you think raising $r$ to the power of 3 is important in solving this equation?\n5. What values of $a$, $b$, and $c$ would make the equation $E(a,b,c) = 625$ true?\n6. How would you interpret the solution to this equation in the context of the function $E(a,b,c)$?"
+}

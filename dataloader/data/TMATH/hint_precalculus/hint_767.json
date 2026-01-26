@@ -1,0 +1,7 @@
+{
+    "problem": "Let $A = (-4,0,6),$ $B = (-5,-1,2),$ and $C = (-6,-1,3).$  Compute $\\angle ABC,$ in degrees.",
+    "level": "Level 3",
+    "type": "Precalculus",
+    "solution": "From the distance formula, we compute that $AB = 3 \\sqrt{2},$ $AC = \\sqrt{14},$ and $BC = \\sqrt{2}.$  Then from the Law of Cosines,\n\\[\\cos \\angle ABC = \\frac{(3 \\sqrt{2})^2 + (\\sqrt{2})^2 - (\\sqrt{14})^2}{2 \\cdot 3 \\sqrt{2} \\cdot \\sqrt{2}} = \\frac{1}{2}.\\]Therefore, $\\angle ABC = \\boxed{60^\\circ}.$",
+    "socratic_questions": "1. What is the distance formula used to compute the lengths AB, AC, and BC?\n2. How do we find the angle ABC using the Law of Cosines?\n3. Can you explain why we square the lengths and subtract them in the numerator of the Law of Cosines formula?\n4. What does it mean if the cosine of the angle ABC is equal to 1/2?\n5. Can you think of other situations where we can use the Law of Cosines to find angles?\n6. How would the angle ABC change if the coordinates of points A, B, and C were different?\n7. What other concepts or formulas related to angles or distances could we explore within the context of this problem?"
+}

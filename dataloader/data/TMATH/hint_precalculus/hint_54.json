@@ -1,0 +1,7 @@
+{
+    "problem": "Let $A = (3, \\theta_1)$ and $B = (9, \\theta_2)$ in polar coordinates.  If $\\theta_1 - \\theta_2 = \\frac{\\pi}{2},$ then find the distance $AB.$",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "Let $O$ be the origin.  Then $\\angle AOB = \\frac{\\pi}{2},$ so by Pythagoras,\n\\[AB = \\sqrt{3^2 + 9^2} = \\boxed{3 \\sqrt{10}}.\\][asy]\nunitsize(0.5 cm);\n\npair A, B, O;\n\nA = 3*dir(100);\nB = 9*dir(10);\nO = (0,0);\n\ndraw(A--O--B--cycle);\n\ndraw((-2,0)--(10,0));\ndraw((0,-1)--(0,4));\n\nlabel(\"$A$\", A, NW);\nlabel(\"$B$\", B, E);\nlabel(\"$O$\", O, SW);\n[/asy]",
+    "socratic_questions": "1. How can we represent the points A and B in polar coordinates? What information is given about these points?\n2. What does it mean for the difference between $\\theta_1$ and $\\theta_2$ to be $\\frac{\\pi}{2}$? How does this relate to the angle between the points A and B?\n3. Can we visualize the triangle formed by the points A, B, and the origin O? What information do we know about this triangle?\n4. How can we use the Pythagorean theorem to find the length of side AB? What are the lengths of the other two sides of the triangle?\n5. Why does the Pythagorean theorem apply to this triangle? What conditions must be met for the Pythagorean theorem to be used?\n6. What is the final solution for the distance AB? How does this correspond to the given information about the angles and the Cartesian coordinates?"
+}

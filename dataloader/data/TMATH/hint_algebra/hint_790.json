@@ -1,0 +1,7 @@
+{
+    "problem": "If $y = -x^2 + 5$ and $x$ is a real number, then what is the maximum value possible for $y$?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "Since the square of any real number is nonnegative, the greatest possible value of $-x^2$ is 0, which is achieved when $x=0$.  Therefore, the greatest possible value of $y = -x^2 + 5$ is $\\boxed{5}$, which is achieved when $x=0$.",
+    "socratic_questions": "1. Can you explain what the equation $y = -x^2 + 5$ represents? \n2. How would you determine the maximum value of $y$ in this equation? \n3. Are there any specific techniques or methods you would use to find the maximum value of $y$? \n4. Can you identify any patterns or characteristics in the equation that might help in finding the maximum value? \n5. What happens to the graph of $y = -x^2 + 5$ as $x$ increases or decreases indefinitely? \n6. Are there any limitations or constraints on the possible values of $x$ in this equation? \n7. Can you think of any similar mathematical concepts or equations where finding the maximum value plays a key role?"
+}

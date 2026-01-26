@@ -1,0 +1,7 @@
+{
+    "problem": "The four partners in a business decide to split the profits of their company in the ratio 2:3:3:5. If the profit one year is $\\$26,\\!000$ what is the largest number of dollars received by any of the four partners?",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "You can think of the money being split into $2+3+3+5$ parts, and each partner getting his corresponding number of parts as his share.  That makes for a total of 13 parts, meaning that each part consists of $\\$2,\\!000,$ and the largest share received is $5\\cdot 2,\\!000 = \\boxed{10,\\!000}$.",
+    "socratic_questions": "1. What is the ratio in which the profits of the company are being split among the partners?\n2. How can we think of dividing the money into equal parts for each partner based on the given ratio?\n3. How many parts does the total money get divided into?\n4. What is the value of each part?\n5. How can we find the largest share received by any of the partners based on the given ratio?\n6. What is the largest amount of money received by any of the four partners in this scenario?"
+}

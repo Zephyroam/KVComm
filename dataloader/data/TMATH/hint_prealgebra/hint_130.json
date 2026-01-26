@@ -1,0 +1,7 @@
+{
+    "problem": "If $x$ is doubled, increased by $3$, and then divided by $5$, the result is $11$. What is the value of $x$?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "We set up the equation and solve for $x$: \\begin{align*}\n\\frac{2x+3}{5}&=11\\qquad\\Rightarrow\\\\\n2x+3&=55\\qquad\\Rightarrow\\\\\n2x&=52\\qquad\\Rightarrow\\\\\nx&=\\boxed{26}.\n\\end{align*}",
+    "socratic_questions": "1. What is the given problem asking you to find? \n2. How would you represent the given situation using an equation? \n3. What is the first step in solving the equation? \n4. How do you isolate the variable, $x$, in the equation? \n5. What is the value of $x$ that you obtained? \n6. How can you check if your solution is correct? \n7. Are there any other ways you can approach this problem? If so, what are they? \n8. Can you think of any real-life examples where this type of problem-solving could be useful?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Express $213_{8}-142_{7}$ as a base 10 integer.",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "We have that \\begin{align*} 213_{8} &= 2(8^2)+ 1(8^1) +3(8^0) \\\\\n&= 2(64)+1(8)+3(1)\\\\\n&= 128 + 8 + 3\\\\\n&= 139\\\\\n142_{7} &= 1(7^2)+ 4(7^1) +2(7^0) \\\\\n&= 1(49)+4(7)+2(1)\\\\\n&= 49 + 28 + 2\\\\\n&= 79\n\\end{align*}So, $213_{8}-142_{7}=139-79=\\boxed{60}$.",
+    "socratic_questions": "1. How would you describe the first step in converting $213_8$ to base 10? Can you explain the process in your own words?\n2. What are the different methods you know of for converting numbers from one base to another? Are there any specific methods you would consider using for these numbers?\n3. If you choose to convert using the method of expanding each digit, what values should you multiply each digit by to get the base 10 equivalent? How can you determine these values?\n4. Can you explain why we can convert numbers to base 10 by considering the place values and multiplying each digit by the corresponding power of the base? What makes this method effective?\n5. What is the base 10 equivalent of $213_8$ and $142_7$ using the method you have chosen? How can you verify this by summing the corresponding place value products?\n6. Can you think of other numbers in different bases that might require a similar thought process and steps to convert them to base 10?"
+}

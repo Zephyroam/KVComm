@@ -1,0 +1,7 @@
+{
+    "problem": "The sum of Jim's weight and Bob's weight is 180 pounds. If you subtract Jim's weight from Bob's weight, you get half of Bob's weight. How many pounds does Bob weigh?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "Call Jim's weight $j$ and Bob's weight $b$. We can use the following system of equations to represent the information given: \\begin{align*}\nj + b &= 180 \\\\\nb - j &= \\frac{b}{2} \\\\\n\\end{align*} Adding the two equations together gives $2b = 180 + \\frac{b}{2}$. Solving for $b$ gives $3b = 360$, or $b = 120$. Thus, Bob weighs $\\boxed{120}$ pounds.",
+    "socratic_questions": "1. Can you restate the problem in your own words? \n2. What is the relationship between Bob's weight and Jim's weight according to the problem? \n3. Can you form an equation based on the given information? If yes, how would you write it? \n4. How would you solve the equation to find Bob's weight? \n5. Are there any assumptions or constraints we need to consider while solving the equation? \n6. Can you think of any alternative methods or approaches to solve this problem? \n7. How would you verify if your solution for Bob's weight is correct? \n8. Can you generalize this problem to a larger context or apply the same reasoning to similar situations?"
+}

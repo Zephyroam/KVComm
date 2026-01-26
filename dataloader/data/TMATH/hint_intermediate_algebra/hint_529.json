@@ -1,0 +1,7 @@
+{
+    "problem": "Let $x$ and $y$ be positive real numbers.  Find the minimum value of\n\\[\\frac{\\sqrt{(x^2 + y^2)(3x^2 + y^2)}}{xy}.\\]",
+    "level": "Level 5",
+    "type": "Intermediate Algebra",
+    "solution": "By Cauchy-Schwarz,\n\\[(y^2 + x^2)(3x^2 + y^2) \\ge (xy \\sqrt{3} + xy)^2,\\]so\n\\[\\frac{\\sqrt{(x^2 + y^2)(3x^2 + y^2)}}{xy} \\ge 1 + \\sqrt{3}.\\]Equality occurs when $\\frac{y^2}{3x^2} = \\frac{x^2}{y^2},$ or $y = x \\sqrt[4]{3},$ so the minimum value is $\\boxed{1 + \\sqrt{3}}.$",
+    "socratic_questions": "1. Can you explain the Cauchy-Schwarz inequality and how it applies in this problem? \n2. How do we determine when equality occurs in the inequality used to find the minimum value? \n3. Is there another way to approach this problem without using Cauchy-Schwarz? \n4. How does the minimum value change if we restrict $x$ and $y$ to be integers? \n5. Can you generalize this problem to find the minimum value of the expression for $n$ positive real numbers?"
+}

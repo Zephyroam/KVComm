@@ -1,0 +1,7 @@
+{
+    "problem": "Find the positive real number $x$ for which\n\\[5 \\sqrt{1 + x} + 5 \\sqrt{1 - x} = 7 \\sqrt{2}.\\]",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "From the given equation,\n\\[\\sqrt{1 + x} + \\sqrt{1 - x} = \\frac{7 \\sqrt{2}}{5}.\\]Squaring both sides, we get\n\\[1 + x + 2 \\sqrt{1 - x^2} + 1 - x = \\frac{98}{25},\\]which simplifies to\n\\[2 \\sqrt{1 - x^2} = \\frac{48}{25}.\\]Dividing both sides by 2, we get\n\\[\\sqrt{1 - x^2} = \\frac{24}{25}.\\]Squaring both sides again, we get\n\\[1 - x^2 = \\frac{576}{625},\\]so\n\\[x^2 = \\frac{49}{625}.\\]The positive value of $x$ is then $\\boxed{\\frac{7}{25}}.$",
+    "socratic_questions": "1. How would you describe the first step in solving this equation?\n2. Can you think of any other methods that can be used to solve this type of equation?\n3. If you choose to square both sides, what do you need to be careful about and why?\n4. What does squaring both sides actually accomplish in this equation? Are there any potential issues?\n5. How did you arrive at the equation $\\sqrt{1 - x^2} = \\frac{24}{25}$? What does it represent?\n6. What are the solutions to the equation $1 - x^2 = \\frac{576}{625}$, and why did we choose the positive value for $x$ in this problem?"
+}

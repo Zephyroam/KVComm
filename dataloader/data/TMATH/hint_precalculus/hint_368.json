@@ -1,0 +1,7 @@
+{
+    "problem": "Let $\\mathbf{P}$ be the matrix for projecting onto the vector $\\begin{pmatrix} -3 \\\\ -2 \\end{pmatrix}.$  Find $\\mathbf{P}^{-1}.$\n\nIf the inverse does not exist, then enter the zero matrix.",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "A projection matrix is always of the form\n\\[\\begin{pmatrix} \\cos^2 \\theta & \\cos \\theta \\sin \\theta \\\\ \\cos \\theta \\sin \\theta & \\sin^2 \\theta \\end{pmatrix},\\]where the vector being projected onto has direction vector $\\begin{pmatrix} \\cos \\theta \\\\ \\sin \\theta \\end{pmatrix}.$  The determinant of this matrix is then\n\\[\\cos^2 \\theta \\sin^2 \\theta - (\\cos \\theta \\sin \\theta)^2 = 0,\\]so the inverse does not exist, and the answer is the zero matrix $\\boxed{\\begin{pmatrix} 0 & 0 \\\\ 0 & 0 \\end{pmatrix}}.$",
+    "socratic_questions": "1. What is a projection matrix, and how is it used in linear algebra?\n2. Why is a projection matrix always of the form given in the problem statement?\n3. How can we determine whether the inverse of a projection matrix exists?\n4. What is the formula for finding the inverse of a matrix, and how can we apply it to this problem?\n5. Since the inverse does not exist for this projection matrix, what does that tell us about the vector it projects onto?\n6. Can you think of any other matrices or operations in linear algebra where the inverse may not exist?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "What is the greatest multiple of 3 that is less than 500 and is also a multiple of 4?",
+    "level": "Level 1",
+    "type": "Number Theory",
+    "solution": "Since 3 and 4 are relatively prime, the problem amounts to finding the greatest multiple of $3\\cdot4=12$ less than 500. Since $500\\div12=41R8$, our answer is $12\\cdot41=\\boxed{492}$.",
+    "socratic_questions": "1. Can you explain what it means for a number to be a multiple of another number?\n2. What does it mean for two numbers to be relatively prime?\n3. How can we determine whether a number is a multiple of a given number?\n4. Can you find the multiples of 3 that are less than 500?\n5. What is the largest multiple of 3 that is less than 500?\n6. Are all multiples of 3 also multiples of 4?\n7. How can we determine whether a number is a multiple of 4?\n8. Can you find any multiples of 3 that are also multiples of 4?\n9. What is the relationship between multiples of 3 and multiples of 12?\n10. Can you find the greatest multiple of 12 that is less than 500?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Round $54.\\overline{54}$ to the nearest hundredth.",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "To round $54.\\overline{54}$ to the nearest hundredth, we must look at the hundreds and the thousands digits of the number in question. We write it as \\[54.\\overline{54} = 54.5454\\overline{54}.\\]Since the thousands digit ($5$) is greater than or equal to $5$, the hundreds digit $4$ rounds up to $5$. Therefore, $54.\\overline{54}$ rounded to the nearest hundredth is equal to $\\boxed{54.55}$.",
+    "socratic_questions": "1. Can you explain what is meant by \"rounding to the nearest hundredth\"? \n2. How can we represent 54.5454... in a more simplified way that still retains the same value? \n3. How do we determine whether to round up or down the hundreds digit of a repeating decimal like 54.5454... ? \n4. What is the final rounded value of 54.5454... to the nearest hundredth and how did you arrive at it? \n5. Can you provide an example of a situation in which rounding to the nearest hundredth would be important or useful?"
+}

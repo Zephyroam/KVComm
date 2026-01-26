@@ -1,0 +1,7 @@
+{
+    "problem": "What is the least common multiple of 3, 4, 6 and 15?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "To find the LCM of $3$, $4=2^2$, $6=2\\cdot3$, and $15=3\\cdot5$, take the highest power of each prime that appears and multiply: $2^2\\cdot3\\cdot5=\\boxed{60}$.",
+    "socratic_questions": "1. What is the definition of the least common multiple (LCM)?\n2. How can we find the prime factorization of the given numbers?\n3. Can you identify the highest power of each prime that appears in the prime factorization of each number?\n4. What is the significance of taking the highest power of each prime when finding the LCM?\n5. How do we multiply the highest powers of the prime factors to find the LCM?\n6. Can you verify that the LCM of 3, 4, 6, and 15 is indeed 60?\n7. Are there any other methods or strategies that can be used to find the LCM? If so, what are they? How do they compare to the method we used?\n8. Can you think of other numbers or sets of numbers where finding the LCM would be relevant or useful?\n9. How does finding the LCM help us solve problems or make calculations in real-world situations?\n10. Can you explain the concept of the least common multiple to someone else using your understanding of this problem?"
+}

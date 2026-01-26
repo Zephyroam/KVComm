@@ -1,0 +1,7 @@
+{
+    "problem": "Find \\[\\left|\\left(1 + \\sqrt{3}i\\right)^4\\right|\\]",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "First of all, we know that $|ab|=|a|\\cdot |b|$, so \\[\\left|\\left(1 + \\sqrt{3}i\\right)^4\\right|=\\left|1 + \\sqrt{3} i\\right|^4\\]We also find that \\[\\left|1 +\\sqrt{3}i\\right|=\\sqrt{\\left(1\\right)^2+\\left(\\sqrt{3}\\right)^2}=\\sqrt{4}=2\\]Therefore, our answer is $2^4=\\boxed{16}$.",
+    "socratic_questions": "1. What is the definition of absolute value in mathematics?\n2. How can we express complex numbers in the form a + bi? Can we rewrite (1 + √3i) in this form?\n3. According to the properties of absolute value, what can we say about the absolute value of a complex number raised to a power?\n4. Can we simplify the expression |(1 + √3i)^4| using the properties of absolute value?\n5. What is the absolute value of 1 + √3i? How did we determine this value?\n6. What is the absolute value of (1 + √3i)^4 then? How did we arrive at this result?\n7. Can you think of any other examples where applying the properties of absolute value might be useful in simplifying complex numbers?"
+}

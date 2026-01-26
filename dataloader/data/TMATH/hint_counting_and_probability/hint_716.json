@@ -1,0 +1,7 @@
+{
+    "problem": "From a group of six students, how many different four-student committees can be chosen?",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "There are $\\binom{n}{k}=\\frac{n!}{k!(n-k)!}$ ways to choose $k$ objects from a group of $n$ distinct objects, so $\\binom{6}{4}=\\frac{6!}{4!2!}=\\frac{6\\cdot5}{2}=\\boxed{15}$ four-member committees may be formed from a group of six students.",
+    "socratic_questions": "1. Can you define what a \"committee\" is in the context of this problem?\n2. How many total students are there to choose from?\n3. What does the symbol $\\binom{n}{k}$ represent in the equation given?\n4. Can you explain why we use this formula to solve for the number of possible committees?\n5. Are there any restrictions or criteria for forming a committee, such as gender balance or selecting specific individuals?\n6. How does the number of possible committees change if we only choose three students instead of four?\n7. How does the concept of permutations relate to the calculation of possible committees?\n8. If a committee needs a president, how many different committees with a president can be chosen from the group of six students?"
+}

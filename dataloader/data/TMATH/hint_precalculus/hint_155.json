@@ -1,0 +1,7 @@
+{
+    "problem": "If $\\tan \\theta = 4,$ then find $\\tan 3 \\theta.$",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "From the triple angle formula,\n\\[\\tan 3 \\theta = \\frac{3 \\tan \\theta - \\tan^3 \\theta}{1 - 3 \\tan^2 \\theta} = \\frac{3 \\cdot 4 - 4^3}{1 - 3 \\cdot 4^2} = \\boxed{\\frac{52}{47}}.\\]",
+    "socratic_questions": "1. Can you explain what the given equation, $\\tan \\theta = 4$, represents?\n2. What does it mean to find $\\tan 3 \\theta$ and why is it important in this problem?\n3. Can you recall any trigonometric identities or formulas that relate angles like $\\theta$ and $3 \\theta$?\n4. How can we use the triple angle formula for tangent to express $\\tan 3 \\theta$ in terms of $\\tan \\theta$?\n5. What steps do we need to take to apply the triple angle formula in this case?\n6. How can we simplify the expression and calculate the value of $\\tan 3 \\theta$ using the information given?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\cos 0^\\circ$.",
+    "level": "Level 1",
+    "type": "Geometry",
+    "solution": "Rotating the point $(1,0)$ about the origin by $0^\\circ$ counterclockwise gives us the point $(1,0)$, so $\\cos 0^\\circ = \\boxed{1}$.",
+    "socratic_questions": "1. What is the initial position of the point $(1,0)$ before any rotation?\n2. How does rotating a point counterclockwise affect its coordinates?\n3. Can you explain why the point $(1,0)$ remains unchanged after a $0^\\circ$ counterclockwise rotation?\n4. How does the cosine function relate to the x-coordinate of a point on the unit circle?\n5. What is the x-coordinate of the point $(1,0)$ on the unit circle and how does it relate to the cosine of $0^\\circ$?\n6. Can you think of any other angles for which the cosine value would be 1? How does your reasoning apply in those cases?"
+}

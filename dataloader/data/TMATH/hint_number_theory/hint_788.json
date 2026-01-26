@@ -1,0 +1,7 @@
+{
+    "problem": "Find $73^{-1} \\pmod{74}$, as a residue modulo 74.  (Give an answer between 0 and 73, inclusive.)",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "Since $73^2 \\equiv (-1)^2 \\equiv 1 \\pmod{74}$, $73^{-1} \\equiv \\boxed{73} \\pmod{74}$.",
+    "socratic_questions": "1. Can you explain what the expression $73^{-1} \\pmod{74}$ means in the context of number theory?\n2. Are there any properties or theorems in number theory that might help us find the inverse of 73 modulo 74?\n3. How can we use the fact that $73^2 \\equiv 1 \\pmod{74}$ to find the inverse of 73?\n4. Can you explain the reasoning behind the statement that $73^{-1} \\equiv 73 \\pmod{74}$?\n5. Are there any other numbers in number theory that have an inverse modulo a certain modulus? What are some properties of these inverses? \n6. How can we verify that our answer of $73$ is indeed the correct inverse of $73$ modulo $74$? Are there any other methods we can use to check our answer?"
+}

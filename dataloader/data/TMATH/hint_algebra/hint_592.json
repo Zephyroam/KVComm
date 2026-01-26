@@ -1,0 +1,7 @@
+{
+    "problem": "A grocer makes a display of cans in which the top row has one can and each lower row has two more cans than the row above it. If the display contains 100 cans, how many rows does it contain?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "The number of cans in each row form an arithmetic sequence, with first term 1 and common difference 2.  If there are $n$ terms, then the terms are 1, 3, $\\dots$, $2n - 1$.\n\nThe total number of cans is therefore the sum of the arithmetic series \\[1 + 3 + 5 + \\dots + (2n - 1).\\]The sum of an arithmetic series is equal to the average of the first and last term, multiplied by the number of terms, so the sum is $[1 + (2n - 1)]/2 \\cdot n = n^2$.\n\nThen from $n^2 = 100$, we get $n = \\boxed{10}$.",
+    "socratic_questions": "1. How would you begin solving this problem by first identifying the relationship between the number of cans in each row?\n2. Can you express the relationship between the number of cans in each row using algebraic notation or an equation?\n3. What would the equation look like if we let \"x\" represent the number of rows and \"y\" represent the number of cans in the top row?\n4. How can we use the given information that the display contains 100 cans to solve the equation for \"x\"?\n5. What steps would you take to isolate the variable and solve for \"x\" in the equation?\n6. Can you think of other mathematical problems or scenarios where a similar approach or thinking process would be helpful in finding a solution?"
+}

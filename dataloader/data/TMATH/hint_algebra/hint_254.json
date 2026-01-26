@@ -1,0 +1,7 @@
+{
+    "problem": "Find the domain of the real-valued function $$f(x)=\\sqrt{-10x^2-11x+6}.$$ Give the endpoints in your answer as common fractions, not mixed numbers or decimals.",
+    "level": "Level 5",
+    "type": "Algebra",
+    "solution": "We need $-10x^2-11x+6\\geq 0$.  The quadratic factors as $$(2x+3)(-5x+2) \\ge 0.$$ Thus the zeroes of the quadratic are at $-\\frac{3}{2}$ and $\\frac{2}{5}$.  Since the quadratic opens downward, it is nonnegative between the zeroes.  So the domain is $x \\in \\boxed{\\left[-\\frac{3}{2}, \\frac{2}{5}\\right]}$.",
+    "socratic_questions": "1. Can you explain what the domain of a function represents?\n2. What are the restrictions on the domain of a square root function like this one?\n3. How can we determine the domain of this specific function?\n4. What is the condition that needs to be satisfied for the expression inside the square root to be non-negative?\n5. How can we solve the inequality $$-10x^2-11x+6 \\geq 0$$ to find the values of x that make the expression inside the square root non-negative?\n6. What methods can we use to solve this quadratic inequality?\n7. If we solve the inequality, what values of x do we obtain?\n8. How can we express those values as common fractions instead of mixed numbers or decimals?\n9. Can you think of any other functions with similar considerations about their domain?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "What is $w + 2 - 3w - 4 + 5w + 6 - 7w - 8$?",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "Combining like terms, $w + 2 - 3w - 4 + 5w + 6 - 7w - 8 = (w - 3w + 5w - 7w) + (2 - 4 + 6 - 8) = \\boxed{-4w - 4}$.",
+    "socratic_questions": "1. Can you explain what \"combining like terms\" means?\n2. What are the variables and constants in the expression $w + 2 - 3w - 4 + 5w + 6 - 7w - 8$?\n3. How can we simplify the expression by combining like terms?\n4. What is the first step in simplifying the expression?\n5. Can you group the terms with the same variable together? If so, what do you get?\n6. What do we get when we add up the coefficients of the $w$ terms?\n7. What do we get when we add up the constants?\n8. Can you write the simplified expression?\n9. Are there any other ways to simplify the expression besides combining like terms?\n10. How can we use this concept of combining like terms to simplify other expressions in prealgebra?"
+}

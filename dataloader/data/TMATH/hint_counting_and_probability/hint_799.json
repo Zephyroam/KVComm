@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\dbinom{16}{15}$.",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "$\\dbinom{16}{15}=\\dbinom{16}{1}=\\boxed{16}.$",
+    "socratic_questions": "1. What does the notation $\\dbinom{16}{15}$ represent?\n2. How can we expand the expression $\\dbinom{16}{15}$ using factorials?\n3. What is the formula for calculating combinations using factorials?\n4. How does the formula for combinations relate to Pascal's Triangle?\n5. What is the number of ways to choose 15 items from a set of 16 items?\n6. In what types of problems can we apply the concept of combinations?\n7. Can you think of examples where the order of selection matters and how that would change the calculation?"
+}

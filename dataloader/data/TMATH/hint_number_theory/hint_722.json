@@ -1,0 +1,7 @@
+{
+    "problem": "One more than $11$ times a certain prime $p$ is another prime $q$. What is the value of $q$?",
+    "level": "Level 1",
+    "type": "Number Theory",
+    "solution": "We try plugging in values for $p$ and see if $11p+1$ is a prime number. The smallest prime number is $2$, so we try $11(2)+1=23$, which is prime. The value of $q$ is $\\boxed{23}$.",
+    "socratic_questions": "1. What is the given information in this problem?\n2. How can we represent the unknown prime number?\n3. What expression represents \"one more than $11$ times a certain prime $p$\"?\n4. How can we ensure that the expression obtained in the previous question is also a prime number?\n5. Can we assume any value for $p$ and check if the expression is prime? If so, what is the smallest prime number we can start with?\n6. By plugging in the value of $p$ as $2$ into the expression, what do we get? Is it a prime number?\n7. If the expression with $p=2$ is not a prime number, what other values of $p$ should we try?\n8. If the expression with $p=2$ is a prime number, does it satisfy the given conditions for $q$? If not, what should we do?\n9. What is the value of $q$ if the expression with $p=2$ is a prime number?\n10. Can we generalize the approach used to find the value of $q$ for other similar problems involving prime numbers?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Simplify $(2-3z) - (3+4z)$.",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "We distribute the negative sign so the expression becomes \\[\n(2-3z) - (3+4z) = 2-3z-3-4z=2-3-3z-4z = \\boxed{-1-7z}.\n\\]",
+    "socratic_questions": "1. What is the first step in simplifying the expression $(2-3z) - (3+4z)$?\n2. Can you explain why we distribute the negative sign in this expression?\n3. How did you combine the like terms in the expression after distributing?\n4. What is the simplified form of $(2-3z) - (3+4z)$?\n5. Can you think of any other expressions where we might use a similar process to simplify them?\n6. If there were additional terms in the expression, would the simplification process remain the same?"
+}

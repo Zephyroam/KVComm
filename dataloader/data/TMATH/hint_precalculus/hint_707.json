@@ -1,0 +1,7 @@
+{
+    "problem": "Find all values of $x$ so that $\\arccos x > \\arcsin x.$",
+    "level": "Level 4",
+    "type": "Precalculus",
+    "solution": "We know that $\\arccos x$ is a decreasing function, and $\\arcsin x$ is an increasing function.  Furthermore, they are equal at $x = \\frac{1}{\\sqrt{2}},$ when $\\arccos \\frac{1}{\\sqrt{2}} = \\arcsin \\frac{1}{\\sqrt{2}} = \\frac{\\pi}{4}.$\n\nTherefore, the solution to $\\arccos x > \\arcsin x$ is $x \\in \\boxed{\\left[ -1, \\frac{1}{\\sqrt{2}} \\right)}.$",
+    "socratic_questions": "1. How would you describe the relationship between $\\arccos x$ and $\\arcsin x$?\n2. At what value of $x$ do $\\arccos x$ and $\\arcsin x$ intersect?\n3. Since $\\arccos x$ is a decreasing function and $\\arcsin x$ is an increasing function, what can we conclude about their values for $x < \\frac{1}{\\sqrt{2}}$?\n4. On which interval(s) is $\\arccos x > \\arcsin x$?\n5. How did you determine the solution interval for $x$ in $\\arccos x > \\arcsin x$?\n6. Can you think of any other trigonometric inequalities where similar reasoning and steps can be applied?"
+}

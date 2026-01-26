@@ -1,0 +1,7 @@
+{
+    "problem": "Add $1_3 + 12_3 + 212_3 + 2121_3.$ Express your answer in base 3.",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "We may sum in base 3 just as in base 10. For example, in the rightmost column, the digits sum to 6. Since we are working in base 3, we record the remainder 0 as the rightmost digit in the sum and carry the quotient 2 to the next column. Continuing in this way, we find $$\\begin{array}{c@{}c@{}c@{}c@{}c@{}c}\n& & 2 & 1 & 2 & 1_3 \\\\\n& & & 2 & 1 & 2_3 \\\\\n& & & & 1 & 2_3 \\\\\n& + & & & & 1_3 \\\\\n\\cline{2-6}\n& 1 & 0 & 2 & 0 & 0_3, \\\\\n\\end{array}$$so the sum is $\\boxed{10200_3}$.",
+    "socratic_questions": "1. What is the first step in adding numbers in base 3?\n2. Are there any alternative methods to adding numbers in base 3 that you're aware of?\n3. If you choose to add using the method described, how do you determine the remainder and quotient for each column?\n4. Why can we add numbers in base 3 just like in base 10? What are the similarities and differences between the two processes?\n5. Can you explain the process of carrying over in base 3? How does it affect the sum?\n6. Can you think of other number systems where similar addition methods are used? How would the process differ?"
+}

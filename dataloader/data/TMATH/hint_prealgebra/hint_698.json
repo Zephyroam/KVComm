@@ -1,0 +1,7 @@
+{
+    "problem": "What is the arithmetic mean of $\\frac{2}{5}$ and $\\frac{4}{7}$ ? Express your answer as a common fraction.",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "To average two real numbers, we sum them and divide by 2: \\[\n\\frac{1}{2}\\left(\\frac{2}{5}+\\frac{4}{7}\\right)=\\frac{1}{2}\\cdot\\frac{14+20}{35}=\\boxed{\\frac{17}{35}}.\n\\]",
+    "socratic_questions": "1. What is the definition of arithmetic mean?\n2. How do we find the arithmetic mean of two numbers?\n3. Can you identify the two numbers given in the problem?\n4. What is the sum of the two numbers?\n5. How do we divide the sum by 2 to find the arithmetic mean?\n6. Can you simplify the fraction $\\frac{14+20}{35}$?\n7. Why do we simplify the fraction before giving our final answer?\n8. Can you think of a real-life situation where you would need to find the arithmetic mean of two numbers?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "The lengths of the three sides of a triangle are $7$, $x+4$ and $2x+1$.  The perimeter of the triangle is 36.  What is the length of the longest side of the triangle?",
+    "level": "Level 1",
+    "type": "Geometry",
+    "solution": "Since the perimeter of the triangle is 36, then $7+(x+4)+(2x+1)=36$ or $3x+12=36$ or $3x=24$ or $x=8$.\n\nThus, the lengths of the three sides of the triangle are $7$, $8+4=12$ and $2(8)+1=17$, of which the longest is $\\boxed{17}.$",
+    "socratic_questions": "1. Can you describe the concept of a triangle and its basic properties?\n2. How do we find the perimeter of a triangle and what is its significance?\n3. Can you write an equation that represents the relationship between the lengths of the sides of the given triangle?\n4. How do we solve the equation and find the value of x?\n5. Can you explain why the longest side of the triangle is the one with the largest value of 2x+1?\n6. Can you think of other types of geometric shapes where we need to find the perimeter based on given information about their sides? How would you approach solving those problems?"
+}

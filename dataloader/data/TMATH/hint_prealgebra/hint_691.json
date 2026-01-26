@@ -1,0 +1,7 @@
+{
+    "problem": "The median of a set of consecutive odd integers is 138. If the greatest integer in the set is 145, what is the smallest integer in the set?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "The median of a set of consecutive integers is the middle value of that set. Since the median is an even number, but there are only odd integers in this set, there must be an even number of integers in the set. The set must be $$\\{131, 133, 135, 137, 139, 141, 143, 145\\},$$ and $\\boxed{131}$ is the smallest integer in the set.",
+    "socratic_questions": "1. Can you explain what it means for a set of integers to be consecutive?\n2. How can we determine the median of a set of consecutive odd integers?\n3. Why is the median an even number in this particular set?\n4. How can we determine the greatest integer in the set based on the given information?\n5. Can you explain how the set of consecutive odd integers is formed based on the greatest integer?\n6. How did you determine the smallest integer in the set from the given information?\n7. Could there be any other possible sets of consecutive odd integers that could have the same median and greatest integer?\n8. Can you think of another scenario where finding the smallest integer in a set of consecutive odd integers would be useful?"
+}

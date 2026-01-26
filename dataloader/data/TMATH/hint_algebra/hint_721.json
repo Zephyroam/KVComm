@@ -1,0 +1,7 @@
+{
+    "problem": "Evaluate $\\lfloor0.999\\rfloor+\\lceil2.001\\rceil$.",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "The greatest integer that is less than or equal to $0.999$ is $0$, so $\\lfloor0.999\\rfloor=0$. The smallest integer that is greater than or equal to $2.001$ is $3$, so $\\lceil2.001\\rceil=3$. Therefore, $\\lfloor0.999\\rfloor+\\lceil2.001\\rceil=0+3=\\boxed{3}$.",
+    "socratic_questions": "1. What is the purpose of floor and ceiling functions in mathematics?\n2. Can you explain what the floor and ceiling functions do to a real number?\n3. How would you simplify the expression $\\lfloor0.999\\rfloor$? And what about $\\lceil2.001\\rceil$?\n4. Can you provide any real numbers that are close to 0.999 and 2.001, but slightly less than and greater than them respectively? How does this relate to the floor and ceiling functions?\n5. What is the significance of the brackets used in $\\lfloor0.999\\rfloor$ and $\\lceil2.001\\rceil$? How do they affect the value of the expression?\n6. Using the values you obtained from simplifying the individual expressions, how would you evaluate the final expression $\\lfloor0.999\\rfloor+\\lceil2.001\\rceil$?\n7. Can you think of any other examples where the floor and ceiling functions could be applied to solve a problem or simplify an expression?"
+}

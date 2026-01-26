@@ -1,0 +1,7 @@
+{
+    "problem": "Erika, who is 14 years old, flips a fair coin whose sides are labeled 10 and 20, and then she adds the number on the top of the flipped coin to the number she rolls on a standard die. What is the probability that the sum equals her age in years? Express your answer as a common fraction.",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "The only way for the sum to be a 14 is for her coin flip to be a 10 and for her roll to be a 4. This can only occur in $\\frac{1}{2} \\cdot \\frac{1}{6} = \\boxed{\\frac{1}{12}}$.",
+    "socratic_questions": "1. How old is Erika?\n2. What are the possible outcomes of the coin flip? Describe the probabilities associated with each outcome.\n3. What are the possible outcomes of rolling a standard die? Describe the probabilities associated with each outcome.\n4. How can we calculate the sum of the number on the coin and the roll of the die?\n5. What sum is required for Erika's age to be represented?\n6. How can we determine the likelihood of the sum equaling Erika's age?\n7. Is there a specific combination of coin flip and die roll that would result in a sum equal to Erika's age? If so, what is it?\n8. What is the probability of obtaining that specific combination of coin and die roll?\n9. Can we simplify the probability by multiplying the probabilities of the individual events together?\n10. What is the final probability of the sum equaling Erika's age in years?"
+}

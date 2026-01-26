@@ -1,0 +1,7 @@
+{
+    "problem": "Convert the point $\\left( 8, \\frac{\\pi}{4}, \\sqrt{3} \\right)$ in cylindrical coordinates to rectangular coordinates.",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "Given cylindrical coordinates $(r,\\theta,z),$ the rectangular coordinates are given by\n\\[(r \\cos \\theta, r \\sin \\theta, z).\\]So here, the rectangular coordinates are\n\\[\\left( 8 \\cos \\frac{\\pi}{4}, 8 \\sin \\frac{\\pi}{4}, \\sqrt{3} \\right) = \\boxed{(4 \\sqrt{2}, 4 \\sqrt{2}, \\sqrt{3})}.\\]",
+    "socratic_questions": "1. What are cylindrical coordinates and rectangular coordinates, and how are they different?\n2. Can you describe the given point in cylindrical coordinates? How about in rectangular coordinates?\n3. How do we convert a point from cylindrical coordinates to rectangular coordinates? What are the steps involved? \n4. Why do we use cosine and sine in the conversion formula for cylindrical coordinates? \n5. Are there any restrictions on the values that r, theta, and z can take in cylindrical coordinates? How do these restrictions affect the conversion process? \n6. Can you give an example of a real-world situation where cylindrical coordinates might be more useful than rectangular coordinates?"
+}

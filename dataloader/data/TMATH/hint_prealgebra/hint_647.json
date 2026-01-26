@@ -1,0 +1,7 @@
+{
+    "problem": "If $\\frac{4}{3} (r + s + t) = 12$, what is the average of $r$, $s$, and $t$?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "The average of $r$, $s$, and $t$, is $\\frac{r+s+t}{3}$. Dividing both sides of the given equation by 4, we get $\\frac{r+s+t}{3}=\\boxed{3}.$",
+    "socratic_questions": "1. How would you approach finding the average of $r$, $s$, and $t$ in general?\n2. What does it mean when the equation $\\frac{4}{3} (r + s + t) = 12$ is given?\n3. Can you algebraically manipulate the given equation to isolate the expression for the average of $r$, $s$, and $t$?\n4. What happens when you multiply both sides of the equation by $\\frac{3}{4}$?\n5. How does dividing both sides of the equation by 3 show that the average of $r$, $s$, and $t$ is 3?"
+}

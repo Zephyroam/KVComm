@@ -1,0 +1,7 @@
+{
+    "problem": "When $p(x) = Ax^5 + Bx^3 + Cx + 4$ is divided by $x - 3,$ the remainder is 11.  Find the remainder when $p(x)$ is divided by $x + 3.$",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "By the Remainder Theorem, $p(3) = 11,$ so\n\\[A \\cdot 3^5 + B \\cdot 3^3 + C \\cdot 3 + 4 = 11.\\]Then $A \\cdot 3^5 + B \\cdot 3^3 + C \\cdot 3 = 7.$\n\nAgain by the Remainder Theorem, when $p(x)$ is divided by $x + 3,$ the remainder is\n\\begin{align*}\np(-3) &= A \\cdot (-3)^5 + B \\cdot (-3)^3 + C \\cdot (-3) + 4 \\\\\n&= -A \\cdot 3^5 - B \\cdot 3^3 - C \\cdot 3 + 4 \\\\\n&= -7 + 4 \\\\\n&= \\boxed{-3}.\n\\end{align*}",
+    "socratic_questions": "1. What is the Remainder Theorem and how is it useful in finding remainders when dividing polynomials?\n2. How does the fact that the remainder is 11 when $p(x)$ is divided by $x-3$ help us in solving this problem?\n3. What is the importance of finding $p(3)$ in this problem?\n4. How can we use the information $p(3)=11$ to help us find the values of $A$, $B$ and $C$ in the polynomial $p(x)$?\n5. Why do we evaluate $p(-3)$ when trying to find the remainder of $p(x)$ when divided by $x+3$?\n6. What is the significance of the signs of the coefficients in the polynomial $p(x)$ when finding the remainder of $p(x)$ when divided by $x+3$?"
+}

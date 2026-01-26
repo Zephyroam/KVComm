@@ -1,0 +1,7 @@
+{
+    "problem": "If the seven-digit number $854n526$ is divisible by $11$, what is $n$?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "A number is divisible by $11$ if and only if the sum of the first, third, fifth, etc., digits less the sum of the second, fourth, sixth, etc., digits is itself a multiple of $11$. The former sum is $8+4+5+6=23$. The latter sum if $5+n+2=7+n$. Thus $23-(7+n)=16-n$ must be a multiple of $11$. This is satisfied only by $n=\\boxed{5}$.",
+    "socratic_questions": "1. What is the property that determines whether a number is divisible by 11?\n2. How can we determine whether the seven-digit number $854n526$ is divisible by 11?\n3. What are the first, third, fifth, etc. digits of the number, and what is their sum?\n4. What are the second, fourth, sixth, etc. digits of the number, and what is their sum?\n5. How can we use the property mentioned in question 1 to find the value of $n$?\n6. Can we use the same property to determine whether other numbers are divisible by 11? If so, how?"
+}

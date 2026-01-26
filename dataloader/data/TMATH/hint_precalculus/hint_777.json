@@ -1,0 +1,7 @@
+{
+    "problem": "Compute\n\\[\\begin{vmatrix} -5 & 3 \\\\ 4 & -4 \\end{vmatrix}.\\]",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "We have that\n\\[\\begin{vmatrix} -5 & 3 \\\\ 4 & -4 \\end{vmatrix} = (-5)(-4) - (3)(4) = \\boxed{8}.\\]",
+    "socratic_questions": "1. Can you explain what a determinant is and how it is calculated for a 2x2 matrix?\n2. What are the entries of the given matrix, and how do they relate to the determinant calculation?\n3. Why do we multiply the diagonal elements and subtract the product of the off-diagonal elements in the determinant formula?\n4. Can you explain why adding or subtracting the products of the diagonal and off-diagonal elements in the determinant formula gives us the correct answer?\n5. How does the order of the entries in the determinant formula affect the final result?\n6. Can you generalize the determinant calculation for a 2x2 matrix to larger matrices? How does the process change?\n7. Are there any special properties or patterns in the entries of the given matrix that could simplify the determinant calculation?\n8. Can you think of any real-world applications or examples where computing the determinant is useful?"
+}

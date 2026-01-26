@@ -1,0 +1,7 @@
+{
+    "problem": "A recent study found that 60$\\%$ of men and 80$\\%$ of women surveyed support increased funding for particular medical research. The study surveyed 100 men and 900 women. What was the overall percent of the people surveyed who supported increased funding?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "$60\\%$ of $100$ men is $60$ people.\n\n$80\\%$ of $900$ women is $720$ people.\n\nSo out of $1000$ total people surveyed, $780$ are supportive.  This is $\\boxed{78\\%}$.",
+    "socratic_questions": "1. Can you explain what the problem is asking for? \n2. What information do we have about the percentage of men and women who support increased funding?\n3. How can we calculate the number of men and women who support increased funding based on the given percentages and the total number of men and women surveyed?\n4. What is the total number of people who support increased funding?\n5. What is the total number of people surveyed?\n6. How can we find the overall percentage of people who support increased funding?\n7. Can you describe the steps to calculate the overall percentage?\n8. What is the calculation for the overall percentage?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Simplify $1-(1+(1-(1+(1-x))))$.",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "Starting from the furthest inside the parentheses and working outwards, we get $1-(1+(1-(1+(1-x))))=1-(1+(1-(2-x)))$. $1-(1+(1-(2-x)))=(1-(1+(x-1))$. $(1-(1+(x-1))=\\boxed{1-x}$.",
+    "socratic_questions": "1. Can you simplify the innermost parentheses first? What would be the result?\n2. After simplifying the innermost parentheses, what does the expression become?\n3. Can you simplify the expression further by evaluating the next set of parentheses? What is the result?\n4. Based on the simplified expression, what operation needs to be performed next?\n5. How can you simplify the expression now that you have evaluated the remaining set of parentheses?\n6. What is the final simplified form of the expression? How did you arrive at this result?"
+}

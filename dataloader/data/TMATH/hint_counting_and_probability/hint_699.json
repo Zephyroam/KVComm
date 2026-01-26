@@ -1,0 +1,7 @@
+{
+    "problem": "What is the value of $\\sqrt{3! \\cdot 3!}$ expressed as a positive integer?",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "$\\sqrt{3!\\cdot3!}$ is equal to $\\sqrt{(3!)^2}=3!=3\\cdot2\\cdot1=\\boxed{6}$.",
+    "socratic_questions": "1. Can you explain what the factorial symbol (!) represents in mathematics?\n2. How would you calculate the value of 3 factorial (3!)?\n3. What does it mean when we have two factorials multiplied together, like in the expression 3! * 3!?\n4. Can you simplify the expression (3!)^2 using the properties of exponents?\n5. What is the simplified form of (3!)^2?\n6. Finally, what is the positive integer value of the square root of (3! * 3!) expressed as an answer?"
+}

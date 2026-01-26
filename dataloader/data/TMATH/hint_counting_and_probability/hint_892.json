@@ -1,0 +1,7 @@
+{
+    "problem": "How many positive divisors of 30! are prime?",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "The only prime numbers that divide $30!$ are less than or equal to 30.  So 2, 3, 5, 7, 11, 13, 17, 19, 23, 29 are primes that divide $30!$, and there are $\\boxed{10}$ of these.",
+    "socratic_questions": "1. What is a prime number?\n2. How do you find the divisors of a number? \n3. What is the difference between a prime divisor and a composite divisor?\n4. How do you determine if a divisor is a prime number?\n5. Can a number have multiple prime divisors?\n6. How many prime factors can a number have? \n7. How does the factorial function affect the number of divisors of a number?\n8. How does the information given about the prime divisors of 30! help in finding the number of positive divisors of 30!? \n9. How do you count the number of positive divisors of 30! that are prime?\n10. Are there any other methods for finding the number of positive divisors of 30! that are prime?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "How many integers between 100 and 300 have both 11 and 8 as factors?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "The only numbers that have 11 and 8 as a factor are multiples of 88.  If we list the first few multiples of 88: $$88,176,264,352,...$$ we can see that there are exactly $\\boxed{2}$ between 100 and 300.",
+    "socratic_questions": "1. How can we determine if a number has both 11 and 8 as factors?\n2. What does it mean for a number to be a multiple of another number?\n3. Can you list the first few multiples of 88?\n4. How many of these multiples fall between 100 and 300?\n5. Can you explain why only multiples of 88 have 11 and 8 as factors?\n6. Are there any other numbers between 100 and 300 that have both 11 and 8 as factors? Why or why not?"
+}

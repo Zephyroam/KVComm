@@ -1,0 +1,7 @@
+{
+    "problem": "In right triangle $ABC$ with $\\angle A = 90^\\circ$, we have $AB = 6$ and $BC = 10$.  Find $\\cos C$.",
+    "level": "Level 2",
+    "type": "Geometry",
+    "solution": "The triangle is shown below:\n\n[asy]\n\npair A,B,C;\n\nA = (0,0);\n\nB = (6,0);\n\nC = (0,8);\n\ndraw(A--B--C--A);\n\ndraw(rightanglemark(B,A,C,10));\n\nlabel(\"$A$\",A,SW);\n\nlabel(\"$B$\",B,SE);\n\nlabel(\"$C$\",C,N);\n\nlabel(\"$10$\",(B+C)/2,NE);\n\nlabel(\"$6$\",B/2,S);\n\n[/asy]\n\nThe Pythagorean Theorem gives us $AC = \\sqrt{BC^2 - AB^2} = \\sqrt{100 - 36} = \\sqrt{64}=8$, so $\\cos C = \\frac{AC}{BC} = \\frac{8}{10} = \\boxed{\\frac45}$.",
+    "socratic_questions": "1. What is the given information in this problem and what are we trying to find?\n2. How do we know that $\\angle A$ is a right angle in this triangle? \n3. How can we use the Pythagorean Theorem to find the length of side $AC$?\n4. Can you explain how we use the Pythagorean Theorem in this case? \n5. What is the formula for cosine of an angle in a right triangle? \n6. How can we use the values of sides $AC$ and $BC$ to find $\\cos C$? \n7. Can you simplify the expression $\\frac{AC}{BC}$? \n8. How does the length of side $AB$ impact the value of $\\cos C$? \n9. Can you think of any other properties or theorems that could be useful in solving this problem?"
+}

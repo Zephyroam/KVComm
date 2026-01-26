@@ -1,0 +1,7 @@
+{
+    "problem": "Express the sum as a common fraction: $.1 + .02 + .003 + .0004 + .00005.$",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "The five decimals sum to $0.12345$, which as a fraction is $\\frac{12,\\!345}{100,\\!000}$.  Since $100,\\!000=2^5\\cdot 5^5$, we only have to cancel factors of 2 or 5 from $12,\\!345$.  Since $12,\\!345$ is odd, it has no factors of 2.  Dividing by 5, we find that $\\dfrac{12,\\!345}{100,\\!000}=\\boxed{\\dfrac{2469}{20,\\!000}}$.",
+    "socratic_questions": "1. What is the sum of the given decimals? \n2. Can you express the sum as a fraction? \n3. What is the denominator of the fraction? \n4. How can we simplify the fraction by canceling out common factors? \n5. Is the simplified fraction in its lowest terms? \n6. Can we express the simplified fraction as a mixed number or a decimal? \n7. How can we generalize this process to find the fractional form of other decimal sums?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Fully simplify the following expression: $[(2+3+4+5)\\div2] + [(2\\cdot5+8)\\div3]$.",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "By the order of operations, first simplify the expressions inside of each of the brackets. The first one, $[(2+3+4+5)\\div2]$ is equal to $14\\div2$.\n\nThe second bracket can also be simplified through the use of the order of operations.   \\[\n(2\\cdot5+8)\\div3 = 18\\div3 = 6.\n\\]  Therefore,    \\[\n[(2+3+4+5)\\div2] + [(2\\cdot5+8)\\div3] = [7] + [6] = 7+6 = \\boxed{13}.\n\\]",
+    "socratic_questions": "1. What is the first step to simplify the given expression? \n2. According to the order of operations, which bracket should we simplify first, and why? \n3. What is the result of simplifying the first bracket? \n4. How can we simplify the second bracket using the order of operations? \n5. What is the final simplified expression after evaluating both brackets? \n6. Is there any other way to simplify the given expression without using the order of operations? If so, what is it and how does it compare to the previous method?"
+}

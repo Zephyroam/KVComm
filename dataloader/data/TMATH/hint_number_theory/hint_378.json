@@ -1,0 +1,7 @@
+{
+    "problem": "What is the sum of all positive integer values of $n$ such that $\\frac{n+18}{n}$ is an integer?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "$\\frac{n+18}{n}=1+\\frac{18}{n}$. Thus, $\\frac{n+18}{n}$ is an integer if and only if $n|18$. The positive factors of 18 are 1, 18, 2, 9, 3, and 6. Their sum is $\\boxed{39}$.",
+    "socratic_questions": "1. Can you restate the problem in your own words? \n2. How can we rearrange the expression $\\frac{n + 18}{n}$? \n3. What are the possible values of $n$ that make $\\frac{n+18}{n}$ an integer? \n4. Why must $n$ divide 18 in order for $\\frac{n+18}{n}$ to be an integer? \n5. What are the positive factors of 18, and how do we find them? \n6. How do we determine which of these factors satisfy the condition for the sum of positive integers, and what is their sum? \n7. Can you think of any other problems or scenarios where we might employ a similar approach? \n8. How can we check that our answer is valid and that we have not overlooked any possible values of $n$?"
+}

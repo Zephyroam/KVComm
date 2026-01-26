@@ -1,0 +1,7 @@
+{
+    "problem": "A polynomial with integer coefficients is of the form\n\\[9x^4 + a_3 x^3 + a_2 x^2 + a_1 x + 15 = 0.\\]Find the number of different possible rational roots of this polynomial.",
+    "level": "Level 4",
+    "type": "Intermediate Algebra",
+    "solution": "By the Rational Root Theorem, the only possible rational roots are of the form $\\pm \\frac{a}{b},$ where $a$ divides 15 and $b$ divides 9.  Thus, the possible rational roots are\n\\[\\pm 1, \\ \\pm 3, \\ \\pm 5, \\ \\pm 15, \\ \\pm \\frac{1}{3}, \\ \\pm \\frac{5}{3}, \\ \\pm \\frac{1}{9}, \\ \\pm \\frac{5}{9}.\\]Thus, there are $\\boxed{16}$ possible rational roots.",
+    "socratic_questions": "1. According to the Rational Root Theorem, how can we determine the possible rational roots of the given polynomial?\n2. What are the conditions for a number to be considered as a possible rational root?\n3. Can you explain why the number must satisfy the conditions in order to be a possible rational root?\n4. How do the divisors of 15 and 9 play a role in finding the possible rational roots?\n5. Can you list all the possible rational roots for the given polynomial?\n6. How many different possible rational roots are there in total for this polynomial?"
+}

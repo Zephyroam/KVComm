@@ -1,0 +1,7 @@
+{
+    "problem": "What is the greatest three-digit number which is a multiple of 13?",
+    "level": "Level 1",
+    "type": "Number Theory",
+    "solution": "Since 1001 is $7\\cdot11\\cdot13$, we know that 1001 is a multiple of 13.  The greatest 3-digit multiple of 13 is therefore \\[1001-13=\\boxed{988}.\\]",
+    "socratic_questions": "1. Can you explain why we are looking for a three-digit number that is a multiple of 13?\n2. How did you determine that 1001 is a multiple of 13?\n3. Can you explain the reasoning behind subtracting 13 from 1001 to find the greatest 3-digit multiple of 13?\n4. Is there a specific rule or pattern that allows us to find the greatest multiple of 13 that is less than 1001? If so, can you explain it?\n5. Can you think of any other similar problems where we might need to find the greatest multiple of a certain number within a given range? What strategies or methods could we use in those cases?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Let $N$ be the product of all odd primes less than $2^4$.  What remainder does $N$ leave when divided by $2^4$?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "The odd primes less than $2^4=16$ are $3,5,7,11,13$. Then \\[3\\cdot 5\\cdot 7\\cdot 11\\cdot 13= (3\\cdot 11)\\cdot 7\\cdot(5\\cdot 13)=33\\cdot 7\\cdot 65\\equiv 1\\cdot 7\\cdot 1 \\equiv \\boxed{7}\\pmod {16}.\\]",
+    "socratic_questions": "1. What is the question asking for?\n2. What is the value of $2^4$?\n3. What are the odd primes less than $2^4$? \n4. How do we compute the product of all odd primes less than $2^4$?\n5. What is the resulting value of $N$?\n6. What is the definition of a remainder?\n7. How do we determine the remainder when $N$ is divided by $2^4$?\n8. What is the final answer?"
+}

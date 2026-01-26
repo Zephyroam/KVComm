@@ -1,0 +1,7 @@
+{
+    "problem": "Find $n$ such that $2^5 \\cdot 3^2 \\cdot n = 8!$.",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "Factor 8! and cancel 5 factors of 2 and 2 factors of 3:  \\begin{align*}\n8! &= 2^3\\cdot7\\cdot(2\\cdot 3)\\cdot5\\cdot 2^2\\cdot 3\\cdot 2 \\implies \\\\\n\\frac{8!}{2^5\\cdot 3^2} &= \\frac{2^3\\cdot7\\cdot(2\\cdot 3)\\cdot5\\cdot 2^2\\cdot3\\cdot 2}{2^5\\cdot3^2} \\\\\n&=7\\cdot 5\\cdot 2^2 \\\\\n&=14\\cdot 10 \\\\\n&= \\boxed{140}.\n\\end{align*}",
+    "socratic_questions": "1. What is the given equation and what is the unknown variable?\n2. What does it mean for two expressions to be equal?\n3. Can we simplify both sides of the equation?\n4. How can we factorize the expression on the right side of the equation?\n5. What factors can we cancel from both sides of the equation?\n6. What does the value of \"n\" need to be in order for the equation to be true?\n7. What is the final value of \"n\" that satisfies the equation?"
+}

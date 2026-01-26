@@ -1,0 +1,7 @@
+{
+    "problem": "Compute the sum of the geometric series $-1 -3-9-27 -81-243-729$.",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "The first term is $-1$, the common ratio is $3$, and there are 7 terms, so the sum equals \\[\\frac{(-1)(3^7-1)}{3-1} = \\frac{-2186}{2} = \\boxed{-1093}.\\]",
+    "socratic_questions": "1. Can you identify the common ratio of this geometric series?\n2. How many terms are there in the series?\n3. What is the formula to compute the sum of a geometric series?\n4. How can we apply the formula to this particular series?\n5. Can you find the first term (a) and the common ratio (r) needed for the formula?\n6. What is the sum of the geometric series using the given values?"
+}

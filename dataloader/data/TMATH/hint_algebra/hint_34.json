@@ -1,0 +1,7 @@
+{
+    "problem": "Two numbers have a difference of 3 and a sum of 31. What is the larger of the two numbers?",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "Let the numbers be $x$ and $y$.  We have $x+y=31$ and $x-y=3$.  Summing these equations, we get $2x=34$, or $x=17$.  Since $x-y$ is positive, this is the larger number, so the answer is $\\boxed{17}$.",
+    "socratic_questions": "1. How would you represent the two numbers algebraically? \n2. Can you write an equation that relates the two numbers based on the given information? \n3. What are the possible methods you can use to solve this equation? \n4. If you choose to use the method of substitution, what would be your first step? \n5. Why does the method of substitution work in this case? \n6. How would you proceed to solve the equation using substitution? \n7. What is the solution you obtain for one of the variables? \n8. How would you find the value of the other variable using this information? \n9. Once you have the values for both variables, how would you determine which one is the larger number? \n10. Can you think of any other real-life situations where this type of problem-solving approach could be applied?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "What is the $y$-intercept of the line $x - 2y = 5$?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "The $y$-intercept is the point at which the line crosses the $y$-axis.  The $x$-coordinate of such a point is 0.  Setting $x=0$ in the equation gives $-2y = 5$, so $y = \\boxed{-\\frac{5}{2}}$.",
+    "socratic_questions": "1. What is the definition of a y-intercept in terms of a line equation?\n2. How can we determine the y-intercept of a line equation? \n3. What is the general form of a line equation, and how does it relate to the y-intercept? \n4. In the given line equation, what is the coefficient of y? \n5. How can we isolate the y variable in the given equation to find the y-intercept? \n6. By substituting the x-coordinate of the y-intercept into the given equation, can we verify that it lies on the line? \n7. Can you think of any other types of line equations where finding the y-intercept would involve similar thinking and steps?"
+}

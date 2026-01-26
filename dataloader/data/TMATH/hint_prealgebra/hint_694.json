@@ -1,0 +1,7 @@
+{
+    "problem": "12 balls numbered 1 through 12 are placed in a bin.  Joe produces a list of three numbers by performing the following sequence three times:  he chooses a ball, records the number, and places the ball back in the bin.   How many different lists are possible?",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "There are 12 options for each ball to be drawn, so there are a total of $12^3 = \\boxed{1728}$ possible drawings.",
+    "socratic_questions": "1. What is the total number of balls in the bin?\n2. How many numbers are recorded in each list?\n3. Is it possible for a ball to be drawn multiple times in a single list?\n4. How many different ways can Joe choose a ball for the first number in the list?\n5. After Joe chooses a ball and records the number, what is the probability of choosing the same ball again for the second or third number in the list?\n6. How many ways are there to choose three balls without replacement from the bin?\n7. Is there any difference in the number of possible lists if Joe chooses the same ball multiple times or if each ball can only be chosen once? If so, how does this affect the final answer?"
+}

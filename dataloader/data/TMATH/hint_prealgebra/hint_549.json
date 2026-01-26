@@ -1,0 +1,7 @@
+{
+    "problem": "How many distinct prime factors does 56 have?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Prime factorize $56=8\\cdot7=2^3\\cdot 7$.  Fifty-six has $\\boxed{2}$ prime factors: 2 and 7.",
+    "socratic_questions": "1. What is the definition of prime factorization?\n2. Can you explain how to prime factorize a number using the method mentioned in the example?\n3. How can we determine the distinct prime factors of a number from its prime factorization?\n4. What is the prime factorization of 56 using the method mentioned?\n5. How many distinct prime factors does 56 have based on its prime factorization?\n6. Can you think of any other numbers that have the same number of distinct prime factors as 56?\n7. How would you find the distinct prime factors of a different number?"
+}

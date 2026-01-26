@@ -1,0 +1,7 @@
+{
+    "problem": "What is the value of $x$ for which $(8-x)^2=x^2$?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "Expanding the square on the left, we have $64- 16x + x^2 = x^2$.  The $x^2$ terms cancel and leave $64-16x = 0$, so $x = \\boxed{4}$.",
+    "socratic_questions": "1. How can you simplify the equation $(8-x)^2 = x^2$ to make it easier to solve?\n2. What are the different methods you can think of to solve this equation?\n3. If you choose to expand the equation, what steps would you take to simplify it further?\n4. Is there a simpler way to solve this equation without expanding?\n5. How can you determine if there are any extraneous solutions after solving the equation?\n6. Can you think of any other scenarios where a similar approach might be used to solve equations?"
+}

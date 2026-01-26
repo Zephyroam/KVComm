@@ -1,0 +1,7 @@
+{
+    "problem": "A digit is written to the right of the units digit of $757$.  If the resulting four-digit number is divisible by $3$, how many possibilities are there for the digit that was written?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Let $N$ be the digit that was written.  The four-digit number $757N$ is divisible by $3$ if and only if $7 + 5 + 7 + N = 19 + N$ is divisible by $3$.  We find that only $N = 2, 5, 8$ work, so there are $\\boxed{3}$ possibilities for $N$.",
+    "socratic_questions": "1. What is the initial information given in the problem?\n2. How can we determine if a number is divisible by 3?\n3. What is the condition that needs to be satisfied for a four-digit number to be divisible by 3?\n4. How can we rewrite the given four-digit number to include the unknown digit N?\n5. How can we express the sum of the digits in the four-digit number using N?\n6. What are the possible values for N that would make the sum divisible by 3?\n7. Can you explain why only those specific values of N work?\n8. Are there any other conditions or restrictions that we need to consider?\n9. Can you think of any similar problems where a similar thought process and steps might be used?\n10. How would you summarize the answer to the original problem?"
+}

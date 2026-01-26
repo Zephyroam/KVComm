@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\dbinom{1293}{1}$.",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "$\\dbinom{1293}{1} = \\dfrac{1293!}{1!1292!}=\\dfrac{1293}{1}=\\boxed{1293}.$",
+    "socratic_questions": "1. What does the symbol $\\binom{1293}{1}$ represent?\n2. How do you calculate $\\binom{1293}{1}$?\n3. Is $\\binom{1293}{1}$ a permutation or a combination? Why?\n4. Can you explain the intuition behind the formula for calculating combinations?\n5. In what kinds of problems might you use $\\binom{1293}{1}$ to solve?\n6. How does the value of $\\binom{n}{1}$ differ from the value of $n$ for any positive integer $n$?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "If $\\sum_{n = 0}^{\\infty}\\cos^{2n}\\theta = 5$, what is the value of $\\cos{2\\theta}$?",
+    "level": "Level 4",
+    "type": "Precalculus",
+    "solution": "From the formula for an infinite geometric series,\n\\[\\sum_{n = 0}^\\infty \\cos^{2n} \\theta = 1 + \\cos^2 \\theta + \\cos^4 \\theta + \\dotsb = \\frac{1}{1 - \\cos^2 \\theta} = 5.\\]Hence, $\\cos^2 \\theta = \\frac{4}{5}.$  Then\n\\[\\cos 2 \\theta = 2 \\cos^2 \\theta - 1 = \\boxed{\\frac{3}{5}}.\\]",
+    "socratic_questions": "1. Can you explain what the given series represents in terms of trigonometric functions?\n2. What is the formula for an infinite geometric series, and how is it used in this problem?\n3. How did we relate the given series to the formula for an infinite geometric series?\n4. How did we manipulate the equation to solve for $\\cos^2 \\theta$?\n5. How did we use the value of $\\cos^2 \\theta$ to find $\\cos 2\\theta$?\n6. Are there any other trigonometric identities or formulas that can be used to find $\\cos 2\\theta$?\n7. Can you provide a geometric interpretation or example that illustrates the relationship between the given series and $\\cos 2\\theta$?\n8. Can you think of any alternative approaches or methods to finding the value of $\\cos 2\\theta$ in this problem?"
+}

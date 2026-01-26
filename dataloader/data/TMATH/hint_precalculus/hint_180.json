@@ -1,0 +1,7 @@
+{
+    "problem": "Let $\\mathbf{R}$ be the matrix for rotating about the origin counter-clockwise by an angle of $58^\\circ.$  Find $\\det \\mathbf{R}.$",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "The matrix corresponding to rotating about the origin counter-clockwise by an angle of $\\theta$ is given by\n\\[\\begin{pmatrix} \\cos \\theta & -\\sin \\theta \\\\ \\sin \\theta & \\cos \\theta \\end{pmatrix}.\\]The determinant of this matrix is then\n\\[\\cos^2 \\theta - (-\\sin \\theta)(\\sin \\theta) = \\cos^2 \\theta + \\sin^2 \\theta = \\boxed{1}.\\](Why does this make sense geometrically?)",
+    "socratic_questions": "1. How would you describe the matrix $\\mathbf{R}$ that represents a counter-clockwise rotation by an angle of $58^\\circ$?\n2. Can you explain why the matrix for rotating about the origin counter-clockwise by any angle $\\theta$ is given by $\\begin{pmatrix} \\cos \\theta & -\\sin \\theta \\\\ \\sin \\theta & \\cos \\theta \\end{pmatrix}$?\n3. What is the determinant of the matrix $\\mathbf{R}$? How can we compute it using the given matrix representation?\n4. How does the expression $\\cos^2 \\theta + \\sin^2 \\theta$ simplify to $1$? Can you explain the significance of this result geometrically?\n5. What does it mean for a matrix to have a determinant of $1$? How does it relate to properties of the transformation it represents?\n6. Can you think of any other geometric transformations or matrices where the determinant plays a similar role?"
+}

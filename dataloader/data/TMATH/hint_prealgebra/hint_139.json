@@ -1,0 +1,7 @@
+{
+    "problem": "What is the smallest three-digit multiple of 13?",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "The smallest three-digit number is $100$. When we divide 100 by 13, we get 7 with a remainder of 9. $$100=13 \\cdot 7 + 9$$Because we want the smallest three-digit multiple of $13$, $13\\cdot 7$ cannot be our answer because it is less than $100$ and is therefore a two-digit number. Instead we go up one multiple of $13$ and find that $13 \\cdot 8= \\boxed{104}$ is our smallest three-digit multiple of $13$.",
+    "socratic_questions": "1. What is the smallest three-digit number?\n2. When we divide the smallest three-digit number by 13, what is the quotient and remainder?\n3. How can we express the smallest three-digit number as a multiple of 13 plus a remainder?\n4. Why can't we use the first multiple of 13 that we find as the answer?\n5. How can we find the next multiple of 13 that is greater than the smallest three-digit number?\n6. What is the next multiple of 13 after 13 multiplied by 7?\n7. Is 13 multiplied by 8 a three-digit number? Why or why not?\n8. What is the final answer to the question \"What is the smallest three-digit multiple of 13?\""
+}

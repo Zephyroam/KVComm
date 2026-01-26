@@ -1,0 +1,7 @@
+{
+    "problem": "What is the number of square meters in the area of a circle with diameter 4 meters? Express your answer in terms of $\\pi$.",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "A circle's radius is half its diameter, so if the diameter of a circle is 4 meters, then its radius is 2 meters.  The area of the circle is $\\pi(\\text{radius})^2=\\pi(2\\text{ m})^2=\\boxed{4\\pi}$ square meters.",
+    "socratic_questions": "1. What is the relationship between the diameter and radius of a circle?\n2. If the diameter of a circle is 4 meters, what would be its radius?\n3. How do you calculate the area of a circle?\n4. In the given scenario, what would be the formula to find the area of the circle?\n5. Substituting the values, what would be the calculation for the area of the circle?\n6. Can you simplify the expression for the area of the circle in terms of pi?\n7. What is the final answer for the area of the circle?"
+}

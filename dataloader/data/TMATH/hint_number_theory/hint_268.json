@@ -1,0 +1,7 @@
+{
+    "problem": "What is the smallest positive integer that satisfies the congruence $4x \\equiv 13 \\pmod{27}$?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "Observing that $4 \\cdot 7 = 28 = 27 + 1,$ we multiply both sides of the given congruence by 7 to find $28x \\equiv 91 \\pmod{27}$. Since $28x\\equiv x\\pmod{27}$ and $91\\equiv10 \\pmod{27}$, we conclude that $x\\equiv 10\\pmod{27}$. Therefore, $\\boxed{10}$ is the smallest positive integer satisfying the given congruence.",
+    "socratic_questions": "1. What is a congruence?\n2. How do we solve a congruence equation?\n3. What is the modulus in a congruence equation, and how does it affect the solution?\n4. Why did we choose 7 to multiply both sides of the given congruence by?\n5. How did we simplify $4\\cdot 7$ to obtain $28$?\n6. How did we use $28x\\equiv x\\pmod{27}$ and $91\\equiv10 \\pmod{27}$ in our solution?\n7. Is 10 the only solution to the given congruence, or are there other solutions? If so, how can we find them?\n8. Can you give an example of another congruence equation that can be solved using similar steps?"
+}

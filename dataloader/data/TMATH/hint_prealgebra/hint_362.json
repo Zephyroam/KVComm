@@ -1,0 +1,7 @@
+{
+    "problem": "For any positive integer $n$, the value of $n!$ is the product of the first $n$ positive integers.  For example, $4! = 4\\cdot 3\\cdot 2\\cdot 1 =24$.  What is the greatest common divisor of $5!$ and $7!$ ?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "Rather than finding the prime factorization of $5!$ and $7!$, we note that  \\[7! = 7\\cdot 6\\cdot 5 \\cdot 4\\cdot 3\\cdot 2 \\cdot 1 = 7\\cdot 6\\cdot 5!.\\]Therefore, $7!$ is a multiple of $5!$, which means that $5!$ is the greatest common divisor of $5!$ and $7!$ (since it is a divisor of $7!$ and is the largest divisor of $5!$). So, we have  \\[5! = 5\\cdot 4\\cdot 3\\cdot 2\\cdot 1 = \\boxed{120}.\\]",
+    "socratic_questions": "1. Can you describe what a factorial ($n!$) represents?\n2. What is the definition of $7!$? How can it be simplified?\n3. How does the value of $7!$ relate to the value of $5!$?\n4. What does it mean for one number to be a multiple of another number? How does that apply in this situation?\n5. Why is $5!$ the greatest common divisor of $5!$ and $7!$? Explain your reasoning.\n6. How can we determine the value of $5!$ without finding the prime factorization of $5!$ or $7!$?\n7. Can you think of any other situations where finding the greatest common divisor might involve similar thinking and steps?"
+}

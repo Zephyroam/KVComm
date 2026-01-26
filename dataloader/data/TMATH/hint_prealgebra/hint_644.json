@@ -1,0 +1,7 @@
+{
+    "problem": "A particular convex polygon with seven sides has exactly one right angle. How many diagonals does this seven-sided polygon have?",
+    "level": "Level 5",
+    "type": "Prealgebra",
+    "solution": "For each vertex, we can create a diagonal by connecting it to any non-adjacent vertex. If there are $n$ vertices, there are $n(n-3)$ diagonals we draw. But we are over-counting by a factor of 2 since each diagonal can be created from 2 vertices. So there are $n(n-3)/2$ diagonals. In this problem, since $n=7$, there are $7\\cdot4/2=\\boxed{14}$ diagonals.",
+    "socratic_questions": "1. How many sides does the convex polygon have?\n2. How many diagonals are there in a convex polygon with $n$ sides, if there are no restrictions?\n3. How many vertices are there in the given polygon?\n4. How many non-adjacent vertices can be connected to a particular vertex?\n5. What is the formula to calculate the number of diagonals in a polygon with $n$ sides?\n6. How does the formula handle over-counting of diagonals?\n7. How many diagonals does the particular convex polygon with seven sides have, according to the given restrictions?\n8. Using the formula, what is the number of diagonals in the given polygon?"
+}

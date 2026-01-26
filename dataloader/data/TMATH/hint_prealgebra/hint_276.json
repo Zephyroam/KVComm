@@ -1,0 +1,7 @@
+{
+    "problem": "Find the least common multiple of 36 and 132.",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "$36 = 2^2 \\cdot 3^2$ and $132 = 2^2 \\cdot 3^1 \\cdot 11^1$, so lcm$[36, 132] = 2^2 \\cdot 3^2 \\cdot 11^1 = \\boxed{396}$.",
+    "socratic_questions": "1. Can you explain what the least common multiple (LCM) of two numbers means?\n2. Why is finding the LCM important in certain mathematical operations? Can you give an example?\n3. How can we determine the prime factorization of 36 and 132? Why is this information relevant in finding the LCM?\n4. What are the common prime factors of 36 and 132? How do we consider the exponent of each prime factor when calculating the LCM?\n5. Can you explain the process of finding the LCM using the prime factorization method? How does it apply to 36 and 132?\n6. Can you think of any other method or strategy to find the LCM? How do they compare to the prime factorization method?\n7. How does the LCM relate to the concept of multiples? Can you find some multiples of 36 and 132 to support your explanation?\n8. How does the LCM of 36 and 132 compare to their individual values? What does this tell us about the relationship between LCM and the numbers being compared?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "The integers 195 and 61 are expressed in base 4 and added.  What is the resulting sum, expressed in base 4?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "Since changing the base does not change the underlying quantity being represented, the sum of the base-4 representations of 195 and 61 is the same as the base-4 representation of 195+61.  Recognizing that 195+61=256 is a power of 4, we put 1 in the place whose value is $4^4$ and 0 in the remaining places to obtain the sum $\\boxed{10000}$.",
+    "socratic_questions": "1. Can you explain what it means to express integers in base 4? \n2. How do we add two integers that are expressed in different bases? \n3. Can you convert 195 and 61 to their base 4 representations? \n4. What is the sum of their base 4 representations? \n5. How do we convert this sum back to base 10? \n6. Why did we recognize that 195+61=256 is a power of 4? \n7. How did we determine which digit to place in the first, or highest, place value of the sum expressed in base 4? \n8. Can you give an example of how to add two integers expressed in different bases where the sum is not a power of the base? \n9. How do we know if our final answer is correct?"
+}

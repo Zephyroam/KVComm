@@ -1,0 +1,7 @@
+{
+    "problem": "What is the largest prime factor of $5! + 6!$?",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "Write $5!+6!=5!(1+6)=2\\cdot3\\cdot4\\cdot5\\cdot7$.  The largest prime factor of this integer is $\\boxed{7}$.",
+    "socratic_questions": "1. Can you state what the concept of prime factorization is?\n2. How is prime factorization useful when solving problems in number theory? \n3. Can you express what the factorial notation represents and why it is relevant to this problem? \n4. How can you break down the expression $5!+6!$ into its prime factors? \n5. Why is identifying prime factors important, and can you explain the significance of the largest prime factor in this problem? \n6. Is there a general approach or strategy that can be used to find the largest prime factor of an integer expressed as a factorial sum like $5!+6!$?"
+}

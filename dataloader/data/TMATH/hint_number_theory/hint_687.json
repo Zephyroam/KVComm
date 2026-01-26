@@ -1,0 +1,7 @@
+{
+    "problem": "What is the 200th term of the increasing sequence of positive integers formed by omitting only the perfect squares?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "When 200 is reached in the sequence of non-square positive integers, all the perfect squares from $1^2$ up to $14^2$ have been omitted.  Therefore, 200 is the 186th term.  The 187th term is 201, the 188th term is 202, $\\ldots$, the 200th term is $\\boxed{214}$.",
+    "socratic_questions": "1. What is the definition of a perfect square?\n2. How would you generate a sequence of positive integers that excludes perfect squares?\n3. Can you identify any patterns or rules in this sequence?\n4. How can you determine the position of a specific number in the sequence?\n5. What is the relationship between the position of a number and its value in the sequence?\n6. Can you find any shortcuts or formulas to determine the nth term directly without listing all the previous terms?\n7. Is there a maximum or limit to how many perfect squares can be omitted before reaching a certain number?\n8. Can you think of any other sequences or series where similar principles might apply?"
+}

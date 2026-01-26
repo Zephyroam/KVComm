@@ -1,0 +1,7 @@
+{
+    "problem": "If $60^a = 3$ and $60^b = 5,$ then find $12^{(1 - a - b)/(2(1 - b))}.$",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "We have that $a = \\log_{60} 3$ and $b = \\log_{60} 5,$ so\n\\[1 - a - b = \\log_{60} 60 - \\log_{60} 3 - \\log_{60} 5 = \\log_{60} \\frac{60}{3 \\cdot 5} = \\log_{60} 4 = 2 \\log_{60} 2\\]and\n\\[2 (1 - b) = 2 (\\log_{60} 60 - \\log_{60} 5) = 2 \\log_{60} 12,\\]so\n\\[\\frac{1 - a - b}{2(1 - b)} = \\frac{2 \\log_{60} 2}{2 \\log_{60} 12} = \\log_{12} 2.\\]Therefore,\n\\[12^{(1 - a - b)/(2(1 - b))} = \\boxed{2}.\\]",
+    "socratic_questions": "1. What are the given equations in exponential form?\n2. How can we rewrite these equations in logarithmic form?\n3. Based on the given equations, what are the values of $a$ and $b$ in terms of logarithms?\n4. What is the value of $1 - a - b$?\n5. Simplify the expression $\\frac{1 - a - b}{2(1 - b)}$ using the given values of $a$ and $b$.\n6. How can we rewrite $\\frac{1 - a - b}{2(1 - b)}$ in terms of logarithms?\n7. Based on the derived expression, what is the base of the logarithm?\n8. Simplify the expression $12^{(1 - a - b)/(2(1 - b))}$ using the logarithmic form.\n9. What is the final result and its significance in solving the given problem?"
+}

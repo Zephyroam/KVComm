@@ -1,0 +1,7 @@
+{
+    "problem": "Our club has 20 members, 10 boys and 10 girls.  In how many ways can we choose a president and a vice-president if they must be of the same gender?  Assume no one can hold both offices.",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "The president can be any one of the 20 members, and the vice-president can be any one of the 9 remaining members of the same sex. The answer is $20\\times 9=\\boxed{180}$.",
+    "socratic_questions": "1. Can you state the problem in your own words?\n2. What is the total number of members in the club?\n3. How many boys are there in the club? How many girls?\n4. Can you explain the concept of choosing a president and vice-president from a group of people?\n5. What restriction is placed on the selection of the president and vice-president in this problem?\n6. How many choices are there for the position of president, based on the given information?\n7. How many choices are there for the position of vice-president, using the same gender restriction?\n8. Can you use multiplication to find the total number of ways to choose a president and vice-president of the same gender?\n9. Can you simplify the multiplication expression to find the final answer?\n10. How would you approach a similar problem but with different numbers of members or gender restrictions?"
+}

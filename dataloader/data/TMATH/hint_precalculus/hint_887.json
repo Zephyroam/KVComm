@@ -1,0 +1,7 @@
+{
+    "problem": "Express $\\sin 4x + \\sin 6x$ as a product of trigonometric functions.",
+    "level": "Level 5",
+    "type": "Precalculus",
+    "solution": "By sum-to-product,\n\\[\\sin 4x + \\sin 6x = \\boxed{2 \\sin 5x \\cos x}.\\]",
+    "socratic_questions": "1. How familiar are you with the sum-to-product identity? \n2. Could you explain what the sum-to-product identity is and how it can be used? \n3. What trigonometric functions are involved in the sum-to-product formula? \n4. How can we apply the sum-to-product formula to $\\sin 4x + \\sin 6x$? \n5. Could you show the step-by-step process of applying the sum-to-product formula to $\\sin 4x + \\sin 6x$? \n6. After applying the sum-to-product formula, what is the resulting expression for $\\sin 4x + \\sin 6x$? \n7. How does the resulting expression compare to the original expression? \n8. Can you think of any other trigonometric identities that can be used to manipulate and simplify expressions like this one?"
+}

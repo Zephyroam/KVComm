@@ -1,0 +1,7 @@
+{
+    "problem": "What is $4\\cdot 6+8\\cdot 3-28\\div 2$?",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "Recall that multiplication and division should be done in order from left to right before addition and subtraction.  We have \\begin{align*}4\\cdot 6+8\\cdot 3-28\\div 2&=24+24-14.\\end{align*}  Now, we rewrite the subtraction as the addition of a negation so that we can use the properties of addition to rearrange the numbers and make the arithmetic easier.  We get \\begin{align*}24+24-14&=24+24+(-14) \\\\ &=24+(-14)+24 \\\\ &=24-14+24 \\\\ &=10+24 \\\\ &=\\boxed{34}.\\end{align*}",
+    "socratic_questions": "1. What is the order of operations and why is it important to follow it when simplifying expressions?\n2. Can you explain why we should do multiplication and division before addition and subtraction?\n3. What is the difference between adding and subtracting a number and adding the negation of that number?\n4. How can we use the properties of addition to rearrange the numbers in an expression to make it easier to simplify?\n5. Can you think of an example where not following the order of operations leads to a different answer? How can we avoid making this mistake?"
+}

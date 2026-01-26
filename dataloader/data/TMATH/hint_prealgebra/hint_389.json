@@ -1,0 +1,7 @@
+{
+    "problem": "What is the least common multiple of 6, 8, and 10?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "$6=2\\cdot3$, $8=2^3$, and $10=2\\cdot5$, so the least common multiple of 6, 8, and 10 is $2^3\\cdot3\\cdot5=\\boxed{120}$.",
+    "socratic_questions": "1. What is the definition of \"least common multiple\"?\n2. Can you list the prime factorizations of 6, 8, and 10?\n3. How do we find the common factors among these three numbers based on their prime factorizations?\n4. What is the highest exponent of each prime factor that appears in any of the three numbers' prime factorizations?\n5. How do we combine these prime factors and their exponents to get the least common multiple?\n6. Can you think of any other examples where finding the least common multiple would be useful?"
+}

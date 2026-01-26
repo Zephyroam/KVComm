@@ -1,0 +1,7 @@
+{
+    "problem": "Solve for $x$: $$\\sqrt[3]{3-\\frac{1}{x}}=-4$$",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "We cube both sides to eliminate the cube root: $3-\\frac{1}{x}=-64$.   Simplifying gives $\\frac{1}{x}=67$ and taking the reciprocal of both sides gives $\\boxed{x=\\frac{1}{67}}$.",
+    "socratic_questions": "1. Can you describe the first step in solving this equation?\n2. What methods do you know that can be used to solve equations with radicals?\n3. If you choose to isolate the radical term first, how would you go about doing that?\n4. Why is it possible to isolate the radical term in this equation? What characteristics of the equation make it suitable for this method?\n5. Once you have isolated the radical term, what do you notice about the equation? How does that help you find the solution?\n6. Are there any other types of equations that you can think of where a similar approach and steps might be applicable?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Let $a$ and $b$ be angles such that $\\cos a + \\cos b = \\frac{1}{2}$ and $\\sin a + \\sin b = \\frac{3}{11}.$  Find\n\\[\\tan \\left( \\frac{a + b}{2} \\right).\\]",
+    "level": "Level 4",
+    "type": "Precalculus",
+    "solution": "From the equation $\\cos a + \\cos b = \\frac{1}{2},$ by sum-to-product,\n\\[2 \\cos \\left( \\frac{a + b}{2} \\right) \\cos \\left( \\frac{a - b}{2} \\right) = \\frac{1}{2}.\\]Similarly, from the equation $\\sin a + \\sin b = \\frac{3}{11},$\n\\[2 \\sin \\left( \\frac{a + b}{2} \\right) \\cos \\left( \\frac{a - b}{2} \\right) = \\frac{3}{11}.\\]Dividing these equations, we get\n\\[\\tan \\left( \\frac{a + b}{2} \\right) = \\boxed{\\frac{6}{11}}.\\]",
+    "socratic_questions": "1. What is given in the problem? What is the relationship between the angles a and b?\n2. How can we use the given equation to express the cosines of a and b in terms of the sum and difference of the angles?\n3. By multiplying the equations obtained from the sum-to-product identity, how can we simplify the expression to obtain the tangent of (a + b)/2?\n4. What is the resulting value of the tangent of (a + b)/2?\n5. Can you explain why the tangent of (a + b)/2 is equal to that value? How does it relate to the given equations?\n6. Are there any other concepts or formulas from precalculus that can be applied to similar problems? How can we use them to find the tangent of (a + b)/2 in other scenarios?"
+}

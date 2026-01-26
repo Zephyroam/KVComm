@@ -1,0 +1,7 @@
+{
+    "problem": "If $a$ is three times $b$, $b$ is twice $c$, and $c$ is four times $d$, what is the value of $\\frac{a\\cdot c}{b\\cdot d}$?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "We have that $c=4d$, $b=2c$, and $a=3b$ and thus we can use the equations $c=4d$, $b=8d$, and $a=24d$ to find the value of the expression.  Plugging in these values we get $\\frac{24d \\cdot 4d}{8d \\cdot d}=\\boxed{12}$.",
+    "socratic_questions": "1. Can you describe the first step in solving this problem?\n2. Are there any different methods you know that can be utilized to solve this type of problem?\n3. If you choose to use substitution, how would you go about replacing the variables with their given values?\n4. Why is substitution an appropriate method to solve this problem? What characteristics make it suitable in this scenario?\n5. What is the resulting expression after substituting all the given values? How can you simplify it further?\n6. Can you think of other equations or problems where substitution could be applied in a similar way?"
+}

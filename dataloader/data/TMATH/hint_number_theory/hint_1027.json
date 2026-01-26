@@ -1,0 +1,7 @@
+{
+    "problem": "What is the sum of the prime numbers less than 10?",
+    "level": "Level 1",
+    "type": "Number Theory",
+    "solution": "The prime numbers less than $10$ are $2,3,5,7$, so the sum is $2+3+5+7=\\boxed{17}$.",
+    "socratic_questions": "1. Can you list all the prime numbers less than 10?\n2. How did you determine that these numbers are prime?\n3. What is the definition of a prime number?\n4. Is there a pattern or rule that you can observe in these prime numbers?\n5. How did you calculate the sum of these prime numbers?\n6. Can you think of any other ways to find the sum of prime numbers less than 10?\n7. Are these methods applicable to finding the sum of prime numbers in general? Why or why not?\n8. Is there a relationship between the sum of prime numbers and the prime numbers themselves?\n9. Can you find the sum of prime numbers less than a different number? How would you do that?"
+}

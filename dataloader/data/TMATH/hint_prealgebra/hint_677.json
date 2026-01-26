@@ -1,0 +1,7 @@
+{
+    "problem": "A standard deck of 52 cards has 13 ranks (Ace, 2, 3, 4, 5, 6, 7, 8, 9, 10, Jack, Queen, King) and 4 suits ($\\spadesuit$, $\\heartsuit$, $\\diamondsuit$, and $\\clubsuit$), such that there is exactly one card for any given rank and suit.  Two of the suits ($\\spadesuit$ and $\\clubsuit$) are black and the other two suits ($\\heartsuit$ and $\\diamondsuit$) are red.  The deck is randomly arranged. What is the probability that the top card is a 5?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "There are four 5's and 52 cards total, so the probability that the top card is a 5 is $\\dfrac{4}{52} = \\boxed{\\dfrac{1}{13}}$.",
+    "socratic_questions": "1. What is the probability defined as in general?\n2. How many cards are there in a standard deck and how many of them are 5's?\n3. If you randomly select a card from the deck, can you describe the sample space of possible outcomes?\n4. How many favorable outcomes are there for drawing a 5?\n5. If you have equally likely outcomes, can you calculate the probability of drawing a 5?\n6. Is there any additional information given that might affect the probability of drawing a 5?\n7. Is the probability affected by the color or suit of the cards?\n8. Can you simplify the fraction representing the probability of drawing a 5?\n9. Are there any other similar probability problems you can think of where the same reasoning and steps may apply?"
+}

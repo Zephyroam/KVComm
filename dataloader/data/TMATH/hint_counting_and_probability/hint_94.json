@@ -1,0 +1,7 @@
+{
+    "problem": "What is the constant term in the expansion of $\\left(\\sqrt{x}+\\dfrac5x\\right)^{9}$?",
+    "level": "Level 4",
+    "type": "Counting & Probability",
+    "solution": "To get the constant term, the $\\sqrt{x}$'s and $5/x$'s must cancel out. This occurs for the term with six $\\sqrt{x}$'s and three $5/x$'s, so the coefficient is $$\\binom93\\cdot5^3=84\\cdot125=\\boxed{10500}.$$",
+    "socratic_questions": "1. What does it mean for a term to have a constant term in its expansion?\n2. How can we determine the constant term in the expansion of a binomial expression?\n3. Given the expression $\\left(\\sqrt{x}+\\dfrac{5}{x}\\right)^{9}$, what does it suggest we do in order to find the constant term?\n4. How can we manipulate the binomial expression to cancel out the $\\sqrt{x}$'s and $5/x$'s?\n5. Which terms in the expansion will have $\\sqrt{x}$ raised to a power of 6 and $5/x$ raised to a power of 3?\n6. What is the coefficient of the term with six $\\sqrt{x}$'s and three $5/x$'s?\n7. How do we calculate the coefficient using the binomial coefficient formula?\n8. Substituting the values computed in the formula, what is the final result?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "The domain of the equation $y = \\frac{3x}{2x^2 - 6x + 4}$ is the set of all real numbers with the exception of the values $x = A$ and $x = B$. What is $A + B$?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "The equation is well-defined unless the denominator of the given expression is equal to $0$, that is $2x^2 - 6x + 4 = 0$. Factoring, $2(x-1)(x-2) = 0 \\Longrightarrow x = 1,2$. Hence, $A+B = \\boxed{3}$.\n\n(We can also use Vieta's formulas, which states that the sum of the roots of the equation $ax^2 + bx + c = 0$ is $-b/a$.)",
+    "socratic_questions": "1. Can you explain what the concept of domain means in the context of this equation?\n2. What restrictions or conditions might affect the domain of a rational function like this one?\n3. How can we determine the values of x that are not included in the domain of this equation?\n4. If we want to find the values of x that make the denominator zero, what steps would we take?\n5. Can you solve the equation 2x^2 - 6x + 4 = 0 and find the values of x that make the denominator zero? What are those values?\n6. Taking into account the restrictions we found for the domain, what is the sum of A and B? Why is it important to consider these values when discussing the domain?"
+}

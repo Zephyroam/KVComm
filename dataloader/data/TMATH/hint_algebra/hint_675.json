@@ -1,0 +1,7 @@
+{
+    "problem": "Rationalize the denominator of $\\frac{3}{2\\sqrt[3]{5}}$. The answer can be written in the form of $\\frac{A\\sqrt[3]{B}}{C}$, where $A$, $B$, and $C$ are integers, $C$ is positive, and $B$ is not divisible by the cube of any prime. Find $A+B+C$.",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "Since the cube of $5$ is $125$, we multiply the top and bottom by $\\sqrt[3]{\\frac{125}{5}}$, which is $\\sqrt[3]{25}$. $$\\frac{3}{2\\sqrt[3]{5}} \\cdot \\frac{\\sqrt[3]{25}}{\\sqrt[3]{25}}=$$$$\\frac{3\\sqrt[3]{25}}{10}$$Therefore, $A+B+C=3+25+10=\\boxed{38}$.",
+    "socratic_questions": "1. Can you explain what it means to rationalize the denominator?\n2. What are the different methods you know for rationalizing a denominator? \n3. If you choose to multiply both the numerator and denominator by the conjugate of the denominator, what would be the new denominator? \n4. How did you determine the conjugate of the denominator in this case? \n5. Once you have the rationalized denominator, how can you simplify the expression further? \n6. What is the final form of the expression with the rationalized denominator? \n7. How did you identify the values of A, B, and C in the final form? \n8. Can you think of other situations where rationalizing the denominator might be necessary? \n9. How would you approach rationalizing a denominator when dealing with more complex expressions?"
+}

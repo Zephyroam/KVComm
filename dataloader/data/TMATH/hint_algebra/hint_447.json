@@ -1,0 +1,7 @@
+{
+    "problem": "Let $p$ and $q$ be the two distinct solutions to the equation $$(x-3)(x+3) = 21x - 63.$$If $p > q$, what is the value of $p - q$?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "Factoring the right side, we can see that $(x-3)(x+3) = 21(x-3)$. Simplifying, we have $(x-3)(x+3) - 21(x-3) = (x-3)(x-18),$ and therefore our $p$ and $q$ are 18 and 3. Therefore, $p - q = \\boxed{15}.$",
+    "socratic_questions": "1. How would you simplify the left side of the equation $(x-3)(x+3)$?\n2. What can you infer about the solutions to the equation based on the given expression $21x - 63$?\n3. How can you find the values of $p$ and $q$ given that they are the distinct solutions to the equation?\n4. How did you determine that $p$ is greater than $q$?\n5. What is the value of $p - q$ in terms of the solutions $p$ and $q$?\n6. Based on the equation, what information can you use to find the difference between the solutions?\n7. How can you use the given equation to set up an equation that relates $p$ and $q$?\n8. What steps can you take to determine the values of $p$ and $q$?\n9. How can you verify that the values of $p$ and $q$ you find are indeed the solutions to the equation?\n10. Are there any alternative methods or approaches that can be used to find the difference between the solutions $p$ and $q$ in this problem?"
+}

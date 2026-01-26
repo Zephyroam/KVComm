@@ -1,0 +1,7 @@
+{
+    "problem": "What's the coefficient of the $x^2y^4$ term in the expansion of $(x+y)^6$?",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "By the Binomial Theorem, the coefficient that we want is just $\\binom{6}{2}=\\boxed{15}$.",
+    "socratic_questions": "1. What is the Binomial Theorem? Can you explain it in your own words?\n2. How do we use the Binomial Theorem to find the term with a specific degree in a binomial expansion?\n3. What is the general formula for finding the coefficient of a specific term in a binomial expansion?\n4. Can you explain the concept of \"n choose k\" and how it relates to binomial coefficients?\n5. How can we apply the Binomial Theorem to solve problems involving counting, probability, and combinatorics?\n6. Can you think of any real-life situations in which the Binomial Theorem might be useful?"
+}

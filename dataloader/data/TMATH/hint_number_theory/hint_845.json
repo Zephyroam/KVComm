@@ -1,0 +1,7 @@
+{
+    "problem": "How many positive two-digit integers have an odd number of positive factors?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "Only square numbers have an odd number of factors. The $\\boxed{6}$ two-digit squares are 16, 25, 36, 49, 64 and 81.",
+    "socratic_questions": "1. Why are we only considering positive two-digit integers?\n2. What does it mean for a number to have an odd number of positive factors? \n3. Can you identify any two-digit numbers that have an odd number of factors?\n4. What is the relationship between the number of factors a number has and whether it is a square or not?\n5. How can we determine if a positive two-digit integer is a perfect square?\n6. Can you provide a method to find all the two-digit square numbers?\n7. How many two-digit square numbers do we have?\n8. Can you explain why only square numbers have an odd number of factors?\n9. Can you think of any other types of numbers that have an odd number of factors?\n10. How does our understanding of square numbers and factors help us answer the initial question?"
+}

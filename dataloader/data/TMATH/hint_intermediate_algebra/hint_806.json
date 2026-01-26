@@ -1,0 +1,7 @@
+{
+    "problem": "Let $f(x) = x^2-3x$. For what values of $x$ is $f(f(x)) = f(x)$?  Enter all the solutions, separated by commas.",
+    "level": "Level 4",
+    "type": "Intermediate Algebra",
+    "solution": "Expanding $f(f(x)) = f(x)$ gives us $$(x^2-3x)^2-3(x^2-3x)=x^2-3x.$$Rather than expanding, we can subtract $x^2-3x$ from both sides to get $$(x^2-3x)^2-4(x^2-3x)=0.$$Factoring out $x^2-3x$ gives $(x^2-3x)(x^2-3x-4)=0$. Factoring each quadratic separately, we get $$x(x-3)(x+1)(x-4)=0.$$Thus the values of $x$ are $\\boxed{0, 3, -1, 4}$.",
+    "socratic_questions": "1. Can you define the function $f(x)$?\n2. How do we find the values of $x$ that satisfy $f(f(x)) = f(x)$?\n3. What is the given equation equal to after expanding $f(f(x))$?\n4. How did we get the equation $(x^2-3x)^2-4(x^2-3x)=0$?\n5. Can we factor the equation $(x^2-3x)^2-4(x^2-3x)=0$? If so, how?\n6. What are the solutions to the equation $x(x-3)(x+1)(x-4)=0$?\n7. Are there any values of $x$ that make the equation undefined?\n8. Are there any other ways to solve this problem besides factoring? Why or why not?"
+}

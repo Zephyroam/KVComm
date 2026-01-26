@@ -1,0 +1,7 @@
+{
+    "problem": "Simplify the following expression:   \\[2x+3x^2+1-(6-2x-3x^2).\\]",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "The given expression can be rewritten as $2x+3x^2+1-6+2x+3x^2$. Combining like terms, this last expression is equal to $(2x+2x)+(3x^2+3x^2)+(1-6)=\\boxed{6x^2+4x-5}$.",
+    "socratic_questions": "1. What is the first step to simplify this expression?\n2. Can you identify any like terms in the expression? How would you combine them?\n3. How would you simplify the expression within the parentheses?\n4. What is the result of subtracting (6 - 2x - 3x^2)?\n5. After simplifying the expression within the parentheses, what does the expression look like now?\n6. Can you identify any like terms in the simplified expression?\n7. How would you combine the like terms in the simplified expression?\n8. What is the final simplified form of the expression?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Solve for $x$: $5 - x = 8$.",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Add $x$ and subtract 8 from both sides to find that $x=5-8=\\boxed{-3}$.",
+    "socratic_questions": "1. Can you identify the first step we should take to solve the equation $5 - x = 8$?\n2. What does it mean to add and subtract from both sides of an equation? How does that help us isolate the variable on one side?\n3. Why do we add $x$ to both sides and subtract $8$ from both sides in this equation? What is our goal in doing these operations?\n4. Can you explain how the equation changes after adding $x$ and subtracting $8$ from both sides?\n5. What is the value of $x$ that satisfies the equation $5 - x = 8$ after performing these operations?\n6. Are there any alternative methods or strategies we could use to solve this equation? How might they compare to the method we used?"
+}

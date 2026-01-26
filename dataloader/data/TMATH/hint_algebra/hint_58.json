@@ -1,0 +1,7 @@
+{
+    "problem": "Compute the sum of the geometric series $-1 + 2 - 4 + 8 - \\cdots + 512$.",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "The first term is $-1$, the common ratio is $-2$, and there are 10 terms, so the sum equals \\[\\frac{(-1)((-2)^{10}-1)}{-2-1} = \\frac{-1023}{-3} = \\boxed{341}.\\]",
+    "socratic_questions": "1. How would you define a geometric series?\n2. What is the common ratio in the given series?\n3. Can you identify the first term in the series?\n4. How many terms are there in the given series?\n5. How would you calculate the sum of a finite geometric series?\n6. Are there any patterns or observations you can make about the signs of the terms in the given series?\n7. Can you rewrite the given series using sigma notation? What would be the limits of the series?\n8. What is the formula for finding the sum of an infinite geometric series?\n9. Is it possible to find the sum of the given series? Why or why not?\n10. If it is possible to find the sum, what would be the value?"
+}

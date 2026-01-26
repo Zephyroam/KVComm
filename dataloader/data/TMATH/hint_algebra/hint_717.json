@@ -1,0 +1,7 @@
+{
+    "problem": "If $x^2- 2x = 0$ and $x \\neq 0$, what is the value of $x$?",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "Dividing both sides by $x$ (noting that $x\\ne0$), we have $x-2=0$ and so $x=\\boxed{2}$.",
+    "socratic_questions": "1. How would you start solving this equation, considering that it is quadratic?\n2. Can you identify any common factoring techniques that can be used for quadratic equations?\n3. If you were to use factoring, what would be the first step in factoring out the common factor?\n4. Why is it necessary to check the validity of the assumption that x is not equal to 0 in this equation?\n5. Once you have factored out the common factor, what are the possible values for x that would make the equation true?\n6. How would you verify your solution to ensure it is correct?\n7. Are there any other methods you could use to solve this equation, and what steps would be involved in those methods?\n8. Can you think of any real-life scenarios where this type of equation might be applicable?\n9. How does understanding the solution to this equation contribute to your overall understanding of algebraic principles?\n10. Can you generalize the steps or strategies involved in solving this type of equation to other similar equations?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "How many prime positive integers are divisors of 555?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "When we find the prime factorization of 555, we end up with $3\\cdot5\\cdot37$, which means we have $\\boxed{3}$ prime positive divisors.",
+    "socratic_questions": "1. How can we find the prime factorization of 555?\n2. What is the definition of a prime number?\n3. How can we determine if a number is a factor of 555?\n4. Can we find any prime factors of 555 larger than 37? Why or why not?\n5. Are there any negative prime divisors of 555? Why or why not?\n6. How do we determine the number of positive prime divisors of a given number?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Is $f(x) = 3^{x^2-3} - |x|$ an even function, odd function, or neither?\n\nEnter \"odd\", \"even\", or \"neither\".",
+    "level": "Level 1",
+    "type": "Intermediate Algebra",
+    "solution": "$$f(-x) = 3^{(-x)^2-3} - |-x| = 3^{x^2-3} - |x| = f(x) $$which means $f$ is $\\boxed{\\text{even}}$.",
+    "socratic_questions": "1. How would you define an even function?\n2. What is the difference between an even function and an odd function?\n3. How can we determine if a given function is even or odd?\n4. Let's consider the function $f(x) = 3^{x^2-3} - |x|$. How can we check if it's even or odd?\n5. To determine if $f(x)$ is even, what property do we need to investigate?\n6. Let's substitute $-x$ into the function: $f(-x) = 3^{(-x)^2-3} - |-x|$. Can we simplify this expression further?\n7. Simplifying $f(-x)$, what do we observe?\n8. Based on the result, what conclusion can we draw about the function $f(x)$?\n9. Can we generalize this conclusion to all functions of the form $f(x) = 3^{x^2-3} - |x|$?\n10. Are there any other approaches we can use to determine if a function is even or odd?"
+}

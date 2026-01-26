@@ -1,0 +1,7 @@
+{
+    "problem": "What is the least positive integer that can be added to 412 to yield a multiple of 3?",
+    "level": "Level 1",
+    "type": "Number Theory",
+    "solution": "Note that dividing 412 by 3 gives a quotient of 137 and a remainder of 1. Thus the next multiple of 3 is $3-1=\\boxed{2}$ more than 412.",
+    "socratic_questions": "1. Can you restate the problem in your own words?\n2. What is the remainder when 412 is divided by 3? How does this relate to finding the least positive integer to add to 412 to yield a multiple of 3? \n3. How can you use the remainder to determine the necessary amount to add to 412 to make it a multiple of 3? \n4. Are there any restrictions on the possible integer you can add to 412 to make it a multiple of 3? If so, what are they? \n5. How would the problem change if we asked for the least positive integer to subtract from 412 to yield a multiple of 3? Can the same approach be used to solve this new problem? \n6. Can you think of other problems involving multiples and remainders that can be solved using similar methods?"
+}

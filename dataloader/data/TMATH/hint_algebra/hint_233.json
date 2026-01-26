@@ -1,0 +1,7 @@
+{
+    "problem": "Find the leading coefficient in the polynomial $-3(x^4 - x^3 + x) + 7(x^4 + 2) - 4(2x^4 + 2x^2 + 1)$ after it is simplified.",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "The leading coefficient is the coefficient of the term with the highest power of $x$, which in this case is $x^4$.  The coefficient of $x^4$ in $-3(x^4 - x^3 + x) + 7(x^4 + 2) - 4(2x^4 + 2x^2 + 1)$ is $-3 + 7 - 4 \\cdot 2 = \\boxed{-4}$.",
+    "socratic_questions": "1. Can you identify the leading term in each of the three polynomial expressions given? What is the leading term in each, and how did you determine that?\n2. How would you begin to simplify the given expression? What steps or operations do you think are required?\n3. What happens when you distribute the coefficients of each term within the parentheses?\n4. After distributing the coefficients, what are the like terms that can be combined? Can you simplify the expression further by combining any like terms?\n5. How did you determine the leading term in the simplified expression? What role does the degree of each term play in identifying the leading term?\n6. Can you identify the leading coefficient in the simplified expression? How does the leading coefficient relate to the original coefficients of the polynomials?\n7. What is the significance of the leading coefficient in a polynomial? How does it affect the shape, behavior, and properties of the polynomial graph?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Find the real root of the equation \\[\\sqrt{x} + \\sqrt{x+2} = 10.\\]",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "Subtracting $\\sqrt{x}$ from both sides and then squaring, we get \\[x+2 = (10-\\sqrt x)^2 = x - 20\\sqrt x + 100.\\]Therefore, $20\\sqrt x = 98,$ so $\\sqrt x = \\frac{98}{20} = \\frac{49}{10}.$ Therefore, $x = \\left(\\frac{49}{10}\\right)^2 = \\boxed{\\frac{2401}{100}},$ or $x = 24.01.$",
+    "socratic_questions": "1. What is the first step in solving this equation?\n2. Are there any alternate methods that could be used to solve this equation?\n3. If we choose to subtract $\\sqrt{x}$ from both sides, what do we get? Can you explain why we made this choice?\n4. After squaring both sides, what does the equation simplify to? What did we gain or lose by squaring both sides?\n5. How did we isolate $\\sqrt{x}$ on one side of the equation? Can you explain the steps involved?\n6. What is the value of $\\sqrt{x}$? How did you arrive at this value?\n7. What is the final value of $x$? Can you explain the steps involved in finding this value?\n8. Are there any other types of equations that might require similar thinking and steps to solve? Can you provide examples?"
+}

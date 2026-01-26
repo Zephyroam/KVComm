@@ -1,0 +1,7 @@
+{
+    "problem": "Find the center of the circle with equation $x^2 - 2x + y^2 - 4y - 28 = 0$.",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "Completing the square, we get $(x - 1)^2 + (y - 2)^2 = 33$. Therefore, the center of the circle is $\\boxed{(1, 2)}$.",
+    "socratic_questions": "1. Can you identify the general form of a circle equation and compare it to the given equation?\n2. What are the steps involved in completing the square for this equation?\n3. How can completing the square help us find the coordinates of the center of the circle?\n4. Can you show the steps you would take to complete the square for this equation and find the coordinates of the center?\n5. Once you have completed the square, what can you conclude about the center of the circle?\n6. Are there any particular characteristics or patterns in the coefficients of the equation that can help in identifying the center?\n7. If you had a different equation representing a circle, would the process of finding the center be similar or different? Explain.\n8. How does finding the center of a circle relate to understanding the concept of symmetry?\n9. Can you think of any real-life examples or applications where finding the center of a circle is important?\n10. What other geometrical properties of a circle can be determined once the center is known?"
+}

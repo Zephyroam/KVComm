@@ -1,0 +1,7 @@
+{
+    "problem": "Find $s$ given that \\[3 \\log_2 s = \\log_2 (3s).\\]",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "By logarithm identities, we have \\[\\log_2 (s^3) = \\log_2 (3s).\\]Thus, $s^3 = 3s$, and since $s$ must be positive, we can divide by $s$ to get $s^2 = 3.$ Thus, $s = \\boxed{\\sqrt{3}}.$",
+    "socratic_questions": "1. Can you explain what a logarithm is and how it differs from an exponential function?\n2. How can we use logarithmic identities to simplify the given equation?\n3. What does it mean for the bases of two logarithmic expressions to match, and how does that help us solve the equation?\n4. Can you verify the solution of $s = \\sqrt{3}$ by plugging it back into the original equation and checking if it satisfies the equation?\n5. Are there any restrictions on the possible values of $s$ in this equation? If so, why is that?"
+}

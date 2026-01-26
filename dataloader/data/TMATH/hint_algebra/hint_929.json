@@ -1,0 +1,7 @@
+{
+    "problem": "Find the coefficient of $x^2$ when $3(x^2 - x^3) +2(x - 2x^2 + 3x^5) -(4x^3 - x^2)$ is simplified.",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "When we expand we get  \\begin{align*}\n&3(x^2 - x^3) +2(x - 2x^2 + 3x^5) -(4x^3 - x^2) \\\\\n&\\qquad =3x^2 - 3x^3 +2x - 4x^2 + 6x^5 -4x^3 + x^2\\\\\n&\\qquad =6x^5-7x^3+2x.\n\\end{align*}The coefficient of $x^2$ is $3-4+1=\\boxed{0}$.",
+    "socratic_questions": "1. Can you identify the terms with $x^2$ in the expression?\n2. What operation do you need to perform in order to combine the like terms?\n3. How would you simplify the expression with the terms containing $x^2$?\n4. What is the coefficient of $x^2$ after combining the terms?\n5. Can you explain why the coefficient of $x^2$ is calculated in this way?\n6. Can you generalize this process for finding the coefficient of $x^2$ in any given expression?"
+}

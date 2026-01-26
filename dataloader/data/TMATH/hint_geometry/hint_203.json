@@ -1,0 +1,7 @@
+{
+    "problem": "A circle centered at $O$ is circumscribed about $\\triangle ABC$ as follows: [asy]\npair pA, pB, pC, pO;\npO = (0, 0);\npA = pO + dir(-20);\npB = pO + dir(90);\npC = pO + dir(190);\ndraw(pA--pB--pC--pA);\ndraw(pO--pA);\ndraw(pO--pB);\ndraw(pO--pC);\nlabel(\"$O$\", pO, S);\nlabel(\"$110^\\circ$\", pO, NE);\nlabel(\"$100^\\circ$\", pO, NW);\nlabel(\"$A$\", pA, SE);\nlabel(\"$B$\", pB, N);\nlabel(\"$C$\", pC, SW);\ndraw(circle(pO, 1));\n[/asy] What is the measure of $\\angle BAC$, in degrees?",
+    "level": "Level 2",
+    "type": "Geometry",
+    "solution": "We can see that $\\angle AOC = 360^\\circ - (110^\\circ + 100^\\circ) = 150^\\circ.$ Now, $\\triangle AOC$ and $\\triangle AOB$ are both isosceles triangles. That means that $\\angle OAC = \\frac{1}{2} \\cdot (180^\\circ - 150^\\circ) = 15^\\circ$ and $\\angle OAB = \\frac{1}{2} \\cdot (180^\\circ - 110^\\circ) = 35^\\circ.$  Therefore, our answer is $\\angle BAC = \\angle OAB + \\angle OAC = 15^\\circ + 35^\\circ = \\boxed{50^\\circ}.$",
+    "socratic_questions": "1. What can we deduce about the central angle AOC in the circle?\n2. How can we use the fact that the triangle is inscribed in the circle to find the measure of angle AOC?\n3. Can we identify any properties of the isosceles triangles AOC and AOB?\n4. How can we determine the measure of angles OAC and OAB using the properties of isosceles triangles?\n5. What is the relationship between angle BAC and angles OAB and OAC?\n6. Using the information we've gathered, what is the measure of angle BAC?"
+}

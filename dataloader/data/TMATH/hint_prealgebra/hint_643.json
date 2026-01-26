@@ -1,0 +1,7 @@
+{
+    "problem": "There are 4 representatives from each of 4 companies at a convention. At the start of the convention, every person shakes hands once with every person except the other representatives from their company. How many handshakes are there?",
+    "level": "Level 5",
+    "type": "Prealgebra",
+    "solution": "All 16 people shake hands with 12 other people (everyone except themselves and the other representatives from their company).  In multiplying $16 \\times 12$, each handshake is counted twice, so we divide by two to get the answer of $\\dfrac{16 \\times 12}{2} = \\boxed{96}$ handshakes.",
+    "socratic_questions": "1. Can you explain what the problem is asking for in your own words?\n2. How many representatives are there in total at the convention?\n3. How many representatives are there from each company?\n4. How many people does each representative shake hands with?\n5. If each representative shakes hands with every person except the other representatives from their company, how many people is each representative shaking hands with?\n6. How many total handshakes are there if each representative shakes hands with 12 other people?\n7. Why do we need to divide the total number of handshakes by two?\n8. What is the final answer to the problem?"
+}

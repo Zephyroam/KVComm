@@ -1,0 +1,7 @@
+{
+    "problem": "How many multiples of 10 are between 11 and 103?",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "The first multiple of $10$ that is greater than $11$ is $20$, and the last multiple of $10$ that is less than $103$ is $100$. The list of multiples is $20$, $30$, $\\ldots$, $100$. Divide each of these numbers by $10$ to get the list $2$, $3$, $\\ldots$, $10$. Subtracting $1$ from each number in this list gives a new list of $1$, $2$, $\\ldots $, $9$, so it is clear that there are $\\boxed{9}$ such numbers.",
+    "socratic_questions": "1. Can you describe the first step in solving this problem?\n2. Are you familiar with the concept of multiples? How would you define a multiple of 10?\n3. How can we determine the first multiple of 10 that is greater than 11? And the last multiple of 10 that is less than 103?\n4. Once we have the list of multiples, what operation can we do to find the number of multiples between 11 and 103?\n5. How can we modify the list of multiples to make it easier to count?\n6. How can we determine the number of elements in the modified list?\n7. What is the final answer to the question \"How many multiples of 10 are between 11 and 103?\"?"
+}

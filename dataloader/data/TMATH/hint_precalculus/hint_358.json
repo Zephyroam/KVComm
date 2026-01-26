@@ -1,0 +1,7 @@
+{
+    "problem": "Find the value of $x$ for which the matrix\n\\[\\begin{pmatrix} 1 + x & 7 \\\\ 3 - x & 8 \\end{pmatrix}\\]is not invertible.",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "A matrix is not invertible if and only its determinant is 0.  This gives us the equation\n\\[(1 + x)(8) - (7)(3 - x) = 0.\\]Solving, we find $x = \\boxed{\\frac{13}{15}}.$",
+    "socratic_questions": "1. Can you explain why a matrix is not invertible if its determinant is 0?\n2. How would you calculate the determinant of the given matrix?\n3. Can you simplify and solve the equation $(1 + x)(8) - (7)(3 - x) = 0$?\n4. What would be the consequence if the determinant were not equal to 0?\n5. Can you think of any other instances where finding the determinant is important in linear algebra?\n6. How does the concept of invertible matrices relate to the existence of solutions in linear systems of equations?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Let $\\mathbf{v}$ and $\\mathbf{w}$ be vectors such that\n\\[\\operatorname{proj}_{\\mathbf{w}} \\mathbf{v} = \\begin{pmatrix} 3 \\\\ 2 \\end{pmatrix}.\\]Compute $\\operatorname{proj}_{\\mathbf{w}} (5 \\mathbf{v}).$",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "From the formula for a projection,\n\\begin{align*}\n\\operatorname{proj}_{\\mathbf{w}} (5 \\mathbf{v}) &= \\frac{(5 \\mathbf{v}) \\cdot \\mathbf{w}}{\\|\\mathbf{w}\\|^2} \\mathbf{w} \\\\\n&= \\frac{5 \\mathbf{v} \\cdot \\mathbf{w}}{\\|\\mathbf{w}\\|^2} \\mathbf{w} \\\\\n&= 5 \\operatorname{proj}_{\\mathbf{w}} \\mathbf{v} \\\\\n&= 5 \\begin{pmatrix} 3 \\\\ 2 \\end{pmatrix} \\\\\n&= \\boxed{\\begin{pmatrix} 15 \\\\ 10 \\end{pmatrix}}.\n\\end{align*}",
+    "socratic_questions": "1. How would you describe the first step in computing $\\operatorname{proj}_{\\mathbf{w}} (5 \\mathbf{v})$?\n2. What is the formula for a projection? How can we apply this formula in this scenario?\n3. How can we calculate the dot product of $5 \\mathbf{v}$ and $\\mathbf{w}$?\n4. What does the magnitude of $\\mathbf{w}$ represent in the formula? How can we compute it?\n5. What is the result of $\\operatorname{proj}_{\\mathbf{w}} \\mathbf{v}$? How can we use this result to compute $\\operatorname{proj}_{\\mathbf{w}} (5 \\mathbf{v})$?\n6. Can you think of any other similar scenarios where we might use a similar thought process and steps?"
+}

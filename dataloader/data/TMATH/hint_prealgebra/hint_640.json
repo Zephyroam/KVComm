@@ -1,0 +1,7 @@
+{
+    "problem": "If the price of a stamp is 33 cents, what is the maximum number  of stamps that could be purchased with $\\$32$?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "$\\$32$ is equal to 3200 cents. Since $n$ stamps cost $33n$ cents, we can buy $n$ stamps only if $33n \\le 3200$. Dividing both sides of this inequality by $33$, we get $$n\\le \\frac{3200}{33}.$$We want to know the largest integer $n$ which satisfies this inequality (since we can only buy an integer number of stamps). We note that \\begin{align*}\n\\frac{3200}{33} &= \\frac{3300}{33} - \\frac{100}{33} \\\\\n&= 100 - 3\\frac{1}{33} \\\\\n&= 96\\frac{32}{33},\n\\end{align*}so the largest number of stamps we can buy is $\\boxed{96}$.",
+    "socratic_questions": "1. What is the problem asking us to find?\n2. How can we find the maximum number of stamps that can be purchased with $\\$32$?\n3. What is the formula we can use to relate the number of stamps and the cost?\n4. How can we use inequalities to find the maximum number of stamps?\n5. Why do we need to divide the inequality by $33$?\n6. Once we have the inequality $n \\le \\frac{3200}{33}$, how can we find the largest integer $n$?\n7. What is the significance of finding the largest integer $n$?\n8. Why is it important to verify that our answer makes sense in the context of the problem?\n9. Can this method of solving problems be applied to other situations involving money and quantities?"
+}

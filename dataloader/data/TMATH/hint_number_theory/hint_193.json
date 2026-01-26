@@ -1,0 +1,7 @@
+{
+    "problem": "Compute the smallest base-10 positive integer greater than 5 that is a palindrome when written in both base 2 and 4.",
+    "level": "Level 5",
+    "type": "Number Theory",
+    "solution": "We start by testing palindromic sequences in base 4. Since the positive integer must be greater than 5, we start by analyzing $22_4$, which is $1010_2$. We then test $33_4$, which is $1111_2$. Converting to base 10, we have $33_4 = 3(4) + 3 = \\boxed{15}$.",
+    "socratic_questions": "1. What is a palindrome number? \n2. Can you explain what it means for a number to be written in a certain base? \n3. How can we determine if a number is a palindrome in base 2? \n4. How can we determine if a number is a palindrome in base 4? \n5. What is the smallest possible base-10 positive integer greater than 5 that is a palindrome in base 2? \n6. What is the smallest possible base-10 positive integer greater than 5 that is a palindrome in base 4? \n7. Is it possible for an integer to be a palindrome in both base 2 and 4? \n8. Why did we start by testing palindromic sequences in base 4? \n9. How did we determine the answer to the given problem? \n10. Can you think of other problems that require analyzing numbers in different bases?"
+}

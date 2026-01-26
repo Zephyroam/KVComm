@@ -1,0 +1,7 @@
+{
+    "problem": "Simplify $\\frac{36}{54}$.",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "Since both 36 and 54 are multiples of 18, we can write $\\frac{36}{54} = \\frac{2 \\cdot 18}{3 \\cdot 18} =$ $\\boxed{\\frac{2}{3}}$.",
+    "socratic_questions": "1. Can you explain what is meant by simplifying a fraction?\n2. What factors can we look for in both the numerator and denominator to simplify a fraction?\n3. How would you approach simplifying a fraction with larger numbers, like 128/192?\n4. Are there any common mistakes to avoid when simplifying fractions?\n5. Can you explain why simplifying fractions is important in math and everyday life? Examples?"
+}

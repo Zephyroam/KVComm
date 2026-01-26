@@ -1,0 +1,7 @@
+{
+    "problem": "The probability that Kim has a math test today is $\\frac{4}{7}$. What is the probability that Kim does not have a math test today? Express your answer as a common fraction.",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "The probability that Kim does not have a math test is equal to one minus the probability she does have a math test. So, the probability of not having a math test is $1 - \\frac{4}{7} = \\boxed{\\frac{3}{7}}$.",
+    "socratic_questions": "1. Can you explain what probability means in this context?\n2. What does it mean when we say the probability of an event is $\\frac{4}{7}$?\n3. What does it imply when we say the probability of an event not happening is equal to one minus the probability of it happening?\n4. How can we express the probability of Kim not having a math test today using the given information?\n5. Why do we subtract $\\frac{4}{7}$ from 1 in order to find the probability of not having a math test?\n6. Can you simplify the expression $\\frac{3}{7}$ and state the final probability of not having a math test today?\n7. Can you think of any other scenarios or examples where we can use similar logic to find the probability of an event not happening?"
+}

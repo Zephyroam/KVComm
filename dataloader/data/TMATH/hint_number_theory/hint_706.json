@@ -1,0 +1,7 @@
+{
+    "problem": "How many positive perfect squares less than $10^6$ are multiples of 24?",
+    "level": "Level 5",
+    "type": "Number Theory",
+    "solution": "Because $24 = 3\\cdot 2^3$, a square is divisible by 24 if and only if it is divisible by $3^2\\cdot 2^4 = 144$. Furthermore, a perfect square $N^2$ less than $10^6$ is a multiple of 144 if and only if $N$ is a multiple of 12 less than $10^3$. Because 996 is the largest multiple of 12 less than $10^3$, there are $\\frac{996}{12}= 83$ such positive integers less than $10^3$ and $\\boxed{83}$ positive perfect squares which are multiples of 24.",
+    "socratic_questions": "1. Can you explain what is meant by a perfect square? \n2. How do we determine if a perfect square is a multiple of 24? \n3. Can you explain why a perfect square less than $10^6$ is a multiple of 144 if and only if its square root is a multiple of 12 less than $10^3$? \n4. How did we arrive at the conclusion that there are 83 positive perfect squares less than $10^6$ that are multiples of 24? \n5. Are there any other values of $n$ in the equation $n^2 < 10^6$ such that $n^2$ is a multiple of 24? \n6. Can you think of any other number theory problems that could be approached using a similar method as in this problem?"
+}

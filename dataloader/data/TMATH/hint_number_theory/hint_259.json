@@ -1,0 +1,7 @@
+{
+    "problem": "If $a$, $b$, and $c$ are digits and $0.abc$ can be expressed as $\\frac{1}{y}$ where $y$ is an integer such that $0<y\\le9$, then what is the largest possible value of $a+b+c$?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "Converting from a decimal to a fraction, we obtain $0.abc = \\frac{abc}{1000} = \\frac{abc}{2^3\\cdot5^3} = \\frac{1}{y}$. Since $0<y\\le9$ and $y$ divides into $1000$, $y$ must equal one of $1,2,4,5$ or $8$. Notice that $y\\neq1$ because then $abc = 1000$, which is impossible as $a$, $b$, and $c$ are digits. So, breaking down the remaining possibilities: \\begin{align*}\ny&=2 \\Rightarrow abc = 2^2\\cdot5^3 = 500 \\Rightarrow a+b+c = 5+0+0=5 \\\\\ny&=4 \\Rightarrow abc = 2\\cdot5^3 = 250 \\Rightarrow a+b+c = 2+5+0=7 \\\\\ny&=5 \\Rightarrow abc = 2^3\\cdot5^2 = 200 \\Rightarrow a+b+c = 2+0+0 = 2 \\\\\ny&=8 \\Rightarrow abc = 5^3 = 125 \\Rightarrow a+b+c =1+2+5 = 8.\n\\end{align*}Therefore, the largest possible value of $a+b+c$ is $\\boxed{8}$.",
+    "socratic_questions": "1. What is the problem asking for? \n2. How can we express the given decimal as a fraction?\n3. What are the possible values of y given the restrictions?\n4. How do we eliminate the possibility of y being 1?\n5. Why do the remaining possibilities for y have to divide into 1000?\n6. For each possible value of y, what is the corresponding value of abc?\n7. For each value of abc, what is the corresponding value of a+b+c?\n8. What is the largest possible value of a+b+c and how do we obtain it?"
+}

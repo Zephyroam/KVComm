@@ -1,0 +1,7 @@
+{
+    "problem": "If $y=kx^{\\frac{1}{4}}$ and $y=3\\sqrt{2}$ at $x=81$, what is the value of $y$ at $x=4$?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "First we have to solve for $k$ where $3\\sqrt{2}=k\\cdot81^{\\frac{1}{4}}$.  Since $81^{\\frac{1}{4}}=3$, we have $3\\sqrt{2}=k\\cdot3$, so $k = \\sqrt{2}$.\n\nWhen $x=4$, we have$$y=k\\cdot4^{\\frac{1}{4}}=k\\cdot\\sqrt{2}.$$Since $k=\\sqrt{2}$, we have $$y=\\sqrt{2}\\cdot\\sqrt{2}=\\boxed{2}.$$",
+    "socratic_questions": "1. Can you explain what the equation $y=kx^{\\frac{1}{4}}$ represents?\n2. What does the value of $k$ tell us about the relationship between $y$ and $x$?\n3. How can we find the value of $k$ if we know that $y=3\\sqrt{2}$ when $x=81$?\n4. Can you explain the process of substituting the given values into the equation to solve for $k$?\n5. Once we have determined the value of $k$, how can we use it to find the value of $y$ when $x=4$?\n6. Can you describe the steps involved in substituting $x=4$ and the value of $k$ into the equation to calculate $y$?"
+}

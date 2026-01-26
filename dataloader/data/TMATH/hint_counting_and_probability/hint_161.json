@@ -1,0 +1,7 @@
+{
+    "problem": "Ryan has 3 red lava lamps and 3 blue lava lamps. He arranges them in a row on a shelf randomly, and then randomly turns 3 of them on. What is the probability that the leftmost lamp is blue and off, and the rightmost lamp is red and on?",
+    "level": "Level 5",
+    "type": "Counting & Probability",
+    "solution": "There are $\\binom{6}{3}=20$ ways to choose where the red lamps go, and $\\binom{6}{3}=20$ ways to choose which lamps are on. If the left lamp is blue and off, and the right lamp is red and on, there are $\\binom{4}{2}=6$ ways to choose which of the remaining lamps are red, and $\\binom{4}{2}=6$ ways to choose which of the remaining lamps are on. Therefore, the probability is $\\dfrac{6\\cdot6}{20\\cdot20}=\\boxed{\\dfrac{9}{100}}$.",
+    "socratic_questions": "1. What is the total number of lava lamps that Ryan has?\n2. How many ways can Ryan arrange the six lava lamps on the shelf?\n3. What is the total number of ways that Ryan can turn on 3 lamps out of 6?\n4. What is the probability that the leftmost lamp is blue and off?\n5. What is the probability that the rightmost lamp is red and on?\n6. What is the probability that both events in question 4 and 5 happen simultaneously?\n7. How did we calculate the total number of ways to arrange and turn on the bulbs?\n8. How did we calculate the number of ways that satisfy both conditions in question 4 and 5?\n9. What other methods could we use to solve this problem?\n10. Can we generalize this problem to different numbers of lamps and different conditions?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Convert $813_9$ to base 3.",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "Since $9 = 3^2$, we can convert directly to base 3 by expanding each base 9 digit into two base 3 digits:   \\begin{align*} 8_9 &= 22_3 \\\\ 1_9 &= 01_3 \\\\ 3_9 &= 10_3 \\end{align*}  Putting the base 3 digit pairs together, we get $813_9 = \\boxed{220110_3}$.",
+    "socratic_questions": "1. What is base 9 and base 3, and how do they differ from each other?\n2. How does the fact that 9 is equal to $3^2$ help us in converting $813_9$ to base 3?\n3. Can you explain the process of expanding each base 9 digit into two base 3 digits?\n4. Are there any other bases that can be converted directly to base 3 with this method? Can you provide an example?\n5. How do you know the final base 3 number is correct? Is there a way to check?\n6. How can this method of converting between bases be applied to other numbers and bases differently from what we have done here?"
+}

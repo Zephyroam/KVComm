@@ -1,0 +1,7 @@
+{
+    "problem": "What is the base $2$ representation of $84_{10}$?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "We first find that the largest power of $2$ that is less than $84$ is $2^6 = 64$. Our next step is to find the largest power of $2$ that is less than $84 - 64 = 20$ which is $2^4=16$. This leaves us left with $20 - 16 = 4$, but $4 = 2 ^2$, so we have $$84 = 1 \\cdot 2^6 + 0 \\cdot 2^5 + 1 \\cdot 2^4 + 0 \\cdot 2^3 + 1 \\cdot 2^2 + 0 \\cdot 2^1 + 0 \\cdot 2^0.$$Thus, our base $2$ representation of $84_{10}$ is $\\boxed{1010100_2}$.",
+    "socratic_questions": "1. Can you explain what the base 2 representation of a number means?\n2. How can we determine the largest power of 2 that is less than 84?\n3. Why do we subtract the largest power of 2 from 84 and continue this process?\n4. Why do we write the coefficients as 0 or 1 in the base 2 representation?\n5. Can you explain why we use the powers of 2 in the base 2 representation?\n6. Are there any other number systems besides base 2 where we use a similar approach to represent numbers?\n7. Can you think of any advantages or disadvantages of using the base 2 representation for certain applications?"
+}

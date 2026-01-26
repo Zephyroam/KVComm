@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\arccos \\frac{\\sqrt{3}}{2}.$  Express your answer in radians.",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "Since $\\cos \\frac{\\pi}{6} = \\frac{\\sqrt{3}}{2},$ $\\arccos \\frac{\\sqrt{3}}{2} = \\boxed{\\frac{\\pi}{6}}.$",
+    "socratic_questions": "1. What is the definition of $\\arccos$?\n2. Can you recall any trigonometric identities that involve cosine?\n3. How can we relate the value $\\frac{\\sqrt{3}}{2}$ to a specific angle in the unit circle?\n4. Can you identify any angle in the unit circle that has a cosine value of $\\frac{\\sqrt{3}}{2}$?\n5. What is the relationship between the angle $\\frac{\\pi}{6}$ and $\\frac{\\sqrt{3}}{2}$?\n6. How can we express $\\frac{\\pi}{6}$ in radians?"
+}

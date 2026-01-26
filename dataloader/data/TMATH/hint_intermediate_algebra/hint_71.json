@@ -1,0 +1,7 @@
+{
+    "problem": "Let $x$ and $y$ be real numbers, $y > x > 0,$ such that\n\\[\\frac{x}{y} + \\frac{y}{x} = 6.\\]Find the value of \\[\\frac{x + y}{x - y}.\\]",
+    "level": "Level 5",
+    "type": "Intermediate Algebra",
+    "solution": "From the given equation, $\\frac{x^2 + y^2}{xy} = 6,$ so $x^2 + y^2 = 6xy.$\n\nLet\n\\[a = \\frac{x + y}{x - y}.\\]Then\n\\[a^2 = \\frac{x^2 + 2xy + y^2}{x^2 - 2xy + y^2} = \\frac{8xy}{4xy} = 2.\\]Since $y > x > 0,$ $a = \\frac{x + y}{x - y}$ is negative.  Therefore, $a = \\boxed{-\\sqrt{2}}.$",
+    "socratic_questions": "1. Can you describe what the given equation represents and what we're trying to find?\n2. What does it mean for two real numbers to have their sum being equal to 6 times their product?\n3. Can you think of any possible approaches to solve this equation?\n4. If we let $a = \\frac{x + y}{x - y}$, what does $a$ represent geometrically or algebraically?\n5. How can we express $a^2$ in terms of $x$ and $y$ using the given equation?\n6. What does finding the value of $a$ tell us about the relationship between $x$ and $y$?\n7. Is there a specific range for $a$ based on the given conditions ($y > x > 0$)? If so, what is it?\n8. Is there a connection between the value of $a$ and the shape of the curve given by the equation $\\frac{x}{y} + \\frac{y}{x} = 6$?\n9. How can we use $a$ to find the value of $\\frac{x + y}{x - y}$?\n10. Are there any other similar problems or situations where we might encounter a similar approach or line of thinking?"
+}

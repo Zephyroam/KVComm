@@ -1,0 +1,7 @@
+{
+    "problem": "Compute the sum of the number $10 - \\sqrt{2018}$ and its radical conjugate.",
+    "level": "Level 1",
+    "type": "Intermediate Algebra",
+    "solution": "The radical conjugate of this number is $10 + \\sqrt{2018},$ so when we add them, the radical parts cancel, giving $10 + 10 = \\boxed{20}.$",
+    "socratic_questions": "1. How would you describe the number $10 - \\sqrt{2018}$?\n2. What does the term \"radical conjugate\" mean in this context?\n3. How can we find the radical conjugate of a given number?\n4. What happens when we add a number and its radical conjugate?\n5. Can you compute the sum of $10 - \\sqrt{2018}$ and its radical conjugate?\n6. What is the resulting sum?"
+}

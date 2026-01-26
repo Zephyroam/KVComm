@@ -1,0 +1,7 @@
+{
+    "problem": "A two-gallon container had all of its dimensions tripled. How many gallons does the new container hold?",
+    "level": "Level 3",
+    "type": "Geometry",
+    "solution": "Suppose that our two-gallon container is in the shape of a rectangular prism. If we triple the length, the volume triples. Tripling the width or the height gives us the same result. Therefore, tripling all of the dimensions increases the volume by a factor of $3\\cdot 3 \\cdot 3 = 27$. The new container can hold $2 \\times 27 = \\boxed{54}$ gallons.",
+    "socratic_questions": "1. What is the shape of the container?\n2. What are the dimensions of the original container?\n3. How does tripling one dimension affect the volume of a rectangular prism?\n4. What happens to the volume when all three dimensions are tripled?\n5. How can we calculate the new volume of the container?\n6. What is the final result?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Find the sum of the roots of the equation \\[(2x^3 + x^2 - 8x + 20)(5x^3 - 25x^2 + 19) = 0.\\]",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "By Vieta's formulas, the sum of the roots of $2x^3 + x^2 - 8x + 20 = 0$ is $-\\tfrac{1}{2}.$ Similarly, the sum of the roots of $5x^3-25x^2+19=0$ is $-\\tfrac{-25}{5} = 5.$ Notice that the roots of the given equation consist of the roots of both equations put together (since, in general, $ab = 0$ if and only if $a=0$ or $b=0$). Therefore, the sum of the roots of the given equation is $-\\tfrac{1}{2} + 5 = \\boxed{\\tfrac{9}{2}}.$",
+    "socratic_questions": "1. How can we find the sum of the roots of the equation $(2x^3 + x^2 - 8x + 20)(5x^3 - 25x^2 + 19) = 0$?\n2. Can you explain what Vieta's formulas are and how they can be used to find the sum of the roots of a polynomial equation?\n3. What are the roots of the equation $2x^3 + x^2 - 8x + 20 = 0$ and how can we find their sum using Vieta's formulas?\n4. What are the roots of the equation $5x^3 - 25x^2 + 19 = 0$ and how can we find their sum using Vieta's formulas?\n5. Why is it valid to combine the roots of both equations to find the sum of the roots of the given equation?\n6. Can you explain why $ab = 0$ if and only if $a = 0$ or $b = 0$?\n7. Based on the information we have, what is the sum of the roots of the given equation?"
+}

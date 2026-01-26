@@ -1,0 +1,7 @@
+{
+    "problem": "Find the greatest value of $a$ such that $a^2-10a+21 \\le 0$.",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "We factor the quadratic, getting $(a-7)(a-3) \\le 0$. The expression is equal to $0$ when $a=7 \\text{ or } 3$. When $a \\le 3$ or $a \\ge 7$, the quadratic is positive, since the two factors have the same sign. When $3 \\le a \\le 7$, the quadratic is non-positive. Therefore, $a=\\boxed{7}$ is the greatest value of $a$ for which $a^2 - 10a + 21\\le 0$.",
+    "socratic_questions": "1. How would you approach solving inequalities like $a^2-10a+21 \\le 0$? \n2. Can you factorize the quadratic expression $a^2-10a+21$? If so, what are the factors? \n3. How would you determine the sign of each factor in order to solve the inequality? \n4. What values of $a$ satisfy the condition $(a-3)(a-7)\\le0$? \n5. How can you interpret the condition $(a-3)(a-7)\\le0$ in terms of the graph of the quadratic function? \n6. Are there any other ways you can think of to solve inequalities similar to this one?"
+}

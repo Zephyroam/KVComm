@@ -1,0 +1,7 @@
+{
+    "problem": "The four-digit numeral $3AA1$ is divisible by 9. What digit does $A$ represent?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "If a number is divisible by 9, then the sum of its digits is divisible by 9. The digit sum is $3+A+A+1=2A+4$. Trying different values of $A$ to see what they make the digit sum, we see that no values of $A$ make $2A+4$ divisible by 9 except for $A=7$. We see that $4+2A=18$, so $A=\\boxed{7}$.",
+    "socratic_questions": "1. How does divisibility by 9 relate to the sum of the digits of a number? Can you explain this relationship?\n2. What is the sum of the digits of the number $3AA1$? How can we express this sum in terms of $A$?\n3. Can you think of any values of $A$ that would make the sum of the digits divisible by 9? Why or why not?\n4. Let's consider the equation $2A + 4 = 9k$, where $k$ is an integer. How would we solve this equation for $A$?\n5. By testing different values of $A$, can you find any value that satisfies the equation $2A + 4 = 9k$? What does this value of $A$ represent?\n6. Can you think of any other situations in which the sum of the digits and divisibility play a role in solving a problem? How might similar thinking and steps be applied in those cases?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Grady distributed $x$ pieces of candy evenly among nine Halloween bags such that every bag received the greatest possible number of whole pieces of candy, but some candy was left over. What is the greatest possible number of pieces that could have been left over?",
+    "level": "Level 1",
+    "type": "Number Theory",
+    "solution": "Grady distributes his candy in groups of 9 until he no longer has any groups left.  The largest number of possible pieces left is $\\boxed{8},$ since if he has more than 8 he can distribute another group of 9.",
+    "socratic_questions": "1. How does Grady distribute the candy among the Halloween bags? Can you describe the process?\n2. What is the objective in distributing the candy? What is the greatest possible number of whole pieces that each bag should receive?\n3. Can you explain why there will always be some leftover candy after distributing it evenly among the bags?\n4. How does Grady determine the number of groups of candy he can distribute? Can you explain the reasoning behind it?\n5. Can you think of a scenario where Grady distributes the candy such that the leftover pieces are the greatest possible? What would be the maximum number of pieces left over in that case?\n6. Are there any limitations or constraints in this scenario that affect the maximum number of pieces left over? Why or why not?"
+}

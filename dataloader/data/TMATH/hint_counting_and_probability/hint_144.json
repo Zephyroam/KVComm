@@ -1,0 +1,7 @@
+{
+    "problem": "A jar contains two red marbles, three green marbles, ten white marbles and no other marbles. Two marbles are randomly drawn from this jar without replacement. What is the probability that these two marbles drawn will both be red? Express your answer as a common fraction.",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "The total number of marbles is $2+3+10=15$.  The probability that the first marble drawn will be red is $2/15$.  Then, there will be one red left, out of 14.  Therefore, the probability of drawing out two red marbles will be: $$\\frac{2}{15}\\cdot\\frac{1}{14}=\\boxed{\\frac{1}{105}}$$",
+    "socratic_questions": "1. What is the total number of marbles in the jar?\n2. How many red marbles are there in the jar?\n3. How many marbles are drawn from the jar?\n4. Can the marbles be replaced after they are drawn?\n5. What is the probability of drawing a red marble on the first draw?\n6. After one red marble is drawn, how many red marbles are left in the jar?\n7. What is the probability of drawing a red marble on the second draw?\n8. How do we calculate the probability of both marbles being red?\n9. Can you express the probability of both marbles being red as a fraction?\n10. Is there any simplification that can be done with the fraction representing the probability?"
+}

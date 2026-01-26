@@ -1,0 +1,7 @@
+{
+    "problem": "Let $a,$ $b,$ $c$ be the roots of $3x^3 - 3x^2 + 11x - 8 = 0.$  Find $ab + ac + bc.$",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "By Vieta's formulas, $ab + ac + bc = \\boxed{\\frac{11}{3}}.$",
+    "socratic_questions": "1. What is Vieta's formulas and how does it relate to this problem?\n2. Can you explain what it means for a polynomial to have roots?\n3. How can we use the given polynomial equation to determine its roots?\n4. How many roots does a degree 3 polynomial have and why?\n5. What is the relationship between the sum, product, and pairwise products of the roots of a polynomial equation?\n6. How can we use Vieta's formulas to express $ab + ac + bc$ in terms of the coefficients of the polynomial equation?\n7. What is the sum of the roots of the given polynomial equation and how does this help us find $ab + ac + bc$?\n8. Can you generalize the methods used in this problem to find the sum and product of the roots of a polynomial equation with any degree and coefficients?"
+}

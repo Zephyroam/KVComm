@@ -1,0 +1,7 @@
+{
+    "problem": "The Happy Valley Kennel has 4 chickens, 2 dogs, and 5 cats.  (Some people in Happy Valley like to keep chickens as pets!)  In how many ways can the 11 animals be placed in a row of 11 cages, such that all of the animals of each type are in adjacent cages?  (Two animals of the same species are considered distinguishable.)",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "First we order the three groups of animals, which we can do in $3!$ ways. Next we order the animals within each group. There are $4!$ ways to arrange the group of chickens, $2!$ ways to arrange the group of dogs, and $5!$ ways to arrange the group of cats. The answer is $3!\\times 4!\\times 2!\\times 5!=\\boxed{34,\\!560}$.",
+    "socratic_questions": "1. What is the problem asking for? \n2. How many groups of animals are there? \n3. Would it make a difference if the animals of the same species were not considered distinguishable? \n4. Can you describe how the problem can be broken down into smaller sub-problems? \n5. Why do we first order the groups of animals before arranging the animals within each group? \n6. Would it be necessary to use the multiplication principle to solve this problem? Why or why not? \n7. Can you think of any other scenarios where the multiplication principle would be useful? \n8. What is the final answer to the problem and how is it obtained? \n9. Is there a way to check if the answer is reasonable or not?"
+}

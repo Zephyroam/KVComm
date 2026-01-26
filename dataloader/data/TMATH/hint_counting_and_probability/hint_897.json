@@ -1,0 +1,7 @@
+{
+    "problem": "Our school's girls volleyball team has 14 players, including a set of 3 triplets: Alicia, Amanda, and Anna.  In how many ways can we choose 6 starters if at most one of the triplets is in the starting lineup?",
+    "level": "Level 5",
+    "type": "Counting & Probability",
+    "solution": "We can add together the number of lineups with one triplet and with no triplets.   The number of lineups with no triplets is $\\binom{11}{6} = 462$, since we must choose 6 starters from the 11 remaining players.  When one triplet is in the lineup, there are $3\\cdot \\binom{11}{5} = 1386$ options.  So the total number of lineups with at most one triplet is $1386 + 462 = \\boxed{1848}$.",
+    "socratic_questions": "1. What is the problem statement and what are we being asked to find? \n2. What does it mean for a triplet to be in the starting lineup? \n3. How many players are there in total on the girls volleyball team? \n4. How many players are available to choose from for the starting lineup if all 14 players are eligible? \n5. What is the formula for calculating combinations? \n6. How many ways can we choose 6 starters with no restrictions? \n7. Why do we add together the number of lineups with one triplet and with no triplets? \n8. How do we calculate the number of lineups with one triplet? \n9. In how many ways can we choose 5 non-triplet players if one triplet is in the starting lineup? \n10. What is the final answer to the problem and how did we arrive at it?"
+}

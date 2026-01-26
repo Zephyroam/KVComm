@@ -1,0 +1,7 @@
+{
+    "problem": "What is the sum of the six positive integer factors of 18?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "$18=1\\cdot18=2\\cdot9=3\\cdot6$. The sum is $1+18+2+9+3+6=\\boxed{39}$.",
+    "socratic_questions": "1. How do you determine the factors of the number 18?\n2. Can you list all the factors of 18?\n3. How would you group the factors of 18 in order to find their sum?\n4. Can you explain why we are summing up these specific factors?\n5. What other techniques or strategies can you think of to find the sum of factors?\n6. Can you apply the reasoning used here to find the sum of factors for other numbers?"
+}

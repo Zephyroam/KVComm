@@ -1,0 +1,7 @@
+{
+    "problem": "Let $x$ be a positive real number.  Find the minimum value of $4x^5 + 5x^{-4}.$",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "By AM-GM,\n\\begin{align*}\n4x^5 + 5x^{-4} &= x^5 + x^5 + x^5 + x^5 + x^{-4} + x^{-4} + x^{-4} + x^{-4} + x^{-4} \\\\\n&\\ge 9 \\sqrt[9]{(x^5)^4 \\cdot (x^{-4})^5} \\\\\n&= 9.\n\\end{align*}Equality occurs when $x = 1,$ so the minimum value is $\\boxed{9}.$",
+    "socratic_questions": "1. Can you describe the approach that was used to find the minimum value of the expression?\n2. How does the AM-GM inequality play a role in this problem? Can you explain its relevance?\n3. What values of $x$ were considered in order to find the minimum value? Why were those values chosen?\n4. How does the inequality in the solution guarantee that the minimum value is achieved?\n5. Are there any other inequalities or concepts that could be used to solve this problem? Can you explain how they might be applied?\n6. Can you think of any other examples or situations where the AM-GM inequality could be useful?"
+}

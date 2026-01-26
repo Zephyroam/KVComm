@@ -1,0 +1,7 @@
+{
+    "problem": "Solve for $z$ in the following equation: $2-iz = -1 + 3iz$.\n\nExpress your answer in standard form.",
+    "level": "Level 5",
+    "type": "Algebra",
+    "solution": "$2 - iz = -1 + 3iz \\Rightarrow 3 = 4iz \\Rightarrow z = \\frac{3}{4i}$. Multiplying the numerator and denominator by $-i$, we get $z = \\frac{3}{4i} \\cdot \\frac{-i}{-i} = \\frac{-3i}{4} = \\boxed{-\\frac34i}$.",
+    "socratic_questions": "1. What is the first step you would take to solve this equation?\n2. How can you simplify both sides of the equation to make it easier to solve?\n3. Can you combine like terms on both sides? If so, what is the resulting equation?\n4. What technique can you use to isolate the variable z on one side of the equation?\n5. How can you manipulate the equation to have the form x + yi = a + bi, where x, y, a, and b are real numbers?\n6. Once you have the equation in standard form, what can you determine about the real and imaginary parts?\n7. What is the value of z that satisfies the equation in standard form?\n8. Can you check your solution by substituting the value of z back into the original equation?"
+}

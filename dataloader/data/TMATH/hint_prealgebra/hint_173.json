@@ -1,0 +1,7 @@
+{
+    "problem": "Find $\\left(\\frac{1}{2}\\right)^{4}$.",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Recall that $\\left(\\frac{a}{b}\\right)^{n} = \\frac{a^{n}}{b^{n}}$, so the expression is equivalent to $\\frac{1^{4}}{2^{4}}=\\frac{1}{2^{4}} = \\boxed{\\frac{1}{16}}.$",
+    "socratic_questions": "1. What is the concept of exponents and how do they work?\n2. How can we rewrite the expression $\\left(\\frac{1}{2}\\right)^4$ using the exponent rule, $\\left(\\frac{a}{b}\\right)^n = \\frac{a^n}{b^n}$?\n3. What is the value of $1$ raised to any power?\n4. What is the value of $2$ raised to the power of $4$?\n5. How can we simplify the expression $\\frac{1^4}{2^4}$ further?\n6. Is there any other way to represent $\\left(\\frac{1}{2}\\right)^4$ using different manipulations or formulas?\n7. Can you think of any other examples where this same rule, $\\left(\\frac{a}{b}\\right)^n = \\frac{a^n}{b^n}$, can be applied?\n8. How would you explain the concept of exponents and their properties to someone who is new to prealgebra?"
+}

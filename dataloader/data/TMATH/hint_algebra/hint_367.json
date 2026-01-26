@@ -1,0 +1,7 @@
+{
+    "problem": "Simplify $2(3-i)+i(2+i)$.",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "$2(3-i) + i(2+i) = 6-2i +2i + i^2 = 6 -2i+2i -1 = (6-1) + (-2i+2i) = \\boxed{5}$.",
+    "socratic_questions": "1. What is the first step in simplifying the expression $2(3-i)+i(2+i)$?\n2. How can we simplify each term within parentheses separately?\n3. Can we combine like terms after simplifying within parentheses?\n4. How would you simplify $2(3-i)$? And how about $i(2+i)$?\n5. What is the sum of $2(3-i)$ and $i(2+i)$ after simplification?\n6. Can we simplify the expression further by combining like terms or simplifying imaginary units?"
+}

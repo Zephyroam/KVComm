@@ -1,0 +1,7 @@
+{
+    "problem": "What is the value of $y$ in the equation $\\frac{30}{50}=\\sqrt{\\frac{y}{50}}$?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "Squaring both sides, we have $\\frac{30^2}{50^2}=\\frac{y}{50}$. Solving for $y$ yields $y=900/50=\\boxed{18}$.",
+    "socratic_questions": "1. Can you simplify the equation and express it in a different form to make it easier to solve?\n2. What is the relationship between the fraction $\\frac{30}{50}$ and the square root of $\\frac{y}{50}$?\n3. How can you eliminate the square root in the equation? Are there any properties or operations you can use?\n4. What steps can you take to isolate the variable $y$ on one side of the equation?\n5. Can you square both sides of the equation? What precautions should you take when doing so?\n6. What are the possible solutions for $y$, and how can you determine which, if any, are correct?\n7. Are there any restrictions or conditions on the value of $y$ based on the given equation?\n8. Can you think of any real-life situations or other mathematical problems where a similar approach can be applied?\n9. How would the solution change if the equation were modified? Can you generalize your approach to solve related equations?"
+}

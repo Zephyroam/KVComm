@@ -1,0 +1,7 @@
+{
+    "problem": "Find the distance between the points (0,4) and (3,0).",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "We use the distance formula: $\\sqrt{(3 - 0)^2 + (0 - 4)^2} = \\sqrt{9 + 16} = \\boxed{5}$.\n\n- OR -\n\nWe note that the points $(0, 4)$, $(3, 0)$, and $(0, 0)$ form a right triangle with legs of length 3 and 4. This is a Pythagorean triple, so the hypotenuse must have length $\\boxed{5}$.",
+    "socratic_questions": "1. How would you define the concept of distance between two points?\n2. Can you describe the formula or method used to calculate the distance between two points in a Cartesian coordinate system?\n3. How would you approach this problem using the formula discussed in the previous question?\n4. What are the coordinates of the two given points?\n5. Which values from the given points would you substitute into the distance formula, and why?\n6. What is the distance between the two points according to your calculations? Does this answer seem reasonable? Why or why not?\n7. Can you think of any other scenarios or applications where finding the distance between two points is necessary?\n8. Are there alternative methods or formulas that could be used to find the distance between two points? If so, what are they and how do they compare to the method we used?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "A dump truck delivered sand to a construction site. The sand formed a conical pile with a diameter of $8$ feet and a height that was $75\\%$ of the diameter. How many cubic feet of sand were in the pile? Express your answer in terms of $\\pi$.",
+    "level": "Level 3",
+    "type": "Geometry",
+    "solution": "The height of the cone is $\\frac{3}{4} \\times 8 = 6$. The radius of the cone is $\\frac{8}{2} = 4$. Therefore, the volume of the cone formed is $\\frac{4^2 \\times 6 \\times \\pi}{3} = \\boxed{32 \\pi}$.",
+    "socratic_questions": "1. Can you explain how the sand formed a conical shape in this scenario?\n2. How did you determine the diameter of the sand pile to be 8 feet?\n3. Why did you calculate the height of the cone as 75% of the diameter?\n4. How did you find the radius of the cone based on the given diameter?\n5. Why did you use the formula for the volume of a cone to calculate the amount of sand in the pile?\n6. Can you explain the steps you took to calculate the volume of the cone?\n7. Is there a reason why you expressed the answer in terms of \u03c0?\n8. Can you think of any other real-life scenarios where we can use similar mathematical concepts to find volumes?"
+}

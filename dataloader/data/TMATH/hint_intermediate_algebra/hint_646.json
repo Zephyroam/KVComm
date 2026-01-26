@@ -1,0 +1,7 @@
+{
+    "problem": "Let $a,$ $b,$ and $c$ be positive real numbers.  Find the minimum value of\n\\[\\frac{a}{b} + \\frac{b}{c} + \\frac{c}{a}.\\]",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "By AM-GM,\n\\[\\frac{a}{b} + \\frac{b}{c} + \\frac{c}{a} \\ge 3 \\sqrt[3]{\\frac{a}{b} \\cdot \\frac{b}{c} \\cdot \\frac{c}{a}} = 3.\\]Equality occurs when $a = b = c,$ so the minimum value is $\\boxed{3}.$",
+    "socratic_questions": "1. Can you explain what is meant by the term \"AM-GM?\"\n2. What is the formula for AM-GM inequality?\n3. Is it always true that AM is greater than or equal to GM? Can you provide an example where they are not equal?\n4. How can the AM-GM inequality be used to find the minimum value of $\\frac{a}{b}+\\frac{b}{c}+\\frac{c}{a}$? \n5. What is the minimum value of $\\frac{a}{b}+\\frac{b}{c}+\\frac{c}{a}$? How did you arrive at your answer?\n6. Can you think of any other applications of AM-GM inequality in problem-solving?"
+}

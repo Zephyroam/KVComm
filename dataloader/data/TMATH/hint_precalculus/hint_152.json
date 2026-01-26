@@ -1,0 +1,7 @@
+{
+    "problem": "Let $\\mathbf{v}$ and $\\mathbf{w}$ be vectors such that\n\\[\\operatorname{proj}_{\\mathbf{w}} \\mathbf{v} = \\begin{pmatrix} 1 \\\\ 0 \\\\ -3 \\end{pmatrix}.\\]Compute $\\operatorname{proj}_{\\mathbf{w}} (-2 \\mathbf{v}).$",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "From the formula for a projection,\n\\begin{align*}\n\\operatorname{proj}_{\\mathbf{w}} (-2 \\mathbf{v}) &= \\frac{(-2 \\mathbf{v}) \\cdot \\mathbf{w}}{\\|\\mathbf{w}\\|^2} \\mathbf{w} \\\\\n&= -2 \\frac{\\mathbf{v} \\cdot \\mathbf{w}}{\\|\\mathbf{w}\\|^2} \\mathbf{w} \\\\\n&= -2 \\operatorname{proj}_{\\mathbf{w}} \\mathbf{v} \\\\\n&= \\boxed{\\begin{pmatrix} -2 \\\\ 0 \\\\ 6 \\end{pmatrix}}.\n\\end{align*}",
+    "socratic_questions": "1. What is the definition of the projection of vector $\\mathbf{v}$ onto vector $\\mathbf{w}$?\n2. Based on the given information, what can we infer about the direction of vector $\\mathbf{v}$ relative to vector $\\mathbf{w}$?\n3. How does the scalar factor of $-2$ affect the projection of $-2\\mathbf{v}$ onto $\\mathbf{w}$?\n4. Can you express the dot product $\\mathbf{v} \\cdot \\mathbf{w}$ in terms of the projection $\\operatorname{proj}_{\\mathbf{w}} \\mathbf{v}$?\n5. Why is the projection in the numerator divided by the squared magnitude of $\\mathbf{w}$ in the formula for projection?\n6. How does the negative sign in front of $2$ affect the projection of $-2\\mathbf{v}$ onto $\\mathbf{w}$?"
+}

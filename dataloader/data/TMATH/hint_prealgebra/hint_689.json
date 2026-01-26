@@ -1,0 +1,7 @@
+{
+    "problem": "The area of a rectangle is 432 square centimeters. What would the new area be if the length of the rectangle was decreased by $10\\%$ and the width of the rectangle was increased by $10\\%$? Express your answer to the nearest whole number.",
+    "level": "Level 5",
+    "type": "Prealgebra",
+    "solution": "If the length of the rectangle is decreased by $10\\%$, it will be $90\\%$ of what it was. If the width is increased by $10\\%$, it will be $110\\%$ of what it was. The area will be $0.9 \\times 1.1 = 0.99 = 99\\%$ of what it was. Thus, $99\\%$ of 432 is $0.99 \\times 432 = 427.68$ or about $\\boxed{428\\text{ square centimeters}}$.",
+    "socratic_questions": "1. What is the area of the rectangle given in the problem statement?\n2. What happens to the length of the rectangle if it is decreased by $10\\%$? \n3. What happens to the width of the rectangle if it is increased by $10\\%$? \n4. What is the new area of the rectangle after the changes are made? \n5. How do we calculate the new area of the rectangle using the information we have? \n6. Why do we multiply $90\\%$ and $110\\%$ to get the new area? \n7. How do we round our answer to the nearest whole number? \n8. Can you think of any real-world scenarios where understanding the concept of percent change and applying it to calculate new values could come in handy?"
+}

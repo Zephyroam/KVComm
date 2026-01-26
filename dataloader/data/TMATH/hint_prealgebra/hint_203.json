@@ -1,0 +1,7 @@
+{
+    "problem": "A standard deck of cards has 52 cards divided into 4 suits, each of which has 13 cards.  Two of the suits ($\\heartsuit$ and $\\diamondsuit$, called 'hearts' and 'diamonds') are red, the other two ($\\spadesuit$ and $\\clubsuit$, called 'spades' and 'clubs') are black.  The cards in the deck are placed in random order (usually by a process called 'shuffling').  In how many ways can we pick two different cards? (Order matters, thus ace of spades followed by jack of diamonds is different than jack of diamonds followed by ace of spades.)",
+    "level": "Level 5",
+    "type": "Prealgebra",
+    "solution": "For the total number of possibilities, there are 52 ways to pick the first card, then 51 ways to pick the second card, for a total of $52 \\times 51 =\\boxed{2652}$ total possibilities.",
+    "socratic_questions": "1. Can you explain what a standard deck of cards is and how it is divided?\n2. When we say order matters in picking two different cards, what does that mean?\n3. How many cards are in each suit, and how many suits are there?\n4. How many total cards are there in a standard deck of cards?\n5. Can you explain the process of shuffling a deck of cards?\n6. How can we calculate the total number of possibilities of picking two different cards from a deck of 52 cards?\n7. What is the formula or method used to calculate the total number of possibilities in this scenario?\n8. Can you show step by step how to use this formula to calculate the total number of possibilities?"
+}

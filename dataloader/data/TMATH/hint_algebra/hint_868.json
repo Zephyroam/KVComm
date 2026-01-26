@@ -1,0 +1,7 @@
+{
+    "problem": "If $x^2+bx+16$ has at least one real root, find all possible values of $b$. Express your answer in interval notation.",
+    "level": "Level 5",
+    "type": "Algebra",
+    "solution": "Consider the quadratic formula $\\frac{-b\\pm\\sqrt{b^2-4ac}}{2a}$. In order for the quadratic to have real roots, the expression underneath the square root (the discriminant) must be either positive or equal to zero. Thus, this gives us the inequality \\begin{align*} b^2-4ac&\\ge0\n\\\\\\Rightarrow\\qquad b^2-4(1)(16)&\\ge0\n\\\\\\Rightarrow\\qquad b^2-64&\\ge0\n\\\\\\Rightarrow\\qquad (b+8)(b-8)&\\ge0\n\\end{align*} Thus, we find that $ b\\in\\boxed{(-\\infty,-8]\\cup [8,\\infty)} $.",
+    "socratic_questions": "1. Can you explain what it means for the quadratic equation $x^2+bx+16$ to have at least one real root?\n2. What conditions need to be satisfied for a quadratic equation to have real roots?\n3. How can we determine the discriminant of the quadratic equation $x^2+bx+16$? What does the value of the discriminant tell us about the roots?\n4. How can we express the discriminant in terms of $b$ for the equation $x^2+bx+16$?\n5. Considering the possible values of $b$ in the context of the discriminant, what range(s) of $b$ would allow the equation to have at least one real root?\n6. Can you express the possible values of $b$ using interval notation?\n7. Can you think of other quadratic equations where the same thought process and steps can be applied to find the range of values for a real root?"
+}

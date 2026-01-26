@@ -1,0 +1,7 @@
+{
+    "problem": "John draws a regular five pointed star in the sand, and at each of the 5 outward-pointing points and 5 inward-pointing points he places one of ten different sea shells. How many ways can he place the shells, if reflections and rotations of an arrangement are considered equivalent?",
+    "level": "Level 5",
+    "type": "Counting & Probability",
+    "solution": "There are $10!$ ways to put the shells in the sand, not considering rotations and reflections. Arrangements can be reflected or not reflected and can be rotated by 0, 1/5, 2/5, 3/5, or 4/5, so they come in groups of ten equivalent arrangements. Correcting for the symmetries, we find that there are $10!/10=\\boxed{362880}$ distinct arrangements.",
+    "socratic_questions": "1. How many different shells does John have to choose from?\n2. Can you explain what is meant by a regular five pointed star?\n3. How many outward-pointing points are there on the star?\n4. How many inward-pointing points are there on the star?\n5. Can you describe the process of placing the shells on the points of the star?\n6. Are reflected arrangements considered equivalent? Why or why not?\n7. Are rotated arrangements considered equivalent? Why or why not?\n8. How many total arrangements are there if we don't consider reflections or rotations?\n9. How many equivalent arrangements are there for each reflected or rotated arrangement?\n10. How do we correct for the symmetries to find the distinct arrangements?\n11. Can you calculate the number of distinct arrangements?"
+}

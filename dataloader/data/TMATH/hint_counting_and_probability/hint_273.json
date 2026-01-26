@@ -1,0 +1,7 @@
+{
+    "problem": "How many ways are there to put 4 balls in 3 boxes if the balls are not distinguishable and neither are the boxes?",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "Since the balls and boxes are indistinguishable, we only need to consider the number of the balls in boxes without considering order.  The arrangements are (4,0,0),(3,1,0),(2,2,0),(2,1,1), for a total of $\\boxed{4}$ ways.",
+    "socratic_questions": "1. How can we approach the problem of distributing 4 indistinguishable balls into 3 indistinguishable boxes? \n2. How can we represent the different distributions of balls in boxes without considering order? \n3. Can you list all the possible distributions of the balls in the boxes? \n4. How did you determine the number of ways to distribute the balls? \n5. Can you explain why the arrangements (4,0,0), (3,1,0), (2,2,0), and (2,1,1) are the only valid distributions? \n6. Can you think of any similar problems where we need to consider indistinguishable objects and how we would approach solving them?"
+}

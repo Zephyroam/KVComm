@@ -1,0 +1,7 @@
+{
+    "problem": "We flip a fair coin 10 times.  What is the probability that we get heads in exactly 8 of the 10 flips?",
+    "level": "Level 4",
+    "type": "Counting & Probability",
+    "solution": "There are $2^{10} = 1024$ possible outcomes of the 10 coin flips. There are $\\binom{10}{8}=\\binom{10}{2}=45$ ways to get exactly 8 heads, so the probability is $\\dfrac{45}{2^{10}}=\\boxed{\\dfrac{45}{1024}}$.",
+    "socratic_questions": "1. What is the total number of possible outcomes when flipping a fair coin 10 times?\n2. How many outcomes would result in exactly 8 heads in the 10 flips?\n3. Can you explain why we use the combination formula $\\binom{n}{k}$ to determine the number of ways to get exactly k heads out of n flips?\n4. Can you think of any other scenarios where the combination formula could be useful in counting possibilities?\n5. What is the specific value of $\\binom{10}{8}$, and how does it relate to the number of outcomes with exactly 8 heads?\n6. How do we calculate the probability of getting exactly 8 heads out of 10 flips? What is the formula for probability?\n7. If we substitute the values from the previous questions into the probability formula, what is the probability of getting exactly 8 heads in 10 flips?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Point $A$ is at $(0, 0)$ and point $B$ is on the line $y = 4$. The slope of segment $AB$ is $\\frac{2}{3}$. What is the sum of the $x$- and $y$-coordinates of point $B$?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "Point B has coordinates $(x,4)$.  We know the slope of $AB$ is $\\frac{2}{3}$, so we know that: $\\frac{4-0}{x-0} = \\frac{2}{3}$, thus, $x = 6$, and the sum of the coordinates of point B is $\\boxed{10}$.",
+    "socratic_questions": "1. Can you describe the first step to find the sum of the x- and y-coordinates of point B?\n2. What is the slope of segment AB, and how does it relate to the coordinates of point B?\n3. How can we determine the equation of the line passing through point A and B?\n4. If the equation of the line is y = mx + b, what values can we determine from the given information?\n5. How can we find the x-coordinate of point B using the slope and the equation of the line?\n6. Once we have the x-coordinate, how can we find the y-coordinate of point B using the given information?\n7. Can you think of any other scenarios where finding the sum of x- and y-coordinates can be approached in a similar way?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Calculate $\\frac{3 \\cdot 5! + 15\\cdot 4!}{6!}$",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "We factor and rearrange the terms in the factorials:\n\n\\begin{align*}\n\\frac{3\\cdot 5! + 15\\cdot 4!}{6!} &= \\frac{3\\cdot 5! + 3\\cdot 5!}{6!} \\\\\n&= \\frac{2\\cdot 3 \\cdot 5!}{6!} \\\\\n&= \\frac{6!}{6!} \\\\\n&= \\boxed{1}\n\\end{align*}",
+    "socratic_questions": "1. How would you describe the first step in calculating $\\frac{3 \\cdot 5! + 15 \\cdot 4!}{6!}$ in terms of simplification or rearrangement?\n2. What are the different ways you know of to simplify or rearrange factorials in an equation like this?\n3. If you chose to factor and rearrange the terms as shown, what motivated you to do so? Are there any characteristics or patterns in the expression that suggest this approach?\n4. Can you explain why the terms in the denominator and numerator can be factored and rearranged in such a way that allows for cancellation?\n5. What does the equation look like after you factor and rearrange the terms? How does this help verify that the final result is correct?\n6. Can you think of other types of expressions or equations where a similar thought process and steps might be used to simplify or solve?"
+}

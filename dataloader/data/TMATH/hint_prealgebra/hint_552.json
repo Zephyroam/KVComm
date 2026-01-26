@@ -1,0 +1,7 @@
+{
+    "problem": "How many integers between 300 and 500 have the sum of their digits equal to 16?",
+    "level": "Level 5",
+    "type": "Prealgebra",
+    "solution": "We have to consider 2 cases:\n\nWhen the hundreds digit is 3, we want the sum of the tens and unit digit equal to 13. We have $4+9=5+8=6+7=13,$ which yield a total of 6 choices (two for each pair that adds to 13).\n\nWhen the hundreds digit is 4, we want the sum of the tens and unit digit equal to 12. We have $3+9=4+8=5+7=6+6=12.$ The first three pairs give us 2 solutions, but the last only gives 1, so we have a total of 7 choices.\n\nTherefore there are total of $6+7= \\boxed{13}$ integers.",
+    "socratic_questions": "1. What is the problem asking us to solve?\n2. What is the range of numbers we need to consider?\n3. What are the two cases that we need to consider in order to find the integers with a sum of digits equal to 16?\n4. How did we find the pairs that add up to 13 and 12 respectively?\n5. Why do we need to consider the two cases separately?\n6. Is there a way to generalize this method for finding integers with a certain sum of digits within a given range?"
+}

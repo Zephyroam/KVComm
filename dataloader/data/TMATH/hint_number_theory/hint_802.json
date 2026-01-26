@@ -1,0 +1,7 @@
+{
+    "problem": "Three positive integers are each greater than $1$, have a product of $ 27000 $, and are pairwise relatively prime. What is their sum?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "The prime factorization of $27000$ is $2^3\\cdot 3^3\\cdot 5^3.$ These three factors, $2^3,$ $3^3,$ and $5^3$ are pairwise relatively prime, and this is the only possible triple of positive integers satisfying the given conditions. Therefore, the answer is \\[2^3+3^3+5^3=8+27+125=\\boxed{160}.\\]",
+    "socratic_questions": "1. What is the given information in the problem? Can you restate it in your own words?\n2. Can you identify any patterns or relationships in the prime factorization of 27000?\n3. How does the concept of being \"pairwise relatively prime\" relate to the prime factorization?\n4. Why is it necessary for the three integers to be greater than 1?\n5. Can you explain why the prime factorization of 27000 is unique?\n6. Can you think of any other sets of prime factors that satisfy the given conditions?\n7. How can we determine the sum of the three integers based on their prime factors?\n8. How does the concept of prime factorization help us to find the sum of the three integers?"
+}

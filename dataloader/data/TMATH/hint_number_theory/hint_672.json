@@ -1,0 +1,7 @@
+{
+    "problem": "What is the least prime factor of $7^4 - 7^3$?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "Factor out $7^3$ in the given expression $7^4-7^3=7^3(7-1)=7^3\\cdot6=2\\cdot3\\cdot7^3$. Thus, the least prime factor of $7^4-7^3$ is $\\boxed{2}$.",
+    "socratic_questions": "1. Can you identify any patterns or properties of exponents that might be helpful in simplifying the expression $7^4 - 7^3$?\n2. How can we manipulate the expression to isolate the common factor of $7^3$?\n3. Can you explain why factoring out $7^3$ is a valid step in simplifying the expression?\n4. What are the prime factors of $7^3$ and how do they contribute to the overall expression?\n5. How can we determine the least prime factor of $7^4 - 7^3$ from the factored form?\n6. Can you think of any other examples where factoring out a common factor may be useful in determining the least prime factor?"
+}

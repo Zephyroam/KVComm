@@ -1,0 +1,7 @@
+{
+    "problem": "A teacher wants to arrange 3 copies of Introduction to Geometry and 4 copies of Introduction to Number Theory on a bookshelf. In how many ways can he do that?",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "There are 7 possible locations for the books. The teacher can select 3 of these and place the copies of Introduction to Geometry in those spots and then place the copies of Introduction to Number Theory in the remaining 4 spots. This is just a combination, so our answer is $\\binom{7}{3}=\\boxed{35}$.",
+    "socratic_questions": "1. Can you describe the problem statement? What is the teacher trying to do with the books?\n2. How many copies of Introduction to Geometry and Introduction to Number Theory does the teacher have?\n3. How many locations are there on the bookshelf where the teacher can place the books?\n4. What is the approach we can use to solve this problem? Is it a combination or permutation problem?\n5. Can you explain why we are using combination here and not permutation?\n6. How many spots does the teacher need to select for the Introduction to Geometry books, and how many spots will be left for the Introduction to Number Theory books?\n7. Can you calculate the combination based on the given information? What is the result?"
+}

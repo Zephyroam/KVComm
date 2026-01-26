@@ -1,0 +1,7 @@
+{
+    "problem": "If $z=3+4i$, find $z^2$. (Note that $i^2 = -1.$)",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "We multiply $(3+4i)(3+4i)=9+12i+12i-16=\\boxed{-7+24i}$.",
+    "socratic_questions": "1. Can you break down the given expression ($z = 3 + 4i$) and explain what each part represents?\n2. What does the exponent symbol \"^2\" indicate in the question?\n3. How can we find the square of a complex number like $(a+bi)^2$? Can you explain the process step by step?\n4. What is the value of $(a+bi)^2$ in terms of $a$ and $b$?\n5. How would you apply the process described earlier to find the square of $z = 3 + 4i$? Can you show the calculation?\n6. What is the final result of $z^2$ after performing the calculation?\n7. Can you explain the significance of the result in terms of complex numbers?\n8. Do you notice any patterns or relationships between the original complex number and its square?\n9. Can you think of any other mathematical operations or properties that are relevant to this situation?\n10. How might this concept of finding the square of a complex number be useful in other areas of mathematics or real-life applications?"
+}

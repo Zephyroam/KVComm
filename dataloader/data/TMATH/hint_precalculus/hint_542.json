@@ -1,0 +1,7 @@
+{
+    "problem": "Let $z_1$ and $z_2$ be the complex roots of $z^2 + az + b = 0,$ where $a$ and $b$ are complex numbers.  In the complex plane, 0, $z_1,$ and $z_2$ form the vertices of an equilateral triangle.  Find $\\frac{a^2}{b}.$",
+    "level": "Level 3",
+    "type": "Precalculus",
+    "solution": "Let $z_2 = \\omega z_1,$ where $\\omega = e^{\\pi i/3}.$  Then by Vieta's formulas,\n\\begin{align*}\n-a &= z_1 + z_2 = (1 + \\omega) z_1, \\\\\nb &= z_1 z_2 = \\omega z_1^2.\n\\end{align*}Hence,\n\\begin{align*}\n\\frac{a^2}{b} &= \\frac{(1 + \\omega)^2 z_1^2}{\\omega z_1^2} \\\\\n&= \\frac{\\omega^2 + 2 \\omega + 1}{\\omega} \\\\\n&= \\omega + 2 + \\frac{1}{\\omega} \\\\\n&= e^{\\pi i/3} + 2 + e^{-\\pi i/3} \\\\\n&= \\frac{1}{2} + i \\frac{\\sqrt{3}}{2} + 2 + \\frac{1}{2} - i \\frac{\\sqrt{3}}{2} \\\\\n&= \\boxed{3}.\n\\end{align*}",
+    "socratic_questions": "1. How can we find the complex roots of the equation $z^2 + az + b = 0$?\n2. What are the properties of an equilateral triangle in the complex plane, and how can we use these properties in this problem?\n3. How can we express $z_2$ in terms of $z_1$ using the given condition $z_2 = \\omega z_1$?\n4. How can we apply Vieta's formulas to find the values of $a$ and $b$ in terms of $z_1$?\n5. What is the value of $\\frac{a^2}{b}$ in terms of $z_1$ and $\\omega$?\n6. How can we simplify the expression $\\frac{a^2}{b}$ using the properties of complex numbers?\n7. What is the final result for $\\frac{a^2}{b}$ in this problem?"
+}

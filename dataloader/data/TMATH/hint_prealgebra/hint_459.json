@@ -1,0 +1,7 @@
+{
+    "problem": "How many two-digit primes have a ones digit of 1?",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "To answer this question, we instead count the number of primes among the 9 two-digit positive integers whose ones digit is 1. These primes are 11, 31, 41, 61, and 71. Therefore, $\\boxed{5}$ two-digit primes have a ones digit of 1.",
+    "socratic_questions": "1. How would you define a two-digit prime number?\n2. What is the ones digit of a two-digit number?\n3. How many two-digit positive integers are there whose ones digit is 1?\n4. Can you list all the two-digit positive integers whose ones digit is 1?\n5. How many primes are there among the list you just generated?\n6. Can you explain why prime numbers are important in number theory?\n7. Can you generalize this approach to count the number of two-digit primes with a different ones digit?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "The average of 12, 21 and $x$ is 18. What is the value of $x$?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "We have\n\n$$\\frac{12+21+x}{3}=18\\Rightarrow 33+x=54$$\n\nSo $x=\\boxed{21}$.",
+    "socratic_questions": "1. What is the average of 12, 21, and $x$? \n2. How can we express the average mathematically in terms of $x$?\n3. What does it mean for the average of these numbers to be 18?\n4. How can we use the equation $\\frac{12+21+x}{3}=18$ to solve for $x$?\n5. Can you explain why we divide by 3 in the equation and why the sum is divided by the number of values?\n6. What steps can we take to isolate $x$ in the equation?\n7. After simplification, what is the resulting equation?\n8. What operation should we apply to both sides of the equation to solve for $x$?\n9. What is the value of $x$ that satisfies the equation?\n10. How can we check if our solution is correct?"
+}

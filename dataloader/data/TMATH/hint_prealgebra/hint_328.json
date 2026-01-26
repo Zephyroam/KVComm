@@ -1,0 +1,7 @@
+{
+    "problem": "An equilateral triangle and a square both have perimeters of 48 inches. What is the ratio of the length of the side of the triangle to the length of the side of the square? Express your answer as a common fraction.",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "The triangle has side length 16 and the square has side length 12, for a ratio of \\[\n\\frac{16}{12}=\\boxed{\\frac43}.\n\\]",
+    "socratic_questions": "1. Can you describe the given problem in your own words?\n2. What is the definition of a perimeter? How is it calculated for each of the shapes mentioned?\n3. Can you find the length of each side of the triangle? How about the square?\n4. How can you compare the lengths of the sides of the triangle and the square?\n5. Can you simplify the ratio of the lengths of the sides?\n6. What does the simplified ratio represent?\n7. Is the simplified ratio in simplest form? If not, can you simplify it further?\n8. What would happen to the ratio if the perimeter of both shapes increased or decreased?"
+}

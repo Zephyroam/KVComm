@@ -1,0 +1,7 @@
+{
+    "problem": "It takes exactly 74 colored beads on a string to make a necklace. The beads are strung in the following order: one red, one orange, two yellow, one green, and one blue. Then the pattern repeats starting again with one red bead. If the first bead of the necklace is red, what is the color of the last bead used to make the necklace?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "The pattern repeats every $1+1+2+1+1=6$ beads. Since $72=6\\cdot12$, the 72nd bead will blue (the final bead to complete a pattern). The 73rd will be red, so the 74th will be $\\boxed{\\text{orange}}$.",
+    "socratic_questions": "1. Can you describe the pattern of the beads on the necklace?\n2. How many beads are there in one complete pattern?\n3. How many times does the complete pattern repeat in the necklace?\n4. If the first bead is red, what color is the 72nd bead?\n5. What color will be the 73rd bead?\n6. What is the color of the 74th bead, which is the last bead used to make the necklace?"
+}

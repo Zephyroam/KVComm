@@ -1,0 +1,7 @@
+{
+    "problem": "Given the equation $a + b = 30$, where $a$ and $b$ are positive integers, how many distinct ordered-pair solutions $(a, b)$ exist?",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "The solutions are $(1,29),(2,28),\\ldots,(28,2),(29,1)$. Each $a$ produces a unique $b$, and since there are 29 possibilities for $a$, there are $\\boxed{29}$ possibilities for $(a,b)$.",
+    "socratic_questions": "1. Can you explain what the equation $a + b = 30$ represents?\n2. How would you approach finding the solutions $(a, b)$ for this equation?\n3. Are there any restrictions on the values of $a$ and $b$ in this equation? If so, what are they?\n4. How does the fact that $a$ and $b$ are positive integers affect the solutions of the equation?\n5. Can you identify any patterns or observations about the possible values of $(a, b)$?\n6. How would you count the number of distinct ordered-pair solutions? Why does your method work?\n7. Can you generalize the approach you used to count the solutions to equations of similar form?\n8. Are there any other equations that you can think of where a similar method can be used to count the solutions?\n9. How does the number of distinct ordered-pair solutions change if there was a different constraint on the values of $a$ and $b$?"
+}

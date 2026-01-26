@@ -1,0 +1,7 @@
+{
+    "problem": "Simplify $(2x^3)^3$.",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "Distributing the exponent and using the power of a power law, we have $(2x^3)^3=(2^3)((x^{3})^3)=8(x^{3\\ast3})=\\boxed{8x^9}$.",
+    "socratic_questions": "1. What is the first step to simplify the expression $(2x^3)^3$?\n2. Can you explain the concept of exponentiation and how it applies in this expression?\n3. How would you simplify $(2x^3)^3$ using the multiplication property of exponents?\n4. Why is it important to know the rules of exponents when simplifying expressions?\n5. What is the result when you simplify $(2x^3)^3$ using the multiplication property of exponents?\n6. Can you think of other examples where the multiplication property of exponents can be applied to simplify expressions?"
+}

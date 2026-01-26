@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\begin{pmatrix} 2 & - 1 \\\\ - 3 & 4 \\end{pmatrix} \\begin{pmatrix} 3 \\\\ - 1 \\end{pmatrix}.$",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "We have that\n\\[\\begin{pmatrix} 2 & - 1 \\\\ - 3 & 4 \\end{pmatrix} \\begin{pmatrix} 3 \\\\ - 1 \\end{pmatrix} = \\begin{pmatrix} (2)(3) + (-1)(-1) \\\\ (-3)(3) + (4)(-1) \\end{pmatrix} = \\boxed{\\begin{pmatrix} 7 \\\\ -13 \\end{pmatrix}}.\\]",
+    "socratic_questions": "1. Can you explain what matrix multiplication is?\n2. How do you determine the dimensions of the resulting matrix when multiplying two matrices?\n3. How do you determine the entries of the resulting matrix when multiplying two matrices?\n4. Can you explain what each entry in the resulting matrix represents?\n5. How would you compute the product of two matrices that have different dimensions?\n6. How would you interpret the result if the product of two matrices is the zero matrix?\n7. How would you use matrix multiplication to solve a system of linear equations?\n8. Can you think of any real-world applications where matrix multiplication is used?"
+}

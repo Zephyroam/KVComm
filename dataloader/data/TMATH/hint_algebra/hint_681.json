@@ -1,0 +1,7 @@
+{
+    "problem": "Let \\[f(x) = \\left\\{\n\\begin{array}{cl}\n\\sqrt{x} &\\text{ if }x>4, \\\\\nx^2 &\\text{ if }x \\le 4.\n\\end{array}\n\\right.\\]Find $f(f(f(2)))$.",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "We start from the inside out. Since $2<4$, $f(2)=2^2=4$. So $f(f(f2)))=f(f(4))$. Since $4 \\le 4$, $f(4)=4^2=16$. So $f(f(4)=f(16)$. Since $16>4$, $f(16)=\\sqrt{16}=\\boxed{4}$.",
+    "socratic_questions": "1. Can you describe what the function $f(x)$ does for values greater than 4? \n2. What about for values less than or equal to 4? How does the function behave in that case? \n3. How would you evaluate $f(2)$? Which part of the function would you use? \n4. Now, evaluate $f(f(2))$. What values do you substitute into the function at each step? \n5. Based on the previous steps, what do you think is the value of $f(f(f(2)))$? \n6. Can you think of any other similar functions that involve different rules for different ranges of $x$? How would you approach evaluating those functions in a similar way?"
+}

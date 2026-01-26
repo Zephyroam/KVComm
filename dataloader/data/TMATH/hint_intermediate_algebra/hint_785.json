@@ -1,0 +1,7 @@
+{
+    "problem": "Let $a$ and $b$ be real numbers.  One of the roots of $x^3 + ax + b = 0$ is $1 + i \\sqrt{3}.$  Find $a + b.$",
+    "level": "Level 4",
+    "type": "Intermediate Algebra",
+    "solution": "Since the coefficients are real, another root is $1 - i \\sqrt{3}.$  By Vieta's formulas, the sum of the roots is 0, so the third root is $-2.$  Hence, the cubic polynomial is\n\\begin{align*}\n(x - 1 - i \\sqrt{3})(x - 1 + i \\sqrt{3})(x + 2) &= ((x - 1)^2 - (i \\sqrt{3})^2)(x + 2) \\\\\n&= ((x - 1)^2 + 3)(x + 2) \\\\\n&= x^3 + 8.\n\\end{align*}Thus, $a = 0$ and $b = 8,$ so $a + b = \\boxed{8}.$",
+    "socratic_questions": "1. What is the given cubic equation and what are the given roots?\n2. How can we use Vieta's formulas to find the sum of the roots of the cubic equation?\n3. What are the other two roots of the cubic equation?\n4. How does the fact that the coefficients are real help us in determining the third root?\n5. How can we use the three roots to express the cubic polynomial?\n6. How can we simplify the expression for the cubic polynomial?\n7. Can you verify that the expression for the cubic polynomial is equivalent to the given equation?\n8. What are the values of $a$ and $b$ after simplification, and what is their sum?\n9. Can you think of any other application of Vieta's formulas in solving polynomial equations?\n10. Can we generalize the method used in this problem to solve equations with different types of roots, such as rational or irrational roots?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "A small square is entirely contained in a larger square, as shown. The side length of the small square is 3 units and the side length of the larger square is 7 units. What is the number of square units in the area of the black region?\n\n[asy]\nfill((0,0)--(21,0)--(21,21)--(0,21)--cycle,black);\nfill((9,4)--(9,13)--(18,13)--(18,4)--cycle,white);\n[/asy]",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "The area of the black region is the difference between the area of the larger square and the area of the smaller square which has been removed: $7^2-3^2=\\boxed{40}$ square units.",
+    "socratic_questions": "1. What is the definition of the area of a square?\n2. How can we calculate the area of the larger square in this scenario?\n3. What about the area of the smaller square? How can we calculate that?\n4. What does it mean for a figure to be \"entirely contained\" within another figure?\n5. How can we find the area of the black region using the areas of the larger and smaller squares?\n6. Can we express the area of the black region as a difference of the two square areas? If so, what is the difference?\n7. Why is the formula for finding the area of a square applicable to both squares in this situation?\n8. How do we determine the dimensions (side lengths) of the smaller square in this problem?\n9. Are there any other ways you can think of to find the area of the black region?"
+}

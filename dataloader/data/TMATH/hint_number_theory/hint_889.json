@@ -1,0 +1,7 @@
+{
+    "problem": "What is the modulo $5$ remainder of the sum $1+2+3+4+5+ \\ldots + 120+121+122+123?$",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "Instead of adding up the sum and finding the residue, we can find the residue of each number to make computation easier.\n\nEach group of $5$ numbers would have the sum of residues $1+2+3+4+0=10$. Since $10 \\equiv 0 \\pmod{5}$, we can ignore every group of $5$.\n\nThis leaves the numbers $121,122,$ and $123$. The sum of the residues is $1+2+3 \\equiv 6 \\equiv \\boxed{1} \\pmod{5}$.",
+    "socratic_questions": "1. Can you explain the concept of finding the modulo $5$ remainder?\n2. How did we use the grouping of numbers to simplify the computation?\n3. Why can we ignore every group of $5$ when finding the sum modulo $5$?\n4. What are the residues of the numbers $121,122,$ and $123$ modulo $5$?\n5. How did we calculate the sum of the residues? Why did we use the modulo $5$ operation?\n6. What is the final modulo $5$ remainder of the given sum?"
+}

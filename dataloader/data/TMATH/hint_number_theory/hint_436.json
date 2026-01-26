@@ -1,0 +1,7 @@
+{
+    "problem": "What is the remainder when 2007 is divided by 25?",
+    "level": "Level 1",
+    "type": "Number Theory",
+    "solution": "Since 25 divides evenly into 2000 and 2007 is 7 more than 2000, the remainder when 2007 is divided by 25 is $\\boxed{7}$.",
+    "socratic_questions": "1. How would you begin solving this problem? What steps do you think are necessary to find the remainder when dividing 2007 by 25?\n2. Are there any strategies or methods you know of that can be used to find the remainder of a division problem like this?\n3. If you choose to use long division, what would be your first step? How would you approach dividing 2007 by 25?\n4. Why does the number 25 divide evenly into 2000? What property or characteristic does 25 have that allows it to divide into 2000 without a remainder?\n5. Since 2007 is 7 more than 2000, what impact does that have on the remainder when dividing 2007 by 25?\n6. Can you think of any other numbers or problems where similar thinking or steps might be applicable in finding the remainder?"
+}

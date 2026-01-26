@@ -1,0 +1,7 @@
+{
+    "problem": "Let $a,$ $b,$ $c$ be positive real numbers such that $a + b + c = 1.$  Find the minimum value of\n\\[\\frac{1}{a + 2b} + \\frac{1}{b + 2c} + \\frac{1}{c + 2a}.\\]",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "By AM-HM,\n\\[\\frac{(a + 2b) + (b + 2c) + (c + 2a)}{3} \\ge \\frac{3}{\\frac{1}{a + 2b} + \\frac{1}{b + 2c} + \\frac{1}{c + 2a}},\\]so\n\\[\\frac{1}{a + 2b} + \\frac{1}{b + 2c} + \\frac{1}{c + 2a} \\ge \\frac{9}{3a + 3b + 3c} = \\frac{9}{3} = 3.\\]Equality occurs when $a = b = c = \\frac{1}{3},$ so the minimum value is $\\boxed{3}.$",
+    "socratic_questions": "1. Can you restate the given problem in your own words?\n2. What is the condition provided in the problem? What relationship does it establish between the variables?\n3. How would you approach finding the minimum value in this problem?\n4. Can you identify any relevant mathematical concepts or tools that can be applied here?\n5. How does the AM-HM inequality relate to this problem? Can you explain the steps used in applying it?\n6. How can we establish a lower bound for the expression in the problem using the AM-HM inequality?\n7. What is the significance of the equality case in this problem? How does it help us determine the minimum value?\n8. Can you summarize the overall procedure used and explain how it leads to the minimum value of the expression?\n9. Can you think of any similar problems where the AM-HM inequality or a similar approach might be useful?"
+}

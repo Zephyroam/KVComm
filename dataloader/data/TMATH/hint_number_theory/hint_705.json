@@ -1,0 +1,7 @@
+{
+    "problem": "Find the units digit of $9^{8^7}$.",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "If $k$ is a positive even integer, then $$9^{k} = 81^{k/2}=\\overbrace{(81)(81)\\cdots (81)}^{k/2\\text{ times}},$$so $9^k$ has a units digit of 1. Since 8 is even, $8^7$ is even.  Therefore, $9^{8^7}$ has a units digit of $\\boxed{1}$.",
+    "socratic_questions": "1. What is the units digit of $9^1$?\n2. What is the units digit of $9^2$?\n3. Can you observe a pattern in the units digits of $9^n$ as $n$ increases? If so, what is it?\n4. How can we use the pattern to find the units digit of $9^8$? \n5. What is the units digit of $9^{8^2}$?\n6. Can you generalize the pattern observed to find the units digit of $9^{8^7}$?\n7. Why is the units digit of $9^{8^7}$ 1?\n8. Can you think of any other numbers raised to an even power that have a units digit of 1?"
+}

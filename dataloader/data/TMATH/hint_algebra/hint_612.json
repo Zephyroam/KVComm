@@ -1,0 +1,7 @@
+{
+    "problem": "Let  \\begin{align*}\nf(x) &= 2x + 5 \\\\\ng(x) &= \\sqrt{f(x)} - 2 \\\\\nh(x) &= f(g(x))\n\\end{align*} What is $h(2)$?",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "Substituting, $h(2) = f(g(2))$. Now, $$g(2) = \\sqrt{f(2)} - 2 = \\sqrt{2 \\cdot 2 + 5} - 2 = 3 - 2 = 1.$$ Thus, $$h(2) = f(g(2)) = f(1) = 2 \\cdot 1 + 5 = \\boxed{7}.$$",
+    "socratic_questions": "1. How would you describe the function $f(x)$ in terms of its input and output?\n2. What does the function $g(x)$ do to the output of $f(x)$?\n3. What is the value of $g(2)$ and how did you arrive at that value?\n4. How does the function composition $h(x) = f(g(x))$ work?\n5. Can you simplify the expression $h(2)$ to a single value?\n6. What are the intermediate steps involved in evaluating $h(2)$?\n7. How does the order of function composition affect the result? Would $h(g(x))$ yield the same value?\n8. Can you think of any other functions where function composition can be applied in a similar way?\n9. How would the values of $h(x)$ change if the functions $f(x)$ or $g(x)$ were different?\n10. What other observations or connections can you make about the concepts of function composition and evaluation?"
+}

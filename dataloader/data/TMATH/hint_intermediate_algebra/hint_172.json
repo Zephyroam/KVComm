@@ -1,0 +1,7 @@
+{
+    "problem": "Determine if the graph of the equation below is a parabola, circle, ellipse, hyperbola, point, line, two lines, or empty.\n\n$x^2 - 50y^2 - 10x + 25 = 0$",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "Completing the square in $x$ gives \\[ (x - 5)^2 - 50y^2 = 0. \\]Rearranging and taking square roots, we get \\[ x-5 = \\pm 5y\\sqrt{2}. \\]We see that this defines $\\boxed{\\text{two lines}}$, namely $x = 5+ 5y\\sqrt{2}$ and $x = 5-5y\\sqrt{2}$.",
+    "socratic_questions": "1. What is the equation that we are given? \n2. What is the standard form for each type of conic section? \n3. How can we rewrite the equation into a standard form? \n4. What does completing the square mean? \n5. How did we complete the square in $x$ for this equation? \n6. How did we use the result of completing the square to rewrite the equation? \n7. How did we determine that the equation represents two lines? \n8. What is the equation for the two lines? \n9. How can we confirm that the graph of the equation is indeed two lines? \n10. Can you apply the same method to determine the graph for other conic sections?"
+}

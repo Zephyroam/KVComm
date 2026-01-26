@@ -1,0 +1,7 @@
+{
+    "problem": "What is the sum of the greatest common divisor of 30 and 81 and the least common multiple of 36 and 12?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "Carrying out prime factorization, $30=2\\cdot3\\cdot5$ and $81=3^4$. Taking the least power of each prime that appears in these two factorizations, we find that the greatest common divisor is $2^0\\cdot3^1\\cdot 5^0=3$. Taking the highest power of each prime that appears , we find that the least common multiple of $36=2^2\\cdot3^2$ and $12=2^2\\cdot3$ is $2^2\\cdot3^2=36$. Their sum is $3+36=\\boxed{39}$.",
+    "socratic_questions": "1. What is the definition of greatest common divisor and least common multiple?\n2. Can you explain the process of prime factorization and how it is used to find the greatest common divisor and least common multiple?\n3. How do you identify the common factors and unique factors when finding the greatest common divisor and least common multiple?\n4. Why do we take the least power of each prime for the greatest common divisor and the highest power of each prime for the least common multiple?\n5. Can you provide other examples of finding the greatest common divisor and least common multiple using prime factorization?\n6. How would the answer change if we used a different method, such as using a Venn diagram or listing out all the factors?"
+}

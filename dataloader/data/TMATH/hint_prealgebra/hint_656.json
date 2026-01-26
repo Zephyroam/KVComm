@@ -1,0 +1,7 @@
+{
+    "problem": "What is $88 \\div 4 \\div 2$?",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "We perform division, going from left to right, to get our answer: \\[88 \\div 4 \\div 2 = 22 \\div 2 = \\boxed{11}.\\]",
+    "socratic_questions": "1. What is the first step in solving this problem?\n2. Are there any rules or strategies we need to follow when performing multiple divisions in a row?\n3. Why do we need to perform the divisions from left to right in this problem? Would it be different if we did it from right to left?\n4. Can this problem be solved using a different method besides performing the divisions one after the other? If so, what method could we use?\n5. If we changed the order of the operands, for example, to $4 \\div 88 \\div 2$, would the answer be the same? Why or why not?\n6. Are there other similar problems we could explore to practice division and order of operations? How might we adapt our approach to those problems?"
+}

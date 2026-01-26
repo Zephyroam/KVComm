@@ -1,0 +1,7 @@
+{
+    "problem": "Let $a,$ $b,$ $c$ be real numbers such that $a + b + c = 0.$  Find the set of all possible values of $ab + ac + bc.$",
+    "level": "Level 5",
+    "type": "Intermediate Algebra",
+    "solution": "Squaring the equation $a + b + c = 0,$ we get\n\\[a^2 + b^2 + c^2 + 2(ab + ac + bc) = 0.\\]Hence, $2(ab + ac + bc) = -(a^2 + b^2 + c^2) \\le 0,$ so\n\\[ab + ac + bc \\le 0.\\]Equality occurs when $a = b = c = 0.$\n\nNow, set $c = 0,$ so $a + b = 0,$ or $b = -a.$  Then\n\\[ab + ac + bc = ab = -a^2\\]can take on all nonpositive values.  Therefore, the set of all possible values of $ab + ac + bc$ is $\\boxed{(-\\infty,0]}.$",
+    "socratic_questions": "1. Can you restate the problem in your own words? \n2. How did we obtain the equation $a^2 + b^2 + c^2 + 2(ab+ac+bc) = 0$? \n3. What can we conclude from the equation derived in step 2? \n4. How do we get the inequality $ab+ac+bc\\leq0$ from the equation in step 2? \n5. Can we have any values of $a,$ $b,$ or $c$ that would make the inequality $ab+ac+bc>0$ true? Why or why not? \n6. By setting $c = 0,$ what did we simplify the expression $ab + ac + bc$ to? \n7. What values can $ab$ take on when $c = 0$ and $a = -b$? \n8. What is the set of all possible values of $ab+ac+bc$? \n9. Can you think of any applications of this concept in real life situations or other mathematical problems?"
+}

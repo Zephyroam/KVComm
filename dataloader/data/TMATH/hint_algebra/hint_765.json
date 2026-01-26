@@ -1,0 +1,7 @@
+{
+    "problem": "If $f(x) = 3x+2$ and $g(x) = (x-1)^2$, what is $f(g(-2))$?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "We have $g(-2) = (-2-1)^2 = 9$, so $f(g(-2)) = f(9) = 3(9) +2 = \\boxed{29}$.",
+    "socratic_questions": "1. Can you identify the given functions in the problem? What are their definitions?\n2. What does the notation $f(g(-2))$ mean? How can we interpret it?\n3. What is the value of $g(-2)$? How did you compute it?\n4. What is the value of $f(g(-2))$? How did you calculate it using the given functions?\n5. Can you simplify the expression $f(g(-2))$ further, if possible? If yes, how?\n6. What is the final result of $f(g(-2))$?"
+}

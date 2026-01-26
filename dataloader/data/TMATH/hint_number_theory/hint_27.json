@@ -1,0 +1,7 @@
+{
+    "problem": "Given that $a$ is a multiple of $1428$, find the greatest common divisor of $a^2+9a+24$ and $a+4$.",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "We can use the Euclidean Algorithm. \\begin{align*}\n&\\text{gcd}\\,(a^2+9a+24,a+4) \\\\\n&\\qquad=\\text{gcd}\\,(a^2+9a+24-(a+5)(a+4),a+4)\\\\\n&\\qquad=\\text{gcd}\\,(a^2+9a+24-(a^2+9a+20),a+4)\\\\\n&\\qquad=\\text{gcd}\\,(4,a+4).\n\\end{align*} Since $4$ is a factor of $a$ and thus $a+4$, the greatest common divisor is $\\boxed{4}$.",
+    "socratic_questions": "1. Can you describe the reasoning behind using the Euclidean Algorithm to find the greatest common divisor in this problem?\n2. What is the significance of subtracting $(a+5)(a+4)$ from $a^2+9a+24$ in the Euclidean Algorithm calculation?\n3. How does the Euclidean Algorithm simplify the calculation and help us find the greatest common divisor efficiently?\n4. Why is it important to find the greatest common divisor between the two expressions $a^2+9a+24$ and $a+4$?\n5. How does the fact that $a$ is a multiple of $1428$ affect the calculation of the greatest common divisor?\n6. Can you think of any other scenarios or problems where the Euclidean Algorithm can be applied to find the greatest common divisor?"
+}

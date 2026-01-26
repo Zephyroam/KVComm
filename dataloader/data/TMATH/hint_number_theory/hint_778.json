@@ -1,0 +1,7 @@
+{
+    "problem": "If $a$, $b$, and $c$ are positive integers such that $\\gcd(a,b) = 168$ and $\\gcd(a,c) = 693$, then what is the smallest possible value of $\\gcd(b,c)$?",
+    "level": "Level 5",
+    "type": "Number Theory",
+    "solution": "Note that $\\gcd(168,693) = 21$.  Since $\\gcd(a,b) = 168 = 8 \\cdot 21$, both $a$ and $b$ are divisible by 21.  Since $\\gcd(a,c) = 693 = 21 \\cdot 33$, both $a$ and $c$ are divisible by 21.  Therefore, $\\gcd(b,c)$ must be at least 21.\n\nIf we take $a = 5544$ (which is $21 \\cdot 8 \\cdot 33$), $b = 168$, and $c = 693$, then $\\gcd(a,b) = \\gcd(5544,168) = 168$, $\\gcd(a,c) = \\gcd(5544,693) = 693$, and $\\gcd(b,c) = \\gcd(168,693) = 21$, which shows that the value of 21 is attainable.  Therefore, the smallest possible value of $\\gcd(b,c)$ is $\\boxed{21}$.",
+    "socratic_questions": "1. What is the definition of \"greatest common divisor (gcd)\"?\n2. Can you explain how the gcd relates to the divisibility of integers?\n3. Given that gcd(a, b) = 168 and gcd(a, c) = 693, what can you infer about the factors of a, b, and c? \n4. How does the fact that gcd(a, b) = 168 = 8 * 21 and gcd(a, c) = 693 = 21 * 33 help us identify the possible factors of a, b, and c?\n5. Why is the gcd(b, c) at least 21 based on the information given?\n6. Can you show that the gcd(b, c) can indeed be 21? Provide an example where a, b, and c satisfy the given conditions and their gcd values are as specified.\n7. Is 21 the smallest possible value for gcd(b, c)? Can you reason why no smaller value can be achieved?"
+}

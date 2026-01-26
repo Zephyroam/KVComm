@@ -1,0 +1,7 @@
+{
+    "problem": "What is the greatest number of Sundays that can occur in the first $49$ days of a year?",
+    "level": "Level 1",
+    "type": "Number Theory",
+    "solution": "49 days is seven full weeks, so there are always $\\boxed{7}$ Sundays.",
+    "socratic_questions": "1. How many days are there in a week?\n2. How many weeks are there in $49$ days?\n3. How many Sundays can occur in a single week?\n4. Can a week have more than one Sunday? If so, how many?\n5. What is the greatest number of Sundays that can occur in a seven-week period?\n6. How many Sundays can occur in the first $49$ days of a year, following the pattern of a seven-week period?"
+}

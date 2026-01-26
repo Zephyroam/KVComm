@@ -1,0 +1,7 @@
+{
+    "problem": "The measures of the interior angles of a particular triangle are in a 5:6:7 ratio. What is the measure, in degrees, of the smallest interior angle?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Choose $k$ so that the smallest angle measures $5k$ degrees.  Then the measures of the other two angles are $6k$ degrees and $7k$ degrees.  Since the measures of the angles in a triangle sum to 180 degrees, we have $5k+6k+7k=180\\implies 18k=180\\implies k=10$.  The smallest angle measures $5k=5(10)=\\boxed{50}$ degrees.",
+    "socratic_questions": "1. Can you explain the problem statement in your own words?\n2. How are the measures of the interior angles related to each other in this particular triangle?\n3. What does it mean when we say the measures are in a 5:6:7 ratio?\n4. How can we express the measures of the angles using a variable like \"k\"?\n5. Why do the measures of the angles in a triangle sum to 180 degrees?\n6. Can you explain the equation we set up to solve for \"k\"?\n7. What is the value of \"k\" that we found? How does it relate to the measure of the smallest angle?\n8. Could there be any other values of \"k\" that satisfy the equation?\n9. Is it possible for the measures of the interior angles to be in a 1:2:3 ratio? Why or why not?\n10. Can you think of any other triangles where the measures of the interior angles are related in a similar way?"
+}

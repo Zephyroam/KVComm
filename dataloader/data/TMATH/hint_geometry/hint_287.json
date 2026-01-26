@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\cos 270^\\circ$.",
+    "level": "Level 2",
+    "type": "Geometry",
+    "solution": "Rotating the point $(1,0)$ about the origin by $270^\\circ$ counterclockwise gives us the point $(0,-1)$, so $\\cos 270^\\circ = \\boxed{0}$.",
+    "socratic_questions": "1. What is the definition of cosine function in trigonometry?\n2. How does changing the angle input affect the output of cosine function?\n3. What does 270 degrees represent in the unit circle and how does that relate to cosine function?\n4. How does the rotation of a point affect the corresponding cosine value?\n5. Can you derive the cosine value of 270 degrees using the unit circle or any other method?\n6. Are there any other trigonometric functions that are related to cosine and can help us find its value?"
+}

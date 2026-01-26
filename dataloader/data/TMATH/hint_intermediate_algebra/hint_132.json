@@ -1,0 +1,7 @@
+{
+    "problem": "Determine if the graph of the equation below is a parabola, circle, ellipse, hyperbola, point, line, two lines, or empty.\n\n$x^2 + 2y^2 - 6x - 8y + 21 = 0$",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "We try completing the square in $x$ again, that gives \\[ (x-3)^2 - 9 + 2y^2 - 8y + 21 = 0.\\]Then completing the square in $y$ gives \\[ (x-3)^2 - 9 + 2(y-2)^2 - 8 + 21 =  0.\\]Combining all the constants we have \\[ (x-3)^2 + 2(y-2)^2 = -4.\\]The left hand side is always nonnegative, so this graph is $\\boxed{\\text{empty}}$.",
+    "socratic_questions": "1. Can you identify the highest power of the variables involved in the equation?\n2. Based on the highest power, what is the general form or shape that we should expect for the graph?\n3. What technique did we use to rewrite the equation in a more useful form?\n4. What information can we gather by examining the coefficients of the equation?\n5. How did completing the square help us simplify the equation?\n6. What can we conclude about the graph based on the relationship between the constants and the variables in the simplified equation?\n7. Can you explain why the left-hand side of the equation is always nonnegative?\n8. Given that the left-hand side is always nonnegative, what conclusion can we make about the graph?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "In writing the integers from 10 through 99 inclusive, how many times is the digit 6 written?",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "The 9 integers 16, 26, $\\ldots$, 86 and 96 each have 6 as a units digit.  The 10 integers 60, 61, $\\ldots$, 68 and 69 each have 6 as a tens digit.  In total, there are $10+9=\\boxed{19}$ appearances of the digit 6.\n\nNote: This question asks for the number of times the digit 6 is written, not the number of numbers with the digit 6.",
+    "socratic_questions": "1. What is the range of integers being considered in this problem?\n2. Can you identify any patterns or relationships between the integers and the digit 6?\n3. How many times does the digit 6 appear as a units digit in the given range of integers?\n4. How many times does the digit 6 appear as a tens digit in the given range of integers?\n5. Is there any overlap between the numbers with 6 as a units digit and those with 6 as a tens digit, and if so, how can you account for it in your counting?\n6. Can you generalize your method for counting the number of times a digit appears in any range of integers? If so, how?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Convert $3206_7$ to a base 10 integer.",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "$3206_7 = 3 \\cdot 7^3 + 2 \\cdot 7^2 + 0 \\cdot 7^1 + 6 \\cdot 7^0 = 1029 + 98 + 6 = \\boxed{1133}$.",
+    "socratic_questions": "1. What is the significance of the subscript $7$ in $3206_7$? How does it affect our understanding of the number?\n2. How can we decompose $3206_7$ into its constituent parts based on powers of $7$?\n3. Can you explain the meaning of the coefficients in the decomposition $3206_7 = 3 \\cdot 7^3 + 2 \\cdot 7^2 + 0 \\cdot 7^1 + 6 \\cdot 7^0$?\n4. Why do we multiply each coefficient by a power of $7$ in the decomposition? What mathematical principle justifies this?\n5. What is the significance of the exponent for each power of $7$ in the decomposition? How does it relate to the position of the digit in the original number?\n6. Can you explain how we arrived at $1029 + 98 + 6 = 1133$ from the decomposition of $3206_7$? How does this represent the conversion to a base 10 integer?\n7. Can you think of any other numbers that can be converted from base $7$ to base $10$ using similar reasoning and steps?"
+}

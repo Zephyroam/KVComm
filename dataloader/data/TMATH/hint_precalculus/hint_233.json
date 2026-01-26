@@ -1,0 +1,7 @@
+{
+    "problem": "Find the dot product of $\\begin{pmatrix} 3 \\\\ -4 \\\\ -3 \\end{pmatrix}$ and $\\begin{pmatrix} -5 \\\\ 2 \\\\ 1 \\end{pmatrix}.$",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "The dot product of $\\begin{pmatrix} 3 \\\\ -4 \\\\ -3 \\end{pmatrix}$ and $\\begin{pmatrix} -5 \\\\ 2 \\\\ 1 \\end{pmatrix}$ is\n\\[(3)(-5) + (-4)(2) + (-3)(1) = \\boxed{-26}.\\]",
+    "socratic_questions": "1. What is the definition of dot product, and how is it calculated using the coordinates of two vectors?\n2. Can you explain how the dot product relates to the angle between two vectors?\n3. In what scenarios might you need to calculate the dot product of two vectors? \n4. How does the dot product help us determine if two vectors are orthogonal (perpendicular) to each other?\n5. How can we tell if the dot product of two vectors is positive, negative, or zero, and what does that tell us about the relationship between the two vectors? \n6. Are there any special cases where the dot product of two vectors equals the product of their magnitudes? If so, what do they represent geometrically? \n7. Can you provide an example of how the dot product is used in real-world applications?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Find the sum of all the solutions to $2^{|x|} + 3|x| = 18.$",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "If $x$ is a solution, then $-x$ is a also a solution.  Thus, we can pair all the solutions, and their sum is $\\boxed{0}.$\n\nLet $f(x) = 2^{|x|} + 3|x|.$  Since $f(0) = 0$ and $f(4) = 28,$ the equation $f(x) = 18$ has at least one solution in the interval $0 \\le x \\le 4.$  This ensures that the sum that the problem asks for is not an \"empty\" sum.",
+    "socratic_questions": "1. Describe the first step in solving this equation using the Socratic questioning method.\n2. What are some different methods that can be used to solve equations like this?\n3. If you were to use the method of graphing, how would you find the solutions to the equation?\n4. Why is it useful to pair the solutions as $x$ and $-x$?\n5. Can you think of any other properties or characteristics of the equation that could help in finding the sum of the solutions?\n6. Are there any other equations that can be solved using similar steps and thinking? Can you provide an example?"
+}

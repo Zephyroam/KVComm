@@ -1,0 +1,7 @@
+{
+    "problem": "What is the value of $x$ in the plane figure shown?\n\n[asy]\npair A;\ndraw(dir(40)--A); draw(dir(200)--A); draw(dir(300)--A);\nlabel(\"$160^{\\circ}$\",A,dir(120)); label(\"$x^{\\circ}$\",A,dir(250)); label(\"$x^{\\circ}$\",A,dir(350));\n[/asy]",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "The angles around a point sum to $360^\\circ$, so $x^\\circ + x^\\circ + 160^\\circ = 360^\\circ$.  Simplifying gives $2x^\\circ + 160^\\circ = 360^\\circ$, so $2x^\\circ = 200^\\circ$ and $x=\\boxed{100}$.",
+    "socratic_questions": "1. What is the given problem asking for?\n2. Can you identify any relationships between the angles in the figure?\n3. How can we use the fact that the angles around a point sum to $360^\\circ$ to help solve for $x$?\n4. Can we simplify the equation we get from using the fact that the angles around a point sum to $360^\\circ$?\n5. How can we isolate $x$ in the equation we found?\n6. What is the value of $x$ that we solve for using this method? Can we check our answer?"
+}

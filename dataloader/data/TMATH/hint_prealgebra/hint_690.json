@@ -1,0 +1,7 @@
+{
+    "problem": "When the length of a rectangle is increased by $20\\%$ and the width increased by $10\\%$, by what percent is the area increased?",
+    "level": "Level 5",
+    "type": "Prealgebra",
+    "solution": "If we let the length of the rectangle be $l$ and the width be $w$, then the original area of the rectangle is $lw$. The length is then increased $20\\%$ to $1.2l$ and the width is increased $10\\%$ to $1.1w$, so the new area is $(1.2l)(1.1w)=1.32lw$. There new area is $132\\%$ the old area, which represents a change of $\\boxed{32 \\%}$.",
+    "socratic_questions": "1. Can you describe what the problem is asking in your own words?\n2. How can we represent the original length and width of the rectangle mathematically?\n3. What happens to the length and width when they are increased by certain percentages?\n4. How can we calculate the new area of the rectangle using the increased length and width?\n5. What is the relationship between the new area and the original area?\n6. Can you express the change in area as a percentage? How would you calculate it?\n7. Is there a specific reason why the change in area is expressed as a percentage?\n8. Can you think of any other scenarios where calculating the change in an attribute using percentages might be applicable?"
+}

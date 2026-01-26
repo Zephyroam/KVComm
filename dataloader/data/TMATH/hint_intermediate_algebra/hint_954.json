@@ -1,0 +1,7 @@
+{
+    "problem": "Let $f(x)$ be an odd function.  Is $f(f(x))$ even, odd, or neither?\n\nEnter \"odd\", \"even\", or \"neither\".",
+    "level": "Level 1",
+    "type": "Intermediate Algebra",
+    "solution": "We have that\n\\[f(f(-x)) = f(-f(x)) = -f(f(x)),\\]so $f(f(x))$ is an $\\boxed{\\text{odd}}$ function.",
+    "socratic_questions": "1. What is an odd function? \n2. How can we determine whether $f(f(x))$ is even, odd, or neither? \n3. Using the given information, can we determine anything about the composition $f(g(x))$ for two odd functions $f(x)$ and $g(x)$? \n4. Are there any other properties or characteristics of odd functions that could help us further understand why $f(f(x))$ is odd? \n5. Can you think of any examples of odd functions and their compositions that could help illustrate this concept?"
+}

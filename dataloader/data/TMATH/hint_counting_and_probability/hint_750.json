@@ -1,0 +1,7 @@
+{
+    "problem": "Brent rolls a fair dodecahedral die with numbers $1,2,3,...,12$ on its faces. What is the expected number of digits in the number he obtains? Express your answer in a decimal.",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "There are nine numbers with one digit: $1,2,...,9$, so the probability of selecting a one digit number is $\\frac{9}{12} =\\frac{3}{4}$. There are three numbers with two digits: $10,11,12$, so the probability of selecting a two digit number is $\\frac{3}{12} = \\frac{1}{4}$. The expected number of digits is therefore $E = \\frac{3}{4} \\cdot 1 + \\frac{1}{4} \\cdot 2 = \\boxed{1.25}$.",
+    "socratic_questions": "1. Can you explain the problem in your own words? What are we trying to find?\n2. How many digits are there in each possible outcome when Brent rolls the die?\n3. How many outcomes have one digit? How many outcomes have two digits?\n4. What is the probability of getting a one-digit outcome? What is the probability of getting a two-digit outcome?\n5. How can we calculate the expected number of digits using these probabilities?\n6. Can you set up an equation for finding the expected number of digits?\n7. Can you simplify the equation and calculate the expected value?\n8. Can you explain why we multiply the probabilities by the number of digits in each case?\n9. Can you think of any other situations where you might use similar calculations to find an expected value?"
+}

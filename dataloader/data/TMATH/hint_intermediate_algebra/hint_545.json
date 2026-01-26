@@ -1,0 +1,7 @@
+{
+    "problem": "Find the quotient when $7x^3 + 3x^2 - 5x - 8$ is divided by $x + 2.$",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "The long division is shown below.\n\n\\[\n\\begin{array}{c|cc cc}\n\\multicolumn{2}{r}{7x^2} & -11x & +17  \\\\\n\\cline{2-5}\nx + 2 & 7x^3 & +3x^2&-5x&-8  \\\\\n\\multicolumn{2}{r}{7x^3} & +14x^2& \\\\ \n\\cline{2-3}\n\\multicolumn{2}{r}{} & -11x^2& -5x\\\\ \n\\multicolumn{2}{r}{} & -11x^2& -22x\\\\ \n\\cline{3-4}\n\\multicolumn{2}{r}{} & & +17x & -8 \\\\ \n\\multicolumn{2}{r}{} & & +17x & +34 \\\\ \n\\cline{4-5}\n\\multicolumn{2}{r}{} & & & -42 \\\\ \n\\end{array}\n\\]Thus, the quotient is $\\boxed{7x^2 - 11x + 17}.$",
+    "socratic_questions": "1. What is long division and how is it used to divide polynomials? \n2. Can you explain the steps involved in performing polynomial long division? \n3. Why do we use the divisor as the first term in setting up the long division? \n4. How do you know when to stop dividing in long division? \n5. Can you explain what the remainder means in long division of polynomials? \n6. Are there any other methods to divide polynomials besides long division? If so, what are they? \n7. How can dividing polynomials be useful in solving problems or applications outside of math?"
+}

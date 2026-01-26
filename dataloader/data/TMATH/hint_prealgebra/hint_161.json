@@ -1,0 +1,7 @@
+{
+    "problem": "How much greater, in square inches, is the area of a circle of radius 20 inches than a circle of diameter 20 inches? Express your answer in terms of $\\pi$.",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "A circle of diameter 20 inches has radius 10 inches.  Thus the difference in the areas of these two circles is $20^2\\pi - 10^2\\pi = \\boxed{300\\pi}$ square inches.",
+    "socratic_questions": "1. What is the formula for the area of a circle?\n2. How is a circle's diameter related to its radius?\n3. What is the radius of a circle with diameter 20 inches?\n4. What is the area of a circle with radius 20 inches?\n5. What is the area of a circle with diameter 20 inches?\n6. How can we calculate the difference between the areas of these two circles?\n7. What is the difference between the areas of the two circles in square inches?\n8. Can we express this difference in terms of pi? If so, how?"
+}

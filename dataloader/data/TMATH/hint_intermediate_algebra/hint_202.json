@@ -1,0 +1,7 @@
+{
+    "problem": "What is the remainder when $x^4-7x^3+9x^2+16x-13$ is divided by $x-3$?",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "Using the Remainder Theorem, the remainder when $f(x) = x^4-7x^3+9x^2+16x-13$ is divided by $x - 3$ is\n$$\\begin{aligned} f(3)&=3^4-7\\cdot3^3+9\\cdot3^2+16\\cdot3-13 \\\\&= 3^3(3-7+3) + 35\\\\ &= \\boxed{8}. \\end{aligned}$$",
+    "socratic_questions": "1. Can you explain what the Remainder Theorem is and how it can be used to solve this problem?\n2. What is the degree of the polynomial $x-3$, and why is this significant when using the Remainder Theorem?\n3. Can you explain why we plug in 3 for x when using the Remainder Theorem to solve this problem?\n4. Suppose we had a different polynomial and divisor. Would we still be able to use the Remainder Theorem to find the remainder? If not, what other methods could we use?\n5. How would the problem change if we were asked for the quotient instead of the remainder? \n6. What other applications of the Remainder Theorem can you think of in algebra and beyond?"
+}

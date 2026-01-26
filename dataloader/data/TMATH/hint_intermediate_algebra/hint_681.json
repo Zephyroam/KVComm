@@ -1,0 +1,7 @@
+{
+    "problem": "A function $f$ has domain $[0,2]$ and range $[0,1]$. (The notation $[a,b]$ denotes $\\{x:a \\le x \\le b \\}$.) Let\n\\[g(x) = 1 - f(x + 1).\\]Then the domain of $g(x)$ is $[a,b],$ and the range of $g(x)$ is $[c,d].$  Enter the ordered quadruple $(a,b,c,d).$",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "For $g(x) = 1 - f(x + 1)$ to be defined, we need\n\\[0 \\le x + 1 \\le 2,\\]or $-1 \\le x \\le 1.$  As $y$ ranges over $0 \\le y \\le 1,$ $1 - y$ ranges from 1 to 0.  Hence, $(a,b,c,d) = \\boxed{(-1,1,0,1)}.$",
+    "socratic_questions": "1. What is the definition of the domain of a function? How is it related to the values of $x$ for which the function is defined?\n2. What does the given interval notation $[0, 2]$ represent? How does it help us understand the domain of $f(x)$?\n3. How can we determine the range of a function? What does the interval notation $[0, 1]$ tell us about the range of $f(x)$?\n4. What does the expression $g(x) = 1 - f(x + 1)$ represent? Can we simplify this expression further?\n5. What are the possible values of $x$ that make $g(x)$ defined? How does this relate to the domain of $g(x)$?\n6. How does the domain of $g(x)$ relate to the domain of the original function $f(x)$?"
+}

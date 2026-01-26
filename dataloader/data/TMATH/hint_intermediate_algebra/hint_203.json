@@ -1,0 +1,7 @@
+{
+    "problem": "Let $x,$ $y,$ and $z$ be positive real numbers such that $x + y + z = 3.$  Find the minimum value of\n\\[\\frac{4}{x} + \\frac{9}{y} + \\frac{16}{z}.\\]",
+    "level": "Level 4",
+    "type": "Intermediate Algebra",
+    "solution": "By Cauchy-Schwarz,\n\\[(x + y + z) \\left( \\frac{4}{x} + \\frac{9}{y} + \\frac{16}{z} \\right) \\ge (2 + 3 + 4)^2 = 81,\\]so\n\\[\\frac{4}{x} + \\frac{9}{y} + \\frac{16}{z} \\ge \\frac{81}{3} = 27.\\]Equality occurs when $\\frac{x^2}{4} = \\frac{y^2}{9} = \\frac{z^2}{16}.$  Along with the condition $x + y + z = 3,$ we can solve to get $x = \\frac{2}{3},$ $y = 1,$ and $z = \\frac{4}{3},$ so the minimum value is $\\boxed{27}.$",
+    "socratic_questions": "1. Can you describe the first step in solving this problem?\n2. What is the Cauchy-Schwarz inequality and how is it related to this problem?\n3. How did we use Cauchy-Schwarz to derive the inequality?\n4. What value did we obtain from Cauchy-Schwarz and how did we relate it to the expression given in the problem?\n5. How did we determine that the minimum value occurs when $\\frac{x^2}{4} = \\frac{y^2}{9} = \\frac{z^2}{16}$?\n6. Can you explain how we used the given condition $x + y + z = 3$ to find the values of $x$, $y$, and $z$?\n7. What are the values of $x$, $y$, and $z$ that correspond to the minimum value?\n8. Can you think of any similar problems where the Cauchy-Schwarz inequality could be applied to find a minimum value?"
+}

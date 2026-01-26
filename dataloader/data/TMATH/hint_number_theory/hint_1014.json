@@ -1,0 +1,7 @@
+{
+    "problem": "We know the following to be true:\n\n$\\bullet$ 1.  $Z$ and $K$ are integers with $500 < Z < 1000$ and $K > 1;$\n\n$\\bullet$ 2.  $Z$ = $K \\times K^2.$\n\nWhat is the value of $K$ for which $Z$ is a perfect square?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "From the second fact, we know that $Z=K^3.$ $Z$ is a perfect square if $K^3$ is a perfect square, so $Z$ is the sixth power of some integer. Since $500<Z<1000,$ the only value of $Z$ that works is $Z=3^6=729.$ Thus, $K=\\sqrt[3]{729}=\\boxed{9}.$",
+    "socratic_questions": "1. What is the range of possible values for integer $Z$? \n2. What is the constraint on the integer $K$? \n3. How can we rewrite $Z$ in terms of $K$? \n4. Under what condition does $Z$ become a perfect square? \n5. What is the relationship between $K$ and the prime factorization of $Z$? \n6. What is the smallest value of $K$ that makes $Z$ a perfect square? \n7. Can you generalize a method for finding values of $K$ that make $Z$ a perfect square for similar problems?"
+}

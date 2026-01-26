@@ -1,0 +1,7 @@
+{
+    "problem": "Seven distinct points are identified on the circumference of a circle. How many different triangles can be formed if each vertex must be one of these 7 points?",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "To form a triangle, we must choose 3 of the 7 points to be the vertices. So, selecting 3 points (without concern for order) out of 7 we get ${7 \\choose 3} = \\frac{7 \\cdot 6 \\cdot 5}{3 \\cdot 2 \\cdot 1} = \\boxed{35}$ triangles.",
+    "socratic_questions": "1. What is the definition of a triangle? \n2. How many distinct points are there on the circumference of the circle? \n3. How many points are required to form a triangle? \n4. How many ways can we choose 3 points (out of 7) to form a triangle? \n5. Is order important when selecting the points to form a triangle? \n6. What formula can we use to calculate the number of ways to choose k objects from n distinct objects without regard to order? \n7. How can we apply this formula to solve this problem? \n8. Are there any limitations or special considerations we should be aware of when using this formula for this problem? \n9. How does the answer to this problem change if we have a different number of distinct points on the circumference of the circle?"
+}

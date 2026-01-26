@@ -1,0 +1,7 @@
+{
+    "problem": "The equation of a parabola is $y^2 + 6y + 2x + 5 = 0.$  Find the vertex of the parabola.",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "Completing the square in $y,$ we get\n\\[(y + 3)^2 + 2x - 4 = 0.\\]Then solving for $x,$ we get\n\\[x = 2 - \\frac{1}{2} (y + 3)^2.\\]Thus, the vertex of the parabola is $\\boxed{(2,-3)}.$",
+    "socratic_questions": "1. How would you begin solving this problem, and what is the first step in finding the vertex of the parabola?\n2. Can you identify any specific techniques or strategies that can be used to find the vertex of a parabola?\n3. If we want to complete the square in order to find the vertex, what term(s) should we focus on when completing the square in this equation?\n4. What is the significance of the term being added/subtracted within the completed square form of the equation?\n5. Based on the equation, can you determine the coordinates of the vertex? If so, what are they and how are they related to the original equation?\n6. Can you think of any other types of equations where finding the vertex requires similar thinking and steps?"
+}

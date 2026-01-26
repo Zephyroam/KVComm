@@ -1,0 +1,7 @@
+{
+    "problem": "Two congruent cylinders each have radius 8 inches and height 3 inches. The radius of one cylinder and the height of the other are both increased by the same nonzero number of inches. The resulting volumes are equal. How many inches is the increase? Express your answer as a common fraction.",
+    "level": "Level 4",
+    "type": "Geometry",
+    "solution": "Let the increase measure $x$ inches.  The cylinder with increased radius now has volume  \\[\\pi (8+x)^2 (3)\\] and the cylinder with increased height now has volume \\[\\pi (8^2) (3+x).\\] Setting these two quantities equal and solving yields  \\[3(64+16x+x^2)=64(3+x) \\Rightarrow 3x^2-16x=x(3x-16)=0\\] so $x=0$ or $x=16/3$.  The latter is the valid solution, so the increase measures $\\boxed{\\frac{16}{3}}$ inches.",
+    "socratic_questions": "1. What is the initial volume of each cylindrical object?\n2. How does increasing the radius of one cylinder and the height of the other affect their volumes?\n3. Can you write out an equation representing the new volume of each cylinder after the increase?\n4. Why do we set the two volumes to be equal?\n5. What is the resulting quadratic equation we obtain from setting the volumes equal?\n6. How do we solve for the value of x using the quadratic equation?\n7. Why do we disregard the solution x=0?\n8. What is the final answer and how do we express it as a common fraction?"
+}

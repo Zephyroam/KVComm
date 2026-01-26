@@ -1,0 +1,7 @@
+{
+    "problem": "Find all values of $k$ so that\n\\[x^2 - (k - 3) x - k + 6 > 0\\]for all $x.$",
+    "level": "Level 4",
+    "type": "Intermediate Algebra",
+    "solution": "If we graph $y = x^2 - (k - 3) x - k + 6,$ then we obtain an upward-facing parabola.  Thus, the inequality\n\\[x^2 - (k - 3) x - k + 6 > 0\\]holds as long as the discriminant of the quadratic is negative.\n\nThis gives us\n\\[(k - 3)^2 - 4(-k + 6) < 0.\\]This simplifies to $k^2 - 2k - 15 < 0,$ which factors as $(k + 3)(k - 5) < 0.$  Thus, $k \\in \\boxed{(-3,5)}.$",
+    "socratic_questions": "1. Can you describe what the discriminant of a quadratic equation represents? \n2. What does it mean for the discriminant to be negative? How does this relate to the graph of the quadratic equation? \n3. How can we determine the range of values for $k$ that satisfy the inequality? \n4. What happens when we factor the quadratic inequality $(k + 3)(k - 5) < 0$? \n5. How can we interpret the solution $k \\in (-3,5)$ in the context of the original inequality? \n6. Can you think of other situations where we would need to consider the range of values for a variable in a given inequality?"
+}

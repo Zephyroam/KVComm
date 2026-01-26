@@ -1,0 +1,7 @@
+{
+    "problem": "Three positive integers $a,$ $b,$ and $x$ form an O'Hara triple $(a,b,x)$ if $\\sqrt{a}+\\sqrt{b}=x.$ For example, $(1,4,3)$ is an O'Hara triple because $\\sqrt{1}+\\sqrt{4}=3.$\n\nIf $(36,25,x)$ is an O'Hara triple, determine the value of $x.$",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Since $(36,25,x)$ is an O'Hara triple, then $\\sqrt{36}+\\sqrt{25}=x,$ or $x=6+5=\\boxed{11}.$",
+    "socratic_questions": "1. What is an O'Hara triple and how is it formed with three positive integers?\n2. Can you explain how the equation $\\sqrt{a}+\\sqrt{b}=x$ represents an O'Hara triple?\n3. Given the O'Hara triple $(36,25,x)$, what are the values of $a$ and $b$ in this case?\n4. How can we find the value of $x$ in the O'Hara triple $(36,25,x)$?\n5. Can you take the square root of $36$ and $25$ and determine the value of $x$?\n6. Is the sum of the square roots of $36$ and $25$ equal to $x$? If so, what is the value of $x$?"
+}

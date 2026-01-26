@@ -1,0 +1,7 @@
+{
+    "problem": "What is the remainder when the sum $1 + 7 + 13 + 19 + \\cdots + 253 + 259$ is divided by $6$?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "First of all, we see that every term has a remainder of $1$ when divided by $6.$ Now, we just need to find how many terms there are. The nth term can be given by the expression $6n - 5.$ Therefore, we set $259 = 6n - 5$ to find $n = 44,$ thus there are $44$ terms in our sum. Thus, the remainder of the sum is the same as the remainder of $44$ when divided by $6,$ which is $\\boxed{2}.$",
+    "socratic_questions": "1. Can you explain why every term in the given series has a remainder of $1$ when divided by $6$?\n2. How did you determine the expression for the nth term as $6n - 5$?\n3. Why did you set $259 = 6n - 5$? What are you trying to find by doing this?\n4. How did you solve the equation $259 = 6n - 5$ to find the value of $n$?\n5. Why is it important to find the number of terms in the sum?\n6. Can you explain why the remainder of the sum is the same as the remainder of $44$ when divided by $6$?\n7. What is the remainder when $44$ is divided by $6$ and how does it relate to the remainder of the sum?"
+}

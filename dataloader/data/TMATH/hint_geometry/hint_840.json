@@ -1,0 +1,7 @@
+{
+    "problem": "A 6 cm by 8 cm rectangle is inscribed in a circle. What is the number of centimeters in the circumference of the circle? Express your answer in terms of $\\pi$.\n\n[asy]import graph;\ndefaultpen(linewidth(0.7));\ndraw(Circle((0,0),20));\ndraw((-16,-12)--(16,-12)--(16,12)--(-16,12)--cycle);\n[/asy]",
+    "level": "Level 2",
+    "type": "Geometry",
+    "solution": "Draw a diagonal of the rectangle.  By the Pythagorean theorem, the length of the diagonal is $\\sqrt{6^2+8^2}=10$ centimeters.  Also, by symmetry the diagonal of the rectangle is a diameter of the circle.  The circumference of the circle is $\\pi\\times (\\text{diameter})=\\boxed{10\\pi}$ centimeters. [asy]\nimport graph;\ndefaultpen(linewidth(0.7));\ndraw(Circle((0,0),20));\ndraw((-16,-12)--(16,-12)--(16,12)--(-16,12)--cycle);\ndraw((16,-12)--(-16,12));\ndraw(rightanglemark((16,-12),(16,12),(-16,12),45));[/asy]",
+    "socratic_questions": "1. What is the definition of inscribed in a circle? \n2. Can you derive any formulas or equations related to the sides and angles of a rectangle inscribed in a circle? \n3. How does the Pythagorean theorem apply to this problem? \n4. Why does the diagonal of the rectangle serve as a diameter of the circle? \n5. How does the diameter of the circle relate to the circumference of the circle? \n6. What is the final answer, expressed in terms of pi, and why is it correct? \n7. Can you think of any real-world applications of inscribing shapes in circles, and how it relates to geometry and math?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "The foot of the perpendicular from the origin to a plane is $(12,-4,3).$  Find the equation of the plane.  Enter your answer in the form\n\\[Ax + By + Cz + D = 0,\\]where $A,$ $B,$ $C,$ $D$ are integers such that $A > 0$ and $\\gcd(|A|,|B|,|C|,|D|) = 1.$",
+    "level": "Level 5",
+    "type": "Precalculus",
+    "solution": "We can take $\\begin{pmatrix} 12 \\\\ -4 \\\\ 3 \\end{pmatrix}$ as the normal vector of the plane.  Then the equation of the plane is of the form\n\\[12x - 4y + 3z + D = 0.\\]Substituting in the coordinates of $(12,-4,3),$ we find that the equation of the plane is $\\boxed{12x - 4y + 3z - 169 = 0}.$",
+    "socratic_questions": "1. What is the significance of finding the foot of the perpendicular from the origin to the plane? Why is this point important in determining the equation of the plane?\n2. How did we determine that the vector (12, -4, 3) can be taken as the normal vector of the plane?\n3. How does substituting the coordinates of the foot of the perpendicular into the equation of the plane help us in finding the value of D?\n4. Can you think of any other methods or approaches to find the equation of a plane given a point and a normal vector? How are they similar or different from the method used here?\n5. What is the meaning and significance of each coefficient (A, B, C, D) in the equation of the plane? How do they relate to the geometry or properties of the plane?\n6. How can we verify that the equation 12x - 4y + 3z - 169 = 0 represents the correct equation of the plane?"
+}

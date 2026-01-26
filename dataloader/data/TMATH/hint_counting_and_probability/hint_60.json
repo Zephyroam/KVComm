@@ -1,0 +1,7 @@
+{
+    "problem": "A plane is uniquely determined by three non-collinear points. What is the maximum possible number of planes that can be determined by 12 points in space?",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "There are $\\binom{12}{3} = \\boxed{220}$ ways to pick any 3 points, which we assume to determine a unique plane.",
+    "socratic_questions": "1. What is the basic concept of determining a plane by three non-collinear points?\n2. Can you explain why exactly three non-collinear points are needed to determine a unique plane?\n3. How many different ways can we choose 3 points from a set of 12 points?\n4. Why is the number of ways to choose 3 points from 12 relevant to determining the maximum possible number of planes?\n5. How can we calculate the number of ways to choose 3 points from 12 using combinatorics?\n6. What is the value of $\\binom{12}{3}$, and what does it represent in this context?\n7. How does $\\binom{12}{3}$ give us the maximum possible number of planes that can be determined by 12 points?\n8. Can you explain the reasoning behind the formula for calculating combinations, $\\binom{n}{r}$?\n9. Are there any assumptions or conditions that we need to consider in order for the formula $\\binom{n}{r}$ to be applicable in this scenario?\n10. Are there any other scenarios or contexts where the concept of combinations can be used to determine the number of possible outcomes or arrangements?"
+}

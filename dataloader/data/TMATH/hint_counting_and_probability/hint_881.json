@@ -1,0 +1,7 @@
+{
+    "problem": "A box contains 5 white balls and 6 black balls.  Five balls are drawn out of the box at random.  What is the probability that they all are white?",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "There are $\\binom{11}{5} = 462$ ways to choose 5 balls out of the box.  There is only $\\binom{5}{5} = 1$ way to choose 5 white balls out of 5.  This means that the probability that all 5 balls are white is $\\boxed{\\dfrac{1}{462}}$.",
+    "socratic_questions": "1. What is the total number of balls in the box and what is the ratio of white balls to black balls?\n2. How many possible ways are there to draw 5 balls out of the box and why do we use combination to calculate this?\n3. What is the probability of drawing one white ball out of the box and how does this relate to the probability of drawing 5 white balls?\n4. Can you explain the difference between drawing with replacement and drawing without replacement, and which method is being used in this problem?\n5. What is the difference in probability of drawing 5 white balls if the box contained 10 white balls and 6 black balls instead?\n6. Is there any difference in probability of drawing 5 white balls if we draw them one by one instead of all at once, and why or why not? \n7. Can you think of any real-life situations where probability calculation is important, and how can we use the principles we learned in this problem to solve those situations?"
+}

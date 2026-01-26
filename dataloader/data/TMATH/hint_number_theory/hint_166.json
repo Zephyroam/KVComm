@@ -1,0 +1,7 @@
+{
+    "problem": "What is the smallest integer $k$ such that $k>1$ and $k$ has remainder $1$ when divided by any of $17,$ $6,$ and $2?$",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "We can re-write the problem as the following three equations: $$k = 17a+1\\\\k = 6b+1 \\\\ k = 2c + 1$$Therefore, $k-1$ is divisible by $17,$ $6,$ and $2.$ The smallest positive value of $k-1$ is thus $$\\text{lcm}[17,6,2] = \\text{lcm}[17,6] = 17\\cdot 6 = 102,$$and so the smallest possible value of $k$ is $k = 102+1 = \\boxed{103}.$",
+    "socratic_questions": "1. Can you explain the given problem in your own words?\n2. How can we rewrite the given problem as a system of equations?\n3. Why are we subtracting 1 from $k$ in the equations? What purpose does it serve?\n4. What does it mean for a number to have a remainder of 1 when divided by another number?\n5. How can we find the smallest positive value of $k-1$ that satisfies all three equations?\n6. What is the least common multiple (LCM) of 17 and 6? How did you calculate it?\n7. How did you use the LCM to find the smallest possible value of $k$?\n8. Can you explain why the value of $k$ found in this way satisfies all three equations?"
+}

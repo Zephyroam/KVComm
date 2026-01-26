@@ -1,0 +1,7 @@
+{
+    "problem": "Find the greatest common divisor of $7!$ and $(5!)^2.$",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "$$ \\begin{array}{rcrcr} 7! &=& 7 \\cdot 6 \\cdot 5 \\cdot 4 \\cdot 3 \\cdot 2 \\cdot 1 &=& 2^4 \\cdot 3^2 \\cdot 5^1 \\cdot 7^1 \\\\ (5!)^2 &=& (5 \\cdot 4 \\cdot 3 \\cdot 2 \\cdot 1)^2 &=& 2^6 \\cdot 3^2 \\cdot 5^2 \\\\ \\text{gcd}(7!, (5!)^2) &=& 2^4 \\cdot 3^2 \\cdot 5^1 &=& \\boxed{720} \\end{array} $$",
+    "socratic_questions": "1. What is a common divisor? Can you give an example?\n2. How do we usually find the greatest common divisor of two numbers? \n3. Can you factorize 7! and $(5!)^2$ into their prime factors? \n4. How does prime factorization help us find the greatest common divisor? \n5. What is the highest power of each prime factor that appears in both 7! and $(5!)^2$? \n6. How can we use the highest power of each prime factor to find the greatest common divisor? \n7. Are there any other methods to find the greatest common divisor? How do they work? \n8. Can you find the greatest common divisor of other pairs of numbers using similar steps?"
+}

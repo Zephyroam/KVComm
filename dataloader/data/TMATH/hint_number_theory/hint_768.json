@@ -1,0 +1,7 @@
+{
+    "problem": "How many prime numbers have squares between 4000 and 7000?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "Let $n$ be any integer that has its square between 4000 and 7000. Then $63 < n < 84$, because $63^2 < 4000<64^2$ and $83^2< 7000<84^2$. Between 63 and 84, the only primes are 67, 71, 73, 79, and 83. Thus, the answer is $\\boxed{5}$.",
+    "socratic_questions": "1. How did you determine the range for the integer $n$ that has its square between 4000 and 7000?\n2. Why did you choose to focus on primes within that range of $n$?\n3. Can you explain how you identified the primes between 63 and 84?\n4. Are there any other methods or approaches you could have used to solve this problem?\n5. Can you generalize your findings to find the number of primes with squares between any two given numbers?\n6. Is it possible to find a formula or algorithm to calculate the number of primes with squares within a given range?"
+}

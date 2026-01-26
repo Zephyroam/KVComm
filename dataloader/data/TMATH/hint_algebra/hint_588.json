@@ -1,0 +1,7 @@
+{
+    "problem": "Find the only positive real number $x$ for which $\\displaystyle \\frac{x-4}{9} = \\frac{4}{x-9}$.",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "The first approach that comes to mind is probably also the best one.  So we cross-multiply to obtain $(x-4)(x-9) = 36$.  Multiplying out the left-hand side and cancelling the 36 yields $x^2-13x = 0$, or $x(x-13)=0$.  This equation has two solutions, $x=0$ and 13.  Since we are looking for positive answers, we take $x=\\boxed{13}$.",
+    "socratic_questions": "1. Can you explain what the equation represents and what you are trying to find?\n2. What are the possible ways to solve this equation? Are there any specific methods you have learned that could be applied?\n3. If you choose to cross-multiply, what do you need to consider? Why is cross-multiplication a valid step in this case?\n4. How can you simplify the equation after cross-multiplying? What steps would you take to solve for the variable $x$?\n5. Are there any restrictions on the value of $x$ that need to be considered when solving this equation? If so, why?\n6. After solving the equation, how could you verify your solution? What steps could be taken to check if the answer satisfies the original equation?\n7. Can you think of any other types of equations that might involve similar thinking and steps to solve?"
+}

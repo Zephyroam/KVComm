@@ -1,0 +1,7 @@
+{
+    "problem": "What is the greatest possible positive integer value of $x$ if $\\displaystyle\\frac{x^4}{x^2} < 10$?",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "On the left-hand side, $x^2$ cancels, reducing the inequality to $x^2<10$. Since  $3^2=9<10$ while $4^2=16>10$, the greatest possible value of $x$ is $\\boxed{3}$.",
+    "socratic_questions": "1. What does the inequality $\\displaystyle\\frac{x^4}{x^2} < 10$ represent? Can you describe it in words?\n2. What does it mean for the value of $x$ to be a positive integer? How does that relate to the problem?\n3. Can you simplify the left side of the inequality $\\displaystyle\\frac{x^4}{x^2}$? What does it become?\n4. Based on the simplified expression, can you determine any limits or boundaries on the possible values of $x$?\n5. What happens if you consider different positive integer values for $x$? Can you find any specific examples that satisfy the inequality?\n6. Is there any pattern or trend that emerges when you try different positive integer values for $x$? Can you use that to help find the greatest possible value of $x$?\n7. Is it possible to have an infinitely large positive integer value for $x$ that satisfies the inequality? Why or why not?\n8. Can you think of any other similar problems where similar reasoning and steps might be useful in finding the solution?"
+}

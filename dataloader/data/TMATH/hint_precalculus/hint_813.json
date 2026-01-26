@@ -1,0 +1,7 @@
+{
+    "problem": "Find the cross product of $\\begin{pmatrix} 5 \\\\ 2 \\\\ -6 \\end{pmatrix}$ and $\\begin{pmatrix} 1 \\\\ 1 \\\\ 3 \\end{pmatrix}.$",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "The cross product of $\\begin{pmatrix} 5 \\\\ 2 \\\\ -6 \\end{pmatrix}$ and $\\begin{pmatrix} 1 \\\\ 1 \\\\ 3 \\end{pmatrix}$ is\n\\[\\begin{pmatrix} (2)(3) - (1)(-6) \\\\ (-6)(1) - (3)(5) \\\\ (5)(1) - (1)(2) \\end{pmatrix} = \\boxed{\\begin{pmatrix} 12 \\\\ -21 \\\\ 3 \\end{pmatrix}}.\\]",
+    "socratic_questions": "1. What is the purpose of finding the cross product of two vectors?\n2. How do we determine the direction of the resulting vector?\n3. What is the geometric interpretation of the cross product?\n4. Why does the cross product depend on the order of the vectors?\n5. What would happen if the two given vectors were parallel or collinear?\n6. Can you think of a scenario where finding the cross product would be useful?"
+}

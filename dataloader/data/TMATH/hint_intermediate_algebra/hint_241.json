@@ -1,0 +1,7 @@
+{
+    "problem": "Find the maximum value of $10^x - 100^x,$ over all real numbers $x.$",
+    "level": "Level 4",
+    "type": "Intermediate Algebra",
+    "solution": "Let $y = 10^x.$  Then\n\\[10^x - 100^x = y - y^2 = \\frac{1}{4} - \\left( y -  \\frac{1}{2} \\right)^2.\\]Thus, the maximum value is $\\boxed{\\frac{1}{4}},$ which occurs when $y = \\frac{1}{2},$ or $x = \\log_{10} \\left( \\frac{1}{2} \\right).$",
+    "socratic_questions": "1. What is the expression we are trying to find the maximum value of?\n2. Can we rewrite the expression in a different form to make it easier to work with?\n3. By letting $y = 10^x,$ how can we rewrite the expression in terms of $y$?\n4. How can we further simplify the expression to make it easier to find the maximum value?\n5. What does the expression $y - y^2$ represent?\n6. How can we find the maximum value of $y - y^2$?\n7. How does finding the maximum value of $y - y^2$ relate to finding the maximum value of $10^x - 100^x$?\n8. What is the maximum value of $y - y^2$?\n9. How can we find the corresponding value of $x$ that gives us the maximum value of $10^x - 100^x$?\n10. What is the maximum value of $10^x - 100^x$?"
+}

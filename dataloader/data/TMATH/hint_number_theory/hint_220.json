@@ -1,0 +1,7 @@
+{
+    "problem": "How many positive integers less than 100 are both a square and a cube?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "In order for an integer to be a square and a cube, it must also be a perfect sixth power. The only perfect sixth powers less than 100 are $1^6=1$ and $2^6=64$, so there are only $\\boxed{2}$ positive integers less than 100 that are both a square and a cube.",
+    "socratic_questions": "1. What is the definition of a perfect square? \n2. What is the definition of a perfect cube? \n3. How can we find all the perfect sixth powers less than 100? \n4. How do we know that an integer must be a perfect sixth power in order to be both a square and a cube? \n5. How many perfect sixth powers are there less than 100? \n6. What are the two positive integers less than 100 that are both a square and a cube? \n7. Can you think of any other numbers that are both a square and a cube? \n8. How can we use this knowledge to solve similar problems involving perfect squares, cubes, and sixth powers?"
+}

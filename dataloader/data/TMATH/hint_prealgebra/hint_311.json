@@ -1,0 +1,7 @@
+{
+    "problem": "In the diagram, $\\angle PQR = 90^\\circ$.  What is the value of $x$?\n\n[asy]\nsize(100);\ndraw((0,1)--(0,0)--(1,0));\ndraw((0,0)--(.9,.47));\ndraw((0,.1)--(.1,.1)--(.1,0));\nlabel(\"$P$\",(0,1),N); label(\"$Q$\",(0,0),SW); label(\"$R$\",(1,0),E); label(\"$S$\",(.9,.47),NE);\n\nlabel(\"$2x^\\circ$\",(.15,.2)); label(\"$x^\\circ$\",(.32,-.02),N);\n\n[/asy]",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "Since $\\angle PQR=90^\\circ$, then $2x^\\circ+x^\\circ=90^\\circ$ or $3x=90$ or $x=\\boxed{30}$.",
+    "socratic_questions": "1. Can you describe the given diagram and the information it provides?\n2. How can we determine the value of $x$ based on the given diagram?\n3. Can you explain why $2x + x = 90$ in this case?\n4. What is the value of $x$ that satisfies the equation $3x = 90$?\n5. Can you explain why the angle $\\angle PQR$ being $90^\\circ$ is important in solving for $x$?\n6. Can you identify any other angles in the diagram that are related to $x^\\circ$? If so, how are they related?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Three fair, standard six-sided dice are rolled. What is the probability that the sum of the numbers on the top faces is 18? Express your answer as a common fraction.",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "We quickly note that the only way for three dice to sum to 18 is for the face of each to be a 6. So, if each die is a 6, then the probability of this occurring is $\\frac{1}{6^3} = \\boxed{\\frac{1}{216}}$.",
+    "socratic_questions": "1. What is the possible range of numbers that can appear on a standard six-sided dice?\n2. How many dice are being rolled in this scenario?\n3. Can you explain what it means for the sum of the numbers on the top faces to be 18?\n4. Are there any limitations or restrictions on how the numbers on the dice can be combined to achieve a sum of 18?\n5. If we consider each dice roll as an independent event, what is the probability of rolling a 6 on a single die?\n6. How can we calculate the probability of multiple independent events occurring together?\n7. Applying the concept of independence, what would be the probability of getting a 6 on all three dice?\n8. Considering the previous answer, can you express the probability as a fraction in simplest form?"
+}

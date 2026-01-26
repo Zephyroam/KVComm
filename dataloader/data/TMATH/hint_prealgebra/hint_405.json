@@ -1,0 +1,7 @@
+{
+    "problem": "Jordan and his three best friends are on a relay team.  His relay team will run a race, where the first runner runs a lap, then the second, then the third, then the fourth.\n\nJordan is the fastest so he will run the fourth lap.  How many different orders can the four team members run, assuming that Jordan runs the fourth lap?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Jordan runs the last lap.  There are three choices left for the person to run the first lap.  After the first lap, there are then two choices for the person to run the second lap.  The third lap must be run by the remaining team member.\n\nThe total number of ways for the team to run the relay is $3\\cdot2\\cdot1=\\boxed{6}$.",
+    "socratic_questions": "1. What is the scenario described in the problem?\n2. What is the specific task or question being asked?\n3. What is the constraint given in the problem?\n4. How many team members are there in total?\n5. According to the given constraint, how many choices are there for running the first lap?\n6. After the first lap, how many choices are there for running the second lap?\n7. How many choices are left for the remaining team member?\n8. How can we calculate the total number of ways for the team to run the relay based on the given choices?\n9. Can you express the calculation for the total number of ways using mathematical notation?\n10. What is the final answer to the problem?"
+}

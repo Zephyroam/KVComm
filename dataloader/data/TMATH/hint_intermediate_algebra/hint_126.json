@@ -1,0 +1,7 @@
+{
+    "problem": "Find the distance between the foci of the hyperbola\n\\[\\frac{y^2}{18} - \\frac{x^2}{2} = 1.\\]",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "We have that $a^2 = 18$ and $b^2 = 2,$ so $c^2 = a^2 + b^2 = 20,$ and $c = \\sqrt{20} = 2 \\sqrt{5}.$  Therefore, the distance between the foci is $2c = \\boxed{4 \\sqrt{5}}.$",
+    "socratic_questions": "1. What is the general equation of a hyperbola and how does it differ from other conic sections?\n2. What are the standard forms for a hyperbola and which one is being used in this problem? How are the constants in this equation related to the shape of the hyperbola?\n3. How can we identify the values of a, b, and c for this hyperbola based on the given equation? What are their meanings in terms of the shape and orientation of the hyperbola?\n4. What is the relationship between a, b, and c in a hyperbola? How does this relationship help us find the distance between the foci?\n5. How can we use the values of a and b to calculate the value of c in this problem?\n6. What is the formula for finding the distance between the foci of a hyperbola? How does it depend on the value of c?\n7. Using the calculated value of c, what is the distance between the foci in this specific hyperbola?"
+}

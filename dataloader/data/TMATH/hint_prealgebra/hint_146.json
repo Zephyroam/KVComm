@@ -1,0 +1,7 @@
+{
+    "problem": "How many prime numbers are between 30 and 40?",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "We test primes up to 5 as potential divisors and find that there are only $\\boxed{2}$ primes, 31 and 37, between 30 and 40.",
+    "socratic_questions": "1. Can you describe the process of determining whether a number is prime?\n2. How can the concept of divisibility help us find prime numbers?\n3. If we start testing numbers from 2 and incrementally increase, what is the first number we should test as a potential divisor in this case?\n4. Why do we only need to test potential divisors up to 5 in this scenario?\n5. Can you explain why numbers like 31 and 37 are considered prime? What characteristics do they have that make them prime?\n6. Are there any other prime numbers between 30 and 40? How can we be sure?\n7. Can you think of any strategies or patterns that might help us find prime numbers more efficiently in general?"
+}

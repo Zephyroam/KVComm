@@ -1,0 +1,7 @@
+{
+    "problem": "Find the integer $n$, $0 \\le n \\le 11$, such that \\[n \\equiv 10389 \\pmod{12}.\\]",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "Since $10389 \\equiv 9 \\pmod{12}$, the integer $n$ we seek is $n = \\boxed{9}$.",
+    "socratic_questions": "1. How did you determine that the integer $n$ we are looking for must satisfy the equation $n \\equiv 10389 \\pmod{12}$?\n2. Can you explain what is meant by the notation $n \\equiv 10389 \\pmod{12}$?\n3. How does modular arithmetic relate to number theory in general?\n4. Are there any other ways to represent the number $10389$ using modular arithmetic?\n5. What is the significance of the restriction that $n$ must be an integer between $0$ and $11$, inclusive?\n6. Can you give an example of an equation similar to this one that can be solved using modular arithmetic?"
+}

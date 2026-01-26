@@ -1,0 +1,7 @@
+{
+    "problem": "A tree doubled its height every year until it reached a height of 32 feet at the end of 6 years. What was the height of the tree, in feet, at the end of 3 years?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "Going backwards, we see that the tree was $32/2 = 16$ feet at the end of 5 years, $16/2 = 8$ feet at the end of 4 years, and $8/2 = \\boxed{4 \\text{ feet}}$ at the end of 3 years.",
+    "socratic_questions": "1. What is the initial height of the tree?\n2. How does the tree's height change each year?\n3. Can you determine a pattern or rule for the tree's height after each year?\n4. How can we use the pattern or rule to find the height of the tree at the end of 3 years?\n5. What is the height of the tree at the end of the first year? How about the second year?\n6. How does the height of the tree after 6 years relate to its initial height?\n7. Is there a formula or equation that represents the relationship between the number of years and the height of the tree?\n8. Can you use this formula or equation to calculate the height of the tree at the end of 3 years?\n9. Are there any assumptions or limitations in using this formula or equation?\n10. How accurate do you think the calculated height at the end of 3 years will be?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "The volume of a given sphere is $36\\pi$ cubic inches. How many square inches are in its surface area? Express your answer in terms of $\\pi$.",
+    "level": "Level 3",
+    "type": "Geometry",
+    "solution": "The volume of a sphere with radius $r$ is $\\frac{4}{3}\\pi r^3$.  Here, we have $\\frac{4}{3}\\pi r^3=36\\pi$.  Dividing both sides by $\\frac{4}{3}\\pi$ yields $r^3 = 27$; cube rooting both sides yields $r=3$.  The surface area of a sphere with radius $r$ is $4\\pi r^2$; here, our surface area is $4\\pi(3^2)=\\boxed{36\\pi}$.",
+    "socratic_questions": "1. Can you describe the first step in solving this problem? What do you need to find? \n2. What is the formula for the volume of a sphere? How can you use this formula to find the radius of the given sphere? \n3. How can you solve the equation $\\frac{4}{3}\\pi r^3 = 36\\pi$ for the value of $r$? What operations do you need to perform? \n4. Why do we divide both sides of the equation by $\\frac{4}{3}\\pi$? What does this step help us find? \n5. What is the significance of cube rooting both sides of the equation $r^3 = 27$? How does this relate to the radius of the sphere? \n6. What is the formula for the surface area of a sphere? How can you use this formula to find the surface area of the sphere with a radius of 3? \n7. Can you calculate the surface area of the sphere using the formula $4\\pi r^2$? What is your answer? \n8. How does the surface area relate to the volume of a sphere? Can you explain any connections or patterns you observe?"
+}

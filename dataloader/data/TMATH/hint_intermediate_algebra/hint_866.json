@@ -1,0 +1,7 @@
+{
+    "problem": "Let $F_1 = (0,1)$ and $F_ 2= (4,1).$  Then the set of points $P$ such that\n\\[PF_1 + PF_2 = 6\\]form an ellipse.  The equation of this ellipse can be written as\n\\[\\frac{(x - h)^2}{a^2} + \\frac{(y - k)^2}{b^2} = 1.\\]Find $h + k + a + b.$",
+    "level": "Level 4",
+    "type": "Intermediate Algebra",
+    "solution": "We have that $2a = 6,$ so $a = 3.$  The distance between the foci is $2c = 4,$ so $c = 2.$  Hence, $b = \\sqrt{a^2 - c^2} = \\sqrt{5}.$\n\nThe center of the ellipse is the midpoint of $\\overline{F_1 F_2},$ which is $(2,1).$  Thus, the equation of the ellipse is\n\\[\\frac{(x - 2)^2}{3^2} + \\frac{(y - 1)^2}{(\\sqrt{5})^2} = 1.\\]Hence, $h + k + a + b = 2 + 1 + 3 + \\sqrt{5} = \\boxed{6 + \\sqrt{5}}.$",
+    "socratic_questions": "1. Can you describe the first step in solving this problem?\n2. How can we determine the distance between two points?\n3. How do we calculate the distance from a point to a given point?\n4. What do we know about an ellipse in terms of distances?\n5. Can you derive the equation of an ellipse given the foci and the sum of distances to the foci from a point on the ellipse?\n6. How can we find the values of $h,$ $k,$ $a,$ and $b$ for the equation of the ellipse?\n7. What is the relationship between $a,$ $b,$ and $c$ in the equation of an ellipse?\n8. How can we determine the center of the ellipse?\n9. Can you explain why the equation of the ellipse has the form $\\frac{(x - h)^2}{a^2} + \\frac{(y - k)^2}{b^2} = 1$?\n10. What is the final value of $h + k + a + b$ in this problem?"
+}

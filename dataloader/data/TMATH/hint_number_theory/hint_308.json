@@ -1,0 +1,7 @@
+{
+    "problem": "If the 25th day of the year 2003 falls on a Saturday, on what day of the week did the 284th day of the year 2003 fall?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "There are 7 days in a week.  Two days of the year fall on the same day of the week if and only if they are congruent modulo 7.  Notice that  \\[284\\equiv4\\pmod7\\] and  \\[25\\equiv4\\pmod7.\\] Therefore the 284th day and the 25th day fall on the same day of the week.  Therefore the 284th day of the year falls on a $\\boxed{\\text{Saturday}}$.",
+    "socratic_questions": "1. How can we determine what day of the week the 284th day of the year 2003 fell on?\n2. What information do we have about the 25th day of the year 2003 that might be useful in determining the day of the week for the 284th day?\n3. According to the given information, what day of the week does the 25th day fall on?\n4. How can we determine the congruence of numbers modulo 7?\n5. Using modulo arithmetic, what is the congruence of 284 modulo 7?\n6. How does this congruence relate to the day of the week for the 284th day?\n7. Based on the congruence of 284 modulo 7, on what day of the week does the 284th day fall?"
+}

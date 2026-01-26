@@ -1,0 +1,7 @@
+{
+    "problem": "If $f(x) = 3x + 1$, what is $f(3)$?",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "We have $f(3) = 3(3) + 1 = \\boxed{10}$.",
+    "socratic_questions": "1. Can you explain what the function $f(x)$ represents?\n2. How does the notation $f(3)$ relate to the function $f(x)$?\n3. What does it mean to evaluate a function at a specific value, like $f(3)$?\n4. How would you substitute the value of $3$ into the function $f(x)$ to find $f(3)$?\n5. Can you simplify the expression $3x + 1$ when $x = 3$?\n6. What is the final result when you substitute $x = 3$ into the function $f(x)$?"
+}

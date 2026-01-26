@@ -1,0 +1,7 @@
+{
+    "problem": "A circle has a radius of three inches. The distance from the center of the circle to chord $CD$ is two inches. How many inches long is chord $CD$? Express your answer in simplest radical form.",
+    "level": "Level 4",
+    "type": "Geometry",
+    "solution": "Call the center of the circle O, and call the point where the radius of the circle bisects the chord E.  Thus, the line segment from the center of the circle to point E has length 2, and we have $\\triangle ODE$ with a leg of 2 and a hypotenuse of 3.  Thus, the other leg, DE has length $\\sqrt{5}$, and since DE is $\\frac{CD}{2}$, we have $CD = \\boxed{2\\sqrt{5}}$.",
+    "socratic_questions": "1. Can you describe the problem and identify the given information?\n2. How can we determine the length of chord CD?\n3. Could you explain the relationship between the center of the circle, the chord CD, and the point E where the radius bisects the chord?\n4. How can we utilize the given information about the triangle ODE to find the length of DE?\n5. Once we have the length of DE, how can we find the length of chord CD?\n6. Why is the length of DE equal to half of the length of chord CD?\n7. Can you simplify the expression for the length of chord CD, using simplest radical form?\n8. Are there any other methods or concepts from geometry that could be helpful in solving this problem?\n9. Can you think of any other scenarios in which the given information would be useful in solving a similar problem?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "In a triangle, two of the side lengths are 7 and 8, and the angle between them is $120^\\circ.$  Find the length of the third side.",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "By the Law of Cosines, the third side is\n\\[\\sqrt{7^2 +  8^2 - 2 \\cdot 7 \\cdot 8 \\cos 120^\\circ} = \\sqrt{7^2 + 8^2 + 7 \\cdot 8} = \\boxed{13}.\\]",
+    "socratic_questions": "1. What is the Law of Cosines? \n2. How is the Law of Cosines used to find side lengths in a triangle? \n3. What information do we need in order to apply the Law of Cosines? \n4. Can the Law of Cosines be used to find angles in a triangle as well? \n5. How does the angle between the two known sides affect the application of the Law of Cosines? \n6. In the given triangle with sides 7, 8, and an angle of 120 degrees, what is the relationship between the unknown side length and the other two sides? \n7. Can we solve for the unknown side length without using the Law of Cosines? Why or why not? \n8. How does the Law of Cosines relate to other trigonometric formulas, such as the Pythagorean theorem and the Law of Sines? \n9. Can the Law of Cosines be applied to triangles that are not right triangles? If so, how does the formula change? \n10. How can we use the Law of Cosines to solve real-world problems, such as finding the length of a diagonal in a rectangular room?"
+}

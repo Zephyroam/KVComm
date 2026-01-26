@@ -1,0 +1,7 @@
+{
+    "problem": "Let $\\omega$ be a nonreal root of $x^3 = 1.$  Compute\n\\[(1 - \\omega + \\omega^2)^4 + (1 + \\omega - \\omega^2)^4.\\]",
+    "level": "Level 5",
+    "type": "Intermediate Algebra",
+    "solution": "We know that $\\omega^3 - 1 = 0,$ which factors as $(\\omega - 1)(\\omega^2 + \\omega + 1) = 0.$  Since $\\omega$ is not real, $\\omega^2 + \\omega + 1 = 0.$\n\nThen\n\\[(1 - \\omega + \\omega^2)^4 + (1 + \\omega - \\omega^2)^4 = (-2 \\omega)^4 + (-2 \\omega^2)^4 = 16 \\omega^4 + 16 \\omega^8.\\]Since $\\omega^3 = 1,$ this reduces to $16 \\omega + 16 \\omega^2 = 16(\\omega^2 + \\omega) = \\boxed{-16}.$",
+    "socratic_questions": "1. Can you explain the concept of a nonreal root of an equation?\n2. What does it mean for a root to be nonreal in the context of solving equations?\n3. How can we find the nonreal roots of the equation $x^3 = 1$?\n4. What is the relationship between $\\omega$ and the nonreal roots of the equation $x^3 = 1$?\n5. How can we express the equation $(1 - \\omega + \\omega^2)^4 + (1 + \\omega - \\omega^2)^4$ in terms of $\\omega$?\n6. What are the values of $\\omega^4$ and $\\omega^8$?\n7. How can we simplify the expression $16 \\omega^4 + 16 \\omega^8$ using the properties of $\\omega$?\n8. Can you explain why the final result is $-16$? Is there any specific property of $\\omega$ that leads to this result?\n9. Based on this problem, can you identify any patterns or similarities that can help us approach similar problems in the future?"
+}

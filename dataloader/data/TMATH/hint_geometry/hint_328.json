@@ -1,0 +1,7 @@
+{
+    "problem": "When plotted in the standard rectangular coordinate system, trapezoid $ABCD$ has vertices $A(1, -2)$, $B(1, 1)$, $C(5, 7)$ and $D(5, 1)$. What is the area of trapezoid $ABCD$?",
+    "level": "Level 3",
+    "type": "Geometry",
+    "solution": "The two bases of the trapezoids are the segments $AB$ and $CD$, and the height is the perpendicular distance between the bases, which in this case is the difference of the $x$-coordinates: $5 - 1 = 4$. Similarly, the lengths of the bases are the differences of the $y$-coordinates of their two endpoints. Using the formula $A = \\frac{1}{2}(b_1+ b_2)h$, the area is $\\frac{1}{2}(3+6)(4) = \\boxed{18}$ square units.",
+    "socratic_questions": "1. Can you describe the basic properties of a trapezoid? What are its defining characteristics?\n2. How can we determine the lengths of the bases of trapezoid ABCD given the coordinates of its vertices? Can you explain how we can calculate the lengths of AB and CD in this case?\n3. What is meant by the height of a trapezoid? How can we determine the height of trapezoid ABCD in this scenario?\n4. What is the formula for finding the area of a trapezoid? Can you explain why this formula works?\n5. Now let's calculate the area of trapezoid ABCD using the formula. Can you walk me through the steps of applying the formula to find the area?\n6. Can you think of any other scenarios or shapes in which we can apply similar thinking and steps to find their area?"
+}

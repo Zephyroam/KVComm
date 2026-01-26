@@ -1,0 +1,7 @@
+{
+    "problem": "In a certain hyperbola, the center is at $(2,0),$ one focus is at $(2,6),$ and one vertex is at $(2,-3).$  The equation of this hyperbola can be written as\n\\[\\frac{(y - k)^2}{a^2} - \\frac{(x - h)^2}{b^2} = 1.\\]Find $h + k + a + b.$",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "The center of the hyperbola is $(h,k) = (2,0).$  The distance between the center and one vertex is $a = 3,$ and the distance between the center and one focus is $c = 6.$  Then $b^2 = c^2 - a^2 = 6^2 - 3^2 = 27,$ so $b = 3 \\sqrt{3}.$\n\nTherefore, $h + k + a + b = 2 + 0 + 3 + 3 \\sqrt{3} = \\boxed{3 \\sqrt{3} + 5}.$",
+    "socratic_questions": "1. Can you describe the basic properties of a hyperbola and its equation in general?\n2. What information can we gather from the given center, focus, and vertex of the hyperbola?\n3. How do we determine the distances between the center and the vertex, as well as the center and the focus?\n4. How can we use these distances and the equation form of a hyperbola to determine the values of $a$ and $b$?\n5. Why do we subtract $a^2$ from $c^2$ to find $b^2$ in the equation form?\n6. What is the significance of each term in the equation of the hyperbola?\n7. How does the equation $\\frac{(y - k)^2}{a^2} - \\frac{(x - h)^2}{b^2} = 1$ relate to the properties of the hyperbola's center, vertex, and focus?\n8. How can we use the equation to find $h + k + a + b$?\n9. What is the final value of $h + k + a + b$ in this specific scenario?"
+}

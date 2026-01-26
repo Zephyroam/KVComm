@@ -1,0 +1,7 @@
+{
+    "problem": "Let $f(x)=x+3$ and $g(x)=3x+5$.  Find $f(g(4))-g(f(4))$.",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "We have $g(4) = 3\\cdot 4 + 5= 17$, so $f(g(4)) = f(17) = 17 + 3 = 20$. We also have $f(4) = 4+3 = 7$, so $g(f(4)) = g(7)=3\\cdot 7 + 5 = 26$.  Therefore, $f(g(4)) - g(f(4)) = 20 - 26 = \\boxed{-6}$.",
+    "socratic_questions": "1. How would you define the functions $f(x)$ and $g(x)$?\n2. What is the value of $g(4)$? How did you arrive at this value?\n3. What is the value of $f(4)$? How did you find it?\n4. Can you substitute these values into $f(g(4))$ and $g(f(4))$ to evaluate these expressions? What are the results?\n5. How does subtracting $g(f(4))$ from $f(g(4))$ simplify the expression?\n6. Can you simplify the expression further using any algebraic properties or rules?\n7. What is the final value of $f(g(4))-g(f(4))$?"
+}

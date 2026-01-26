@@ -1,0 +1,7 @@
+{
+    "problem": "A rectangular box $P$ is inscribed in a sphere of radius $r$. The surface area of $P$ is 384, and the sum of the lengths of its 12 edges is 112. What is  $r$?",
+    "level": "Level 5",
+    "type": "Geometry",
+    "solution": "Let the dimensions of $P$ be $x$, $y$, and $z$. The sum of the lengths of the edges of $P$ is $4(x+y+z)$, and the surface area of $P$ is $2xy+2yz+2xz$, so \\[\nx+y+z=28 \\quad\\text{and}\\quad 2xy+2yz+2xz=384.\n\\] Each internal diagonal of $P$ is a diameter of the sphere, so \\begin{align*}\n(2r)^2&=(x^2+y^2+z^2)\\\\\n&=(x+y+z)^2-(2xy+2xz+2yz) \\\\\n&= 28^2-384\\\\& = 400.\n\\end{align*} So $2r = 20$ and  $r=\\boxed{10}$.\n\nNote: There are infinitely many positive solutions of the system $x+y+z=28$, $2xy+2yz+2xz=384$, so there are infinitely many non-congruent boxes meeting the given conditions, but each can be inscribed in a sphere of radius 10.",
+    "socratic_questions": "1. What is the problem asking us to find?\n2. What are the dimensions of the rectangular box $P$?\n3. Can you explain how the sum of the lengths of the edges of $P$ is calculated?\n4. How can we express the surface area of $P$ using its dimensions?\n5. What equations can we form from the given information?\n6. Can you explain why each internal diagonal of $P$ is a diameter of the sphere?\n7. How can we use the equations to relate the dimensions of $P$ to the radius of the inscribed sphere?\n8. Can you show the steps used to find the equation $2r = 20$?\n9. What is the final solution for $r$?"
+}

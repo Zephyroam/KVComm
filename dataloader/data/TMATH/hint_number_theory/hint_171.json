@@ -1,0 +1,7 @@
+{
+    "problem": "What is the remainder of $5^{2010}$ when it is divided by 7?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "We start by writing out some powers of five modulo 7. \\begin{align*}\n5^1 &\\equiv 5 \\pmod{7} \\\\\n5^2 &\\equiv 4 \\pmod{7} \\\\\n5^3 &\\equiv 6 \\pmod{7} \\\\\n5^4 &\\equiv 2 \\pmod{7} \\\\\n5^5 &\\equiv 3 \\pmod{7} \\\\\n5^6 &\\equiv 1 \\pmod{7}\n\\end{align*}Therefore, we have that $5^6 \\equiv 1$ modulo 7. Thus, $5^{2010} \\equiv (5^6)^{335} \\equiv 1^{335} \\equiv \\boxed{1}$ modulo 7.",
+    "socratic_questions": "1. How can we determine the remainder of $5^{2010}$ when divided by 7?\n2. What are some properties of modular arithmetic that could be helpful in solving this problem?\n3. Can you identify any patterns or relationships between the powers of 5 and their remainders when divided by 7?\n4. Why is it useful to consider powers of 5 modulo 7 up to a certain value?\n5. How can we express $5^{2010}$ in terms of a smaller power of 5 modulo 7?\n6. How does the property of modular exponentiation help us simplify the calculation of $5^{2010}$?\n7. Can you explain why $5^6 \\equiv 1$ modulo 7?\n8. How does this congruence relate to finding the remainder of $5^{2010}$ modulo 7?\n9. How does raising any number congruent to 1 modulo 7 to a power result in 1 modulo 7?\n10. Can you think of other situations where modular arithmetic and exponentiation can be used to solve similar problems?"
+}

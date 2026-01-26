@@ -1,0 +1,7 @@
+{
+    "problem": "What is the constant term of the expansion of $\\left(6x+\\dfrac{1}{3x}\\right)^6$?",
+    "level": "Level 4",
+    "type": "Counting & Probability",
+    "solution": "A constant term occurs when three of the terms in the product contribute $6x$ and other three contribute $\\dfrac{1}{3x}$. Using the Binomial Theorem, we know that the constant term is $$\\binom{6}{3}(6x)^3\\left(\\dfrac{1}{3x}\\right)^3=(20)(2)^3=(20)(8)=\\boxed{160}.$$",
+    "socratic_questions": "1. What is the expansion of $\\left(6x+\\dfrac{1}{3x}\\right)^6$ using the binomial theorem?\n2. How many terms are there in the expansion?\n3. What does it mean when a term in the expansion has a constant term?\n4. How can we determine which terms contribute the constant term in this expansion?\n5. How does the binomial coefficient $\\binom{6}{3}$ relate to the constant term?\n6. What are the coefficients of the terms that contribute $6x$ and $\\frac{1}{3x}$ in the expansion?\n7. How can you use the coefficients to find the constant term?\n8. Can you think of any other examples where the constant term can be found using a similar thought process and steps?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "What is the least common multiple of 135 and 468?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "The prime factorization of 135 is $3^3 \\cdot 5$, and the prime factorization of 468 is $2^2 \\cdot 3^2 \\cdot 13$.  Therefore, the least common multiple of 135 and 468 is $2^2 \\cdot 3^3 \\cdot 5 \\cdot 13 = \\boxed{7020}$.",
+    "socratic_questions": "1. Can you explain what the least common multiple (LCM) represents in relation to two numbers?\n2. How can we find the prime factorization of 135 and 468?\n3. Once we have the prime factorizations, what do we need to do to find the LCM?\n4. How can we identify the common prime factors between 135 and 468?\n5. What should we do with the prime factors that are not common?\n6. Are there any additional prime factors that need to be included in the LCM?\n7. Can you determine the LCM of 135 and 468 based on the prime factorizations we found earlier?\n8. How can we verify that 7020 is indeed the LCM of 135 and 468?\n9. Can you think of any other similar problems where finding the LCM is necessary, and how would you approach those problems?"
+}

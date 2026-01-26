@@ -1,0 +1,7 @@
+{
+    "problem": "Given that\n\\[2^{-\\frac{3}{2} + 2 \\cos \\theta} + 1 = 2^{\\frac{1}{4} + \\cos \\theta},\\]compute $\\cos 2 \\theta.$",
+    "level": "Level 4",
+    "type": "Precalculus",
+    "solution": "Let $x = 2^{\\cos \\theta}.$  Then the given equation becomes\n\\[2^{-\\frac{3}{2}} x^2 + 1 = 2^{\\frac{1}{4}} x.\\]We can re-write this as\n\\[2^{-\\frac{3}{2}} x^2 - 2^{\\frac{1}{4}} x + 1 = 0.\\]Since $2^{-\\frac{3}{2}} = (2^{-\\frac{3}{4}})^2$ and $2^{\\frac{1}{4}} = 2 \\cdot 2^{-\\frac{3}{4}},$ this quadratic factors as\n\\[(2^{-\\frac{3}{4}} x - 1)^2 = 0.\\]Then $2^{-\\frac{3}{4}} x = 1,$ so $x = 2^{\\frac{3}{4}}.$  Hence,\n\\[\\cos \\theta = \\frac{3}{4},\\]so $\\cos 2 \\theta = 2 \\cos^2 \\theta - 1 = 2 \\left( \\frac{3}{4} \\right)^2 - 1 = \\boxed{\\frac{1}{8}}.$",
+    "socratic_questions": "1. Can you describe the first step in solving this equation using the given substitution $x = 2^{\\cos \\theta}$?\n2. What are some possible methods you can think of to solve this type of equation?\n3. If you choose to factorize, how would you identify the appropriate factors? \n4. Why is it possible to factorize this equation? What features make it suitable for this method?\n5. What are the factors you found, and how do they confirm that your solution is correct?\n6. Can you think of other types of equations that might require similar thinking and steps to solve?"
+}

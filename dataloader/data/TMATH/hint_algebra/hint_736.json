@@ -1,0 +1,7 @@
+{
+    "problem": "The greatest integer function of $x$ is expressed as $[x]$ and is defined to be the greatest integer less than or equal to $x$. Find $[\\pi - 4]$",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "Because $\\pi$ is greater than $3$ but less than $4$,\n\n$-1<\\pi - 4<0$.  Therefore, $[\\pi - 4]$ is $\\boxed{-1}$",
+    "socratic_questions": "1. Can you explain what the greatest integer function is and how it is defined?\n2. What is the value of $[\\pi]$? How does this relate to finding $[\\pi - 4]$?\n3. How can we interpret $[\\pi - 4]$ in terms of the greatest integer function?\n4. What is the value of $\\pi - 4$, and how does it compare to the nearest integers?\n5. Based on the definition of the greatest integer function, can you determine the value of $[\\pi - 4]$?\n6. Are there any properties or rules of the greatest integer function that can help us simplify calculations involving it?\n7. Can you think of any other examples where the greatest integer function could be used to solve a problem or simplify an expression?"
+}

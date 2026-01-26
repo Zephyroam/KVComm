@@ -1,0 +1,7 @@
+{
+    "problem": "Jaclyn, Marcelle, Susanna and Wanda are tutors in their school math lab. Their schedule is as follows: Jaclyn works every third school day, Marcelle works every fourth school day, Susanna works every sixth school day, and Wanda works every seventh school day. Today, they are all working in the math lab. In how many school days from today will they next be together tutoring in the lab?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "The number of school days until they will next be together is the least common multiple of $3$, $4$, $6$, and $7$, which is $\\boxed{84}$.",
+    "socratic_questions": "1. Can you describe the work schedule of each tutor and how often they work in terms of school days?\n2. How would you determine when they will next be together tutoring in the lab?\n3. What is the least common multiple (LCM) of their work schedules?\n4. How would you find the LCM of 3, 4, 6, and 7? Are there any common factors among these numbers that can help you?\n5. Can you list the multiples of each number and identify the first common multiple among them?\n6. How did you determine that 84 is the LCM of 3, 4, 6, and 7?\n7. How can you verify that 84 is indeed the least common multiple? Are there any smaller numbers that are multiples of 3, 4, 6, and 7?\n8. Can you think of any other scenarios or situations where finding the LCM would be useful?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Find the minimum value of\n\\[\\frac{x^2 + 7}{\\sqrt{x^2 + 3}}\\]over all real numbers $x.$",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "We can write\n\\[\\frac{x^2 + 7}{\\sqrt{x^2 + 3}} = \\frac{x^2 + 3 + 4}{\\sqrt{x^2 + 3}} = \\frac{x^2 + 3}{\\sqrt{x^2 + 3}} + \\frac{4}{\\sqrt{x^2 + 3}} = \\sqrt{x^2 + 3} + \\frac{4}{\\sqrt{x^2 + 3}}.\\]By AM-GM,\n\\[\\sqrt{x^2 + 3} + \\frac{4}{\\sqrt{x^2 + 3}} \\ge 2 \\sqrt{\\sqrt{x^2 + 3} \\cdot \\frac{4}{\\sqrt{x^2 + 3}}} = 4.\\]Equality occurs when $x = 1,$ so the minimum value is $\\boxed{4}.$",
+    "socratic_questions": "1. Can you explain how you would approach finding the minimum value of this expression? What is the first step you would take?\n2. Are there any restrictions on the values that $x$ can take in this expression?\n3. How can we rewrite this expression in a form that might be easier to work with?\n4. Do you recognize any familiar equations or inequalities that might help us understand the behavior of this expression?\n5. Can you explain why the AM-GM inequality was used in this problem? What does it tell us about the expression we're trying to minimize?\n6. How did we use the AM-GM inequality to find a lower bound for the expression? Why is this lower bound equal to the minimum value?\n7. In what case does equality occur in the AM-GM inequality? How does this relate to the minimum value of the expression?"
+}

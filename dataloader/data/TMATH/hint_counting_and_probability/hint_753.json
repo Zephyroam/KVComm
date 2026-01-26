@@ -1,0 +1,7 @@
+{
+    "problem": "Five socks, colored blue, brown, black, red, and purple are in a drawer. In how many different ways can we choose three socks from the drawer if the order of the socks does not matter?",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "There are $\\binom{5}{3}=\\boxed{10}$ ways to choose three socks from the drawer.",
+    "socratic_questions": "1. What is the total number of socks in the drawer?\n2. Can you explain why the order of the socks does not matter?\n3. How many socks do we need to choose?\n4. What is the mathematical concept that represents choosing a certain number of items from a larger set?\n5. How can we calculate the number of ways to choose three socks from the five available options?\n6. Can you apply the formula for calculating combinations in this context to find the answer?\n7. Can you explain how the combination formula is derived and why it represents choosing without regard to order?\n8. Are there any possible mistakes or limitations in using the combination formula for this problem?\n9. Can you think of any real-life examples where the concept of combinations is relevant?\n10. Are there any variations of this problem where the concept of combinations would still apply?"
+}

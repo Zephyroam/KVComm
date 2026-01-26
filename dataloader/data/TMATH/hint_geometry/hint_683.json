@@ -1,0 +1,7 @@
+{
+    "problem": "Points $(1,-5)$ and $(11,7)$ are the opposite vertices of a parallelogram.  What are the coordinates of the point where the diagonals of the parallelogram intersect?",
+    "level": "Level 3",
+    "type": "Geometry",
+    "solution": "The diagonals of a parallelogram intersect at the midpoint of each diagonal. So, we simply find the midpoint of $(1,-5)$ and $(11,7)$, which is $\\left(\\frac{1+11}{2}, \\frac{-5+7}{2}\\right)=\\boxed{(6,1)}$.",
+    "socratic_questions": "1. Can you describe the concept of a parallelogram?\n2. What are the properties of the diagonals of a parallelogram?\n3. How do we find the midpoint of a line segment?\n4. How can we determine the coordinates of the midpoint when given the endpoints of a line segment?\n5. What are the coordinates of the midpoint of the line segment with endpoints (1,-5) and (11,7)?\n6. How do we know that the diagonals of a parallelogram intersect at their midpoints?\n7. Can you find the intersection point of the diagonals by applying the concept of midpoint to the given coordinates?\n8. Why does the intersection point (6,1) confirm that it is the point of intersection for the diagonals of the parallelogram with opposite vertices (1,-5) and (11,7)?\n9. Can you think of any other geometric shapes or concepts where the midpoint is important and can be used to find the intersection point of diagonals or other segments?\n10. How does understanding the concept of a parallelogram and the properties of its diagonals contribute to our overall understanding of geometry?"
+}

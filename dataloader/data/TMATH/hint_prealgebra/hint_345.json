@@ -1,0 +1,7 @@
+{
+    "problem": "At a meeting with $25$ businessmen, twelve businessmen drank coffee, and ten businessmen drank tea.  Five businessmen drank both coffee and tea.  How many businessmen drank neither coffee nor tea?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "The sum $12+10$ counts twice the businessmen who drank both coffee and tea.  Since there are 5 such businessmen, we must subtract 5 from the sum $12+10$ to only count these businessmen once.  Therefore, a total of $12+10-5=17$ businessmen drank either coffee or tea.  So, $25-17=\\boxed{8}$ businessmen drank neither coffee nor tea.",
+    "socratic_questions": "1. What is the question asking us to find?\n2. How many businessmen drank coffee?\n3. How many businessmen drank tea?\n4. Are there any businessmen who drank both coffee and tea?\n5. How do we account for the businessmen who drank both coffee and tea when finding the total number of businessmen who drank either coffee or tea?\n6. How do we find the number of businessmen who drank neither coffee nor tea?\n7. Can we use a different method to solve this problem? If so, what would it be?"
+}

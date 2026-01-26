@@ -1,0 +1,7 @@
+{
+    "problem": "What is the smallest whole number that has a remainder of 1 when divided by 4, a remainder of 1 when divided by 3, and a remainder of 2 when divided by 5?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "Let $a$ be the desired number. The given system of congruences is \\begin{align*}\na\\equiv 1\\pmod 3\\\\\na\\equiv 1\\pmod 4\\\\\na\\equiv 2\\pmod 5\n\\end{align*} Since $\\gcd(3,4)=1$, $(1)$ and $(2)$ together imply that $a\\equiv 1\\pmod {12}$. So there exists a non-negative integer $n$ such that $a=1+12n$. Substituting this into $(3)$ yields $$1+12n\\equiv 2\\pmod 5,$$ $$\\implies n\\equiv 3\\pmod 5.$$ So $n$ has a lower bound of $3$. Then $$n\\ge 3,$$ $$\\implies a=1+12n\\ge 37.$$ Since $37$ satisfies all three congruences, $a=\\boxed{37}$.",
+    "socratic_questions": "1. What is the given system of congruences?\n2. How can we start solving this system of congruences?\n3. Can we combine congruence (1) and congruence (2)? If so, what does that tell us about the value of $a$?\n4. How can we express $a$ in terms of a non-negative integer $n$?\n5. What substitution can we make in congruence (3) using the expression for $a$?\n6. What does the resulting congruence equation tell us about the value of $n$?\n7. What is the lower bound for $n$ based on the congruence equation?\n8. Using the lower bound for $n$, what is the minimum value for $a$ that satisfies all three congruences?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "If $\\sqrt{2+\\sqrt x}=3$, what is $x?$",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "Squaring both sides of the given equation, we get \\[2 + \\sqrt{x} = 9.\\]Then, $\\sqrt{x} = 9-2 = 7.$ Squaring again gives $x = 49.$\n\nWe check our answer by substituting $x = 49$ into the given equation: \\[\\sqrt{2+\\sqrt{x}} = \\sqrt{2 + \\sqrt{49}} = \\sqrt{2 + 7} = \\sqrt{9} = 3.\\]Therefore, $x = \\boxed{49}$ is the correct solution. (The step of checking the answer is necessary because squaring both sides of an equation sometimes introduces extraneous roots -- solutions which do not actually satisfy the original equation.)",
+    "socratic_questions": "1. What is the given equation and what is the unknown variable?\n2. What is the first step you would take to solve this equation?\n3. How can you isolate the square root term on one side of the equation?\n4. What should you do next to eliminate the square root?\n5. How can you simplify the resulting equation after eliminating the square root?\n6. Which technique can be used to solve the simplified equation?\n7. How can you apply that technique to find the value of x?\n8. After finding a potential value for x, how can you verify if it is a valid solution?\n9. Are there any other possible values of x that could satisfy the given equation?\n10. Can you generalize the steps or strategies used in solving this equation to other similar types of equations involving square roots?"
+}

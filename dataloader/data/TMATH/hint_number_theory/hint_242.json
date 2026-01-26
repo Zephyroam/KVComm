@@ -1,0 +1,7 @@
+{
+    "problem": "Determine the sum of all prime numbers $p$ for which there exists no integer solution in $x$ to the congruence $3(6x+1)\\equiv 4\\pmod p$.",
+    "level": "Level 5",
+    "type": "Number Theory",
+    "solution": "Firstly, the congruence can be simplified to $3(6x+1)\\equiv 4\\pmod p\\implies 18x\\equiv 1\\pmod p$. This is solvable for $x$ if and only if $18$ is invertible modulo $p$, meaning $\\gcd(18,p)=1$. Since the prime factors of $18$ are $2,3$, these are precisely the prime moduli for which an $x$ cannot exist since then $\\gcd(18,p)>1$. Thus, the desired number is $2+3=\\boxed{5}$.",
+    "socratic_questions": "1. What is the given congruence and what are we looking for in terms of prime numbers?\n2. How can we simplify the congruence to make it easier to solve?\n3. What does it mean for an integer to be invertible modulo p? What does it tell us about the existence of a solution for x?\n4. What are the prime factors of 18? Why are these prime moduli for which an x cannot exist?\n5. How do we determine the sum of all prime numbers p for which there exists no integer solution for x?"
+}

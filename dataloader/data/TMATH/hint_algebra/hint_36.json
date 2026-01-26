@@ -1,0 +1,7 @@
+{
+    "problem": "A scale drawing of a park shows that one inch represents 800 feet. A line segment in the drawing that is 4.75 inches long represents how many feet?",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "Each inch of the 4.75-inch line segment represents 800 feet, so the whole line segment represents $4.75\\times800=\\frac{19}{4}\\cdot800=19\\cdot200=\\boxed{3800}$ feet.",
+    "socratic_questions": "1. How would you approach finding the length represented by a line segment in a scale drawing?\n2. What information do we need to solve this problem?\n3. How can we use the scale ratio to find the length in the actual measurement units?\n4. Can you describe the relationship between the length in the drawing and the actual length?\n5. If one inch represents 800 feet, how can we set up a proportion to find the length in feet?\n6. Can you explain the steps involved in solving the proportion to find the actual length?\n7. What is the value of the scale factor in this problem, and how does it affect our calculations?\n8. How would you convert the length in the drawing to feet using the given scale?\n9. Are there any similar problems or scenarios where you might encounter similar thinking and steps?\n10. How could you verify or check your solution to confirm that it is correct?"
+}

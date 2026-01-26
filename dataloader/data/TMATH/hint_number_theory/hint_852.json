@@ -1,0 +1,7 @@
+{
+    "problem": "Express the quotient $1121_5 \\div 12_5$ in base $5$.",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "Long division in base $5$ follows the same format as that in base $10$.\n\n\\[\n\\begin{array}{c|cccc}\n\\multicolumn{2}{r}{} & & 4 & 3 \\\\\n\\cline{2-5}\n12 & 1 & 1 & 2 & 1 \\\\\n\\multicolumn{2}{r}{1} & 0 & 3 & \\downarrow \\\\ \\cline{2-4}\n\\multicolumn{2}{r}{} & & 4 & 1 \\\\\n\\multicolumn{2}{r}{} & & 4 & 1 \\\\ \\cline{4-5}\n\\multicolumn{2}{r}{} & & & 0\n\\end{array} \\]Giving us a final answer of $\\boxed{43_5.}$",
+    "socratic_questions": "1. How do you convert the numbers $1121_5$ and $12_5$ into base $10$ for the purpose of division? \n2. Can you explain the basic concept of long division in base $5$? \n3. What is the first step in performing long division in base $5$? \n4. How do you determine the quotient digit for each step of the division process? \n5. How do you handle remainders in long division in base $5$? \n6. Can you verify your answer by converting it back to base $5$ and performing a multiplication check? \n7. Are there any similarities between long division in base $5$ and long division in base $10$? \n8. Can you think of any other examples where division in a non-decimal base system may be useful or necessary?"
+}

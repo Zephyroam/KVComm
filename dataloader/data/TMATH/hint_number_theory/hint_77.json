@@ -1,0 +1,7 @@
+{
+    "problem": "The integer $m$ is between $30$ and $80$ and is a multiple of $6$. When $m$ is divided by $8,$ the remainder is $2$. Similarly, when $m$ is divided by $5,$ the remainder is $2$. What is the value of $m$?",
+    "level": "Level 1",
+    "type": "Number Theory",
+    "solution": "According to the problem statement, we have the system of linear congruences \\begin{align*}\nm &\\equiv 0 \\pmod{6} \\\\\nm &\\equiv 2 \\pmod{8} \\\\\nm &\\equiv 2 \\pmod{5}.\n\\end{align*} It follows by the Chinese Remainder Theorem that $m \\equiv 2 \\pmod{40}$. The only number that satisfies this criterion for $30 \\le m \\le 80$ is $m = \\boxed{42}$, which is indeed divisible by $6$.",
+    "socratic_questions": "1. What is the problem statement asking us to find?\n2. What are the given conditions or constraints in this problem?\n3. How can we use modular arithmetic to solve this problem?\n4. What is the Chinese Remainder Theorem and how can we apply it in this problem?\n5. How do we use the fact that $m$ is between $30$ and $80$ to narrow down our choices for $m$?\n6. How do we know that $m = 42$ satisfies all the congruences given in the problem?\n7. Can we generalize this method to solve similar problems involving congruences and modular arithmetic?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "The Badgers play the Cougars in a series of seven basketball games. Each team has an equal chance of winning each game. What is the probability that the Badgers will win at least four games? Express your answer as a common fraction.",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "Precisely one team must win at least four games.  Since the teams are equally matched, this team will be the Badgers with probability $\\boxed{\\frac{1}{2}}$.",
+    "socratic_questions": "1. What is the objective of this problem? \n2. How many total games will be played between the Badgers and the Cougars? \n3. How many games must the Badgers win in order to win at least four games? \n4. Can you explain why the probability of the Badgers winning each game is equal to $\\frac{1}{2}$? \n5. How can we calculate the probability of the Badgers winning exactly four games? \n6. Can you determine the probability of the Badgers winning five games? And six games? \n7. How can we determine the probability of the Badgers winning at least four games?"
+}

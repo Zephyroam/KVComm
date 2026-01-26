@@ -1,0 +1,7 @@
+{
+    "problem": "The function $f(x)$ satisfies\n\\[f(x - y) = f(x) f(y)\\]for all real numbers $x$ and $y,$ and $f(x) \\neq 0$ for all real numbers $x.$  Find $f(3).$",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "Setting $x = 3$ and $y = \\frac{3}{2},$ we get\n\\[f \\left( \\frac{3}{2} \\right) = f(3) f \\left( \\frac{3}{2} \\right).\\]Since $f \\left( \\frac{3}{2} \\right) \\neq 0,$ we can divide both sides by $f \\left( \\frac{3}{2} \\right),$ to get $f(3) = \\boxed{1}.$",
+    "socratic_questions": "1. Can you describe what the given functional equation means using your own words? \n2. Let\u2019s plug in some values for x and y and see what happens. If x = 0 and y = 0, what is f(0)? \n3. What if y = -x? What can we simplify the functional equation to in this case? \n4. Can you think of any other values of x and y that would simplify the functional equation or make it easier to solve? \n5. How could we use the fact that f(x) is never equal to 0 to help us solve for f(3)? \n6. Taking a step back, what kind of function satisfies the given functional equation? Are there any other functions you know of that may satisfy it?"
+}

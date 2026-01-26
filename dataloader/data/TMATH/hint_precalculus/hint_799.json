@@ -1,0 +1,7 @@
+{
+    "problem": "Find the curve defined by the equation\n\\[r = \\frac{1}{1 - \\cos \\theta}.\\](A) Line\n(B) Circle\n(C) Parabola\n(D) Ellipse\n(E) Hyperbola\n\nEnter the letter of the correct option.",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "From $r = \\frac{1}{1 - \\cos \\theta},$\n\\[r - r \\cos \\theta = 1.\\]Then $r = 1 + r \\cos \\theta = x + 1,$ so\n\\[r^2 = (x + 1)^2 = x^2 + 2x + 1.\\]Hence, $x^2 + y^2 = x^2 + 2x + 1,$ so\n\\[y^2 = 2x + 1.\\]This represents the graph of a parabola, so the answer is $\\boxed{\\text{(C)}}.$\n\n[asy]\nunitsize(0.5 cm);\n\npair moo (real t) {\n  real r = 1/(1 - Cos(t));\n  return (r*Cos(t), r*Sin(t));\n}\n\npath foo = moo(1);\nreal t;\n\nfor (t = 1; t <= 359; t = t + 0.1) {\n  foo = foo--moo(t);\n}\n\ndraw(foo,red);\n\ndraw((-4,0)--(4,0));\ndraw((0,-4)--(0,4));\n\nlimits((-4,-4),(4,4),Crop);\n\nlabel(\"$r = \\frac{1}{1 - \\cos \\theta}$\", (6.5,1.5), red);\n[/asy]",
+    "socratic_questions": "1. What is the equation we are given?\n2. Can you rewrite $\\frac{1}{1 - \\cos \\theta}$ in terms of $x$ and $y$ using the equation $r = \\sqrt{x^2+y^2}$ and polar coordinates?\n3. How does transforming the equation help us determine the shape of the curve?\n4. What kind of curve do we get after simplifying the equation derived from step 2?\n5. How do we know that the resulting curve is a parabola?\n6. Can we determine any specific properties of the parabola (e.g. vertex, focus, directrix) from the equation $y^2 = 2x + 1$?"
+}

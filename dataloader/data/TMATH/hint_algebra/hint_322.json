@@ -1,0 +1,7 @@
+{
+    "problem": "Fully factor the following expression: $2x^2-8$",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "We can factor out a $2$ from both terms, giving $(2)(x^2-4)$. Then we can factor the second expression because it is a difference of squares, giving $\\boxed{(2) (x+2) (x-2)}$.",
+    "socratic_questions": "1. How would you begin factoring the given expression $2x^2-8$?\n2. Are there any common factors that can be pulled out from each term of the expression?\n3. Can you simplify the expression further by factoring out the greatest common factor, if any?\n4. Is it possible to factor the given expression using the difference of squares method? Why or why not?\n5. If the expression can be factored, what would the factored form look like?\n6. How would you verify that your factored expression is the correct factorization of the given expression?\n7. Can you think of any other examples where similar thinking and steps might be used when factoring?"
+}

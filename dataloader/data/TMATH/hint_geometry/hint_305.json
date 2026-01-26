@@ -1,0 +1,7 @@
+{
+    "problem": "A sphere is inscribed in a cube. What is the ratio of the volume of the inscribed sphere to the volume of the cube? Express your answer as a common fraction in terms of $\\pi$.",
+    "level": "Level 4",
+    "type": "Geometry",
+    "solution": "[asy]\nsize(60);\ndraw(Circle((6,6),4.5));\ndraw((10.5,6)..(6,6.9)..(1.5,6),linetype(\"2 4\"));\ndraw((10.5,6)..(6,5.1)..(1.5,6));\ndraw((0,0)--(9,0)--(9,9)--(0,9)--cycle);\ndraw((0,9)--(3,12)--(12,12)--(9,9));\ndraw((12,12)--(12,3)--(9,0));\ndraw((0,0)--(3,3)--(12,3),dashed); draw((3,3)--(3,12),dashed);\n[/asy]\n\nLet the side length of the cube be $s$.  The side length of the cube is equal to diameter of the inscribed sphere, so the radius of the sphere has length $\\frac{s}{2}$.  Thus, the volume of the sphere is equal to $\\frac{4}{3}\\pi \\left(\\frac{s}{2}\\right)^3 = \\frac{\\pi s^3}{6}$ and the volume of the cube is equal to $s^3$.  Hence the ratio of the sphere's volume to the cube's volume is $\\boxed{\\frac{\\pi}{6}}$.",
+    "socratic_questions": "1. Can you describe the first step in solving this problem?\n2. How can we determine the volume of the inscribed sphere in terms of the side length of the cube?\n3. What is the volume formula for a sphere? How can we apply it to this problem?\n4. Why is the radius of the sphere equal to half the side length of the cube?\n5. How can we find the volume of the cube?\n6. What is the ratio of the volume of the inscribed sphere to the volume of the cube?"
+}

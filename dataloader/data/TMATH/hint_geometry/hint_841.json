@@ -1,0 +1,7 @@
+{
+    "problem": "In the figure, $\\angle ABC$ and $\\angle ADB$ are each right angles. Additionally, $AC = 17.8$ units and $AD = 5$ units. What is the length of segment $DB$? [asy]\nimport olympiad; import geometry; size(150); defaultpen(linewidth(0.8));\ntriangle t = triangle((0,0),(sqrt(89),0),(sqrt(89),-8/5*sqrt(89)));\ndraw((sqrt(89),0)--(5*dir(-aTan(8/5))));\ndraw(t);\ndot(\"$A$\",(0,0),W); dot(\"$B$\",(sqrt(89),0),E); dot(\"$D$\",5*dir(-aTan(8/5)),W); dot(\"$C$\",17.8*dir(-aTan(8/5)),W);\n[/asy]",
+    "level": "Level 3",
+    "type": "Geometry",
+    "solution": "First of all, we calculate that the length of $\\overline{DC}$ is $17.8 - 5 = 12.8$. Since triangles $ADB$ and $BDC$ are similar, $BD/AD$ is equal to $CD/BD$, giving us the equation $x/5 = 12.8/x$. Multiplying both sides by $5x$, we get $x^2 = 64$, so $x = \\boxed{8}$ units.",
+    "socratic_questions": "1. How did you determine that $\\overline{DC}$ is $12.8$ units?\n2. Can you explain why triangles $ADB$ and $BDC$ are similar?\n3. What equation did you set up to find the length of $\\overline{DB}$?\n4. How did you simplify the equation $x/5 = 12.8/x$ to $x^2 = 64$?\n5. What is the significance of solving the equation $x^2 = 64$?\n6. How did you find the value of $x$ from the equation $x^2 = 64$?\n7. Can you explain the final conclusion and state the length of segment $\\overline{DB}$?"
+}

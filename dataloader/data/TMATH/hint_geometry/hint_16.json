@@ -1,0 +1,7 @@
+{
+    "problem": "The formula for the total surface area of a cylinder is $SA = 2\\pi r^2 + 2\\pi rh,$ where $r$ is the radius and $h$ is the height. A particular solid right cylinder of radius 2 feet has a total surface area of $12\\pi$ square feet. What is the height of this cylinder?",
+    "level": "Level 2",
+    "type": "Geometry",
+    "solution": "Let the height of the cylinder be $h$; we then have \\[SA = 2\\pi (2^2)+2\\pi (2)(h) = 12\\pi.\\]Solving yields $4\\pi h = 4 \\pi$ so $h = \\boxed{1}$ foot.",
+    "socratic_questions": "1. What is the given information in the problem?\n2. What is the formula for the total surface area of a cylinder?\n3. How can we represent the given dimensions in the formula?\n4. Based on the given information, what is the equation we can set up?\n5. Can we simplify the equation? If so, how?\n6. What steps can we take to isolate the variable representing the height?\n7. Why do we choose to solve for the height in this equation?\n8. Can we generalize the steps used to solve this type of problem?\n9. Can you think of any real-life applications for this formula?"
+}

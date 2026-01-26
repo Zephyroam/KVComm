@@ -1,0 +1,7 @@
+{
+    "problem": "The center of a circle has coordinates $(6,-5)$. The circle is reflected about the line $y=x$. What are the $x,y$ coordinates of the center of the image circle? State the $x$ coordinate first.",
+    "level": "Level 5",
+    "type": "Geometry",
+    "solution": "The center of the image circle is simply the center of the original circle reflected over the line $y=x$. When reflecting over this line, we swap the $x$ and $y$ coordinates. Thus, the image center is the point $\\boxed{(-5, 6)}$.",
+    "socratic_questions": "1. What are the coordinates of the center of the original circle?\n2. What is a reflection over a line?\n3. How do we reflect a point over the line $y=x$?\n4. What happens to the $x$ and $y$ coordinates when a point is reflected over the line $y=x$?\n5. What is the process for determining the coordinates of the image center?\n6. Can you provide a geometric interpretation of what happens when a circle is reflected over the line $y=x$?"
+}

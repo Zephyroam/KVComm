@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\arcsin 1.$  Express your answer in radians.",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "Since $\\sin \\frac{\\pi}{2} = 1,$ $\\arcsin 1 = \\boxed{\\frac{\\pi}{2}}.$",
+    "socratic_questions": "1. How would you define the function $\\arcsin$?\n2. What is the range of the $\\arcsin$ function?\n3. Can you recall any special values of the sine function?\n4. Based on the special values of the sine function, what do you think is the value of $\\arcsin 1$?\n5. Can you express this value in radians?\n6. Is it possible for $\\arcsin 1$ to have multiple values? If so, what are they?\n7. Considering the range of $\\arcsin$ and the given input value of $1$, can you conclude that $\\arcsin 1$ has a unique value?\n8. What does the value of $\\arcsin 1$ tell us about an angle in the unit circle?\n9. Can you visualize the angle corresponding to $\\arcsin 1$ in the unit circle?\n10. How does the value of $\\arcsin 1$ relate to the concept of an inverse function?"
+}

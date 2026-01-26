@@ -1,0 +1,7 @@
+{
+    "problem": "Two distinct integers, $x$ and $y$, are randomly chosen from the set $\\{1,2,3,4,5,6,7,8,9,10\\}$.  What is the probability that $xy-x-y$ is even?",
+    "level": "Level 4",
+    "type": "Counting & Probability",
+    "solution": "We note that $xy-x-y$ is very close to the expansion of $(x-1)(y-1)$.  (This is basically a use of Simon's Favorite Factoring Trick.)\n\nIf $xy-x-y$ is even, then $xy-x-y+1 = (x-1)(y-1)$ is odd. This only occurs when $x-1$ and $y-1$ are both odd, so $x$ and $y$ must be even. There are $\\binom{5}{2}$ distinct pairs of even integers, and $\\binom{10}{2}$ distinct pairs of integers, so the probability is $\\dfrac{\\binom{5}{2}}{\\binom{10}{2}} = \\boxed{\\frac{2}{9}}$.",
+    "socratic_questions": "1. What does it mean for an expression to be even? How can we determine if an expression is even or odd?\n2. What is the expression $(x-1)(y-1)$ representing? Can we relate it to the given expression $xy - x - y$?\n3. Why does expanding $(x-1)(y-1)$ help us analyze the given expression?\n4. How can we ensure that $(x-1)(y-1)$ is odd? What conditions on $x$ and $y$ need to be satisfied?\n5. Why do both $x-1$ and $y-1$ need to be odd in order for $(x-1)(y-1)$ to be odd?\n6. How many even integers are there in the set $\\{1, 2, 3, 4, 5, 6, 7, 8, 9, 10\\}$? How many pairs of even integers can be formed?\n7. How many pairs of integers can be formed in total from the given set?\n8. Can you calculate the probability that $xy - x - y$ is even using the information you've discovered?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "The isosceles triangle and the square shown here have the same area in square units. What is the height of the triangle, $h$, in terms of the side length of the square, $s$?\n\n[asy]\ndraw((0,0)--(0,10)--(10,10)--(10,0)--cycle);\nfill((0,0)--(17,5)--(0,10)--cycle,white);\ndraw((0,0)--(17,5)--(0,10)--cycle);\nlabel(\"$s$\",(5,10),N);\nlabel(\"$h$\",(6,5),N);\ndraw((0,5)--(17,5),dashed);\ndraw((0,5.5)--(0.5,5.5)--(0.5,5));\n[/asy]",
+    "level": "Level 5",
+    "type": "Prealgebra",
+    "solution": "The area of the square is $s^2$.  Since the sides of the square all have the same length, the base of the triangle is $s$ (for the height drawn).  Therefore, the area of the triangle is $\\frac12 sh$. Since these areas are equal, we have \\[\\frac12sh=s^2.\\] Dividing both sides by $s$ and multiplying both sides by 2 gives $h = \\boxed{2s}$.",
+    "socratic_questions": "1. Can you restate the problem in your own words? \n2. How are the areas of the square and the isosceles triangle related? \n3. Can you determine the base of the isosceles triangle from the given information? \n4. How can you find the area of the isosceles triangle? \n5. What equation can you set up using the information you have? \n6. How can you solve for $h$ using the equation you set up?\n7. Is there another way to solve this problem? If so, what is it? \n8. Can you generalize your solution for finding the height of an isosceles triangle with the same area as a square with side length $s$?"
+}

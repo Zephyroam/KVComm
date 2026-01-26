@@ -1,0 +1,7 @@
+{
+    "problem": "The function $f$ is defined on positive integers as follows:\n\\[f(n) = \\left\\{\n\\begin{array}{cl}\nn + 10 & \\text{if $n < 10$}, \\\\\nf(n - 5) & \\text{if $n \\ge 10$}.\n\\end{array}\n\\right.\\]Find the maximum value of the function.",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "We see that $f(n) = n + 10$ for $n = 1,$ 2, 3, $\\dots,$ 9.  Then\n\\begin{align*}\nf(10) &= f(5) = 15, \\\\\nf(11) &= f(6) = 16, \\\\\nf(12) &= f(7) = 17, \\\\\nf(13) &= f(8) = 18, \\\\\nf(14) &= f(9) = 19, \\\\\nf(15) &= f(10) = 15,\n\\end{align*}and so on.  At this point, the function becomes periodic, with period 5.  Therefore, the maximum value of the function is $\\boxed{19}.$",
+    "socratic_questions": "1. What is the definition of the function $f$? \n2. Can you find any pattern or regularity in the function values for $n < 10$? \n3. What happens to the function values when $n$ is greater than or equal to 10? \n4. How does the value of $f(n)$ relate to the value of $f(n-5)$ when $n \\geq 10$? \n5. Is it possible for the function $f$ to have a maximum value? Why or why not? \n6. Can you identify the period of the function after it becomes periodic when $n\\geq 10$? \n7. Can you explain why the maximum value of the function is equal to 19? \n8. Are there any other interesting properties or characteristics of this function that you have noticed?"
+}

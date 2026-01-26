@@ -1,0 +1,7 @@
+{
+    "problem": "If $a+\\frac {a} {3}=\\frac {8} {3}$, what is the value of $a$?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Combining the fractions on the left hand side: $a + \\frac{a}{3} = \\frac{3a}{3} + \\frac{a}{3} = \\frac{4a}{3} = \\frac{8}{3} \\Rightarrow 4a = 8 \\Rightarrow a = \\boxed{2}$.",
+    "socratic_questions": "1. How can you combine the fractions on the left-hand side of the equation?\n2. What is the equivalent expression for $\\frac{a}{3}$ in terms of $a$?\n3. Can you simplify $\\frac{3a}{3}$?\n4. How did you obtain the expression $\\frac{4a}{3}=\\frac{8}{3}$?\n5. What can you conclude from the equation $4a = 8$?\n6. What is the value of $a$ that satisfies the equation?"
+}

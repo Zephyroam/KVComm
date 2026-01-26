@@ -1,0 +1,7 @@
+{
+    "problem": "There is a unique two-digit positive integer $t$ for which the last two digits of $11\\cdot t$ are $36$.\n\nWhat is $t$?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "We can write the condition on $t$ as $$11\\cdot t \\equiv 36\\pmod{100}.$$Then, multiplying both sides by $9$, we have $$99\\cdot t \\equiv 324 \\equiv 24\\pmod{100}.$$The left side, $99t$, is congruent modulo $100$ to $-t$, so we have $$-t \\equiv 24\\pmod{100}$$and therefore $$t \\equiv -24\\pmod{100}.$$The unique two-digit positive solution is $t=-24+100=\\boxed{76}$. Indeed, we can check that $11\\cdot 76 = 836$, which does end in $36$.",
+    "socratic_questions": "1. What is the problem that we are trying to solve?\n2. Can you rewrite the given condition in modular arithmetic notation?\n3. Why did we multiply both sides of the equation by 9?\n4. How did we simplify the left side of the equation using modular arithmetic?\n5. How did we use the simplified equation to solve for $t$?\n6. Is the solution we obtained the unique two-digit positive integer that satisfies the given condition? How can we check?"
+}

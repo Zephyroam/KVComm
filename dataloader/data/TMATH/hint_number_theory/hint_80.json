@@ -1,0 +1,7 @@
+{
+    "problem": "A $\\textit{composite number}$ is a number that has two or more prime factors. The number 87 can be expressed as the sum of two composite numbers in many ways. What is the minimum positive difference between two such numbers?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "The minimum difference between two numbers whose sum is 87 is achieved when the numbers are as close as possible to $87\\div2=43.5$. These numbers are 43 and 44, but 43 is prime, so we consider the next pair, 42 and 45, both of which are composite. Thus, the minimum positive difference is $45-42=\\boxed{3}$.",
+    "socratic_questions": "1. What is a composite number? Can you give an example?\n2. Can you think of any properties or characteristics that composite numbers have in common?\n3. How can we express a number as a sum of two composite numbers?\n4. What is the given number that we are trying to express as the sum of two composite numbers?\n5. What is the approach to find the minimum positive difference between two composite numbers that sum up to the given number?\n6. Why is it more efficient to choose composite numbers that are close to half of the given number?\n7. Can you determine the two closest numbers to half of the given number that are composite?\n8. Are these two numbers the best choice, or should we consider other pairs?\n9. How can we verify if a number is composite or prime?\n10. What is the minimum positive difference between the composite numbers that sum up to the given number?"
+}

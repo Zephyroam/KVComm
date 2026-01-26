@@ -1,0 +1,7 @@
+{
+    "problem": "Find the distance between the vertices of the hyperbola\n\\[\\frac{y^2}{27} - \\frac{x^2}{11} = 1.\\]",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "We read that $a^2 = 27,$ so $a = \\sqrt{27} = 3 \\sqrt{3}.$  Therefore, the distance between the vertices is $2a = \\boxed{6 \\sqrt{3}}.$",
+    "socratic_questions": "1. What is a hyperbola and how does it differ from other conic sections?\n2. How can we identify the vertices of a hyperbola given its equation in standard form?\n3. Using the given equation, what are the coordinates of the center of the hyperbola and how can we derive this information?\n4. How do the values of $a$ and $b$ relate to the shape, size, and orientation of the hyperbola?\n5. Given that $a^2 = 27$ and $b^2 = 11,$ what is the distance between the vertices of the hyperbola and how do we calculate this value?\n6. What is the significance of the distance between the vertices in the context of hyperbolas and why is it important to calculate it accurately?"
+}

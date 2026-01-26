@@ -1,0 +1,7 @@
+{
+    "problem": "Let $f(x)=3x+4$ and $g(x)=2x-3$.  If $h(x)=f(g(x))$, then what is the inverse of $h(x)$?",
+    "level": "Level 5",
+    "type": "Algebra",
+    "solution": "\\[h(x)=f(g(x))=3(2x-3)+4=6x-5.\\]Let's replace $h(x)$ with $y$ for simplicity, so \\[y=6x-5.\\]In order to invert $h(x)$ we may solve this equation for $x$.  That gives \\[y+5=6x\\]or  \\[x=\\frac{y+5}{6}.\\]Writing this in terms of $x$ gives the inverse function of $h$ as  \\[h^{-1}(x)=\\boxed{\\frac{x+5}{6}}.\\]",
+    "socratic_questions": "1. Can you explain what the function $h(x)$ represents? How is it related to the functions $f(x)$ and $g(x)$?\n2. What is the definition of an inverse function? How can we determine if two functions are inverses of each other?\n3. How can we find the inverse of a composite function like $h(x)$? What steps do we need to take?\n4. Can you simplify the expression $h(x)$ by substituting the functions $f(x)$ and $g(x)$ into it? What do you get?\n5. In order to find the inverse of $h(x)$, what should we do to isolate $x$ on one side of the equation?\n6. What happens when we interchange $x$ and $h(x)$ in the equation $h(x) = f(g(x))$? Can we solve this new equation for $h(x)$ in terms of $x$ to find the inverse function?"
+}

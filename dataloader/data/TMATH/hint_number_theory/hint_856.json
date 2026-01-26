@@ -1,0 +1,7 @@
+{
+    "problem": "How many digits are there in the base-7 representation of $956$?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "The largest power of 7 less than 956 is $7^3=343$. Therefore, $956$ written in base 7 has $3+1=\\boxed{4}$ digits.",
+    "socratic_questions": "1. What is the definition of base-7 representation?\n2. Can you explain how to convert a number from base-10 to base-7?\n3. In the base-7 representation of a number, what does each digit represent?\n4. What is the largest power of 7 that is less than the given number, 956?\n5. How can we determine the number of digits in the base-7 representation of 956 based on the largest power of 7 less than it?\n6. Why do we add 1 to the power of 7 when calculating the number of digits?\n7. Can you apply this reasoning to find the number of digits in the base-7 representation of 1000?\n8. What is the base-7 representation of 956, and how does it demonstrate our reasoning?\n9. Can you think of any other number representations (e.g., base-2, base-16) and discuss how their digit count would be determined?"
+}

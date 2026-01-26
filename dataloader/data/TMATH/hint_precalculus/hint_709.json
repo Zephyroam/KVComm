@@ -1,0 +1,7 @@
+{
+    "problem": "Evaluate\n\\[\\log_{10}(\\tan 1^{\\circ})+\\log_{10}(\\tan 2^{\\circ})+\\log_{10}(\\tan 3^{\\circ})+\\cdots+\\log_{10}(\\tan 88^{\\circ})+\\log_{10}(\\tan 89^{\\circ}).\\]",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "We have that\n\\[\\tan (90^\\circ - x) = \\frac{\\sin (90^\\circ - x)}{\\cos (90^\\circ - x)} = \\frac{\\cos x}{\\sin x} = \\frac{1}{\\tan x}.\\]Then\n\\[\\log_{10} \\tan x + \\log_{10} \\tan (90^\\circ - x) = \\log_{10} (\\tan x \\tan (90^\\circ - x)) = \\log_{10} 1 = 0.\\]Summing over $x = 1^\\circ,$ $2^\\circ,$ $\\dots,$ $44^\\circ,$ the sum reduces to $\\log_{10} \\tan 45^\\circ = \\boxed{0}.$",
+    "socratic_questions": "1. What is the definition of the logarithm function? How does it relate to exponents?\n2. Can you explain what the tangent function represents? How does it relate to the sine and cosine functions?\n3. What is the significance of the angle $45^\\circ$ in trigonometry? How does the value of $\\tan 45^\\circ$ relate to other trigonometric ratios?\n4. How does the property $\\tan (90^\\circ - x) = \\frac{1}{\\tan x}$ help simplify the expression? Can we use this property to rewrite each term in the sum?\n5. By applying the logarithm rules, how can we simplify the expression $\\log_{10} (\\tan x \\tan (90^\\circ - x))$?\n6. What is the value of $\\tan x \\tan (90^\\circ - x)$ for the angle $x = 45^\\circ$? How does this affect the logarithm expression?\n7. Can the sum of the logarithms be simplified further? Can you explain why?"
+}

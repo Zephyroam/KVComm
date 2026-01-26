@@ -1,0 +1,7 @@
+{
+    "problem": "Find four-thirds of $\\frac{9}{2}$.",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Recall that ``four-thirds of\" is the same as ``four-thirds times\".  This means that four-thirds of $\\frac{9}{2}$ is the same as $\\frac{4}{3}\\cdot \\frac{9}{2}=\\frac{4\\cdot 9}{3\\cdot 2}$.  By the commutative property of multiplication we know that $\\frac{4\\cdot 9}{3\\cdot 2}=\\frac{9\\cdot 4}{3\\cdot 2}=\\frac{9}{3}\\cdot \\frac{4}{2}=3\\cdot 2=\\boxed{6}.$",
+    "socratic_questions": "1. Can you explain what it means to find \"four-thirds of\" a number?\n2. How can we represent the phrase \"four-thirds of\" mathematically?\n3. What is the numerical value of four-thirds?\n4. What does it mean to multiply fractions?\n5. Can you multiply $\\frac{4}{3}$ by $\\frac{9}{2}$? What is the result?\n6. How can we simplify the resulting fraction?\n7. What property of multiplication did we use to rearrange the factors in the multiplication expression?\n8. Can you simplify the fraction $\\frac{9\\cdot 4}{3\\cdot 2}$?\n9. How did you obtain the fraction $\\frac{9}{3}$?\n10. Can you simplify the fraction $\\frac{9}{3}\\cdot \\frac{4}{2}$?\n11. What is the final result of the calculation?"
+}

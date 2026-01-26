@@ -1,0 +1,7 @@
+{
+    "problem": "How many odd whole numbers are factors of 180?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "Factoring out the highest power of 2 that divides 180, we get $180=2^2\\cdot45$. Thus, the odd factors of 180 are all the factors of $45=3^2\\cdot5^1$, which has $(2+1)(1+1)=\\boxed{6}$ factors.",
+    "socratic_questions": "1. Can you explain the concept of \"factors\" and how they relate to whole numbers?\n2. How would you approach determining the factors of a given number?\n3. What is the highest power of 2 that divides 180? Can you explain the process of factoring out this power?\n4. After factoring out the highest power of 2, what does 180 become? Can you express it in its prime factorization form?\n5. How can you determine the odd factors of 180 based on its prime factorization? What is the significance of odd factors in this context?\n6. How many factors does the number 45 have? Can you explain why the formula $(2+1)(1+1)$ is used to calculate the number of factors?\n7. What are the odd factors of 45? Can you list them?\n8. How many odd factors of 180 can be obtained based on the odd factors of 45? Can you calculate this number?\n9. Can you think of any other numbers where a similar approach can be used to find the odd factors? What similarities or differences would you expect in the process?"
+}

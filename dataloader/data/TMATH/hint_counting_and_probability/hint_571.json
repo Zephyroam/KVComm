@@ -1,0 +1,7 @@
+{
+    "problem": "What is the coefficient of $a^2b^2$ in $(a+b)^4\\left(c+\\dfrac{1}{c}\\right)^6$?",
+    "level": "Level 5",
+    "type": "Counting & Probability",
+    "solution": "To find the coefficient of $a^2b^2$ in $(a+b)^4\\left(c+\\dfrac{1}{c}\\right)^6$, we need to find the coefficient of $a^2b^2$ in $(a+b)^4$ and the constant term of $\\left(c+\\dfrac{1}{c}\\right)^6$. Using the Binomial Theorem, we find that these are $\\binom{4}{2}=6$ and $\\binom{6}{3}=20$. The coefficient of $a^2b^2$ in $(a+b)^4\\left(c+\\dfrac{1}{c}\\right)^6$ is the product of these, or $\\boxed{120}$.",
+    "socratic_questions": "1. What is the problem asking us to find?\n2. How can we break down the expression $(a+b)^4 \\left(c+\\dfrac{1}{c}\\right)^6$ to simplify it?\n3. What does the term $(a+b)^4$ expand to using the Binomial Theorem?\n4. How can we find the coefficient of $a^2b^2$ in the expansion of $(a+b)^4$?\n5. What is the constant term of the expression $\\left(c+\\dfrac{1}{c}\\right)^6$?\n6. How can we find the coefficient of $a^2b^2$ in the expression $(a+b)^4\\left(c+\\dfrac{1}{c}\\right)^6$ using the information from the previous two questions?\n7. Is there anything we need to consider when multiplying the two coefficients together?\n8. What is the final answer?"
+}

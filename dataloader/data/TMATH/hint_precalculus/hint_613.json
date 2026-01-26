@@ -1,0 +1,7 @@
+{
+    "problem": "The set of vectors $\\mathbf{v}$ such that\n\\[\\mathbf{v} \\cdot \\mathbf{v} = \\mathbf{v} \\cdot \\begin{pmatrix} 10 \\\\ -40 \\\\ 8 \\end{pmatrix}\\]forms a solid in space.  Find the volume of this solid.",
+    "level": "Level 4",
+    "type": "Precalculus",
+    "solution": "Let $\\mathbf{v} = \\begin{pmatrix} x \\\\ y \\\\ z \\end{pmatrix}.$  Then from the given equation,\n\\[x^2 + y^2 + z^2 = 10x - 40y + 8z.\\]Completing the square in $x,$ $y,$ and $z,$ we get\n\\[(x - 5)^2 + (y + 20)^2 + (z - 4)^2 = 441.\\]This represents the equation of a sphere with radius 21, and its volume is\n\\[\\frac{4}{3} \\pi \\cdot 21^3 = \\boxed{12348 \\pi}.\\]",
+    "socratic_questions": "1. What is the equation given and what does it represent?\n2. If we let $\\mathbf{v} = \\begin{pmatrix} x \\\\ y \\\\ z \\end{pmatrix}$, what is the equation in terms of $x$, $y$, and $z$?\n3. Can you identify any patterns or familiar terms in the equation?\n4. How can we rewrite the equation in a form that resembles the equation of a sphere?\n5. What does it mean for the set of vectors $\\mathbf{v}$ to satisfy the equation of a sphere?\n6. If we find the radius of this sphere, what formula can we use to calculate its volume?\n7. How can we apply the formula to find the volume of the solid defined by the set of vectors satisfying the given equation?"
+}

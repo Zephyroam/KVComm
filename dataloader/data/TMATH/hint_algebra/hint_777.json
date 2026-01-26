@@ -1,0 +1,7 @@
+{
+    "problem": "Let $d$ and $e$ denote the solutions of $2x^{2}+3x-5=0$. What is the value of $(d-1)(e-1)$?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "By Vieta's formulas, $d + e = -\\frac{3}{2}$ and $de = -\\frac{5}{2},$ so\n\\[(d - 1)(e - 1) = de - (d + e) + 1 = -\\frac{5}{2} + \\frac{3}{2} + 1 = \\boxed{0}.\\]",
+    "socratic_questions": "1. Can you describe the first step in solving the quadratic equation $2x^{2}+3x-5=0$? \n2. How would you determine the solutions of this quadratic equation? Are there different methods you could use? \n3. If you choose to use factoring, how would you factor the quadratic expression? \n4. What characteristics or properties of the equation make it suitable for factoring? \n5. If you find the factors, how would you use them to determine the solutions? How can you verify that your solutions are correct? \n6. Can you think of any other types of equations where a similar approach of thinking and steps might be applicable?"
+}

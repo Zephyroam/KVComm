@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\sqrt{(31)(30)(29)(28)+1}.$",
+    "level": "Level 1",
+    "type": "Intermediate Algebra",
+    "solution": "Let $x = 29.$ Then we can write \\[\\begin{aligned} (31)(30)(29)(28) + 1 &= (x+2)(x+1)(x)(x-1) + 1 \\\\ &= [(x+2)(x-1)][(x+1)x] - 1 \\\\& = (x^2+x-2)(x^2+x) + 1 \\\\&= (x^2+x)^2 - 2(x^2+x) + 1 \\\\&= (x^2+x-1)^2. \\end{aligned} \\]Therefore, the answer is \\[ \\begin{aligned} x^2+x-1&= 29^2 + 29 - 1\\\\& = \\boxed{869}. \\end{aligned}\\]",
+    "socratic_questions": "1. How can we simplify the given expression, $\\sqrt{(31)(30)(29)(28)+1}$?\n2. What pattern or structure do you notice in the expression $(31)(30)(29)(28)+1$? How can this help us simplify it?\n3. Why did we choose $x=29$? How does this substitution help us express the given expression in a simpler form? \n4. How does rewriting $(31)(30)(29)(28)+1$ as $(x^2+x-1)^2$ help us in finding its square root?\n5. How can we evaluate $(x^2+x-1)^2$ given that $x=29$? What is the final result?\n6. Can you think of any other similar problems where substitution or pattern recognition could be helpful in simplifying the expression?"
+}

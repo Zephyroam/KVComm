@@ -1,0 +1,7 @@
+{
+    "problem": "What is the smallest positive integer that has exactly eight distinct positive factors?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "To find the smallest positive integer with exactly four factor pairs, we want the number to be divisible by 1, 2, 3, and 4. So the number is $1\\cdot2\\cdot3\\cdot4=\\boxed{24}$.",
+    "socratic_questions": "1. Can you define what a factor is in the context of number theory?\n2. How many factors does the number 1 have? Why?\n3. What are the factors of the number 2? How do you know?\n4. How many factors does the number 3 have? Why?\n5. Can you find a pattern in the number of factors for consecutive positive integers? If so, what is it?\n6. What is the definition of a prime number? How does it relate to the number of factors a number has?\n7. How many factors does the number 4 have? How do you know? \n8. Can you find a number with exactly 8 factors by multiplying two prime numbers? If so, what are those prime numbers and the resulting number with 8 factors? \n9. Are there any other ways to get a number with exactly 8 factors? If so, can you find one? \n10. How can you be sure that the number you found is the smallest positive integer with exactly 8 distinct positive factors?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Evaluate $81^{3/4}$.",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "We have  \\[81^{3/4} = (3^4)^{3/4} = 3^{4\\cdot (3/4)} = 3^3 = \\boxed{27}.\\]",
+    "socratic_questions": "1. How would you approach evaluating $81^{3/4}$?\n2. Can you explain why the exponent is represented as a fraction in this expression?\n3. What does the numerator of the fraction indicate in terms of the calculation?\n4. And what about the denominator?\n5. Can you find the fourth root of 81?\n6. How does the fourth root relate to the fractional exponent of 3/4? \n7. What is the result of raising a number to the power of 3/4, and why does it give us that result?\n8. Are there any other ways to express $81^{3/4}$? If so, what are they?\n9. How can you verify your answer for $81^{3/4}$?\n10. Can you think of other examples where fractional exponents are used in similar calculations?"
+}

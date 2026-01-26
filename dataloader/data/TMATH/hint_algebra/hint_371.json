@@ -1,0 +1,7 @@
+{
+    "problem": "Completely factor the following expression: \\[(15x^3+80x-5)-(-4x^3+4x-5).\\]",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "First, we combine like terms in the expression: \\begin{align*}\n(15x^3+80x-5)&-(-4x^3+4x-5)\\\\\n&=15x^3+80x-5+4x^3-4x+5\\\\\n&=19x^3+76x.\\end{align*}We can factor out a $19x$ from the expression, to get $$19x^3+76x=\\boxed{19x(x^2+4)}.$$",
+    "socratic_questions": "1. How would you describe the first step in factoring this expression? \n2. Are you familiar with any specific factoring methods that can be used in this situation? \n3. If you were to use the distributive property to factor, how would you apply it in this case? \n4. Can you explain why this expression can be factored using the distributive property? Are there any characteristics that make it suitable for this method? \n5. What factors do you identify in this expression, and how can you verify that your factors are correct? \n6. Can you think of any other types of expressions where similar thinking and steps might be used in factoring?"
+}

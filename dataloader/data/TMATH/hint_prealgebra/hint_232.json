@@ -1,0 +1,7 @@
+{
+    "problem": "The hypotenuse of an isosceles right triangle is $4\\sqrt{2}$ units. How many square units are in the area of the triangle?",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "The hypotenuse of an isosceles right triangle is $\\sqrt{2}$ times the length of each leg, so each leg of the triangle has length 4.  Therefore, the area of the triangle is $(4)(4)/2 = \\boxed{8}$ square units.",
+    "socratic_questions": "1. What is an isosceles right triangle and how is it different from other types of triangles?\n2. How is the length of the hypotenuse related to the lengths of the legs in an isosceles right triangle?\n3. Can you explain why the length of each leg is 4 in this particular triangle?\n4. How do we calculate the area of a triangle, and what are the measurements needed in this case?\n5. Can you show step-by-step how we can find the area of the triangle using the given information?\n6. Is the given area of 8 square units consistent with the properties of the triangle? How can we confirm our result?\n7. Are there any other methods or shortcuts that can be used to find the area of an isosceles right triangle?"
+}

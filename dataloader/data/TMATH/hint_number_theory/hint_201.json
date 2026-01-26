@@ -1,0 +1,7 @@
+{
+    "problem": "What is the units digit of $3^{2004}$?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "Write $3^{2004}$ as $(3^{4})^{501}$.  Since the units digit of $3^4=81$ is 1, the units digit of any power of $3^4$ is $\\boxed{1}$ as well.",
+    "socratic_questions": "1. Can you describe the first step in solving the problem of finding the units digit of $3^{2004}$?\n2. What is the relationship between the units digit of $3^4$ and the units digit of $3^{2004}$?\n3. How can you express $3^{2004}$ in terms of $(3^4)^{501}$?\n4. Why is it helpful to express $3^{2004}$ as $(3^4)^{501}$?\n5. What is the units digit of $3^4$, and how does it relate to the units digit of $3^{2004}$?\n6. Can you think of other similar problems where you can apply similar reasoning and steps to find the units digit?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "The projection of $\\begin{pmatrix} 0 \\\\ 3 \\\\ z \\end{pmatrix}$ onto $\\begin{pmatrix} -3 \\\\ 5 \\\\ -1 \\end{pmatrix}$ is\n\\[\\frac{12}{35} \\begin{pmatrix} -3 \\\\ 5 \\\\ -1 \\end{pmatrix}.\\]Find $z.$",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "The projection of $\\begin{pmatrix} 0 \\\\ 3 \\\\ z \\end{pmatrix}$ onto $\\begin{pmatrix} -3 \\\\ 5 \\\\ -1 \\end{pmatrix}$ is\n\\[\\frac{\\begin{pmatrix} 0 \\\\ 3 \\\\ z \\end{pmatrix} \\cdot \\begin{pmatrix} -3 \\\\ 5 \\\\ -1 \\end{pmatrix}}{\\begin{pmatrix} -3 \\\\ 5 \\\\ -1 \\end{pmatrix} \\cdot \\begin{pmatrix} -3 \\\\ 5 \\\\ -1 \\end{pmatrix}} \\begin{pmatrix} -3 \\\\ 5 \\\\ -1 \\end{pmatrix} = \\frac{-z + 15}{35} \\begin{pmatrix} 1 \\\\ -2 \\\\ 1 \\end{pmatrix}.\\]Then $-z + 15 = 12,$ so $z = \\boxed{3}.$",
+    "socratic_questions": "1. What is the definition of projection and how is it calculated?\n2. How do we determine the projection of a vector onto another vector?\n3. Can you explain the significance of the dot product in calculating the projection?\n4. What is the geometric interpretation of the projection in terms of angles and distances?\n5. How does the direction of the projection change if we change the direction of the vector we are projecting onto?\n6. Can you provide an example of a real-life situation in which the concept of projection would be useful to understand?"
+}

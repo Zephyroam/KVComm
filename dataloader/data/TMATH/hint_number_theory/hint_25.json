@@ -1,0 +1,7 @@
+{
+    "problem": "Name the greatest whole number less than $100$ that has an odd number of positive factors.",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "We claim that a number has an odd number of positive factors if and only if it is a perfect square. Indeed, for all non-square numbers $x$, we can pair each factor $f$ with another factor $\\frac{x}{f}$, so there must be an even number of factors. For perfect squares, this argument fails only for $\\sqrt{x}$, so there are an odd number of factors for perfect squares. Thus we seek the greatest perfect square below $100$, which is $\\boxed{81}$.",
+    "socratic_questions": "1. Can you define what it means for a number to have a \"positive factor\"?\n2. How do we count the number of positive factors a given number has?\n3. Are there any patterns or rules we can use to quickly determine if a number has an odd or even number of factors?\n4. Can you prove the claim that a number has an odd number of positive factors if and only if it is a perfect square?\n5. How can we use this claim to find the greatest whole number less than 100 that has an odd number of positive factors?"
+}

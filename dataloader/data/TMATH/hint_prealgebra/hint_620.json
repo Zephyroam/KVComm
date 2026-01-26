@@ -1,0 +1,7 @@
+{
+    "problem": "A circle has an area of $\\pi$ square units. What is the length of the circle's diameter, in units?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "Call the length of the radius $r$ units. $r^2\\pi=\\pi$, so $r=1$. The diameter is twice the radius, or $\\boxed{2}$ units.",
+    "socratic_questions": "1. What is the relationship between the radius and the diameter of a circle?\n2. How can we use the given area of $\\pi$ square units to find the length of the radius? \n3. Can you explain the steps you would take to find the value of the radius based on the given area?\n4. Why is $r^2\\pi=\\pi$ a valid equation for finding the radius?\n5. Once we have the value of the radius, how can we calculate the length of the diameter?\n6. Is there any other mathematical concept or formula you can think of that relates to finding the length of a circle's diameter?"
+}

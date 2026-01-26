@@ -1,0 +1,7 @@
+{
+    "problem": "For two real values of $n$, the equation $4x^2+nx+25=0$ has exactly one solution in $x$. What is the positive value of $n$?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "A quadratic has exactly one distinct solution when its discriminant is 0.  The discriminant of $4x^2 + nx + 25$ is $n^2 - 4(4)(25)$.  Setting this equal to 0 gives $n^2 - 400 = 0$, so $n^2 = 400$.  The positive solution of this equation is $n = \\boxed{20}$.",
+    "socratic_questions": "1. Can you explain what it means for an equation to have exactly one solution in $x$?\n2. If a quadratic equation has exactly one solution, what can you say about the discriminant of the equation? How is it related to the number of solutions?\n3. What is the discriminant formula for a quadratic equation of the form $ax^2+bx+c=0$? How can we use it to determine the number of solutions?\n4. Given the equation $4x^2+nx+25=0$, what is the discriminant in terms of $n$?\n5. In order for the equation to have exactly one solution, what should the value of the discriminant be?\n6. How can you use the discriminant inequality to find the range of values for $n$ that satisfy the condition of one solution?\n7. If the discriminant inequality gives you a range of values for $n$, what is the positive value within that range?\n8. How does changing the value of $n$ affect the shape and behavior of the quadratic equation?"
+}

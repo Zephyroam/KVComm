@@ -1,0 +1,7 @@
+{
+    "problem": "Find the integer $n$, $0 \\le n \\le 7$, such that \\[n \\equiv -3737 \\pmod{8}.\\]",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "Since $-3737 \\equiv 7 \\pmod{8}$, the integer $n$ we seek is $n = \\boxed{7}$.",
+    "socratic_questions": "1. What does it mean for two integers to be congruent modulo a certain number?\n2. Can you describe the properties of modular arithmetic?\n3. How can we use modular arithmetic to solve the given equation?\n4. What does it mean for an integer to be in a certain residue class modulo a certain number?\n5. What other types of problems can be solved using modular arithmetic?\n6. Can you think of any real-life applications of modular arithmetic?"
+}

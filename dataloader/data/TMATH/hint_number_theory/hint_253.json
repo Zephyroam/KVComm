@@ -1,0 +1,7 @@
+{
+    "problem": "Find the remainder when $3^{1999}$ is divided by $13$.",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "Since $3^3=27=2\\cdot13+1$ we find that  \\[3^3\\equiv1\\pmod{13}.\\] Therefore \\[3^{1999}\\equiv3^{3\\cdot666+1}\\equiv1^{666}\\cdot3\\equiv3\\pmod{13}.\\] The remainder when $3^{1999}$ is divided by 13 is $\\boxed{3}$.",
+    "socratic_questions": "1. Can you describe the first step to solve this problem?\n2. Do you know any different methods that can be used to solve this type of problem?\n3. If you choose to use modular arithmetic, how would you determine the appropriate congruence to simplify the problem?\n4. Why can we use modular arithmetic in this case? What characteristics make it suitable for this method?\n5. What is the congruence you found? How does it verify that your solution is correct?\n6. Can you think of other types of problems where similar thinking and steps might be used to find the solution?\n7. How would you approach finding the remainder when $3^{1999}$ is divided by a different number, like 17 or 19?\n8. What patterns or insights can you derive from the solution? Is there anything interesting about the remainder in this case?"
+}

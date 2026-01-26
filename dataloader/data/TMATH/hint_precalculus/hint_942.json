@@ -1,0 +1,7 @@
+{
+    "problem": "The matrices\n\\[\\begin{pmatrix} 3 & -8 \\\\ a & 11 \\end{pmatrix} \\quad \\text{and} \\quad \\begin{pmatrix} 11 & b \\\\ 4 & 3 \\end{pmatrix}\\]are inverses.  Enter the ordered pair $(a,b).$",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "The product of the matrices is\n\\[\\begin{pmatrix} 3 & -8 \\\\ a & 11 \\end{pmatrix} \\begin{pmatrix} 11 & b \\\\ 4 & 3 \\end{pmatrix} = \\begin{pmatrix} 1 & 3b - 24 \\\\ 11a + 44 & ab + 33 \\end{pmatrix}.\\]We want this to be the identity matrix, so $3b - 24 = 0,$ $11a + 44 = 0,$ and $ab + 33 = 1.$  Solving, we find $(a,b) = \\boxed{(-4,8)}.$",
+    "socratic_questions": "1. Can you describe what it means for two matrices to be inverses?\n2. What conditions must be satisfied for two matrices to be inverses of each other?\n3. Based on the given matrices, what information can you gather about their entries?\n4. How can you use matrix multiplication to determine if the given matrices are inverses?\n5. What is the product of the two given matrices? \n6. How can you equate this product to the identity matrix? \n7. Based on the equality of matrix products, can you derive any equations involving the unknown entries $a$ and $b$?\n8. How can you solve these equations to find the values of $a$ and $b$?\n9. What are the values of $a$ and $b$ that satisfy the given conditions?"
+}

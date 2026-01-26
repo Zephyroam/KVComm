@@ -1,0 +1,7 @@
+{
+    "problem": "A $\\textit{palindrome}$ is a number which reads the same forward as backward. For example, 343 and 1221 are palindromes. What is the least natural number that can be added to 40,305 to create a palindrome?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "We are asked to find the positive difference between 40305 and the least palindrome greater than 40305.  The only five-digit palindrome beginning with 403 is 40304, which is less than 40305.  The next smallest possibility for the first three digits is 404, which gives the palindrome 40404.  The difference between 40404 and 40305 is $\\boxed{99}$.",
+    "socratic_questions": "1. How would you define a palindrome?\n2. Can you explain the task in your own words?\n3. What is the given number?\n4. What is the criteria for finding the desired palindrome?\n5. Can you identify the smallest palindrome that begins with the given number? \n6. Is the smallest palindrome greater than the given number?\n7. What are the possible options for the first three digits of the palindrome?\n8. What is the next smallest possibility after 403 for the first three digits?\n9. How can we determine the palindrome that corresponds to the three-digit possibility we found?\n10. What is the positive difference between the palindrome we found and the given number?\n11. Can you think of any other examples where finding a palindrome would involve similar steps?"
+}

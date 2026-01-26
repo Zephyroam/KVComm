@@ -1,0 +1,7 @@
+{
+    "problem": "Evaluate $\\lfloor17.2\\rfloor+\\lfloor-17.2\\rfloor$.",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "The greatest integer less than $17.2$ is $17$, and the greatest integer less than $-17.2$ is $-18$, so our answer is $\\boxed{-1}$.",
+    "socratic_questions": "1. What is the definition of the floor function and how does it work?\n2. How does the floor function handle positive and negative numbers differently?\n3. What is the floor value of 17.2 and how do you determine it?\n4. What is the floor value of -17.2 and how do you determine it?\n5. How do you perform addition between floor values?\n6. Can you simplify the expression $\\lfloor17.2\\rfloor+\\lfloor-17.2\\rfloor$ using the floor values?\n7. What is the final result of the expression $\\lfloor17.2\\rfloor+\\lfloor-17.2\\rfloor$ and how can you explain it in terms of the floor function?"
+}

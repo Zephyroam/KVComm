@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\dbinom{16}{5}$.",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "$\\dbinom{16}{5}=\\dfrac{16\\times 15\\times 14\\times 13\\times 12}{5\\times 4\\times 3\\times 2\\times 1}=\\boxed{4368}.$",
+    "socratic_questions": "1. Can you explain the concept of a binomial coefficient ($\\dbinom{n}{k}$) and its significance in counting and probability?\n2. How does the formula for $\\dbinom{n}{k}$ relate to the specific problem of choosing a group of $k$ items from a set of $n$ items?\n3. What is the reasoning behind the formula for $\\dbinom{n}{k}$ involving factorials? How does it account for the order of selection or the arrangement of items?\n4. Can you provide an intuitive explanation for why the formula involves dividing by the factorial of $k$ and $n-k$?\n5. How would you approach computing $\\dbinom{16}{5}$ using the formula? What steps would you take and why?\n6. Are there any alternative approaches or methods to calculate $\\dbinom{16}{5}$? If so, how do they relate to the concept of counting and probability?\n7. Can you justify your final answer of 4368 for $\\dbinom{16}{5}$ by showing the step-by-step cancellation of terms in the formula?\n8. How can the concept of binomial coefficients be extended to more complex problems or scenarios? Can you think of any real-world applications where this concept would be relevant?"
+}

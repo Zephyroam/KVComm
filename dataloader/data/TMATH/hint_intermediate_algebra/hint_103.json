@@ -1,0 +1,7 @@
+{
+    "problem": "Let $x,$ $y,$ $z$ be real numbers such that $x + 2y + z = 4.$  Find the maximum value of\n\\[xy + xz + yz.\\]",
+    "level": "Level 4",
+    "type": "Intermediate Algebra",
+    "solution": "We can solve for $y,$ to get\n\\[y = \\frac{4 - x - z}{2}.\\]Substituting, we get\n\\[xy + xz + yz = \\frac{-x^2 + 4x - z^2 + 4z}{2} = \\frac{8 - (x - 2)^2 - (z - 2)^2}{2}.\\]The maximum value is then $\\boxed{4},$ which occurs when $x = 2$ and $z = 2$ (and $y = 0$).",
+    "socratic_questions": "1. What is the given information in the problem?\n2. Is there any equation given in the problem? If yes, what is it and how can we use it to find the maximum value of $xy + xz + yz$?\n3. Can we rewrite the equation in terms of only two variables? If yes, what are the two variables and how can we use them to find the maximum value?\n4. How can we maximize the expression $xy + xz + yz$ using the given equation and the information?\n5. Is there a way to represent $xy + xz + yz$ geometrically? If yes, what is it and how can we use it to find the maximum value?\n6. Are there any constraints on the values of $x,$ $y,$ and $z$ in the problem? If yes, what are they and how can we use them to find the maximum value of $xy + xz + yz$?"
+}

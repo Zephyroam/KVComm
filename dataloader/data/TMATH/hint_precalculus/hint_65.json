@@ -1,0 +1,7 @@
+{
+    "problem": "If $\\begin{vmatrix} a & b \\\\ c & d \\end{vmatrix} = 4,$ then find\n\\[\\begin{vmatrix} a & 7a + 3b \\\\ c & 7c  +3d \\end{vmatrix}.\\]",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "Since $\\begin{vmatrix} a & b \\\\ c & d \\end{vmatrix} = 4,$ $ad - bc = 4.$  Then\n\\[\\begin{vmatrix} a & 7a + 3b \\\\ c & 7c  +3d \\end{vmatrix} = a(7c + 3d) - (7a + 3b)c = 3ad - 3bc = 3(ad - bc) = \\boxed{12}.\\]",
+    "socratic_questions": "1. What are the properties and characteristics of determinants that we need to consider when approaching this problem?\n2. How can we use the given information about the determinant of the matrix to find the value of the determinant in the question?\n3. Can we break down the given matrix into smaller parts to simplify the computation of the determinant?\n4. How does expanding the determinant help us in finding the value of the determinant in the question?\n5. Can we apply any rules or properties of determinants to simplify the computation further?\n6. Are there any alternative approaches or methods we can use to find the determinant in the question?\n7. How do the values of a, b, c, and d affect the value of the determinant in the problem?\n8. Can we generalize the steps and techniques used in this problem to solve similar problems involving determinants?"
+}

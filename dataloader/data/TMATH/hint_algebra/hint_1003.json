@@ -1,0 +1,7 @@
+{
+    "problem": "Evaluate $\\left\\lceil3\\left(6-\\frac12\\right)\\right\\rceil$.",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "Firstly, $3\\left(6-\\frac12\\right)=18-1-\\frac12=17-\\frac12$.  Because $0\\le\\frac12<1$, we have $\\left\\lceil17-\\frac12\\right\\rceil=\\boxed{17}$.",
+    "socratic_questions": "1. What does the symbol $\\left\\lceil \\right\\rceil$ represent in mathematical notation?\n2. How do we evaluate the expression inside the parentheses, $6-\\frac12$?\n3. After evaluating the expression in step 2, what is the result?\n4. What happens when we multiply the result from step 3 by 3?\n5. How do we determine the value of $\\left\\lceil \\right\\rceil$ for a given number?\n6. What is the final result when we apply the function $\\left\\lceil \\right\\rceil$ to the product obtained in step 4?"
+}

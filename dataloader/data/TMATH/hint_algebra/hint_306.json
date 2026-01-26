@@ -1,0 +1,7 @@
+{
+    "problem": "Complex numbers are often used when dealing with alternating current (AC) circuits. In the equation $V = IZ$, $V$ is voltage, $I$ is current, and $Z$ is a value known as impedance. If $V = 1-i$ and $Z=1+3i$, find $I$.  Express your answer as a complex number in the form $a+bi$, where $a$ and $b$ are real numbers.",
+    "level": "Level 5",
+    "type": "Algebra",
+    "solution": "We have $$\nI = \\frac{V}{Z} = \\frac{1-i}{1+3i}.\n$$ Multiplying the numerator and denominator by the conjugate of the denominator, we get \\begin{align*}\nI &= \\frac{1-i}{1+3i} \\cdot \\frac{1-3i}{1-3i}\\\\\n& = \\frac{1(1) + 1(-3i) - i(1) - i(-3i)}{1(1) + 1(-3i) + 3i(1) + 3i(-3i)}\\\\\n& = \\frac{-2-4i}{10}\\\\\n& = \\boxed{ -\\frac{1}{5} - \\frac{2}{5}i }.\n\\end{align*}",
+    "socratic_questions": "1. Can you explain what the equation $V = IZ$ represents in the context of alternating current circuits?\n2. Given that $V = 1-i$ and $Z = 1+3i$, what does this tell us about the voltage and impedance in the circuit?\n3. In order to find the current $I$, what mathematical operation do we need to apply to the values of $V$ and $Z$?\n4. How do we perform the multiplication of complex numbers in the form $a + bi$?\n5. Can you multiply $V$ and $Z$ to find the value of $VZ$?\n6. Now that we have $VZ$, how do we find the current $I$ using the equation $V = IZ$?\n7. What is the final value of the current $I$ when expressed as a complex number in the form $a+bi$?\n8. Can you think of any other uses of complex numbers in electrical engineering or other fields?"
+}

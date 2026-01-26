@@ -1,0 +1,7 @@
+{
+    "problem": "Two fair 6-sided dice are rolled.  What is the probability at least one of the dice shows a 1?",
+    "level": "Level 4",
+    "type": "Counting & Probability",
+    "solution": "There are 5 ways in which the first roll is not 1, and 5 ways in which the second roll is not 1, so there are $5 \\times 5 = 25$ ways in which neither die shows 1.  Therefore there are $36-25=11$ ways in which one or both dice show 1.  So the probability of this is $\\boxed{\\dfrac{11}{36}}$.",
+    "socratic_questions": "1. Can you explain the problem statement in your own words?\n2. How many faces are there on each die? \n3. What does it mean for the dice to be fair?\n4. Can you determine the total number of possible outcomes when two 6-sided dice are rolled?\n5. What is the probability of rolling a 1 on the first die? What about the second die?\n6. If we want to find the probability of at least one of the dice showing a 1, how can we approach this problem?\n7. How many outcomes satisfy the condition of at least one of the dice showing a 1?\n8. How did you find the number of outcomes where neither die shows a 1?\n9. How did you calculate the number of outcomes where one or both dice show a 1?\n10. Can you simplify the fraction $\\frac{11}{36}$?"
+}

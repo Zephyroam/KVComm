@@ -1,0 +1,7 @@
+{
+    "problem": "The time right now is 9 o'clock. On a 12-hour clock, what time will it be 2004 hours from now?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "Note that 2004 is divisible by 4, since the last two digits, 04, form a multiple of 4.  Also, 2004 is divisible by 3 since the sum of the digits, $2+0+0+4=6$, is a multiple of 3.  Therefore, 2004 is a multiple of 12, and 2004 hours from now it will be $\\boxed{9}$ o'clock again.",
+    "socratic_questions": "1. What is the current time on a 12-hour clock?\n2. How many hours are there in a day?\n3. If we want to determine the time 2004 hours from now, do we need to consider the days as well?\n4. Are there any specific patterns or properties of the given number 2004 that we can use to our advantage?\n5. How can we determine if a number is divisible by 4 or 3?\n6. Why is it important to know that 2004 is divisible by 4 and 3 in this case?\n7. What happens when a number is divisible by 12 on a 12-hour clock?\n8. Can you think of any other numbers that would result in the same time on a 12-hour clock after a certain number of hours?"
+}

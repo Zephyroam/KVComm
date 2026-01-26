@@ -1,0 +1,7 @@
+{
+    "problem": "Evaluate $|7-24i|$.",
+    "level": "Level 1",
+    "type": "Intermediate Algebra",
+    "solution": "We have $|7-24i| = \\sqrt{7^2 + (-24)^2} = \\boxed{25}$.",
+    "socratic_questions": "1. What is the definition of absolute value?\n2. How is the absolute value of a complex number calculated?\n3. What is the real part and imaginary part of the complex number 7-24i?\n4. What is the formula to calculate the absolute value of a complex number in terms of its real and imaginary parts?\n5. How do you simplify the expression to find the absolute value of 7-24i?\n6. Can you think of any other examples where you can use the formula to find the absolute value of a complex number?"
+}

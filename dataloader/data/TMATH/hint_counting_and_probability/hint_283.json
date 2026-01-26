@@ -1,0 +1,7 @@
+{
+    "problem": "A pet store has 15 puppies, 6 kittens, and 8 hamsters. Alice, Bob, and Charlie each want to buy a pet. For variety, they each want a different kind of pet. How many ways can Alice, Bob, and Charlie buy pets and leave the store satisfied?",
+    "level": "Level 4",
+    "type": "Counting & Probability",
+    "solution": "Ignoring who gets which pet for now, we can see that there are $15 \\cdot 6 \\cdot 8$ ways to choose one puppy, one kitten, and one hamster. Now, Alice has three choices for which type of pet she wants, Bob has two, and Charlie has one, due to the constraint that they must each have a different type of pet. Thus, there are $15 \\cdot 6 \\cdot 8 \\cdot 3 \\cdot 2 = \\boxed{4320}$ such ways.",
+    "socratic_questions": "1. What are the different types of pets available at the store?\n2. How many choices does Alice have for selecting a pet from the available options?\n3. How many choices does Bob have, considering that he cannot choose the same type of pet as Alice?\n4. Similarly, how many choices does Charlie have for selecting a pet?\n5. Can you explain why we multiply the number of choices for each person to find the total number of ways they can select the pets?\n6. In this scenario, why do we ignore who gets which pet and focus only on the total number of ways they can buy pets?\n7. Can you come up with any other constraints or scenarios where the calculation of total possible ways may differ?"
+}

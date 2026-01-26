@@ -1,0 +1,7 @@
+{
+    "problem": "How much money should I invest at an annually compounded interest rate of $5\\%$  so that I have $\\$500,\\!000$ in ten years?  Express your answer as a dollar value rounded to the nearest cent.",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "This question is equivalent to asking, \"What is the present value of $\\$500,\\!000$ paid 10 years from now if the annually compounded interest rate is $5\\%$?\"  This present value is \\[\\frac{\\$500,\\!000}{(1+0.05)^{10}} \\approx \\boxed{\\$306,\\!956.63}.\\]",
+    "socratic_questions": "1. What is the formula for compound interest and how can it be applied to this problem?\n2. How does the interest rate impact the growth of the investment over time?\n3. What is the significance of the compounding period in this problem?\n4. Can you explain the concept of \"annually compounded interest\" and how it differs from other compounding periods?\n5. How can we use the given information to set up an equation to solve for the initial investment?\n6. What are the steps involved in solving this equation for the unknown investment amount?\n7. How can we use rounding to the nearest cent to express the answer as a dollar value?\n8. Is there any other information or assumptions needed to solve this problem accurately?\n9. What variables are involved in the equation and how do they relate to the problem?\n10. Can you think of different scenarios where the same concepts of compound interest and investment would be applicable?"
+}

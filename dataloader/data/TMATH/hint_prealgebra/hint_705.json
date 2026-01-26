@@ -1,0 +1,7 @@
+{
+    "problem": "Simplify the following expression:\n\n$$5x + 6 - x + 12$$",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Rearranging and grouping, we obtain $(5x - x) + (6 + 12) = \\boxed{4x + 18}$.",
+    "socratic_questions": "1. How would you describe the first step in simplifying this expression?\n2. Are there any different methods or techniques we can use to simplify this expression? If so, what are they?\n3. If we choose to rearrange and group terms, what is the specific process we should follow?\n4. Why can we rearrange and group terms in this expression? What characteristics or properties allow us to do this?\n5. What is the simplified expression that you obtained? How can you verify or check that your solution is correct?\n6. Can you think of any other types of expressions or equations where similar thinking and steps might be useful?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "One year ago, the number of years in Jane's age was a perfect square, and one year from now, her age will be a perfect cube. How many years old is Jane?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "Let's consider a few small perfect cubes to see two less which is a perfect square: $2^3-2=6$, not a perfect square; $3^3-2=25=5^2$. Thus Jane is $27-1=\\boxed{26}$ years old.",
+    "socratic_questions": "1. Can you explain the problem in your own words?\n2. How old is Jane currently?\n3. What does it mean for a number to be a perfect square?\n4. How can we express the information given in the problem mathematically?\n5. How would you approach finding a perfect square that is one less than a perfect cube?\n6. Can you think of any strategies or patterns we can use to solve this problem?\n7. Can you find a small perfect cube that is two more than a perfect square?\n8. How can we define Jane's age using variables and equations?\n9. How can we use the information given to find the value of Jane's age?\n10. Can you think of any other mathematical concepts or problems that involve perfect squares and perfect cubes?"
+}

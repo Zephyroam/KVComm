@@ -1,0 +1,7 @@
+{
+    "problem": "How many ounces of pure water must be added to $30$ ounces of a $30\\%$ solution of acid to yield a solution that is $20\\%$ acid?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "Suppose that the number of ounces of pure water necessary is equal to $w$. Then, the total amount of liquid in the mixture is $30 + w$. The acid content of the mixture will always be $30\\% \\times 30 = 9$ ounces of acid. Thus, the amount of acid in the mixture is equal to $\\frac{9}{30 + w}$. Setting this equal to $20\\% = \\frac 15$, it follows that $$\\frac{9}{30+w} = \\frac 15 \\Longrightarrow 30+w = 45.$$ Thus, $w = \\boxed{15}$ ounces of pure water.",
+    "socratic_questions": "1. How would you approach this problem in terms of the first step?\n2. What are the different methods or strategies that you know of to solve mixture problems like this?\n3. If you were to use the method of setting up an equation, how would you define the variables in this case?\n4. Why is it possible to set up an equation to solve this problem? What characteristics allow for this approach?\n5. What is the equation that you would set up to represent this problem? How would you proceed from there?\n6. Are there any other types of mixture problems that you can think of where similar thinking and steps would be required to solve them?"
+}

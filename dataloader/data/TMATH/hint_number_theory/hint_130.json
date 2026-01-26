@@ -1,0 +1,7 @@
+{
+    "problem": "Given that $13^{-1} \\equiv 29 \\pmod{47}$, find $34^{-1} \\pmod{47}$, as a residue modulo 47.  (Give a number between 0 and 46, inclusive.)",
+    "level": "Level 5",
+    "type": "Number Theory",
+    "solution": "Note that $34 \\equiv -13 \\pmod{47}$.  Hence, \\begin{align*}\n34^{-1} &\\equiv (-13)^{-1} \\\\\n&\\equiv (-1)^{-1} \\cdot 13^{-1} \\\\\n&\\equiv (-1) \\cdot 29 \\\\\n&\\equiv \\boxed{18} \\pmod{47}.\n\\end{align*}",
+    "socratic_questions": "1. What is the definition of finding the inverse of a number modulo some value?\n2. How can we use the given congruence to find the inverse of 34 modulo 47?\n3. Can we rewrite 34 as an equivalent congruence that we can work with more easily?\n4. How can we express (-13)^{-1} in terms of 13^{-1}?\n5. What is the relationship between (-1)^{-1} and -1 when working with modular arithmetic?\n6. How can we calculate the value of (-1) \\cdot 29 as a residue modulo 47?\n7. What is the final result of finding 34^{-1} \\pmod{47} as a residue modulo 47?"
+}

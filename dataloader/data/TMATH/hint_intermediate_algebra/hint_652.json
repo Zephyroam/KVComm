@@ -1,0 +1,7 @@
+{
+    "problem": "The perimeter of a rectangle is 48.  What is the largest possible area of the rectangle?",
+    "level": "Level 1",
+    "type": "Intermediate Algebra",
+    "solution": "Let $x$ and $y$ be the dimensions of the rectangle.  Then $2x + 2y = 48,$ so $x + y = 24.$  By AM-GM,\n\\[24 = x + y \\ge 2 \\sqrt{xy},\\]so $\\sqrt{xy} \\le 12,$ which means $xy \\le 144.$\n\nEquality occurs when $x = y = 12,$ so the largest possible area of the rectangle is $\\boxed{144}.$",
+    "socratic_questions": "1. What are the dimensions of the rectangle? \n2. What is the formula for the perimeter of a rectangle? \n3. Can you write an equation using the information given that represents the relationship between the dimensions of the rectangle and its perimeter? \n4. What is the AM-GM inequality, and how can it be used to find the maximum area of the rectangle? \n5. How do you apply the AM-GM inequality to the equation relating the perimeter to the dimensions of the rectangle in order to get an expression for the maximum area? \n6. What are the values of $x$ and $y$ that maximize the area of the rectangle? \n7. What is the maximum area of the rectangle, and why does it occur when $x=y=12$? \n8. Can this method be extended to find the maximum area of a rectangle with a different perimeter? If so, how?"
+}

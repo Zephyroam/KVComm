@@ -1,0 +1,7 @@
+{
+    "problem": "What is the smallest positive four-digit integer equivalent to 6 mod 7?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "An integer that is equivalent to 6 mod 7 can be written in the form $7k+6$.\n\n$1000$ is the smallest four-digit integer, so we want to solve the inequality $7k+6 \\ge 1000$. This inequality has solution $k \\ge 142$, so since $k$ must be an integer, the smallest possible value for $k$ is $142$. As a result, the smallest four-digit integer equivalent to 6 mod 7 is $7(142) + 6 = \\boxed{1000}$.",
+    "socratic_questions": "1. Can you explain what it means for an integer to be equivalent to 6 mod 7?\n2. How can we represent an integer that is equivalent to 6 mod 7 using the form $7k + 6$?\n3. Why do we want to find the smallest positive four-digit integer that is equivalent to 6 mod 7?\n4. What inequality can we set up to represent finding the smallest four-digit integer? What is the solution to this inequality?\n5. Considering that $k$ must be an integer, what is the smallest possible value for $k$?\n6. Using the value of $k$, calculate the smallest four-digit integer that is equivalent to 6 mod 7."
+}

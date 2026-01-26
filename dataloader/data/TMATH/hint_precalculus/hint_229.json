@@ -1,0 +1,7 @@
+{
+    "problem": "Compute\n\\[\\begin{pmatrix} 0 & c & -b \\\\ -c & 0 & a \\\\ b & -a & 0 \\end{pmatrix} \\begin{pmatrix} a^2 & ab & ac \\\\ ab & b^2 & bc \\\\ ac & bc & c^2 \\end{pmatrix}.\\]",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "We can write the matrix product as\n\\[\\begin{pmatrix} \\mathbf{r}_1 \\\\ \\mathbf{r}_2 \\\\ \\mathbf{r}_3 \\end{pmatrix} \\begin{pmatrix} | & | & | \\\\ a \\mathbf{v} & b \\mathbf{v} & c \\mathbf{v} \\\\ | & | & | \\end{pmatrix},\\]where $\\mathbf{r}_1 = (0,c,-b),$ $\\mathbf{r}_2 = (-c,0,a),$ $\\mathbf{r}_3 = (b,-a,0),$ and $\\mathbf{v} = \\begin{pmatrix} a \\\\ b \\\\ c \\end{pmatrix}.$\n\nWe can confirm that $\\mathbf{r}_i \\cdot \\mathbf{v} = 0$ for all $i,$ $1 \\le i \\le 3,$ so the product of the two matrices is simply the zero matrix, or\n\\[\\boxed{\\begin{pmatrix} 0 & 0 & 0 \\\\ 0 & 0 & 0 \\\\ 0 & 0 & 0 \\end{pmatrix}}.\\]",
+    "socratic_questions": "1. What is the given matrix product and how can we represent it in terms of rows and columns?\n2. Can you describe what the row vectors and the vector $\\mathbf{v}$ represent in this context?\n3. How can we determine if two vectors are orthogonal to each other?\n4. Given that the dot product between each row vector and $\\mathbf{v}$ is zero, what does this imply about the resulting matrix product?\n5. Can you explain why the resulting matrix is the zero matrix?\n6. Are there any other scenarios in linear algebra where multiplying two matrices would result in the zero matrix?"
+}

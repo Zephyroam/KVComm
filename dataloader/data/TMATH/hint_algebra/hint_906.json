@@ -1,0 +1,7 @@
+{
+    "problem": "Define $a$ $\\$$ $b$ to be $a(b + 1) + ab$. What is the value of $(-2)$ $\\$$ $3$?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "$(-2)\\ \\$\\ 3=-2(3+1)-6=-8-6=\\boxed{-14}$.",
+    "socratic_questions": "1. Can you explain what the expression $a(b + 1) + ab$ represents?\n2. How would you simplify the expression $a(b + 1) + ab$ using the distributive property?\n3. Given that $a = -2$ and $b = 3$, what is the value of $a(b + 1) + ab$?\n4. Can you substitute the given values into the expression and calculate the final result?\n5. Is there any other way to represent the expression $a(b + 1) + ab$ without using parentheses?\n6. Can you think of any other values for $a$ and $b$ that would result in a different value for $a(b + 1) + ab$?"
+}

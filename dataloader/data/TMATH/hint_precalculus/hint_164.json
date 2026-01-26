@@ -1,0 +1,7 @@
+{
+    "problem": "There exist constants $a$ and $b$ so that\n\\[\\cos^3 \\theta = a \\cos 3 \\theta  + b \\cos \\theta\\]for all angles $\\theta.$  Enter the ordered pair $(a,b).$",
+    "level": "Level 3",
+    "type": "Precalculus",
+    "solution": "From the triple angle formulas, $\\cos 3 \\theta = 4 \\cos^3 \\theta - 3 \\cos \\theta.$  Hence,\n\\[\\cos^3 \\theta = \\frac{1}{4} \\cos 3 \\theta + \\frac{3}{4} \\cos \\theta,\\]so $(a,b) = \\boxed{\\left( \\frac{1}{4}, \\frac{3}{4} \\right)}.$",
+    "socratic_questions": "1. What is the given equation and what are we trying to find? \n2. How can we use the triple angle formulas to simplify the equation?\n3. Can you explain how the expression for $\\cos^3 \\theta$ is derived using the triple angle formula?\n4. Why do we have fractions and what do they represent in the simplified equation?\n5. How did we determine the coefficients for $a$ and $b$ in the equation?\n6. Can you provide a proof or explanation as to why the equation holds true for all values of $\\theta$?\n7. Are there any alternative methods or formulas that can be used to solve similar equations involving trigonometric functions?\n8. Can you think of any other equations where the same thinking process and steps could be applied?\n9. How can this understanding of the cosine function be applied to practical problems or real-life situations?"
+}

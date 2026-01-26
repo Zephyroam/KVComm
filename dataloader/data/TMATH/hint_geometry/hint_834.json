@@ -1,0 +1,7 @@
+{
+    "problem": "A rectangular prism has dimensions 8 inches by 2 inches by 32 inches. If a cube has the same volume as the prism, what is the surface area of the cube, in square inches?",
+    "level": "Level 2",
+    "type": "Geometry",
+    "solution": "The cube has volume $8\\cdot2\\cdot32$ cubic inches, so its edge length is $\\sqrt[3]{8\\cdot2\\cdot32}=\\sqrt[3]{8\\cdot64}=\\sqrt[3]{8}\\sqrt[3]{64}=2\\cdot4=8$ inches.  The surface area of a cube with edge length 8 inches is $6(8\\text{ in.})^2=\\boxed{384}$ square inches.",
+    "socratic_questions": "1. What are the dimensions of the rectangular prism?\n2. What is the formula for the volume of a rectangular prism?\n3. What is the volume of the rectangular prism in cubic inches?\n4. What is the formula for the volume of a cube?\n5. How do you find the edge length of the cube with the same volume as the rectangular prism?\n6. What is the surface area formula for a cube?\n7. What is the surface area of a cube with an edge length of 8 inches?\n8. How does the surface area of the cube compare to the surface area of the rectangular prism? \n9. Can you think of any other real-life examples where you can apply similar concepts of volume and surface area?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "What is the sum of the proper divisors of 256?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "Since $256=2^8$ the divisors of $256$ are the powers of 2 up to $2^8$. So the sum of the proper factors of 256 is $2^0+2^1+2^2+2^3+2^4+2^5+2^6+2^7=\\boxed{255}$.",
+    "socratic_questions": "1. What is the prime factorization of 256?\n2. How can we find the divisors of 256 using its prime factorization?\n3. What does it mean for a divisor to be a \"proper\" divisor?\n4. Can you list all the divisors of 256 and find their sum?\n5. Is there a pattern or formula we can use to find the sum of the divisors of a number?\n6. How does the sum of the divisors of 256 compare to the number itself?"
+}

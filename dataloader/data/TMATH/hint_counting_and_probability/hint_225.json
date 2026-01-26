@@ -1,0 +1,7 @@
+{
+    "problem": "What three-digit integer is equal to the sum of the factorials of its digits?",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "With a few initial observations, we realize that the hundreds digit cannot be greater than 1, because the digits 5 or 6 are needed to make a 3 digit integer but will not fit with the larger hundreds digit. Clearly one of the digits is 5, to contribute to the sum $120 = 5!$. Then since we have the hundreds digit of 1, $1! = 1$, we need a middle digit. After testing a few, 4 works, since $145 = 1! + 4! + 5! = 1+ 24 + 120 = \\boxed{145}$.",
+    "socratic_questions": "1. What is the problem asking us to find?\n2. What is the range of possible values for the hundreds digit?\n3. Why can't the hundreds digit be greater than 1?\n4. Which digit is needed to make a sum of 120 for one of the factors in the three-digit integer?\n5. What is the value of 1!?\n6. What is the purpose of finding a middle digit for the three-digit integer?\n7. What other middle digits were tested before determining that 4 was the correct choice?\n8. How does $145=1!+4!+5!$ confirm the solution? \n9. Can you think of any shortcuts or alternative approaches to finding the solution?"
+}

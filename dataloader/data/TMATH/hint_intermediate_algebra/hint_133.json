@@ -1,0 +1,7 @@
+{
+    "problem": "The numbers $a_1,$ $a_2,$ $a_3,$ $b_1,$ $b_2,$ $b_3,$ $c_1,$ $c_2,$ $c_3$ are equal to the numbers $1,$ $2,$ $3,$ $\\dots,$ $9$ in some order.  Find the smallest possible value of\n\\[a_1 a_2 a_3 + b_1 b_2 b_3 + c_1 c_2 c_3.\\]",
+    "level": "Level 5",
+    "type": "Intermediate Algebra",
+    "solution": "Let $S = a_1 a_2 a_3 + b_1 b_2 b_3 + c_1 c_2 c_3.$  Then by AM-GM,\n\\[S \\ge 3 \\sqrt[3]{a_1 a_2 a_3 b_1 b_2 b_3 c_1 c_2 c_3} = 3 \\sqrt[3]{9!} \\approx 213.98.\\]Since $S$ is an integer, $S \\ge 214.$\n\nNote that\n\\[2 \\cdot 5 \\cdot 7 + 1 \\cdot 8 \\cdot 9 + 3 \\cdot 4 \\cdot 6 = 214,\\]so the smallest possible value of $S$ is $\\boxed{214}.$",
+    "socratic_questions": "1. What are the possible values for the numbers $a_1,$ $a_2,$ $a_3,$ $b_1,$ $b_2,$ $b_3,$ $c_1,$ $c_2,$ $c_3$?\n2. How many different ways can you arrange the numbers $1,$ $2,$ $3,$ $\\dots,$ $9$ to fill in $a_1,$ $a_2,$ $a_3,$ $b_1,$ $b_2,$ $b_3,$ $c_1,$ $c_2,$ $c_3$?\n3. How can we find the sum $a_1 a_2 a_3 + b_1 b_2 b_3 + c_1 c_2 c_3$?\n4. What is the value of $a_1 a_2 a_3$ when $a_1,$ $a_2,$ $a_3$ are equal to $1,$ $2,$ $3$ (in some order)?\n5. How can we find all possible values of $a_1 a_2 a_3$? What about $b_1 b_2 b_3$ and $c_1 c_2 c_3$?\n6. What is the smallest possible value of $a_1 a_2 a_3 + b_1 b_2 b_3 + c_1 c_2 c_3$? How do you know?\n7. Can you find a specific arrangement of the numbers $1,$ $2,$ $3,$ $\\dots,$ $9$ to achieve the smallest possible sum?"
+}

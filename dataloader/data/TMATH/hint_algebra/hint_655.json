@@ -1,0 +1,7 @@
+{
+    "problem": "Find the sum of all solutions to the equation $(x-6)^2=25$.",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "The equation expands $x^2 - 12x + 36 = 25,$ so $x^2 - 12x + 11 = 0.$  By Vieta's formulas, the sum of the roots is $\\boxed{12}.$",
+    "socratic_questions": "1. How would you begin solving this equation? \n2. What properties or methods can you utilize to solve this type of equation? \n3. If you decide to expand the equation, what steps would you take and why? \n4. How would you determine the roots of this equation once it is expanded? \n5. Can you identify any special characteristics or patterns in this equation that can help in finding the solutions? \n6. What is the expanded form of the equation and how can you use it to identify the solutions? \n7. How would you calculate the sum of all the solutions once you have found them?"
+}

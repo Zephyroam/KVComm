@@ -1,0 +1,7 @@
+{
+    "problem": "Convert $e^{11 \\pi i/2}$ to rectangular form.",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "We have that $e^{11 \\pi i/2} = \\cos \\frac{11 \\pi}{2} + i \\sin \\frac{11 \\pi}{2} = \\boxed{-i}$.",
+    "socratic_questions": "1. What is the definition of the complex number in polar form, $e^{11 \\pi i/2}$?\n2. How can you convert a complex number from polar form to rectangular form?\n3. What is the formula for converting a complex number from polar form to rectangular form?\n4. How can you express $\\cos\\left(\\frac{11\\pi}{2}\\right)$ and $\\sin\\left(\\frac{11\\pi}{2}\\right)$ in terms of normal trigonometric values?\n5. By substituting these values into the formula, what is the rectangular form of $e^{11\\pi i/2}$?\n6. Can you think of any other complex numbers in polar form that can be converted to rectangular form using similar steps?"
+}

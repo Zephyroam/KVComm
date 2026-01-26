@@ -1,0 +1,7 @@
+{
+    "problem": "Pete thinks of a number. He doubles it, adds 10, multiplies by 4, and ends up with 120. What was his original number?",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "Let Pete's original number be $x$.  If he double it and adds 10, he will have $$2x+10.$$ After multiplying by 4, Pete ended up with 120.  From this information, we have the equation: $$4(2x+10)=120.$$ Expanding the left side and solving, we find:\n\n\\begin{align*}\n8x+40&=120\\\\\n\\Rightarrow\\qquad 8x&=80\\\\\n\\Rightarrow \\qquad x&=\\boxed{10}.\n\\end{align*}",
+    "socratic_questions": "1. What is Pete's original number, denoted as x?\n2. After doubling Pete's original number and adding 10, what expression represents the result?\n3. If Pete's result is multiplied by 4, what is the equation that represents this situation?\n4. By expanding and simplifying the equation, what is the value of 8x+40?\n5. How can we solve for x in the equation 8x + 40 =120?\n6. What is the value of x in the equation, and what does it represent?"
+}

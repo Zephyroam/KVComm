@@ -1,0 +1,7 @@
+{
+    "problem": "The perimeter of a square with side length $x$ units is equal to the circumference of a circle with radius 2 units. What is the value of $x$? Express your answer as a decimal to the nearest hundredth.",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "The perimeter of a square with side length $x$ units is $4x$ units.  The circumference of a circle with radius 2 units is $2\\pi (\\text{radius})=2\\pi(2)=4\\pi$ units.  Setting $4x=4\\pi$, we find $x=\\pi$.  To two decimal places, $\\pi=\\boxed{3.14}$.",
+    "socratic_questions": "1. What is the definition of perimeter? How is it related to the sides of a square?\n2. What is the definition of circumference? How is it related to the radius of a circle?\n3. How can you find the value of $x$ if the perimeter of the square is equal to the circumference of the circle?\n4. How can you express the perimeter of the square in terms of $x$?\n5. How can you express the circumference of the circle in terms of its radius?\n6. How can you use the equation $4x=4\\pi$ to solve for $x$?\n7. Why does setting the perimeter of the square equal to the circumference of the circle help us solve for $x$?\n8. Can you think of any other geometric shapes that have a relationship between their perimeter and a circle's circumference?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "How many ways are there to put 4 indistinguishable balls into 2 indistinguishable boxes?",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "In this problem, we only need to count the number of ways to split 4 items into two groups.  There are only 3 ways: $\\{4,0\\}$, $\\{3,1\\}$ and $\\{2,2\\}$.  Therefore, there are only $\\boxed{3}$ ways to put 4 indistinguishable balls in 2 indistinguishable boxes.",
+    "socratic_questions": "1. What is the definition of \"indistinguishable\" objects in combinatorics?\n2. How does the fact that the balls are indistinguishable affect the number of ways to put them into boxes?\n3. Can you explain the difference between distinguishable and indistinguishable objects in this context?\n4. How many ways are there to put one indistinguishable ball into two indistinguishable boxes?\n5. How many ways are there to put two indistinguishable balls into two indistinguishable boxes?\n6. Can you describe the general method for counting the number of ways to put n indistinguishable balls into m indistinguishable boxes?\n7. How does the concept of combinations relate to this problem?"
+}

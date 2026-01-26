@@ -1,0 +1,7 @@
+{
+    "problem": "The area of the smallest square that will contain a circle of radius 4 is what?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "The smallest square has side 8 and area $8^2=\\boxed{64}$. [asy]\ndraw(Circle((12,12), 12));\ndraw((0,0)--(0,24)--(24,24)--(24,0)--cycle);\ndraw((0,12)--(24,12));\ndot((12,12));\nlabel(\"4\",(18,12),N);\nlabel(\"8\",(12, 0),S);\n[/asy]",
+    "socratic_questions": "1. What is the definition of the area of a shape? \n2. How can we find the area of a square? \n3. How can we find the area of a circle? \n4. How do we determine the size of the square that will contain a circle? \n5. What is the radius of the circle in this problem? \n6. Can we use the radius to calculate the diameter of the circle? \n7. How can the diameter of the circle be used to find the length of the side of the minimum-sized square? \n8. Can we find the area of the smallest square that will contain the circle using the length of its side? \n9. What is the formula for calculating the area of a square? \n10. What is the area of the smallest square that will contain the circle of radius 4?"
+}

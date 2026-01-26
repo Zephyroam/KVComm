@@ -1,0 +1,7 @@
+{
+    "problem": "Two identical CDs regularly cost a total of $\\$28.$ What is the cost in dollars of five of these CDs?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "In general, 5 CDs will cost $\\frac{5}{2}$ times as much as 2 CDs.  Thus the desired cost is $28\\cdot \\frac{5}{2} = \\boxed{70}$ dollars.",
+    "socratic_questions": "1. How much do two identical CDs cost in total?\n2. What is the ratio between the cost of 5 CDs and 2 CDs?\n3. How can we use this ratio to find the cost of 5 CDs?\n4. What is the cost of 5 CDs based on the given ratio?\n5. Can you generalize the relationship between the number of CDs and their cost based on this problem?\n6. Are there any other scenarios where we can apply a similar approach to find the cost of multiple items?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "A designer has 3 fabric colors he may use for a dress: red, green, and blue. Four different patterns are available for the dress. If each dress design requires exactly one color and one pattern, how many different dress designs are possible?",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "For each fabric color, the designer can choose one of four patterns. Thus, as there are three potential fabric colors, the designer can create $3 \\cdot 4 = \\boxed{12}$ different dress designs.",
+    "socratic_questions": "1. What are the available fabric colors and patterns for the dress?\n2. How many different fabric colors are there?\n3. How many different patterns are available for each fabric color?\n4. How can we calculate the total number of dress designs?\n5. Can you explain why we multiply the number of fabric colors by the number of patterns?\n6. Can you calculate the total number of dress designs using the given information?"
+}

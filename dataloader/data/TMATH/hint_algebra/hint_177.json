@@ -1,0 +1,7 @@
+{
+    "problem": "$361+2(19)(6)+36=x$. Solve for $x$.",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "We note that $361=19^2$ and $36=6^2$, so $x=19^2+2(19)(6)+6^2$. This is just the binomial expansion of $(19+6)^2=25^2=\\boxed{625}$.",
+    "socratic_questions": "1. What is the first step you would take to solve this equation?\n2. How would you simplify the expression on the left side of the equation before solving for x?\n3. Can you explain why the multiplication is done before addition in the expression?\n4. What is the value of 2 multiplied by 19?\n5. How would you simplify the expression further after multiplying 2 by 19?\n6. What is the value of 6 multiplied by 36?\n7. After simplifying the expression completely, what does the equation look like?\n8. What is the next step to isolate x in the equation?\n9. How would you subtract 361 from both sides of the equation?\n10. What do you get when you subtract 361 from the right side of the equation?\n11. How would you simplify the equation further after subtracting 361 from both sides?\n12. What is the value of x that satisfies the equation?"
+}

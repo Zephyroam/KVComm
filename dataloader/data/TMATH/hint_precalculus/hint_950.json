@@ -1,0 +1,7 @@
+{
+    "problem": "If $\\mathbf{A}^{-1} = \\begin{pmatrix} -4 & 1 \\\\ 0 & 2 \\end{pmatrix},$ then find the inverse of $\\mathbf{A}^2.$",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "Note that $(\\mathbf{A}^{-1})^2 \\mathbf{A}^2 = \\mathbf{A}^{-1} \\mathbf{A}^{-1} \\mathbf{A} \\mathbf{A} = \\mathbf{I},$ so the inverse of $\\mathbf{A}^2$ is\n\\[(\\mathbf{A}^{-1})^2 = \\begin{pmatrix} -4 & 1 \\\\ 0 & 2 \\end{pmatrix}^2 = \\boxed{\\begin{pmatrix}16 & -2 \\\\ 0 & 4 \\end{pmatrix}}.\\]",
+    "socratic_questions": "1. What is the definition of a matrix inverse? \n2. Can you show how to find the inverse of a 2x2 matrix using the formula? \n3. How can we check if a matrix is invertible? \n4. Given that the inverse of matrix A is (-4 1; 0 2), what is A? \n5. How can we determine the inverse of A^2 using the formula for matrix inverses? \n6. Can you demonstrate how to verify that the calculated matrix is indeed the inverse of A^2? \n7. Are there any alternative methods to finding the inverse of a matrix that could be used to solve this problem? \n8. Can you think of any applications of matrix inverses in real-life situations?"
+}

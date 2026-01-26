@@ -1,0 +1,7 @@
+{
+    "problem": "Find the sum of the values of $x$ which satisfy $x^2 +1992x = 1993$.",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "This problem is immediate once you know the following fact:\n\nFor the equation $ax^2 + bx + c = 0$, the sum of the solutions of the equation is $-b/a$ and the product of the solutions is $c/a$.\n\nIn this case, $b = 1992$ and $a = 1$, so the sum of the solutions is $-b/a = \\boxed{-1992}$.",
+    "socratic_questions": "1. What is the first step you would take to solve this equation? \n2. Are there any different methods you know of that can be used to solve equations like this? \n3. If you choose to complete the square, what steps would you take to find the appropriate values? \n4. Why can this equation be solved by completing the square? What characteristics make it suitable for this method? \n5. What is the completed square form of this equation, and how can it be used to verify your solutions? \n6. Can you think of other types of equations where similar thinking and steps might be used to solve them?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "What is the area, in square inches, of a right triangle with a 24-inch leg and a 25-inch hypotenuse?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "The other leg is $\\sqrt{25^2-24^2}=\\sqrt{625-576}=\\sqrt{49}=7$. The area is $\\frac12\\cdot24\\cdot7=12\\cdot7=\\boxed{84}$ square inches.",
+    "socratic_questions": "1. How would you identify the lengths of the legs of the right triangle given the hypotenuse and one leg?\n2. Why is it necessary to find the length of the other leg in order to calculate the area?\n3. Can you explain why we use the Pythagorean theorem to find the length of the other leg?\n4. How does the formula for the area of a right triangle relate to the lengths of its legs?\n5. In this specific case, how did you use the formula to calculate the area? \n6. Can you imagine a scenario where you might need to use a different method to calculate the area of a right triangle?"
+}

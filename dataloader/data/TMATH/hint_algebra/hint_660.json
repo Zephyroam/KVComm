@@ -1,0 +1,7 @@
+{
+    "problem": "Solve for $x$: $$2^x+6=3\\cdot2^x-26$$",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "Rearranging the terms, we get $32=2\\cdot2^x$, or $16=2^x$. Therefore, $x=\\boxed{4}$.",
+    "socratic_questions": "1. Can you describe the first step you would take to solve this equation?\n2. What different methods do you know for solving equations like this?\n3. If you choose to isolate the exponential term on one side of the equation, how would you go about doing that?\n4. Why is it possible to isolate the exponential term in this equation? What characteristics make it suitable for this method?\n5. Once you have isolated the exponential term, what value of x does it represent? How can you verify that your solution is correct?\n6. Can you think of other types of equations where similar thinking and steps might be used to solve them?"
+}

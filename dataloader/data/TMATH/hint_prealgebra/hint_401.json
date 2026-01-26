@@ -1,0 +1,7 @@
+{
+    "problem": "The ratio of cats to dogs at the pet store is 2:3. There are 14 cats. How many dogs are there at the pet store?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "There are 3 dogs for every 2 cats, and there are $14/2=7$ sets of 2 cats.  Therefore, there are $3(7)=\\boxed{21\\text{ dogs}}$.",
+    "socratic_questions": "1. How is the ratio of cats to dogs expressed in the problem? \n2. How many cats are given in the problem, and how is this information helpful in solving the problem? \n3. Can you express the ratio of cats to dogs as a fraction? \n4. How can you use the given ratio to find the number of dogs? \n5. What is the relationship between the number of cats and dogs in the pet store based on the given ratio? \n6. Is there any other way to approach this problem in addition to using the given ratio? \n7. How can you check if your answer is correct? \n8. Can you create a similar problem involving ratios and apply the same problem-solving approach?"
+}

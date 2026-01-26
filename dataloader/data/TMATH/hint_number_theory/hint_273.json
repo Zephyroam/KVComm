@@ -1,0 +1,7 @@
+{
+    "problem": "What is the smallest positive integer that leaves a remainder of 4 when divided by 5 and a remainder of 6 when divided by 7?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "Let the desired number be $a$. Then \\begin{align*}\na\\equiv 4\\pmod 5,\\\\\na\\equiv 6\\pmod 7.\n\\end{align*} The first congruence means that there exists a non-negative integer $n$ such that $a=4+5n$. Substituting this into the second congruence yields \\[4+5n\\equiv 6\\pmod 7\\implies n\\equiv 6\\pmod 7\\] So $n$ has a lower bound of $6$. Then $n\\ge 6\\implies a=4+5n\\ge 34$. $\\boxed{34}$ is the smallest solution since it is a lower bound of $a$ and satisfies both original congruences.",
+    "socratic_questions": "1. Can you explain what is meant by \"remainder\" in terms of integer division?\n2. How can we use congruences to represent the conditions given in the problem?\n3. If we assume a desired number of $a$, how can we use the congruences to express $a$ in terms of variables or constants?\n4. How can we simplify and solve the resulting congruence equation?\n5. What is the relationship between the solution(s) of the congruence equation and the solution(s) of the original problem?\n6. Can we use similar methods to solve other problems involving remainders and congruences? Can you provide an example?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "The base-10 numbers 217 and 45 are multiplied. The product is then written in base-6. What is the units digit of the base-6 representation?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "The units digit of a positive integer when expressed in base 6 is the same as the remainder when the integer is divided by 6.  For example, the number $1502_6$ is equal to $1\\cdot 6^3+5\\cdot 6^2+0\\cdot 6+2$, and 6 divides every term except the units digit, 2.  When 217 is divided by 6, the remainder is 1.  When 45 is divided by 6, the remainder is 3.  Therefore, the product of 217 and 45 has a remainder of $1\\cdot 3=\\boxed{3}$ when divided by 6.",
+    "socratic_questions": "1. How is the base-6 representation of a number obtained?\n2. Can you explain the concept of the units digit in base-6? What role does it play in representing the number?\n3. In the given problem, what are the remainders when 217 and 45 are divided by 6?\n4. How can we use the remainders to determine the units digit of the base-6 representation of the product?\n5. Can you calculate the product of 217 and 45? \n6. How would you find the units digit of the base-6 representation based on the product and the remainders? \n7. Why does the units digit represent the remainder when a positive integer is divided by 6 in base 6? \n8. Can you think of similar problems where the units digit plays a crucial role in determining the base representations of the numbers involved?"
+}

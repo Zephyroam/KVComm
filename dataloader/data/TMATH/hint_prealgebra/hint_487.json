@@ -1,0 +1,7 @@
+{
+    "problem": "What is the smallest positive integer that is both a multiple of $7$ and a multiple of $4$?",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "The positive multiples of $7$ are $7, 14, 21, 28, 35, \\ldots$.\n\nThe positive multiples of $4$ are $4, 8, 12, 16, 20, 24, 28, 32, \\ldots$.\n\nWe see that the smallest positive integer that is both a multiple of $7$ and a multiple of $4$ is $\\boxed{28}$.",
+    "socratic_questions": "1. What is the definition of a multiple of a number?\n2. How can we determine if a number is a multiple of another number?\n3. What are the common multiples of 7 and 4?\n4. How can we find the smallest positive integer that is both a multiple of 7 and a multiple of 4?\n5. Why is 28 the smallest positive integer that satisfies both of these conditions?\n6. Can you think of any other scenarios or problems where finding the smallest common multiple is important?"
+}

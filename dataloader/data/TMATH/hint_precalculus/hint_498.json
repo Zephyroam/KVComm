@@ -1,0 +1,7 @@
+{
+    "problem": "The matrix\n\\[\\begin{pmatrix} \\frac{4}{29} & -\\frac{10}{29} \\\\ -\\frac{10}{29} & \\frac{25}{29} \\end{pmatrix}\\]corresponds to projecting onto a certain vector $\\begin{pmatrix} x \\\\ y \\end{pmatrix}.$  Find $\\frac{y}{x}.$",
+    "level": "Level 4",
+    "type": "Precalculus",
+    "solution": "Note that the projecting the vector $\\begin{pmatrix} x \\\\ y \\end{pmatrix}$ onto itself results in itself, so\n\\[\\begin{pmatrix} \\frac{4}{29} & -\\frac{10}{29} \\\\ -\\frac{10}{29} & \\frac{25}{29} \\end{pmatrix} \\begin{pmatrix} x \\\\ y \\end{pmatrix} = \\begin{pmatrix} x \\\\ y \\end{pmatrix}.\\]Then $\\frac{4}{29} x - \\frac{10}{29} y = x$ and $-\\frac{10}{29} x + \\frac{25}{29} y = y.$  Both equations lead to $\\frac{y}{x} = \\boxed{-\\frac{5}{2}}.$",
+    "socratic_questions": "1. What is the matrix describing and what vector is it projecting onto?\n2. How does projecting a vector onto itself help us find the value of y/x?\n3. Can we use other matrices to project onto the same vector, and if so, how would their corresponding values of y/x compare to the one we found?\n4. How does the matrix multiplication involved in the projection relate to solving the system of equations?\n5. What other applications does projecting a vector onto another vector have in mathematics and physics?"
+}

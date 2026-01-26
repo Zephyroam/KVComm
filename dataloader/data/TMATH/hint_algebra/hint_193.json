@@ -1,0 +1,7 @@
+{
+    "problem": "Let $p$ and $q$ satisfy $pq=9$ and $p+q=6$. What is the value of $p^2 + q^2$?",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "We have two equations and two variables, so it's possible to solve for $p$ and $q$ directly and then calculate $p^2$ and $q^2$ separately to get our answer. However, doing so involves a fair amount of computation with complex numbers and square roots, so we look for an alternative approach. We square the second equation to get $$(p+q)^2 = p^2 + 2pq + q^2 = 36,$$which is close to what we want but has the extra $2pq$ term. Since we know that $pq=9$, we can substitute to get $$p^2 + 2(9) +q^2 = 36 \\implies p^2+q^2 = \\boxed{18}.$$Note that our task was made easier by only solving for what the problem asked rather than by trying to solve for $p$ and $q$ individually.",
+    "socratic_questions": "1. Can you describe the first step towards finding the value of $p^2 + q^2$ in this problem?\n2. How can we use the given information to express $p^2 + q^2$ in terms of $p$ and $q$?\n3. What are the possible ways to manipulate the equations $pq = 9$ and $p + q = 6$ to get closer to finding the value of $p^2 + q^2$?\n4. If we choose to use substitution, how would we substitute one equation into the other to eliminate one of the variables?\n5. Are there any alternative methods we could employ to solve this problem? How would they differ from using substitution?\n6. Can you think of any other equations where a similar thought process and steps might be used to find a solution?"
+}

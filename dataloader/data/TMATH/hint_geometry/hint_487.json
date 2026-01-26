@@ -1,0 +1,7 @@
+{
+    "problem": "In the diagram, the area of triangle $ABC$ is 27 square units. What is the area of triangle $BCD$?\n\n[asy]\n\ndraw((0,0)--(32,0)--(9,15)--(0,0));\n\ndot((0,0));\nlabel(\"$A$\",(0,0),SW);\nlabel(\"6\",(3,0),S);\ndot((6,0));\nlabel(\"$C$\",(6,0),S);\nlabel(\"26\",(19,0),S);\ndot((32,0));\nlabel(\"$D$\",(32,0),SE);\ndot((9,15));\nlabel(\"$B$\",(9,15),N);\n\ndraw((6,0)--(9,15));\n\n[/asy]",
+    "level": "Level 2",
+    "type": "Geometry",
+    "solution": "Let $h$ be the distance from $B$ to side $AD$.  The area of $ABC$ is 27, so $\\frac{1}{2}\\cdot6\\cdot h = 27$, which implies $h=9$.  The area of $BCD$ is $\\frac{1}{2}\\cdot26\\cdot9=\\boxed{117}$ square units.",
+    "socratic_questions": "1. What do you notice about the given diagram and the triangles involved?\n2. How can we determine the area of triangle ABC using the given information?\n3. Why is the formula for the area of a triangle $\\frac{1}{2} \\times base \\times height$? Can you explain the reasoning behind it?\n4. What can we infer from the given equation $\\frac{1}{2} \\times 6 \\times h = 27$?\n5. How did we find the value of h to be 9 units?\n6. How can we apply the formula for the area of a triangle to find the area of triangle BCD?\n7. What are the measurements of the base and height of triangle BCD?\n8. Could you calculate the area of triangle BCD using the formula?"
+}

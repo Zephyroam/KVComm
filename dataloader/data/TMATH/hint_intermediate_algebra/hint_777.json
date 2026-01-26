@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $(1 + i)^4.$",
+    "level": "Level 1",
+    "type": "Intermediate Algebra",
+    "solution": "We have that\n\\[(1 + i)^2 = 1 + 2i + i^2 = 1 + 2i - 1 = 2i,\\]so $(1 + i)^4 = (2i)^2 = 4i^2 = \\boxed{-4}.$",
+    "socratic_questions": "1. What is the given expression that we need to compute?\n2. Can you simplify the expression $(1+i)^2$? What is the value of this expression?\n3. How can we use the expression $(1+i)^2$ to simplify $(1+i)^4$?\n4. What is the value of $(1+i)^4$?\n5. Why do you think we had to use the expression $(1+i)^2$ to simplify $(1+i)^4$?\n6. Are there any other methods we could have used to compute $(1+i)^4$? If so, what are they?\n7. Can you think of any other expressions that could be simplified using similar steps to those used for $(1+i)^4$?"
+}

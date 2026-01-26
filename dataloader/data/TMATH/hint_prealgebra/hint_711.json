@@ -1,0 +1,7 @@
+{
+    "problem": "A set of three numbers has both a mean and median equal to 4. If the smallest number in the set is 1, what is the range of the set of numbers?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "If the mean of three numbers is 4, then their sum is 12.  Since two of the numbers are 1 and 4, the third number is $12-(1+4)=7$.  The range, which is the difference between the smallest and largest numbers, is $7-1=\\boxed{6}$.",
+    "socratic_questions": "1. What does it mean for a set of numbers to have a mean and median equal to 4?\n2. How is the mean of a set of numbers calculated? And what about the median?\n3. Given that the smallest number in the set is 1, can you determine any possible values for the other two numbers?\n4. How can we find the sum of the three numbers if we know that their mean is 4?\n5. Why can we subtract the sum of 1 and 4 from 12 to find the third number? Is this a valid approach?\n6. What does the term \"range\" mean in the context of a set of numbers?\n7. How can we calculate the range of a set of numbers? Can you walk me through the steps?\n8. Based on the given information, what is the range of the set of numbers?"
+}

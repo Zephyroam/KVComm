@@ -1,0 +1,7 @@
+{
+    "problem": "Following the directions of the arrows, how many different paths are there from $A$ to $C$?\n\n[asy]\npair A,B,C;\nA=(0,0);\nB=(5,0);\nC=(10,0);\ndot(A);\ndot(B);\ndot(C);\nlabel(\"$A$\",A,S);\nlabel(\"$B$\",B,S);\nlabel(\"$C$\",C,S);\ndraw((0,0)--(2.5,1)--(5,0),Arrow);\ndraw((0,0)--(2.5,-1)--(5,0),Arrow);\ndraw(B--(7.5,1)--C,Arrow);\ndraw(B--(7.5,-1)--C,Arrow);\ndraw(A--(5,3)--C,Arrow);\n[/asy]",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "There are two ways to get from $A$ to $B$, and there are two ways to get from $B$ to $C$: this gives four paths. Alternately, we could bypass $B$ entirely and move straight from $A$ to $C$: there is one such path. Thus, there are $\\boxed{5}$ different paths.",
+    "socratic_questions": "1. What is the starting point and the ending point for this problem?\n2. How many paths are there from point A to point C in total? \n3. Are there any restrictions on the paths that can be taken? \n4. How many ways are there to get from point A to point B? \n5. How many ways are there to get from point B to point C? \n6. Can the paths be combined to find a total number of paths? \n7. What is an alternate way to get from point A to point C without going through point B? \n8. How does the knowledge of the paths from point A to B and point B to C help in finding the total number of paths? \n9. Are there any other similar problems that could use the same approach?"
+}

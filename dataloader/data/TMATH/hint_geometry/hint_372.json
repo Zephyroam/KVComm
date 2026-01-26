@@ -1,0 +1,7 @@
+{
+    "problem": "$\\triangle ABC$ is similar to $\\triangle DEF$ . What is the number of centimeters in the length of $\\overline{EF}$ ? Express your answer as a decimal to the nearest tenth.\n\n[asy]\ndraw((0,0)--(8,-2)--(5,4)--cycle);\nlabel(\"8cm\",(2.5,2),NW);\nlabel(\"5cm\",(6.1,1),NE);\ndraw((12,0)--(18,-1.5)--(15.7,2.5)--cycle);\nlabel(\"$A$\",(8,-2),SE);\nlabel(\"3cm\",(16.9,0.5),NE);\nlabel(\"$B$\",(5,4),N);\nlabel(\"$C$\",(0,0),SW);\nlabel(\"$D$\",(18,-1.5),SE);\nlabel(\"$E$\",(15.7,2.5),N);\nlabel(\"$F$\",(12,0),N);\n[/asy]",
+    "level": "Level 1",
+    "type": "Geometry",
+    "solution": "Because $\\triangle ABC \\sim \\triangle DEF,$ we know that: \\begin{align*}\n\\frac{EF}{ED} &= \\frac{BC}{BA} \\\\\n\\frac{EF}{3\\text{ cm}} &= \\frac{8\\text{ cm}}{5\\text{ cm}} \\\\\nEF &= \\frac{8\\text{ cm}\\cdot3\\text{ cm}}{5\\text{ cm}} = \\boxed{4.8}\\text{ cm}.\n\\end{align*}",
+    "socratic_questions": "1. Can you describe the first step in solving this problem?\n2. What does it mean for two triangles to be similar? How does this similarity help us in finding the length of EF?\n3. Why do we set up a proportion between the corresponding sides? What information does this proportion give us?\n4. How did we determine which sides to compare in the proportion? Is there a specific rule or guideline to follow?\n5. How did you simplify the proportion to find the length of EF? Can you explain the steps involved?\n6. Are there any other similar triangle problems where we can apply similar reasoning and steps?"
+}

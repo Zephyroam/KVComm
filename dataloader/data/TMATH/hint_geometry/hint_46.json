@@ -1,0 +1,7 @@
+{
+    "problem": "What is the sum of the number of faces, edges and vertices of a triangular prism?\n\n[asy]\ndraw((0,0)--(10,0)--(5,8.7)--cycle);\ndraw((0,0)--(20,20),dashed);\ndraw((10,0)--(30,20));\ndraw((5,8.7)--(25,28.7));\ndraw((25,28.7)--(30,20)--(20,20)--cycle,dashed);\ndraw((25,28.7)--(30,20));\n[/asy]",
+    "level": "Level 1",
+    "type": "Geometry",
+    "solution": "Faces: There are $3$ on the sides, a top face, and a bottom face, so $5$.\n\nEdges: There are $3$ on the top, $3$ on the bottom, and $3$ connecting them, for $9$.\n\nVertices: There are $3$ on the top and $3$ on the bottom, for $6$.\n\nSo $5+9+6=\\boxed{20}$.",
+    "socratic_questions": "1. What are the different components of a triangular prism?\n2. How many faces does a triangular prism have?\n3. How many edges does a triangular prism have?\n4. How many vertices does a triangular prism have?\n5. How can we calculate the sum of the number of faces, edges, and vertices of a triangular prism?\n6. Why do we count the number of faces, edges, and vertices separately?\n7. Can you explain the reasoning behind counting 3 faces on the sides, a top face, and a bottom face in a triangular prism?\n8. How do we count the number of edges in a triangular prism?\n9. Can you describe the process of counting the vertices in a triangular prism?\n10. Once we have counted the number of faces, edges, and vertices, how do we obtain the sum?"
+}

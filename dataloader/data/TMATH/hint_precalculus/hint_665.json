@@ -1,0 +1,7 @@
+{
+    "problem": "A line passes through $(2,2,1)$ and $(5,1,-2).$  A point on this line has an $x$-coordinate of 4.  Find the $z$-coordinate of the point.",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "The direction vector of the line is given by\n\\[\\begin{pmatrix} 5 - 2 \\\\ 1 - 2 \\\\ -2 - 1 \\end{pmatrix} = \\begin{pmatrix} 3 \\\\ -1 \\\\ -3 \\end{pmatrix},\\]so the line is parameterized by\n\\[\\begin{pmatrix} 2 \\\\ 2 \\\\ 1 \\end{pmatrix} + t \\begin{pmatrix} 3 \\\\ -1 \\\\ - 3 \\end{pmatrix} = \\begin{pmatrix} 2 + 3t \\\\  2 - t \\\\ 1 - 3t \\end{pmatrix}.\\]We want the $x$-coordinate to be 4, so $2 + 3t = 4.$  Solving, we find $t = \\frac{2}{3}.$  Then the $z$-coordinate is $1 - 3t = \\boxed{-1}.$",
+    "socratic_questions": "1. What is the direction vector of the line passing through (2,2,1) and (5,1,-2)?\n2. How can we parameterize the line using the given direction vector and initial point?\n3. If we want to find a point on the line with an x-coordinate of 4, how can we set up an equation to solve for the parameter, t?\n4. What is the solution for the parameter, t, in the equation 2 + 3t = 4?\n5. How can we use the parameter, t, to find the corresponding z-coordinate of the point on the line?\n6. What is the z-coordinate of the point on the line when the x-coordinate is 4?"
+}

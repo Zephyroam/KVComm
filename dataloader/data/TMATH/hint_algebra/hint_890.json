@@ -1,0 +1,7 @@
+{
+    "problem": "If $f(n) = n^2 + n + 17$, what is the value of $f(11)$?",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "Plugging in, $f(11) = 11^2 + 11 + 17 = 121 + 28 = \\boxed{149}$.",
+    "socratic_questions": "1. How is the function f(n) defined? \n2. What is the purpose of assigning a value to the variable n in the function f(n)? \n3. How does the expression n^2 + n + 17 represent the function f(n)? \n4. How can we calculate the value of f(11) using the given function? \n5. What is the first step you would take to find the value of f(11)? \n6. Can you simplify the expression n^2 + n + 17 further before substituting n with 11? If so, how? \n7. What is the final result after substituting n with 11 in the expression n^2 + n + 17? \n8. Can you identify any patterns or characteristics of the function f(n) based on the calculated value of f(11)? \n9. How could you verify the correctness of your answer for f(11)? \n10. Can you generalize the process used to find f(11) to calculate the value of f(n) for any given n?"
+}

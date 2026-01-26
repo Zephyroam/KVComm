@@ -1,0 +1,7 @@
+{
+    "problem": "Compute:  $8 + 6(3-8)^2$.",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "We tackle the parentheses, then the exponent, then the product, then the sum: \\begin{align*}\n8+6(3-8)^2 &= 8 + 6(-5)^2\\\\\n&= 8+6\\cdot 25\\\\\n&= 8+150\\\\\n&=\\boxed{158}.\n\\end{align*}",
+    "socratic_questions": "1. What is the first basic concept we need to understand when simplifying this expression?\n2. Can you explain the purpose and order of operations (parentheses, exponents, multiplication, addition)?\n3. How do we simplify the expression inside the parentheses, $(3-8)^2$?\n4. Why does the subtraction inside the parentheses result in a negative number? \n5. How do we square a negative number? What is the result in this case?\n6. Now that we have simplified the inner part of the expression, what should we do next? \n7. Can you explain the concept of multiplication and how it applies to this expression?\n8. What is the result of multiplying 6 by $(-5)^2$?\n9. How do we simplify the expression $8 + 150$?\n10. Finally, what is the overall result of the expression $8 + 6(3-8)^2$?"
+}

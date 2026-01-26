@@ -1,0 +1,7 @@
+{
+    "problem": "Calculate $\\sqrt{30p} \\cdot \\sqrt{5p} \\cdot \\sqrt{6p}$ . Express your answer in simplest radical form in terms of $p$.",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "Writing everything in terms of prime factorizations, the given expression is $\\sqrt{2 \\cdot 3\\cdot 5 \\cdot 5 \\cdot 2 \\cdot 3 \\cdot p^3} = \\sqrt{(2^2 \\cdot 3^2 \\cdot 5^2 \\cdot p^2) \\cdot (p)} = \\boxed{30p \\sqrt{p}}$.",
+    "socratic_questions": "1. What is the relationship between multiplication and multiplication of radicals?\n2. How can we simplify the expression $\\sqrt{30p} \\cdot \\sqrt{5p} \\cdot \\sqrt{6p}$ by using the properties of radicals?\n3. Can we combine the square roots under the radical sign? If so, how?\n4. How do we simplify the expression when there are different variables involved?\n5. What is the product of $\\sqrt{30p}$, $\\sqrt{5p}$, and $\\sqrt{6p}$?\n6. Can we simplify the resulting radical expression further? If yes, how? If not, why not?\n7. What is the simplest radical form of the expression in terms of $p$?\n8. How can we verify the correctness of our simplification by multiplying back the simplified expression?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Below is the graph of $y = a \\sin (bx + c) + d$ for some positive constants $a,$ $b,$ $c,$ and $d.$  Find $d.$\n\n[asy]import TrigMacros;\n\nsize(400);\n\nreal f(real x)\n{\n\treturn 2*sin(3*x + pi) + 1;\n}\n\ndraw(graph(f,-3*pi,3*pi,n=700,join=operator ..),red);\ntrig_axes(-3*pi,3*pi,-4,4,pi/2,1);\nlayer();\nrm_trig_labels(-5,5, 2);\n\nlabel(\"$1$\", (0,1), E);\nlabel(\"$2$\", (0,2), E);\nlabel(\"$3$\", (0,3), E);\nlabel(\"$-1$\", (0,-1), E);\nlabel(\"$-2$\", (0,-2), E);\nlabel(\"$-3$\", (0,-3), E);\n[/asy]",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "The graph oscillates between 3 and $-1,$ so $d = \\frac{3 + (-1)}{2} = \\boxed{1}.$",
+    "socratic_questions": "1. Can you describe the general form of the function $y = a \\sin (bx + c) + d$?\n2. Looking at the given graph, what can you observe about the range of the function?\n3. How can you determine the amplitude of the function from the given graph?\n4. Can we determine the phase shift and period of the function from the given information? If so, how?\n5. What can you conclude about the value of $d$ (the vertical shift) based on the given graph?\n6. How would the graph change if we modify the value of $d$? Can you provide an example?\n7. Is it possible to determine the values of $a$, $b$, and $c$ from the given graph alone? Why or why not?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Find the area of a triangle with side lengths 8, 9, and 9.",
+    "level": "Level 3",
+    "type": "Geometry",
+    "solution": "We draw the longest altitude of this triangle, which breaks the triangle into two right triangles.   [asy]\nsize(100);\npair A,B,C,D;\nA=(0,0); B=(8,0); C=(4,sqrt(65)); D=(4,0);\ndraw(A--B--C--cycle); draw(C--D);\ndraw(rightanglemark(C,D,A,18));\nlabel(\"8\",D,S); label(\"9\",(A+C)/2,W); label(\"9\",(B+C)/2,E);\n[/asy] The right triangles are congruent because the original triangle is isosceles; each right triangle has one leg length $8/2=4$ and hypotenuse length 9.  The other leg, which is also the height of the original triangle, has length $\\sqrt{9^2-4^2}=\\sqrt{65}$.  Thus, the original triangle has base length 8, height $\\sqrt{65}$, and area \\[\\frac{1}{2}(8)(\\sqrt{65})=\\boxed{4\\sqrt{65}}.\\]",
+    "socratic_questions": "1. What is the longest altitude of the triangle and why did we choose to draw it?\n2. How does drawing the longest altitude break the triangle into two right triangles?\n3. Why are the right triangles congruent?\n4. What are the lengths of the legs and hypotenuse of each right triangle?\n5. How do we find the length of the other leg, which is also the height of the original triangle?\n6. What are the dimensions of the original triangle (base length and height)?\n7. How do we calculate the area of the triangle using the base length and height?\n8. What is the final result we get when we calculate the area?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "In how many ways can 4 books be selected from a shelf of 6 books if the order in which the books are selected does not matter?",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "We can choose 4 books from 6 in $\\binom{6}{4}=\\boxed{15}$ ways.",
+    "socratic_questions": "1. Can you explain what the problem is asking? What does it mean for the order not to matter in this context?\n2. How many choices do you have for the first book? And for the second book?\n3. Are the choices for the first two books dependent or independent? Why?\n4. If you have chosen the first two books, how many choices do you have for the third book? And for the fourth book?\n5. Are the choices for the last two books dependent or independent? Why?\n6. How can you calculate the total number of ways to select 4 books from 6 given the information from the previous questions?\n7. Can you simplify the expression $\\binom{6}{4}$? What does this combination notation represent?\n8. Can you calculate the final value of $\\binom{6}{4}$? What does it represent in the context of the problem?\n9. Can you think of any similar scenarios where the concept of combinations and ordering not mattering could be applied?"
+}

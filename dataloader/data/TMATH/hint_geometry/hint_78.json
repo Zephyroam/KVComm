@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\sin 0^\\circ$.",
+    "level": "Level 1",
+    "type": "Geometry",
+    "solution": "Rotating the point $(1,0)$ by $0^\\circ$ counterclockwise about the origin gives us the point $(1,0)$, so $\\sin 0^\\circ = \\boxed{0}$.",
+    "socratic_questions": "1. Can you describe the first step in computing $\\sin 0^\\circ$ using the given information about rotating a point counterclockwise? \n2. What does the point $(1,0)$ represent in terms of angles and trigonometric functions? \n3. Why does rotating the point $(1,0)$ by $0^\\circ$ keep the point at the same location? How does this relate to the value of $\\sin 0^\\circ$? \n4. Are there any other trigonometric functions that we can determine the value of using this same reasoning? If so, which ones? \n5. How does the concept of rotating a point relate to the concept of finding trigonometric values? \n6. Can you think of any other scenarios where we might use a similar approach to determine the value of a trigonometric function?"
+}

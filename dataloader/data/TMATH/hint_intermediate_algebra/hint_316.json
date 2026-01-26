@@ -1,0 +1,7 @@
+{
+    "problem": "Compute\n\\[\\sum_{n = 1}^\\infty \\frac{1}{n(n + 2)}.\\]",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "By partial fractions,\n\\[\\frac{1}{n(n + 2)} = \\frac{1/2}{n} - \\frac{1/2}{n + 2}.\\]Hence,\n\\begin{align*}\n\\sum_{n = 1}^\\infty \\frac{1}{n(n + 2)} &= \\left( \\frac{1/2}{1} - \\frac{1/2}{3} \\right) + \\left( \\frac{1/2}{2} - \\frac{1/2}{4} \\right) + \\left( \\frac{1/2}{3} - \\frac{1/2}{5} \\right) + \\left( \\frac{1/2}{4} - \\frac{1/2}{6} \\right) + \\dotsb \\\\\n&= \\frac{1/2}{1} + \\frac{1/2}{2} \\\\\n&= \\boxed{\\frac{3}{4}}.\n\\end{align*}",
+    "socratic_questions": "1. Can you explain what the term \"sum of fractions\" means?\n2. Why did we use partial fractions to rewrite the given series?\n3. Can you explain how we arrived at the expression $\\frac{1}{n(n+2)} = \\frac{1/2}{n} - \\frac{1/2}{n+2}$?\n4. How did we determine the values of $\\frac{1}{2}$ for the numerators in the partial fraction decomposition?\n5. Can you explain the purpose of splitting the series into individual terms?\n6. From the partial fraction decomposition, how did we rewrite the original series in a simplified form?\n7. Can you explain the pattern we see in the resulting series after simplification?\n8. How did we know to stop at $n=2$ when adding up the terms in the series?\n9. Can you think of other series where partial fractions could be used to simplify them in a similar way?\n10. What is the final sum of the given series and can you explain how you arrived at that result?"
+}

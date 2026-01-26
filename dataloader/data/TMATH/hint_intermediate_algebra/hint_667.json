@@ -1,0 +1,7 @@
+{
+    "problem": "The value of\n\\[\\frac{n}{2} + \\frac{18}{n}\\]is smallest for which positive integer $n$?",
+    "level": "Level 1",
+    "type": "Intermediate Algebra",
+    "solution": "By AM-GM,\n\\[\\frac{n}{2} + \\frac{18}{n} \\ge 2 \\sqrt{\\frac{n}{2} \\cdot \\frac{18}{n}} = 6.\\]Equality occurs when $\\frac{n}{2} = \\frac{18}{n} = 3,$ which leads to $n = \\boxed{6}.$",
+    "socratic_questions": "1. What is the given expression and what is the goal of the problem?\n2. What is AM-GM inequality and how does it relate to this problem?\n3. How do we apply AM-GM inequality to the given expression to obtain a lower bound?\n4. How do we know that the lower bound of the expression is achievable?\n5. What is the equality case and how does it lead to the solution of the problem?\n6. Can we apply the same method to other similar problems? If not, what other methods can we use?"
+}

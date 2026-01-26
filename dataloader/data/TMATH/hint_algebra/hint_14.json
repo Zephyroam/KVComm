@@ -1,0 +1,7 @@
+{
+    "problem": "Sixteen is 64$\\%$ of what number?",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "If the number is $x$, we can set up the equation $\\frac{16}{x}=\\frac{64}{100}$. We divide both sides by $4$ to get $\\frac{1}{x}=\\frac{4}{100}=\\frac{1}{25}$, so $x=\\boxed{25}$.",
+    "socratic_questions": "1. How can we represent the given problem mathematically?\n2. What does it mean for sixteen to be 64% of a certain number?\n3. How can we translate the phrase \"64% of what number\" into an algebraic expression?\n4. What operation(s) do we need to perform to solve this problem?\n5. Can you write an equation that represents the problem? What does it look like?\n6. What steps can we take to isolate the variable and find the unknown number?\n7. Is there a specific algebraic method you would choose to solve this equation? Why or why not?\n8. How would you solve the equation using the chosen method?\n9. How would you determine if your solution is correct?\n10. Can you think of any other real-life situations where similar mathematical thinking and steps might be needed?"
+}

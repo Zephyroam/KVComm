@@ -1,0 +1,7 @@
+{
+    "problem": "Find the $r$ that satisfies $\\log_{16} (r+16) = \\frac{5}{4}$.",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "Writing the equation $\\log_{16} (r+16) = \\frac{5}{4}$ in exponential notation gives $r+16 = 16^{\\frac{5}{4}} = (2^4)^{\\frac{5}{4}} = 2^5 = 32$. Solving $r+16 = 32$ gives $r = \\boxed{16}$.",
+    "socratic_questions": "1. What is the first step you would take to solve this equation? Can you describe it?\n2. Are you familiar with any different methods that can be used to solve equations like this?\n3. If you choose to use logarithmic properties to solve this equation, what specific property would you apply?\n4. Why can logarithmic properties be used to solve this equation? What characteristics of the equation make it suitable for this method?\n5. What value would you substitute into the equation to isolate the variable r? How would you verify that this value is correct?\n6. Can you think of any other types of equations where similar thinking and steps might be applied?"
+}

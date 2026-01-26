@@ -1,0 +1,7 @@
+{
+    "problem": "Write $0.\\overline{43}$ as a simplified fraction.",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "Let $a=0.\\overline{43}$. Then $100a=43.\\overline{43}$. Subtracting the left-hand sides $100a$ and $a$, and subtracting the right-hand sides $43.\\overline{43}$ and $0.\\overline{43}$ yields \\begin{align*} 100a- a &= 43.\\overline{43}- 0.\\overline{43}\\\\ \\Rightarrow 99a &= 43\\\\ \\Rightarrow a &= \\boxed{\\frac{43}{99}}. \\end{align*}",
+    "socratic_questions": "1. How do we represent $0.\\overline{43}$ as a decimal expansion?\n2. Can we simplify $0.\\overline{43}$ as a fraction? If so, how?\n3. How do we use algebra to represent $a=0.\\overline{43}$?\n4. What is the value of $100a$ when $a=0.\\overline{43}$?\n5. How do we use subtraction to solve for the value of $a$?\n6. Why do we subtract $43.\\overline{43}$ and $0.\\overline{43}$ from different sides of the equation?\n7. How do we simplify the resulting expression to get the value of $a$?\n8. Are there other repeating decimals that we can simplify as fractions using a similar method? If so, can you give an example?"
+}

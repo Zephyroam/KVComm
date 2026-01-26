@@ -1,0 +1,7 @@
+{
+    "problem": "Let $p$ be the largest prime with 2010 digits. What is the smallest positive integer $k$ such that $p^2 - k$ is divisible by 12?",
+    "level": "Level 5",
+    "type": "Number Theory",
+    "solution": "Let us iterate over larger and larger positive integers for $k$. If $k=1$, then $p^2-k = p^2-1 = (p+1)(p-1)$. Since $p$ is odd, both $p+1$ and $p-1$ are even, so therefore $p^2-1$ is divisible by 4. Also, since $p$ is not divisible by 3, then $p$ must either be one greater or two greater than a multiple of 3, which means that $p-1$ or $p+1$ is divisible by 3, respectively. As a result, $p^2-1$ is divisible by both 3 and 4, so it is divisible by 12. Therefore, we have $\\boxed{k = 1}$.",
+    "socratic_questions": "1. How is the value of $p$ determined in this problem? \n2. How can we use $p$ to find the expression $p^2 - k$? \n3. Why are we considering the divisibility of $p^2 - k$ by 12? \n4. Why do we start with $k=1$ in the iteration process? \n5. Can you explain why $p^2 - 1$ is divisible by 4? \n6. How do we determine whether $p-1$ or $p+1$ is divisible by 3? \n7. Why is it important for $p^2-1$ to be divisible by both 3 and 4 in order for it to be divisible by 12? \n8. Can you think of any other scenarios where we would need to consider divisibility in a similar way to solve a problem?"
+}

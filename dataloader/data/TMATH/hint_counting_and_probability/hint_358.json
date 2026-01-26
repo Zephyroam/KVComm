@@ -1,0 +1,7 @@
+{
+    "problem": "Marius is entering a wildlife photo contest, and wishes to arrange his seven snow leopards of different heights in a row. If the shortest two leopards have inferiority complexes and demand to be placed at the ends of the row, how many ways can he line up the leopards?",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "There are two ways to arrange the shortest two leopards. For the five remaining leopards, there are $5!$ ways to arrange them.\n\nTherefore, the answer is $2\\times5!=\\boxed{240\\text{ ways.}}$",
+    "socratic_questions": "1. Can you explain the concept of permutation and why it is relevant in this problem?\n2. What is the total number of ways to arrange the seven snow leopards without any restrictions?\n3. How many ways can the shortest two leopards be arranged at the ends of the row?\n4. Why do we multiply the number of ways to arrange the shortest two leopards with the number of ways to arrange the remaining five leopards?\n5. How would you solve this problem if the shortest two leopards didn't have any specific demands?\n6. Are there any other factors or constraints that we need to consider in this problem?\n7. Can you think of any real-life scenarios where the concept of permutation can be applied?"
+}

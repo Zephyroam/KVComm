@@ -1,0 +1,7 @@
+{
+    "problem": "Find the value of $x$ such that $\\sqrt{x+ 7} = 9$.",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Since $\\sqrt{x+7} = 9$, we know that 9 is the number whose square is $x+7$.  Therefore, we have \\[x+7 = 9^2.\\] This gives us $x + 7= 81$, so $x= \\boxed{74}$.",
+    "socratic_questions": "1. Can you explain what the equation $\\sqrt{x+7} = 9$ means in words?\n2. How can we isolate the square root on one side of the equation? What steps would you take?\n3. What is the square of 9? How does that help us solve the equation?\n4. Can you explain why $x+7=9^2$ is a valid step in solving this equation? What property or rule are we using?\n5. How do we solve for $x$ in the equation $x+7=81$? What steps would you take?\n6. Can you explain why $x=74$ is the solution to the equation $\\sqrt{x+7} = 9$? How can we verify that this solution is correct?"
+}

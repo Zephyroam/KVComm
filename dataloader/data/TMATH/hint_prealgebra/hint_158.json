@@ -1,0 +1,7 @@
+{
+    "problem": "In how many ways can four people sit in a row of five chairs?",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "Have the youngest sit first, then the next youngest, and so on.  The first person has 5 choices.  No matter where the first person sits, the next person has 4 choices.  No matter where the first two people sit, the third person has 3 choices.  The fourth person then has 2 choices.  Therefore, there are $5\\cdot 4\\cdot 3\\cdot 2 = \\boxed{120}$ ways for the four people to sit.",
+    "socratic_questions": "1. What is the first step in solving this problem using the given condition?\n2. Why does the first person have 5 choices for a seat?\n3. If the first person sits in a specific seat, how many choices does the second person have for their seat?\n4. Can you explain why the third person only has 3 choices for a seat, given the condition?\n5. How do we calculate the total number of ways for the four people to sit using the given condition?\n6. Can you think of any other scenarios where we can apply similar thinking and steps to solve a seating arrangement problem?"
+}

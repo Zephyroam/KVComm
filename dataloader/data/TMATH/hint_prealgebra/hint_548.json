@@ -1,0 +1,7 @@
+{
+    "problem": "How many positive 3-digit numbers are divisible by 11?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "Note that $11 \\times 9 = 99 < 100 < 110 = 11 \\times 10$ and $11 \\times 90 = 990 < 1000 < 1001 = 11 \\times 91$.  So the list of 3-digit numbers divisible by 11 is $110,121,\\ldots,990$, and when we divide this list by 11, we get the list $10,11,12,\\ldots,89,90$, which has $90 - 10 + 1 = \\boxed{81}$ numbers.",
+    "socratic_questions": "1. Can you explain why we are considering 3-digit numbers for this problem?\n2. What does it mean for a number to be divisible by 11?\n3. Can you identify any patterns or observations about the relationship between 3-digit numbers and their divisibility by 11?\n4. Based on the given note, what range of 3-digit numbers are divisible by 11?\n5. How can we determine the count of numbers in that range?\n6. Can you explain the reasoning behind subtracting the lower limit from the upper limit and adding 1 in order to find the count?\n7. Can you verify the count of 81 by dividing the list $10, 11, 12, \\ldots, 89, 90$ by 11?"
+}

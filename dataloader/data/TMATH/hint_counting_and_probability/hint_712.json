@@ -1,0 +1,7 @@
+{
+    "problem": "What is $\\dbinom{n}{1}$ for any positive integer $n$?",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "$\\dbinom{n}{1}=\\dfrac{n!}{1!(n-1)!}=\\boxed{n}$.  Also, $\\binom{n}{1}$ is the number of ways to choose 1 object out of $n$.  Since there are $n$ different objects, there are $\\boxed{n}$ ways to do this.",
+    "socratic_questions": "1. Can you explain what the notation $\\binom{n}{1}$ means?\n2. How does the formula for $\\binom{n}{1}$ relate to the concept of choosing objects from a set?\n3. Is there a visual representation that can help us understand the meaning of $\\binom{n}{1}$?\n4. Can you provide an example of a real-world scenario where we might need to use $\\binom{n}{1}$ to solve a problem?\n5. Is $\\binom{n}{1}$ the only way to choose a single object out of a set of $n$? If not, what other ways are there and how are they different?\n6. Can you explain why the formula for $\\binom{n}{1}$ includes a factorial expression?\n7. If we have a set of $n$ objects and we want to choose 2 of them, what formula should we use? How does this formula differ from the formula for $\\binom{n}{1}$?\n8. How do the concepts of permutations and combinations relate to each other in the context of counting and probability?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\dbinom{8}{4}$.",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "\\begin{align*}\n\\dbinom{8}{4} &= \\dfrac{8!}{4!4!} \\\\\n&= \\dfrac{8\\times 7\\times 6\\times 5}{4\\times 3\\times 2\\times 1} \\\\\n&= \\dfrac{8}{4\\times 2\\times 1}\\times 7 \\times \\dfrac{6}{3} \\times 5 \\\\\n&= 1\\times 7\\times 2\\times 5 \\\\\n&= \\boxed{70}.\n\\end{align*}",
+    "socratic_questions": "1. What is the meaning of $\\dbinom{8}{4}$? How can we interpret this expression in the context of counting and probability?\n2. Can you explain the formula for $\\dbinom{n}{k}$ in your own words? How does it relate to combinations and counting?\n3. Can you break down the calculation of $\\dbinom{8}{4}$ step by step? What is the purpose of each step in the formula $\\dfrac{n!}{k!(n-k)!}$?\n4. How does the principle of cancellation apply in simplifying the expression $\\dfrac{8!}{4!4!}$? What patterns do you notice in the cancellations?\n5. Can you express the numerator and denominator of $\\dbinom{8}{4}$ in expanded form? How does this help in simplifying the fraction?\n6. Are there any other ways to compute $\\dbinom{8}{4}$? Can you think of alternative methods that could give the same result?\n7. How can the concept of combinations and $\\dbinom{8}{4}$ be applied to real-life situations? Can you provide examples where counting and probability are involved?"
+}

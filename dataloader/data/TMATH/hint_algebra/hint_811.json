@@ -1,0 +1,7 @@
+{
+    "problem": "The sequence $2, 7, 12, a, b, 27$ is arithmetic. What is the value of $a + b$?",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "The common difference of the arithmetic sequence is $7-2=5$.  Therefore, the first six terms of the sequence are 2, 7, 12, 17, 22, and 27.  The sum of $a$ and $b$ is $17+22=\\boxed{39}$.",
+    "socratic_questions": "1. Can you define what an arithmetic sequence is? How can you identify if a sequence is arithmetic?\n2. What information can you gather from the given sequence $2, 7, 12, a, b, 27$?\n3. How can you determine the common difference in an arithmetic sequence? Is there a formula or method you can use?\n4. Based on the given initial terms, can you find the common difference in the sequence? How?\n5. Assuming the common difference is constant, can you derive the values of $a$ and $b$ in terms of the common difference?\n6. Is there any relationship between the position of a term in the sequence and its value? Can you establish any formulas or patterns?\n7. How can you use the known terms and the derived formulas to find the values of $a$ and $b$?\n8. Once you have the values of $a$ and $b$, what is the sum of $a + b$?"
+}

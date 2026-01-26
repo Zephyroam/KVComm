@@ -1,0 +1,7 @@
+{
+    "problem": "Evaluate\n\\[\\begin{vmatrix} y + 1 & y & y \\\\ y & y + 1 & y \\\\ y & y & y + 1 \\end{vmatrix}.\\]",
+    "level": "Level 4",
+    "type": "Precalculus",
+    "solution": "We can expand the determinant as follows:\n\\begin{align*}\n\\begin{vmatrix} y + 1 & y & y \\\\ y & y + 1 & y \\\\ y & y & y + 1 \\end{vmatrix} &= (y + 1)\\begin{vmatrix} y + 1 & y \\\\ y & y + 1 \\end{vmatrix} - y \\begin{vmatrix} y & y \\\\ y & y + 1 \\end{vmatrix} + y \\begin{vmatrix} y & y + 1 \\\\ y & y \\end{vmatrix} \\\\\n&= (y + 1)((y + 1)(y + 1) - y^2) - y(y(y + 1) - y^2) + y(y^2 - y(y + 1)) \\\\\n&= \\boxed{3y + 1}.\n\\end{align*}",
+    "socratic_questions": "1. What is the first step in evaluating the determinant of this matrix?\n2. How can we expand the determinant using the properties of determinants?\n3. Can you explain how we can expand the determinant using cofactor expansion along the first row?\n4. What is the determinant of a 2x2 matrix? How can we apply that here?\n5. What properties of determinants can we use to simplify the expanded determinant expression?\n6. Can you verify the final result matches the one obtained by expanding the determinant directly?"
+}

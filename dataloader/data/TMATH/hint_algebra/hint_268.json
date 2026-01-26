@@ -1,0 +1,7 @@
+{
+    "problem": "Let \\[f(x) =\n\\begin{cases}\n3x + 5 &\\text{if }x<-3, \\\\\n7-4x&\\text{if }x\\ge -3.\n\\end{cases}\n\\]Find $f(5)$.",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "Because $5\\ge -3$, we use the second case to determine that $f(5) = 7-4(5) = \\boxed{-13}$.",
+    "socratic_questions": "1. What is the first step you would take to find $f(5)$ using the given function definition?\n2. Can you explain the function definition in your own words? What does it tell you about $f(x)$ for different values of $x$?\n3. How can you determine which part of the function definition applies to $x = 5$?\n4. If $x < -3$, what would the value of $f(x)$ be? How does that relate to finding $f(5)$?\n5. Now consider the case when $x \\geq -3$. What is the value of $f(x)$ in this scenario?\n6. How would you combine the two cases to find $f(5)$? Can you represent it as a single expression?\n7. Can you think of any other values of $x$ for which you can use this function definition to find $f(x)$?\n8. Is the function defined for all possible values of $x$? If not, why? How does that affect finding $f(5)$?\n9. What is the final result of evaluating $f(5)$? How did you determine that?"
+}

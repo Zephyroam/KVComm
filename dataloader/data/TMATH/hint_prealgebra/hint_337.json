@@ -1,0 +1,7 @@
+{
+    "problem": "A set of marbles can be divided in equal shares among $2$, $3$, $4$, $5$, or $6$ children with no marbles left over. What is the least number of marbles that the set could have?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "The least number of marbles that the set could have is the least common multiple of $2$, $3$, $4$, $5$, and $6$. Prime factorizing these five numbers, we find that \\begin{align*}\n2 &= 2 \\\\\n3 &= 3 \\\\\n4 &= 2^2 \\\\\n5 &= 5 \\\\\n6 &= 2 \\cdot 3.\n\\end{align*}For a number to be divisible by each of these numbers, its prime factorization must include 2 to the second power, 3, and 5. So the least common multiple is $2^2 \\cdot 3 \\cdot 5 = \\boxed{60}$.",
+    "socratic_questions": "1. Can you describe the problem and what we are trying to find?\n2. How do we determine the least common multiple of a set of numbers?\n3. Can you explain what prime factorization is and how it is relevant in finding the least common multiple?\n4. Can you list the prime factors of each number: 2, 3, 4, 5, and 6?\n5. What are the common prime factors among these numbers?\n6. How do we find the least common multiple using the prime factors?\n7. Can you calculate the least common multiple based on the prime factors we identified?\n8. Can you explain why the least common multiple is the answer to the original problem?\n9. Can you think of any other scenarios where finding the least common multiple is useful?\n10. Are there any alternative methods or strategies to find the least common multiple?"
+}

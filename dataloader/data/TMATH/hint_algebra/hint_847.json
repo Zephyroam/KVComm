@@ -1,0 +1,7 @@
+{
+    "problem": "If $x - y = 6$ and $x + y = 12$, what is the value of $y$?",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "Subtract the first equation from the second: \\begin{align*}\n(x+y)-(x-y) &= 12-6\\\\\n2y &= 6\\\\\ny &= \\boxed{3}.\n\\end{align*}",
+    "socratic_questions": "1. How would you describe the relationship between the two given equations?\n2. What method or approach would you use to solve this system of equations?\n3. Can you explain why the elimination method is suitable for solving this system of equations?\n4. What steps would you take to eliminate one variable in order to solve for the other?\n5. After eliminating one variable, what does the resulting equation look like?\n6. How would you solve the resulting equation to find the value of the remaining variable?\n7. Can you explain why substituting the value of the solved variable back into one of the original equations is a valid step?\n8. What is the value of y that you find through this process? How do you verify that it is correct?\n9. Can you think of other scenarios or problems where a similar approach, like elimination, can be used to solve a system of equations?"
+}

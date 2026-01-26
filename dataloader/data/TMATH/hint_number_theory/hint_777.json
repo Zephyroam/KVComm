@@ -1,0 +1,7 @@
+{
+    "problem": "What is the greatest 3-digit base 8 positive integer that is divisible by 5?  (Express your answer in base 8.)",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "The greatest 3-digit base 8 positive integer is $777_8$, which is equal to $7 \\cdot 8^2 + 7 \\cdot 8 + 7 = 511$.  This number leaves a remainder of 1 when divided by 5, so we subtract 1, to get $\\boxed{776_8}$.",
+    "socratic_questions": "1. What is the definition of a base 8 number system?\n2. How do we convert a base 10 number to a base 8 number?\n3. What is the largest 3-digit base 8 number?\n4. How do we determine if a number is divisible by 5?\n5. What is the process for finding the greatest 3-digit base 8 number that is divisible by 5?\n6. How do we check our solution to ensure it is correct?\n7. Can this method be applied to finding the greatest 3-digit base x positive integer that is divisible by n for any base x and divisor n?"
+}

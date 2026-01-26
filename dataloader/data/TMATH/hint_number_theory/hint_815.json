@@ -1,0 +1,7 @@
+{
+    "problem": "What is the digit in the thousandths place of the decimal equivalent of $\\frac{3}{16}$?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "Since the denominator of $\\dfrac{3}{16}$ is $2^4$, we multiply numerator and denominator by $5^4$ to obtain  \\[\n\\frac{3}{16} = \\frac{3\\cdot 5^4}{2^4\\cdot 5^4} = \\frac{3\\cdot 625}{10^4} = \\frac{1875}{10^4} = 0.1875.\n\\] The digit in the thousandths place is $\\boxed{7}$.",
+    "socratic_questions": "1. Can you describe the process of finding the decimal equivalent of a fraction?\n2. What is the relationship between the numerator and denominator in the decimal equivalent of a fraction?\n3. How can we determine the decimal equivalent of $\\frac{3}{16}$?\n4. Why do we need to multiply the numerator and denominator by the same value?\n5. What value can we multiply the numerator and denominator by in this case?\n6. What is the resulting fraction after multiplying?\n7. How can we convert this resulting fraction into a decimal?\n8. What is the digit in the thousandths place of the decimal equivalent?\n9. Can you explain the steps involved in obtaining this digit?"
+}

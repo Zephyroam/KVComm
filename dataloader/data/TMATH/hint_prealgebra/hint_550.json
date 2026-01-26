@@ -1,0 +1,7 @@
+{
+    "problem": "How many different three-letter sets of initials are possible using the letters $A$ through $G$?",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "There are seven choices for the first initial, seven for the second, and seven for the third. Thus, there are $7^3 = \\boxed{343}$ combinations possible.",
+    "socratic_questions": "1. What do you understand by the term \"three-letter set of initials\"?\n2. Can you list all the letters that are available for use in the three-letter set of initials?\n3. How many letters are there in total that can be used for the initials?\n4. Can you explain how you arrived at the answer of 7 choices for the first initial?\n5. Is the order of the letters in the set of initials important?\n6. Can you explain why you multiplied the number of choices for the first, second, and third initial to obtain the total number of possible combinations?\n7. Are there any other methods that could be used to solve this problem, and if yes, how could they be applied?\n8. How many different four-letter sets of initials are possible using the letters A through G, and how would you solve this problem?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "If $x$ is a real number and $x^2-7x+6<0$, what are the possible values for $x$? Use interval notation to express your answer.",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "Factoring the quadratic gives $(x-1)(x-6)<0$, which means that $x-1$ and $x-6$ must have opposite signs, since the product of two factors with the same sign is positive. Now, we split into four cases. If $x<1$, then both factors are negative. If $x>6$, both factors are positive. If $x=1$ or $x=6$, one of the factors is zero. If $1<x<6$, $x-6$ is negative and $x-1$ is positive, meaning the inequality is satisfied. So our only possible range is $1<x<6$, giving interval notation of $\\boxed{(1,6)}$.",
+    "socratic_questions": "1. Can you describe what it means for the expression $x^2-7x+6<0$ to be true? What does it represent?\n2. How would you solve this inequality using algebraic methods? Are you familiar with any techniques or strategies that can be applied?\n3. Can you factorize the quadratic expression $x^2-7x+6$? If so, what are the factors and how did you determine them?\n4. Why is it possible to factorize this quadratic expression to solve the inequality? What properties or characteristics of the equation make factoring a suitable approach?\n5. What are the roots of the quadratic equation $x^2-7x+6=0$? How do these roots relate to the solutions of the inequality $x^2-7x+6<0$?\n6. Can you sketch a rough graph of the quadratic function $f(x)=x^2-7x+6$? How does it help in visualizing the values of $x$ that satisfy the inequality?"
+}

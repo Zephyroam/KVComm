@@ -1,0 +1,7 @@
+{
+    "problem": "What is the greatest prime factor of 221?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "Noticing that 221 is close to the perfect square 225, we write 221 as a difference of two squares: $221=225-4=15^2-2^2=(15-2)(15+2)=13\\cdot 17$.  The largest prime factor here is $\\boxed{17}$.",
+    "socratic_questions": "1. How did you realize that 221 is close to the perfect square 225?\n2. Can you explain why you chose to write 221 as a difference of two squares?\n3. How did you determine the factors (15-2) and (15+2) of 221?\n4. Why did you multiply these two factors together?\n5. How did you identify that 17 is the largest prime among these factors?\n6. Can you think of any other numbers where this method of factoring could be applied?\n7. Is there another method you are aware of that could have been used to find the greatest prime factor of 221?"
+}

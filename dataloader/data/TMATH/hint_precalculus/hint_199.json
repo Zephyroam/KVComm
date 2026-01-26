@@ -1,0 +1,7 @@
+{
+    "problem": "For $\\mathbf{v} = \\begin{pmatrix} -10 \\\\ 6 \\end{pmatrix}$ and $\\mathbf{w} = \\begin{pmatrix} 15 \\\\ -9 \\end{pmatrix}$, compute $\\text{proj}_{\\mathbf{w}} \\mathbf{v}$.",
+    "level": "Level 3",
+    "type": "Precalculus",
+    "solution": "Since\n\\[\\bold{v} = \\begin{pmatrix} -10 \\\\ 6 \\end{pmatrix} = -\\frac{2}{3} \\begin{pmatrix} 15 \\\\ -9 \\end{pmatrix} = -\\frac{2}{3} \\bold{w}\\]is a scalar multiple of $\\bold{w}$,\n\\[\\text{proj}_{\\bold{w}} \\bold{v} = \\bold{v} = \\boxed{\\begin{pmatrix} -10 \\\\ 6 \\end{pmatrix}}.\\]",
+    "socratic_questions": "1. How would you describe the projection of a vector onto another vector?\n2. What are the necessary conditions for one vector to be a scalar multiple of another vector?\n3. Based on the given information, is it true that the vector v is a scalar multiple of the vector w? Why or why not?\n4. If v is a scalar multiple of w, what can we say about the projection of v onto w?\n5. How do we compute the projection of a vector onto another vector?\n6. Using the information given, what is the projection of v onto w?\n7. Can you think of any other vectors in which the projection onto w would be the original vector itself? If so, what are they?"
+}

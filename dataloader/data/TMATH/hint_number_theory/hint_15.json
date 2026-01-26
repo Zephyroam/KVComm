@@ -1,0 +1,7 @@
+{
+    "problem": "Abigail, Beatrice, and Carson combine their eggs to sell them at the market. If Abigail has 37 eggs, Beatrice has 49 eggs, and Carson has 14 eggs, and if eggs can only be sold in cartons of 12, how many eggs will be left over if all cartons are sold?",
+    "level": "Level 1",
+    "type": "Number Theory",
+    "solution": "The remainder when $37+49+14$ is divided by $12$ is the same as the remainder when the congruences of each number mod 12 are summed and then divided by 12. In other words, since we have \\begin{align*}\n37 &\\equiv 1\\pmod{12}\\\\\n49 &\\equiv 1\\pmod{12} \\\\\n14 &\\equiv 2\\pmod{12}\n\\end{align*}then therefore, $37+49+14 \\equiv1+1+2 \\equiv \\boxed{4}\\pmod{12}$.",
+    "socratic_questions": "1. What is the total number of eggs that Abigail, Beatrice, and Carson have combined?\n2. How many eggs can be sold in one carton?\n3. What is the remainder when the sum of the eggs is divided by 12?\n4. How can we find the remainder when a number is divided by 12 using congruence?\n5. What are the congruences of each individual number mod 12?\n6. How do we sum the congruences and divide by 12?\n7. What is the sum of the congruences when we add up the congruences of 37, 49, and 14?\n8. What is the remainder when the sum of the congruences is divided by 12?\n9. How does the remainder relate to the number of eggs left over if all cartons are sold?"
+}

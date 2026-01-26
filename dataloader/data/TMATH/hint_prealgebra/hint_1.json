@@ -1,0 +1,7 @@
+{
+    "problem": "Find the area in square feet of a square with a perimeter of 32ft.",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "If the perimeter of the square is $32$ feet, then the length of each side is $\\frac{32}{4}=8$ feet. That makes the area of the square $8^2=\\boxed{64}$ square feet.",
+    "socratic_questions": "1. How would you calculate the length of each side of the square if you know its perimeter is 32ft?\n2. Can you explain why dividing the perimeter by 4 gives you the length of each side?\n3. What formula can we use to find the area of a square? How does it relate to the length of each side?\n4. Why is it important to square the length of one side to find the area of the square?\n5. How would you calculate the area of this specific square using the formula we discussed?\n6. Are there any other methods you can think of to find the area of a square? How do they compare to our previous approach?"
+}

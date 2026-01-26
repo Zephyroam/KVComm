@@ -1,0 +1,7 @@
+{
+    "problem": "Find the remainder when $x^4 + 2$ is divided by $(x - 2)^2.$",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "Dividing $x^4 + 2$ by $x - 2,$ we get\n\\[x^4 + 2 = (x - 2)(x^3 + 2x^2 + 4x + 8) + 18.\\]Dividing $x^3 + 2x^2 + 4x + 8$ by $x - 2,$ we get\n\\[x^3 + 2x^2 + 4x + 8 = (x - 2)(x^2 + 4x + 12) + 32.\\]Thus,\n\\begin{align*}\nx^4 + 2 &= (x - 2)(x^3 + 2x^2 + 4x + 8) + 18 \\\\\n&= (x - 2)((x - 2)(x^2 + 4x + 12) + 32) + 18 \\\\\n&= (x - 2)^2 (x^2 + 4x + 12) + 32(x - 2) + 18 \\\\\n&= (x  -2)^2 (x^2 + 4x + 12) + 32x - 46,\n\\end{align*}so the remainder is $\\boxed{32x - 46}.$",
+    "socratic_questions": "1. What is the first step in finding the remainder when dividing $x^4 + 2$ by $(x - 2)^2$?\n2. How did we find the quotient when dividing $x^4 + 2$ by $x - 2$? \n3. Why did we continue dividing the quotient by $x - 2$? \n4. What did we get when we divided $x^3 + 2x^2 + 4x + 8$ by $x - 2$? \n5. What did we do with the remainder from the first division? \n6. Why did we multiply $(x - 2)$ to the quotient from the second division? \n7. Can you explain the steps we took to get the final expression for $x^4 + 2$? \n8. How did we find the remainder? \n9. Is there any other method that could have been used to find the remainder? \n10. Can you think of any other similar problems where these steps could be applied?"
+}

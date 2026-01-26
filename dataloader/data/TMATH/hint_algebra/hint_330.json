@@ -1,0 +1,7 @@
+{
+    "problem": "You have 50 dimes and 20 quarters. What percent of the value of your money is in quarters?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "The amount in quarters is $20\\times25$ cents and the total amount is $50\\times10+20\\times25$ cents. The percent of the value in quarters is $$\\frac{20\\times25}{50\\times10+20\\times25}=\\frac{500}{500+500}=\\frac{500}{1000}=\\boxed{50\\%}.$$",
+    "socratic_questions": "1. How would you calculate the total value of your money in dimes?\n2. How would you calculate the total value of your money in quarters?\n3. What is the total value of all your money?\n4. How would you calculate the percentage of the value that the quarters represent?\n5. What would be the numerator of the fraction used to calculate the percentage?\n6. What would be the denominator of the fraction used to calculate the percentage?\n7. Can you express the percentage as a decimal or a fraction?\n8. How would you convert the decimal or fraction into a percentage?"
+}

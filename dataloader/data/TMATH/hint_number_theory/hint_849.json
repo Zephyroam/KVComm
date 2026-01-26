@@ -1,0 +1,7 @@
+{
+    "problem": "What is the base ten equivalent of $12345_{6}$?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "$12345_{6} = 5\\cdot6^{0}+4\\cdot6^{1}+3\\cdot6^{2}+2\\cdot6^{3}+1\\cdot6^{4} = 5+24+108+432+1296 = \\boxed{1865}$.",
+    "socratic_questions": "1. Can you explain how the base six number $12345_{6}$ is written in expanded form? \n2. How did you determine the value of each digit in the base six number $12345_{6}$? \n3. What is the significance of the exponents in the expanded form of $12345_{6}$? \n4. How did you arrive at the final sum of $1865$ when converting $12345_{6}$ to base ten? \n5. Can you think of any other base conversion methods or strategies that could be applied to this problem?"
+}

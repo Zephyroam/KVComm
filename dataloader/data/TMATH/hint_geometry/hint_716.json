@@ -1,0 +1,7 @@
+{
+    "problem": "What is the value of $x$ if a cube's volume is $5x$ cubic units and its surface area is $x$ square units?",
+    "level": "Level 4",
+    "type": "Geometry",
+    "solution": "Since the cube's volume is $5x$ cubic units, each side measures $\\sqrt[3]{5x}$ units. The surface area is then $6(\\sqrt[3]{5x})^2$. We are told the surface area is also $x$. We have the equation $6(\\sqrt[3]{5x})^2=x$ Solving for $x$, we find that $x=\\boxed{5400}$.",
+    "socratic_questions": "1. Can you describe how to find the volume and surface area of a cube?\n2. How can we represent the length of the side of a cube using the cube's volume?\n3. How can we represent the cube's surface area in terms of its side length?\n4. How can we set up an equation using the cube's surface area and volume?\n5. Can you demonstrate how to solve the equation for $x$?\n6. Are there any other geometric shapes where we can use a similar approach to find their dimensions?"
+}

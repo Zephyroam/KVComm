@@ -1,0 +1,7 @@
+{
+    "problem": "Let $N$ be the sum of the divisors of $200$. What is the largest prime factor of $N$?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "The prime factorization of $200$ is $2^3 \\cdot 5^2$. It follows that $N = (1 + 2 + 2^2 + 2^3)(1 + 5 + 5^2)$, as each factor of $200$ is represented when the product is expanded. It follows that $N = (1 + 2 + 4 + 8)(1 + 5 + 25) = (15)(31)$. The largest prime factor is $\\boxed{31}$.",
+    "socratic_questions": "1. What is the prime factorization of 200? \n2. How can we calculate the sum of the divisors of 200 using the prime factorization? \n3. Can you explain how the expression (1+2+2^2+2^3)(1+5+5^2) represents the sum of divisors? \n4. How do we simplify the expression (1+2+2^2+2^3)(1+5+5^2) to calculate N? \n5. What is the value of N? \n6. How do we determine the largest prime factor of N? \n7. Why is the largest prime factor of N equal to 31? \n8. Can you think of any other numbers where we can use a similar approach to find the sum of divisors and their largest prime factor?"
+}

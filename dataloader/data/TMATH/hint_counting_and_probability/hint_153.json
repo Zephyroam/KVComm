@@ -1,0 +1,7 @@
+{
+    "problem": "A bag has 3 red marbles and 5 white marbles.  Two marbles are drawn from the bag and not replaced.  What is the probability that the first marble is red and the second marble is white?",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "The probability that the first is red is $\\dfrac38$.  Now with 7 remaining, the probability that the second is white is $\\dfrac57$. The answer is $\\dfrac38 \\times \\dfrac57 = \\boxed{\\dfrac{15}{56}}$.",
+    "socratic_questions": "1. What is the sample space for this scenario?\n2. How many possible outcomes are there in the sample space?\n3. What is the probability of drawing a red marble on the first draw?\n4. After the first marble is drawn, how many marbles are left in the bag and how many of them are white?\n5. What is the probability of drawing a white marble on the second draw, given that a red marble was drawn first?\n6. How do you calculate the probability of both events happening?\n7. Can you think of a similar probability problem where you draw without replacement and need to calculate the probability of two specific events happening in sequence?"
+}

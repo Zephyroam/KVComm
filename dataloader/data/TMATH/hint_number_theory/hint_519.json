@@ -1,0 +1,7 @@
+{
+    "problem": "Find the largest integer less than 74 that leaves a remainder of 3 when divided by 7.",
+    "level": "Level 1",
+    "type": "Number Theory",
+    "solution": "We can use the Division Theorem ($a=bq+r$).  $74 \\div 7 = 10 R 4$, so $74 = 10 \\times 7 + 4$.  We subtract 1 to get a remainder of 3, so 74 - 1 = $\\boxed{73}$ is the answer.",
+    "socratic_questions": "1. How can we express the given problem mathematically using the Division Theorem ($a=bq+r$)?\n2. What does it mean for a number to leave a remainder of 3 when divided by 7? Can you provide an example?\n3. Can you explain why we subtracted 1 after finding the remainder of 4? How does this help us find the largest integer less than 74?\n4. Is it possible to find the largest integer less than 74 that leaves a remainder of 3 when divided by 7 using a different approach? If so, what other methods can we consider?\n5. Can you think of any other number theory problems that involve finding the largest integer with a specific remainder? How might we approach those problems?\n6. Can you explain why the largest integer less than 74 that leaves a remainder of 3 when divided by 7 is 73? How can we verify that our answer is correct?"
+}

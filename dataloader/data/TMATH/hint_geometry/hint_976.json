@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\sin 270^\\circ$.",
+    "level": "Level 2",
+    "type": "Geometry",
+    "solution": "Rotating the point $(1,0)$ about the origin by $270^\\circ$ counterclockwise gives us the point $(0,-1)$, so $\\sin 270^\\circ = \\boxed{-1}$.",
+    "socratic_questions": "1. Can you explain what it means to rotate a point counterclockwise by a certain number of degrees?\n2. How does rotating a point relate to the trigonometric functions like sine?\n3. In this specific case, why are we rotating the point $(1, 0)$ by $270^\\circ$ counterclockwise?\n4. Can you recall the values of the sine function for any other commonly used angles?\n5. Based on the result we obtained, what can we say about the relationship between the angle measure and the resulting sine value?\n6. Can you envision any other scenarios where we might need to calculate the sine of an angle obtained through rotation?"
+}

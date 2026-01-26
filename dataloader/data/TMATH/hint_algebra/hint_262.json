@@ -1,0 +1,7 @@
+{
+    "problem": "Mr. Sanchez's students were asked to add two positive integers. Juan subtracted by mistake and got 2. Maria mistakenly multiplied and got 120. What was the correct answer?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "Call the two positive integers $x$ and $y$. Without loss of generality, assume $x > y$. We can write a system of equations to represent the information given in the problem:  \\begin{align*}\nx - y &= 2 \\\\\nx \\cdot y &= 120\n\\end{align*} Solving for $x$ in the first equation yields $x = y + 2$.\n\nSubstituting this into the second equation gives $(y + 2) \\cdot y = 120$, or $y^2 + 2y - 120 = 0$.\n\nThis quadratic equation factors into $(y + 12)(y-10) = 0$, so $y = 10$.\n\nGiven $y$, we can solve for $x$ to get $x = 12$, so $x + y = \\boxed{22}$.",
+    "socratic_questions": "1. Can you describe the correct operation for adding two positive integers?\n2. What might have led Juan to subtract instead of adding the integers?\n3. How can we determine the correct answer from Juan's result of 2?\n4. Can you describe the correct operation for multiplying two positive integers?\n5. What might have led Maria to multiply instead of adding the integers?\n6. How can we determine the correct answer from Maria's result of 120?\n7. How can we use Juan and Maria's mistakes to find the correct solution?\n8. Are there any other mistakes or alternative methods that could be relevant to solving this problem?"
+}

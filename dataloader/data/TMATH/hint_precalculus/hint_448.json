@@ -1,0 +1,7 @@
+{
+    "problem": "If the three points $(1,a,b),$ $(a,2,b),$ $(a,b,3)$ are collinear, what is the value of $a + b$?",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "Note that the $z$-coordinate of both $(1,a,b)$ and $(a,2,b)$ is $b,$ so the whole line must lie in the plane $z = b.$  Hence, $b = 3.$\n\nSimilarly, the $x$-coordinate of both $(a,2,b)$ and $(a,b,3)$ is $a,$ so the whole line must lie in the plane $x = a.$  Hence, $a = 1,$ so $a + b = \\boxed{4}.$",
+    "socratic_questions": "1. What does it mean for three points to be collinear? \n2. What condition must be satisfied for points to be collinear?\n3. Looking at the given points, what do you notice about the $z$-coordinates?\n4. How does the fact that the $z$-coordinates are the same help in determining the value of $b$?\n5. Can you explain why the line must lie in the plane $z = b$?\n6. If the line lies in the plane $z = b$, what can we conclude about the value of $b$?\n7. Looking at the given points, what do you notice about the $x$-coordinates?\n8. How does the fact that the $x$-coordinates are the same help in determining the value of $a$?\n9. Can you explain why the line must lie in the plane $x = a$?\n10. If the line lies in the plane $x = a$, what can we conclude about the value of $a$?\n11. Finally, what is the value of $a + b$ based on the determined values of $a$ and $b$?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "The average of 10 numbers is 85. If the numbers 70 and 76 are removed from the set of numbers, what is the average of the remaining numbers?",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "Let $S$ be the sum of the 10 numbers. Then the average of the 10 numbers is $\\frac{S}{10}$, so $\\frac{S}{10} = 85$, or $S = 850$. After 70 and 76 are removed, the sum of the remaining 8 numbers is $S - 70 - 76 = 850 - 70 - 76 = 704$. So the average of the remaining 8 numbers is $\\frac{704}{8} = \\boxed{88}$.",
+    "socratic_questions": "1. Can you explain what the average of a set of numbers means?\n2. How can we find the sum of the 10 numbers in this problem?\n3. Using the given information, what is the value of the sum of the 10 numbers?\n4. If we remove the numbers 70 and 76 from the set, what is the new sum of the remaining numbers?\n5. How did you calculate the new sum after removing 70 and 76?\n6. How many numbers are left after removing 70 and 76?\n7. What is the average of the remaining numbers? Can you show your calculations?\n8. What conclusion can you draw about the average of the remaining numbers based on your calculations?"
+}

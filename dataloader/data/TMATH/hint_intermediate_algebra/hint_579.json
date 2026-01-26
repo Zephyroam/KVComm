@@ -1,0 +1,7 @@
+{
+    "problem": "A line whose $y$-intercept is $(0,5)$ intersects the ellipse $9x^2 + 16y^2 = 144.$  Find all possible slopes of this line.",
+    "level": "Level 5",
+    "type": "Intermediate Algebra",
+    "solution": "The line is of the form $y = mx + 5.$  Substituting, we get\n\\[9x^2 + 16(mx + 5)^2 = 144.\\]Expanding, we get\n\\[(16m^2 + 9) x^2 + 160mx + 256 = 0.\\]For the line and ellipse to intersect, this quadratic must have a real root, which means that its discriminant is nonnegative:\n\\[(160m)^2 - 4(16m^2 + 9)(256) \\ge 0.\\]This reduces to $m^2 \\ge 1.$  Thus, the possible slopes are $m \\in \\boxed{(-\\infty,-1] \\cup [1,\\infty)}.$",
+    "socratic_questions": "1. What is the equation of the line we are considering, and what is the equation of the ellipse it intersects?\n2. What are we looking for in this problem, and how can we find it?\n3. How do we use the equation of the line to find the possible slopes?\n4. What must be true about the quadratic formed by substituting the equation of the line into the equation of the ellipse for the line to intersect the ellipse? \n5. How do we find the discriminant of the quadratic, and what does it tell us about the possible slopes?\n6. How do we use the discriminant to find the range of possible slopes, and what is the final solution for the problem? \n7. Can you think of any other ways to approach this problem or related problems involving lines and curves in a coordinate plane?"
+}

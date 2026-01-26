@@ -1,0 +1,7 @@
+{
+    "problem": "The graphs of $y = x^3 - 3x + 2$ and $x + 4y = 4$ intersect in the points $(x_1,y_1),$ $(x_2,y_2),$ and $(x_3,y_3).$  If $x_1 + x_2 + x_3 = A$ and $y_1 + y_2 + y_3 = B,$ compute the ordered pair $(A,B).$",
+    "level": "Level 4",
+    "type": "Intermediate Algebra",
+    "solution": "From $x + 4y = 4,$ $y = -\\frac{x}{4} + 1.$  Hence, the $x_i$ are the roots of\n\\[x^3 - 3x + 2 = -\\frac{x}{4} + 1.\\]Then by Vieta's formulas, $x_1 + x_2 + x_3 = 0,$ and\n\\[y_1 + y_2 + y_3 = -\\frac{x_1}{4} + 1 - \\frac{x_2}{4} + 1 - \\frac{x_3}{4} + 1 = -\\frac{x_1+x_2+x_3}{4}+3 = 3.\\]Hence, $(A,B) = \\boxed{(0,3)}.$",
+    "socratic_questions": "1. Can you describe the given problem in your own words?\n2. How many points do the graphs of the two equations intersect at? \n3. How can we find the values of $x_1$, $x_2$ and $x_3$?\n4. Can you explain how you arrived at the equation $x^3 - 3x + 2 = -\\frac{x}{4} + 1$?\n5. How can we use Vieta's formulas to solve for $x_1 + x_2 + x_3$?\n6. What is the equation for $y$ in terms of $x$? \n7. How can we use the equation for $y$ to determine the values of $y_1$, $y_2$ and $y_3$?\n8. Can you explain how we can use the values of $x_1 + x_2 + x_3$ and $y_1 + y_2 + y_3$ to compute $(A,B)$?\n9. Are there any other methods we could use to solve for $(A,B)$?\n10. How could we check our answer to make sure it is correct?"
+}

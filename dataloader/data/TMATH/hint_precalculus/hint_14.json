@@ -1,0 +1,7 @@
+{
+    "problem": "For real numbers $t,$ the point of intersection of the lines $x + 2y = 7t + 3$ and $x - y = 2t - 2$ is plotted.  All the plotted points lie on a line.  Find the slope of this line.",
+    "level": "Level 3",
+    "type": "Precalculus",
+    "solution": "Solving for $x$ and $y,$ we find\n\\[x = \\frac{11t - 1}{3}, \\quad y = \\frac{5t + 5}{3}.\\]From the first equation,\n\\[t = \\frac{3x + 1}{11}.\\]Then\n\\begin{align*}\ny &= \\frac{5t + 5}{3} \\\\\n&= \\frac{5 \\cdot \\frac{3x + 1}{11} + 5}{3} \\\\\n&= \\frac{5}{11} x + \\frac{20}{11},\n\\end{align*}Thus, the slope of the line is $\\boxed{\\frac{5}{11}}.$",
+    "socratic_questions": "1. Can you describe the first step to find the intersection point of the two lines?\n2. What methods do you know that can be used to solve a system of equations like this?\n3. If you choose to solve by elimination, what would be your next move? Why?\n4. How would you find the value of $t$ in terms of $x$ and $y$ in this system of equations?\n5. Based on the equation $t = \\frac{3x + 1}{11}$, what can you say about the relationship between $t$ and $x$?\n6. How is the slope of the line related to the coefficients of $x$ and $y$ in the original equations?\n7. Can you explain why all the plotted points lie on a line using the equations we derived?\n8. Can you think of any other equations or problems where similar thinking and steps might be useful?\n9. How would you interpret the slope of the line in the context of the problem?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "In triangle $ABC$, we have $\\angle A = 90^\\circ$ and $\\sin B = \\frac{4}{7}$.  Find $\\cos C$.",
+    "level": "Level 2",
+    "type": "Geometry",
+    "solution": "[asy]\n\npair A,B,C;\n\nA = (0,0);\n\nB = (4,0);\n\nC = (0,sqrt(33));\n\ndraw(A--B--C--A);\n\ndraw(rightanglemark(B,A,C,10));\n\nlabel(\"$A$\",A,SW);\n\nlabel(\"$B$\",B,SE);\n\nlabel(\"$C$\",C,N);\n\n[/asy]\n\nSince $\\triangle ABC$ is a right triangle, we have $\\sin B = \\frac{AC}{BC}$ and $\\cos C = \\frac{AC}{BC}$, so $\\cos C = \\sin B = \\boxed{\\frac47}$.",
+    "socratic_questions": "1. What is the significance of the given information in the problem?\n2. How does the fact that angle A is 90 degrees affect the relationships between the sides and angles in triangle ABC?\n3. Can you explain why the sine of angle B is equal to the ratio of the length of side AC to side BC?\n4. How can you use the given value of sin B (4/7) to determine the lengths of sides AC and BC?\n5. How does the relationship between the cosine of angle C and the ratio of side AC to side BC help us solve the problem?\n6. Can you think of any other methods or formulas that could be used to find the value of cos C in this particular scenario?\n7. How can we verify that our solution for cos C is correct?"
+}

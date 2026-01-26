@@ -1,0 +1,7 @@
+{
+    "problem": "The function $f(x)$ takes positive real numbers to real numbers, such that\n\\[xf(y) - yf(x) = f \\left( \\frac{x}{y} \\right)\\]for all positive real numbers $x$ and $y.$  Find all possible values of $f(100).$  Enter all possible values, separated by commas.",
+    "level": "Level 4",
+    "type": "Intermediate Algebra",
+    "solution": "Setting $x = y,$ we get\n\\[0 = f(1).\\]Setting $y = 1,$ we get\n\\[xf(1) - f(x) = f(x),\\]so $2f(x) = 0,$ which means $f(x) = \\boxed{0}$ for all $x.$  (Note that this function satisfies the given functional equation.)",
+    "socratic_questions": "1. Can you rewrite the given functional equation in terms of $f(x)$ and $f(y)$ only?\n2. Are there any restrictions or assumptions we can make about the values of $x$ and $y$ that would simplify the given functional equation or make it easier to work with?\n3. What happens if we set $x=y$ in the given functional equation? What conclusion can we draw from this?\n4. What happens if we set $y=1$ in the given functional equation? What conclusion can we draw from this?\n5. Can you show that $f(x) = 0$ for all positive real numbers $x$ satisfies the given functional equation? Is there any other function that can satisfy the given functional equation?\n6. Can you find any other possible values of $f(100)$ besides $0$? If not, why not?"
+}

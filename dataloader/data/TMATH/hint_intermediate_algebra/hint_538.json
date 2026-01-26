@@ -1,0 +1,7 @@
+{
+    "problem": "Is $f(x) = \\frac{3}{2x^{6}-5}$ an even function, odd function, or neither?\n\nEnter \"odd\", \"even\", or \"neither\".",
+    "level": "Level 1",
+    "type": "Intermediate Algebra",
+    "solution": "$$f(-x) = \\frac{3}{2(-x)^{6}-5} = \\frac{3}{2x^{6}-5} = f(x)$$Hence $f$ is $\\boxed{\\text{even}}.$",
+    "socratic_questions": "1. How would you define an even function?\n2. What can we say about a function when $f(-x) = f(x)$?\n3. Let's substitute $-x$ into the function $f(x)$. What do we get?\n4. If $f(-x) = f(x)$ for all values of $x$, what can we conclude about the function?\n5. How does the expression $2x^6$ change when we replace $x$ with $-x$?\n6. Can you simplify the expression $\\frac{3}{2x^6-5}$ after replacing $x$ with $-x$?\n7. What do you notice about the resulting expression and the original function $f(x)$?\n8. Based on our findings, what can we conclude about the symmetry of the function $f(x)$?\n9. Would you describe the function $f(x)$ as even, odd, or neither? Why?"
+}

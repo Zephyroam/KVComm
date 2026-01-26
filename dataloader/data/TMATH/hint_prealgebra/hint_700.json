@@ -1,0 +1,7 @@
+{
+    "problem": "What is the degree measure of an interior angle of a regular pentagon?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Any convex pentagon may be subdivided into three triangles, each with a total angle sum of 180 degrees. Thus, the sum of the interior angles of any convex pentagon is $3 \\times 180 = 540$ degrees. If the pentagon is regular, then each of its five angles will have the same measure of $540 \\div 5 = \\boxed{108\\text{ degrees}}$.",
+    "socratic_questions": "1. Can you describe what a regular pentagon is and how it is different from other polygons?\n2. What is the relationship between the number of sides in a regular polygon and the sum of its interior angles?\n3. How can we determine the sum of the interior angles of a convex pentagon using triangles?\n4. If we know the sum of the interior angles of a convex pentagon, how can we find the degree measure of each angle?\n5. What is the formula to calculate the sum of the interior angles of any convex polygon? How does it apply to a regular pentagon?\n6. Can you explain why the degree measure of each interior angle of a regular pentagon is equal?"
+}

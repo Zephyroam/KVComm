@@ -1,0 +1,7 @@
+{
+    "problem": "Two sides of a triangle measure 4 cm and 9 cm. What is the greatest integer number of centimeters that could be the third side of this triangle?",
+    "level": "Level 2",
+    "type": "Geometry",
+    "solution": "Using the Triangle Inequality, we see that the third side must be smaller than the sum of the first two sides, or 13 cm. That means the greatest integer number of centimeters for the third side is $\\boxed{12}.$",
+    "socratic_questions": "1. What is the Triangle Inequality and how does it relate to this problem?\n2. Can you explain why the third side of the triangle must be smaller than the sum of the other two sides?\n3. What is the given information about the triangle's sides? How can we use this information to find the possible range of the third side?\n4. How can we determine the greatest integer number of centimeters for the third side?\n5. Can you think of any other geometric principles or theorems that could help us solve this problem?\n6. Is there a way to generalize this problem for triangles with different side lengths?\n7. Can you think of any real-life situations where understanding the Triangle Inequality would be important?"
+}

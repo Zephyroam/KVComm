@@ -1,0 +1,7 @@
+{
+    "problem": "An ice cream cone has radius 1 inch and height 4 inches, What is the number of inches in the radius of a sphere of ice cream which has the same volume as the cone?",
+    "level": "Level 2",
+    "type": "Geometry",
+    "solution": "A cone with radius $r$ and height $h$ has volume $\\frac{1}{3}\\pi r^2 h$; here, our cone has volume $\\frac{1}{3}\\pi (1^2)(4)=\\frac{4}{3}\\pi$.  A sphere with radius $r$ has volume $\\frac{4}{3}\\pi r^3$, so we set up the equation \\[\\frac{4}{3}\\pi r^3=\\frac{4}{3}\\pi.\\] Solving for $r$ yields $r^3=1$, so $r = 1$.  The sphere's radius is $\\boxed{1}$ inch.",
+    "socratic_questions": "1. What is the formula for the volume of a cone and how is it related to the radius and height of the cone?\n2. How can we determine the volume of the given ice cream cone using the formula?\n3. What is the formula for the volume of a sphere and how is it related to its radius?\n4. Can we create an equation that relates the radius of the sphere with the volume of the sphere and the volume of the cone?\n5. What steps can we take to solve the equation and find the radius of the sphere that has the same volume as the given cone?\n6. Why is the radius of the sphere the same as the radius of the cone in this particular problem?\n7. Can you think of other geometric shapes where we can use a similar approach to find the dimensions of another shape with the same volume?"
+}

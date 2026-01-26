@@ -1,0 +1,7 @@
+{
+    "problem": "Let $x$ and $y$ be nonzero real numbers. Let $m$ and $M$ be the minimium value and maximum value of\n\\[\\frac{|x + y|}{|x| + |y|},\\]respectively.  Find $M - m.$",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "Both $|x + y|$ and $|x| + |y|$ are nonnegative, so $\\frac{|x + y|}{|x| + |y|}$ must be nonnegative.  When $x = 1$ and $y = -1,$\n\\[\\frac{|x + y|}{|x| + |y|} = \\frac{0}{2} = 0,\\]so this is clearly the minimum.\n\nOn the other hand, by the Triangle Inequality, $|x| + |y| \\ge |x + y|,$ so\n\\[\\frac{|x + y|}{|x| + |y|} \\le 1.\\]Equality occurs when $x = y,$ so the maximum is 1.\n\nTherefore, $M - m = 1 - 0 = \\boxed{1}.$",
+    "socratic_questions": "1. What are the minimum and maximum possible values of $\\frac{|x + y|}{|x| + |y|}$?\n2. What happens when $x$ and $y$ have the same sign? Can you find the corresponding value of $\\frac{|x + y|}{|x| + |y|}$?\n3. Can you prove that the minimum value is indeed 0? Similarly, can you prove that the maximum value is indeed 1?\n4. How does the Triangle Inequality come into play in determining the maximum value of $\\frac{|x + y|}{|x| + |y|}$?\n5. Can you think of any other geometric or algebraic interpretation of $\\frac{|x + y|}{|x| + |y|}$ that helps us understand its minimum and maximum values?\n6. Are there any applications of this concept in real-life scenarios? How can understanding this concept be beneficial in problem-solving?"
+}

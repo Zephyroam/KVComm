@@ -1,0 +1,7 @@
+{
+    "problem": "A teacher asks her class what the value of $\\left(5^2-4^2\\right)^3$ is.  What is the value of the expression?",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "Calculating, $(5^2 - 4^2)^3 = (25-16)^3 = 9^3 = \\boxed{729}$.",
+    "socratic_questions": "1. What is the given expression being asked to evaluate, and can you simplify it further?\n2. What are the values of $5^2$ and $4^2$ individually?\n3. How can we subtract $16$ from $25$ to find the value inside the parentheses?\n4. Why do we raise that difference to the power of $3$? What does that indicate?\n5. Can you calculate the value of $9^3$? If so, what is the result?\n6. How does this process align with the order of operations (BEDMAS/PEMDAS)?\n7. Can you think of any other expressions that involve similar steps and powers?\n8. How would you explain this problem and its solution to someone who is unfamiliar with exponents and order of operations?"
+}

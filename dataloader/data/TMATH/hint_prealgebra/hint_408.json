@@ -1,0 +1,7 @@
+{
+    "problem": "How many distinct three-digit numbers can be written with the digits $1$, $2$, $3$ and $4$ if no digit may be used more than once in a three-digit number?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "There are 4 choices for which number can be in the hundreds place.  For each possibility, there are 3 choices remaining for which number can be in the tens place, leaving 2 choices for the units place.  This gives a total of $4\\cdot 3\\cdot 2 = \\boxed{24}$ possible three-digit numbers.",
+    "socratic_questions": "1. How many digits are available to choose from?\n2. How many choices are there for the hundreds place digit?\n3. How many choices are there for the tens place digit, after the hundreds place digit has been chosen?\n4. How many choices are there for the units place digit, after the hundreds and tens place digits have been chosen?\n5. How can we determine the total number of distinct three-digit numbers based on the choices made for each place value?\n6. Can you describe the process of finding the total number of distinct three-digit numbers using the multiplication principle?\n7. Can we use any other mathematical principles or concepts to solve this problem?"
+}

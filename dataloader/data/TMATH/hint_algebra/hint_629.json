@@ -1,0 +1,7 @@
+{
+    "problem": "Given that $a$ and $b$ are positive integers and that $a+b=24$, what is the value of $ab$ if $2ab + 10a = 3b + 222$?",
+    "level": "Level 5",
+    "type": "Algebra",
+    "solution": "We begin by rewriting the equation as $2ab + 10a - 3b = 222$. We can then use Simon's Favorite Factoring Trick by subtracting 15 from both sides of the equation to get $2ab + 10a - 3b - 15 = 207$. This can be factored into $$(2a - 3)(b + 5) = 207$$We know that the prime factorization of $207 = 3^2 \\cdot 23$ and that both $a$ and $b$ are positive integers, so the only possible solutions $(a,b)$ are $$(a,b) = \\{(13,4),(6,18),(2,202),(3,64)\\}$$Out of these, only $(6,18)$ meets the requirement that $a+b=24$. Thus, $ab = \\boxed{108}$.",
+    "socratic_questions": "1. How can we start solving this problem? What is the first step we should take?\n2. What strategies or methods can we use to solve this type of equation involving positive integers?\n3. If we choose to isolate one variable, which one would be a good choice and why?\n4. Can we simplify the equation by factoring or manipulating it in some way?\n5. How can we rewrite the equation to make it easier to solve?\n6. How can we use the fact that $a+b=24$ to help us solve for the value of $ab$?\n7. Are there any other equations or problems that share similar characteristics and can be solved using similar steps and thinking?"
+}

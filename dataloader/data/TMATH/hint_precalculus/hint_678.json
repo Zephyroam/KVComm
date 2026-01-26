@@ -1,0 +1,7 @@
+{
+    "problem": "Compute\n\\[\\frac{\\tan^2 20^\\circ - \\sin^2 20^\\circ}{\\tan^2 20^\\circ \\sin^2 20^\\circ}.\\]",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "We have that\n\\begin{align*}\n\\frac{\\tan^2 20^\\circ - \\sin^2 20^\\circ}{\\tan^2 20^\\circ \\sin^2 20^\\circ} &= \\frac{\\frac{\\sin^2 20^\\circ}{\\cos^2 20^\\circ} - \\sin^2 20^\\circ}{\\frac{\\sin^2 20^\\circ}{\\cos^2 20^\\circ} \\cdot \\sin^2 20^\\circ} \\\\\n&= \\frac{\\sin^2 20^\\circ - \\cos^2 20^\\circ \\sin^2 20^\\circ}{\\sin^4 20^\\circ} \\\\\n&= \\frac{1 - \\cos^2 20^\\circ}{\\sin^2 20^\\circ} = \\boxed{1}.\n\\end{align*}",
+    "socratic_questions": "1. Can you describe the first step you would take to compute the expression?\n2. What trigonometric identities can you recognize in the expression?\n3. How can you express tan^2 20° in terms of sin^2 20° and cos^2 20°?\n4. How can you simplify sin^2 20° - cos^2 20° * sin^2 20°?\n5. What is the relationship between sin^2 20°, cos^2 20°, and 1?\n6. How can you simplify the expression further using this relationship?"
+}

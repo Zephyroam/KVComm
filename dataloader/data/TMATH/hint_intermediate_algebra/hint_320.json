@@ -1,0 +1,7 @@
+{
+    "problem": "Find all values of $x$ such that\n\\[3^x + 4^x + 5^x = 6^x.\\]",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "Note that $x = 3$ satisfies $3^x + 4^x + 5^x = 6^x.$  We prove that this is the only solution.\n\nDividing both sides by $6^x,$ we get\n\\[\\frac{3^x}{6^x} + \\frac{4^x}{6^x} + \\frac{5^x}{6^x} = 1.\\]Let\n\\[f(x) = \\left( \\frac{3}{6} \\right)^x + \\left( \\frac{4}{6} \\right)^x + \\left( \\frac{5}{6} \\right)^x.\\]Note that the function $f(x)$ is decreasing.  We know that $x = \\boxed{3}$ is a solution, so it is the unique solution.",
+    "socratic_questions": "1. What is the given equation? \n2. Can you simplify the equation by dividing both sides by $6^x$? What does the simplified equation look like? \n3. How would you define the function $f(x)$ in terms of the simplified equation? \n4. Is $f(x)$ an increasing or decreasing function? How do you know? \n5. How does the fact that $f(x)$ is decreasing help us show that $x=3$ is the only solution to the equation? \n6. Can you think of other equations where you could use a similar approach to find the unique solution?"
+}

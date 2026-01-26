@@ -1,0 +1,7 @@
+{
+    "problem": "Find the number of functions $f : \\mathbb{R} \\to \\mathbb{R}$ such that\n\\[f(x + f(y)) = x + y\\]for all real numbers $x$ and $y.$",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "Setting $x = -f(y),$ we get\n\\[f(0) = -f(y) + y,\\]so $f(y) = y - f(0)$ for all real numbers $x.$  Then the given functional equation becomes\n\\[f(x + y - f(0)) = x + y,\\]or $x + y - f(0) - f(0) = x + y.$  Then $f(0) = 0,$ so $f(x) = x$ for all real numbers $x.$  This function does satisfy the given functional equation, giving us $\\boxed{1}$ solution.",
+    "socratic_questions": "1. How can we begin to approach this problem? Can we make any initial assumptions or observations?\n2. If we substitute $x = -f(y)$ into the given functional equation, what does the equation simplify to? What does this tell us about $f(0)$?\n3. With the expression $f(y) = y - f(0)$, can we make any further deductions about the nature of the function $f(x)$?\n4. After substituting $f(0) = 0$ into the transformed functional equation, what is the resulting equation? What does this imply about the solution for $f(x)$?\n5. Can we verify that the function $f(x) = x$ satisfies the given functional equation? Does this provide us with any additional solutions?\n6. Are there any other types of functions or equations that exhibit similar characteristics or can be approached using similar reasoning?"
+}

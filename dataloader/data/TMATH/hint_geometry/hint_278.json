@@ -1,0 +1,7 @@
+{
+    "problem": "A right triangle with legs $10$ and $8$ is similar to another right triangle with corresponding legs $x$ and $5$, respectively. What is the value of $x$? Express your answer as a decimal to the nearest hundredth.",
+    "level": "Level 2",
+    "type": "Geometry",
+    "solution": "By similarity, we know that $\\frac{10}{x} = \\frac{8}{5}$, so therefore $x = \\frac{50}{8} = \\boxed{6.25}$.",
+    "socratic_questions": "1. What is the definition of geometric similarity? \n2. How do we determine if two figures are similar? \n3. What is the significance of corresponding sides and angles in similar figures? \n4. How does the concept of similarity relate to solving geometric problems? \n5. Can a triangle be similar to another triangle with different side lengths? Why or why not? \n6. How do we use proportional reasoning to solve problems involving similar figures? \n7. In this particular problem, what are the given measures of the triangles? \n8. How can we set up and solve an equation to find the length of $x$ in terms of the given measures? \n9. Why do we express the final answer as a decimal to the nearest hundredth? \n10. Can this concept of similarity be extended to other shapes, such as circles or polygons? How?"
+}

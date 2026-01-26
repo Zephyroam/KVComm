@@ -1,0 +1,7 @@
+{
+    "problem": "On the refrigerator, MATHCOUNTS is spelled out with 10 magnets, one letter per magnet. Two vowels and three consonants fall off and are put away in a bag. If the Ts are indistinguishable, how many distinct possible collections of letters could be put in the bag?",
+    "level": "Level 5",
+    "type": "Counting & Probability",
+    "solution": "Let's divide the problem into two cases: one where 0 or 1 T's fall off and one where both T's fall off:\n\n0 or 1 T's: \\[\\dbinom{3}{2}\\dbinom{6}{3}=3\\times20=60\\]\n\n2 T's: \\[\\dbinom{3}{2}\\dbinom{5}{1}=3\\times5=15\\]\n\nTotal: $60+15=\\boxed{75}$",
+    "socratic_questions": "1. Can you restate the problem in your own words? \n2. How many letters are there in the initial set? \n3. How many vowels and consonants are in the initial set? \n4. Why are the Ts indistinguishable in this problem? \n5. How many distinct possible collections of letters are there if no Ts fall off? \n6. Can you explain why we use the combination formula to calculate the number of distinct possible collections of letters in this problem? \n7. How did you calculate the number of distinct possible collections of letters when both T's fall off? \n8. Can you think of any other problems that use a similar approach to solve? \n9. How could you modify this problem to make it more challenging? \n10. What could you do to check your answer and make sure it is correct?"
+}

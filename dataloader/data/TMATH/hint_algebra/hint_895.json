@@ -1,0 +1,7 @@
+{
+    "problem": "The center of the circle with equation $x^2+y^2=4x+12y-39$ is the point $(h,k)$. What is $h+k$?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "We will complete the square to determine the standard form equation of the circle. Shifting all but the constant term from the RHS to the LHS, we have $x^2-4x+y^2-12y=-39$. Completing the square in $x$, we add $(-4/2)^2=4$ to both sides. Completing the square in $y$, we add $(-12/2)^2=36$ to both sides. The equation becomes \\begin{align*}\nx^2-4x+y^2-12y&=-39\\\\\n\\Rightarrow x^2-4x+4+y^2-12y+36&=1\\\\\n\\Rightarrow (x-2)^2+(y-6)^2&=1\n\\end{align*} Thus, the center of the circle is at point $(2,6)$ so $h+k=2+6=\\boxed{8}$.",
+    "socratic_questions": "1. Can you explain what the equation $x^2+y^2=4x+12y-39$ represents?\n2. How do you determine the center of a circle from its equation?\n3. What steps can you take to rewrite the equation in a form that helps identify the center of the circle?\n4. What technique can you use to complete the square in this equation and why is it useful?\n5. Once you have completed the square, how can you identify the coordinates of the center of the circle?\n6. Can you determine the values of $h$ and $k$ by comparing the completed square form of the equation with the equation of a circle centered at $(h, k)$?\n7. What are the values of $h$ and $k$ that you obtained, and how can you use them to find $h + k$?\n8. Can you think of other equations of circles that can be solved using similar steps and techniques?"
+}

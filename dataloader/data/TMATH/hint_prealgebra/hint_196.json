@@ -1,0 +1,7 @@
+{
+    "problem": "The length of a rectangular playground exceeds twice its width by 25 feet, and the perimeter of the playground is 650 feet. What is the area of the playground in square feet?",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "If the width of the rectangular playground is $w$, then the length is $2w + 25$. A perimeter of 650 feet means the semi-perimeter is 325 feet. The width plus the length equals the semi-perimeter, so $w + 2w + 25 = 325$. That means $3w = 300$, so $w = 100$ feet. The length must be $2 \\times 100 + 25 =\n225$. The area of the playground is $100 \\times 225 = \\boxed{22,500}$ square feet.",
+    "socratic_questions": "1. What is the problem asking us to find?\n2. Can you restate the problem in your own words?\n3. Can you identify the variables in the problem statement?\n4. What is the formula for the perimeter of a rectangle, and how does it relate to the width and length of the rectangle in this problem?\n5. How did you use the fact that the length exceeds twice the width by 25 feet to set up an equation?\n6. Can you explain why you divided the perimeter by 2 to get the semi-perimeter, and how you used this value in the equation?\n7. How did you solve the equation to find the width and length of the playground?\n8. How did you calculate the area of the rectangle, and what does this value represent?\n9. Can you think of another problem that involves finding the area of a rectangle and uses a similar problem-solving strategy?"
+}

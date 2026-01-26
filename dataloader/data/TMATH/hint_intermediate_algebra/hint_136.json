@@ -1,0 +1,7 @@
+{
+    "problem": "Find all roots of the polynomial $x^3+x^2-4x-4$. Enter your answer as a list of numbers separated by commas.",
+    "level": "Level 1",
+    "type": "Intermediate Algebra",
+    "solution": "By the Rational Root Theorem, any root of the polynomial must divide $4$. Therefore the roots are among the numbers $\\pm 1,2$. Since these are only four values, we can try all of them to find that that the roots are $\\boxed{-1,2,-2}$.",
+    "socratic_questions": "1. According to the Rational Root Theorem, what are the possible rational roots of the polynomial $x^3+x^2-4x-4$?\n2. How many possible rational roots are there in this case?\n3. Can you explain why we only need to consider the values $\\pm 1,2$ as possible roots?\n4. By testing the values $\\pm 1,2$ as roots, what do we find?\n5. Can you verify that $-1, 2,$ and $-2$ are indeed roots of the polynomial?\n6. How did you determine that these values are the roots?\n7. Can you express the roots as a list of numbers separated by commas?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "$B$ and $C$ trisect $\\overline{AD}$ and $M$ is the midpoint of $\\overline{AD}$. $MC = 8$. How many units are in the length of $\\overline{AD}$?",
+    "level": "Level 1",
+    "type": "Geometry",
+    "solution": "Since $MC = 8$ and $M$ is the midpoint of $\\overline{BC}$, we have $MB=MC = 8$, so $BC=8+8=16$.  Since $B$ and $C$ trisect $\\overline{AD}$, we have $AB = CD = BC = 16$, so $AD =16+16+16=\\boxed{48}$.",
+    "socratic_questions": "1. What does it mean for $B$ and $C$ to trisect $\\overline{AD}$?\n2. If $M$ is the midpoint of $\\overline{AD}$ and $MC = 8$, what can we conclude about the lengths of $\\overline{BM}$ and $\\overline{CM}$?\n3. What is the relationship between $\\overline{BM}$ and $\\overline{DC}$?\n4. How can we relate the lengths of $\\overline{BM}$, $\\overline{DC}$, and $\\overline{AD}$?\n5. Given that $\\overline{BC}$ is 16 units long, can we determine the lengths of $\\overline{BM}$, $\\overline{DC}$, and $\\overline{AD}$?\n6. How does the fact that $B$ and $C$ trisect $\\overline{AD}$ help us find the length of $\\overline{AD}$?\n7. Are there any other geometric principles or concepts we can apply to solve this problem?"
+}

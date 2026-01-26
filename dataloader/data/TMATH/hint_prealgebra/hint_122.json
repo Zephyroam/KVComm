@@ -1,0 +1,7 @@
+{
+    "problem": "Find the greatest common divisor of 75 and 360.",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "$75 = 3^1 \\cdot 5^2$ and $360 = 2^3 \\cdot 3^2 \\cdot 5^1$, so $\\gcd(75, 360) = 3^1 \\cdot 5^1 = \\boxed{15}$.",
+    "socratic_questions": "1. Can you explain what the greatest common divisor (GCD) means in terms of prime factorization?\n2. How can we find the prime factorization of 75 and 360?\n3. Based on the prime factorization, what is the highest power of each prime that appears in both numbers?\n4. How do we determine the GCD from the prime factorization?\n5. Looking at the prime factorization of 75 and 360, what is the GCD?\n6. Can you think of any other numbers where we can apply the same approach to find the GCD?"
+}

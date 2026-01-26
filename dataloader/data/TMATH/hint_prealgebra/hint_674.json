@@ -1,0 +1,7 @@
+{
+    "problem": "What digit $A$ will make the number $83A5$ divisible by $9$?",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "A number is divisible by $9$ if and only if the sum of its digits is also divisible by $9$.  So $9$ divides $8 + 3 + A + 5 = 16 + A$.  Here, the only digit that works is $A = \\boxed{2}$, which yields $16 + A = 18$.",
+    "socratic_questions": "1. What is the rule to determine whether a number is divisible by 9?\n2. How can we apply the rule to the number 83A5?\n3. What are the possible values of A that make 83A5 divisible by 9?\n4. Why does only one value of A work in this case?\n5. How can we verify that 83A5 is indeed divisible by 9 when A is 2?\n6. Can we apply the same rule to determine divisibility by 9 for other numbers? How would the process be similar or different?"
+}

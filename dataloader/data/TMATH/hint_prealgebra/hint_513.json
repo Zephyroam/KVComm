@@ -1,0 +1,7 @@
+{
+    "problem": "We have that $2a + 1 = 1$ and $b - a = 1.$ What is the value of $b$?",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "Since $2a + 1 = 1,$ we find that $2a = 0,$ so $a = 0.$ Therefore, $b - a = b - 0 = b = \\boxed{1}.$",
+    "socratic_questions": "1. What are the given equations in this problem and what is the unknown variable?\n2. Can you simplify the equation $2a + 1 = 1$? If so, what is the simplified form?\n3. What does $a = 0$ tell us about the value of $2a + 1$?\n4. How can we use the equation $b - a = 1$ to solve for the value of $b$?\n5. Can we substitute the value of $a$ into the equation $b - a = 1$ to obtain an expression for $b$? If so, what is that expression?\n6. What is the value of $b$ that satisfies the equations $2a + 1 = 1$ and $b - a = 1$?\n7. Can we check our solution for $b$ by plugging in the values of $a$ and $b$ into the original equations?"
+}

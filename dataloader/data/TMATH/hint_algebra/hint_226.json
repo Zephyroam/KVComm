@@ -1,0 +1,7 @@
+{
+    "problem": "The two lines $y = 4x - 19$ and $2x+y = 95$ intersect. What is the value of $x$ at the point of intersection?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "At the intersection of two lines, the $x$'s are equal and the $y$'s are equal. We may set $4x - 19 = 95 - 2x$ to find an $x$, where the $y$'s are equal.\n\n\\begin{align*}\n4x - 19 &= 95 - 2x \\\\\n6x &= 114 \\\\\nx &= \\boxed{19}.\n\\end{align*}",
+    "socratic_questions": "1. Can you explain what it means for two lines to intersect? \n2. How can we determine the point of intersection between two lines algebraically? \n3. What method would you choose to find the point of intersection in this specific scenario? \n4. What steps would you take to solve the system of equations created by the two lines? \n5. Can you explain why we often solve systems of equations by substitution or elimination? \n6. How can we use the given equations to eliminate one variable and solve for the other? \n7. Can you show the step-by-step process of eliminating a variable and solving for the other in this example? \n8. Once you have found the value of one variable, how can you use it to find the value of the other variable? \n9. What is the value of x at the point of intersection of the two lines? \n10. Can you explain the significance or interpretation of the value of x at the point of intersection?"
+}

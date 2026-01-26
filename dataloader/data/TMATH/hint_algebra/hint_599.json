@@ -1,0 +1,7 @@
+{
+    "problem": "Factor $t^2-121$.",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "We have $t^2 -121 = t^2 - 11^2 = \\boxed{(t-11)(t+11)}$.",
+    "socratic_questions": "1. How would you describe the first step in factoring the expression $t^2-121$?\n2. Are you familiar with any techniques or methods for factoring quadratic expressions like this one? What are they?\n3. If you choose to use the difference of squares method to factorize this expression, what do you need to identify in order to apply this method?\n4. What makes this expression a candidate for the difference of squares method? Are there any specific characteristics that indicate this method would work?\n5. What are the factors you found for this expression, and how can you verify that your factors are correct?\n6. Can you think of any other types of quadratic expressions that may require similar thinking and steps to be factored?"
+}

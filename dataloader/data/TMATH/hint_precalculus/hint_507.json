@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\begin{pmatrix} 2 & 0 \\\\ 5 & -3 \\end{pmatrix} \\begin{pmatrix} 8 & -2 \\\\ 1 & 1 \\end{pmatrix}.$",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "We have that\n\\[\\begin{pmatrix} 2 & 0 \\\\ 5 & -3 \\end{pmatrix} \\begin{pmatrix} 8 & -2 \\\\ 1 & 1 \\end{pmatrix} = \\begin{pmatrix} (2)(8) + (0)(1) & (2)(-2) + (0)(1) \\\\ (5)(8) + (-3)(1) & (5)(-2) + (-3)(1) \\end{pmatrix} = \\boxed{\\begin{pmatrix} 16 & -4 \\\\ 37 & -13 \\end{pmatrix}}.\\]",
+    "socratic_questions": "1. What exactly are we being asked to do in this problem?\n2. How can we compute the product of two matrices? Can you describe the steps involved?\n3. What are the dimensions of the two matrices in this problem? How does that affect the computation?\n4. How do we determine the entries of the resulting matrix? Can you explain the process?\n5. Can you compute the individual entries of the resulting matrix for this specific problem? Show your work.\n6. Are there any special properties or rules that we can use to simplify the computation? If so, can you identify and apply them?\n7. Can you think of any real-life applications or scenarios where matrix multiplication is used?"
+}

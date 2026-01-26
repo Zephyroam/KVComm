@@ -1,0 +1,7 @@
+{
+    "problem": "Find the coefficient of $x^3$ when $3(x^2 - x^3+x) +3(x +2x^3- 3x^2 + 3x^5+x^3) -5(1+x-4x^3 - x^2)$ is simplified.",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "The $x^3$ term is gotten by adding the cubic terms of each of the expressions in the sum.  These cubic terms are  \\[3(-x^3)+3(2x^3+x^3)-5(-4x^3)=(-3+9+20)x^3=26x^3.\\]The coefficient of $x^3$ is $\\boxed{26}$.",
+    "socratic_questions": "1. Can you identify the terms with $x^3$ in the given expression?\n2. How can you simplify each term separately? Can you express each term in standard form?\n3. What are the coefficients of $x^3$ in each individual term?\n4. How can you combine the coefficients of $x^3$ from each term to find the overall coefficient?\n5. Are there any like terms involving $x^3$ that can be combined?\n6. Can you simplify the expression completely and identify the coefficient of $x^3$?"
+}

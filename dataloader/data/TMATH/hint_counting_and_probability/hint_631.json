@@ -1,0 +1,7 @@
+{
+    "problem": "A board game spinner is divided into four regions labeled $A$, $B$, $C$, and $D$.  The probability of the arrow stopping on region $A$ is $\\frac{3}{8}$, the probability of it stopping in $B$ is $\\frac{1}{4}$, and the probability of it stopping in region $C$ is equal to the probability of it stopping in region $D$. What is the probability of the arrow stopping in region $C$?  Express your answer as a common fraction.",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "Let $x$ be the probability that we want. Since the sum of the four probabilities is 1, we have the equation $1 = \\frac{3}{8} + \\frac{1}{4} + x + x = \\frac{5}{8} + 2x$.  Solving the equation $1=\\frac{5}{8} + 2x$ gives $x=\\boxed{\\frac{3}{16}}$.",
+    "socratic_questions": "1. What is the total number of regions on the board game spinner?\n2. What are the probabilities of the arrow stopping in regions $A$, $B$, $C$, and $D$?\n3. How can we express the total probability of the arrow landing in these four regions?\n4. Can you write an equation to represent the total probability?\n5. How can we simplify the equation by combining like terms?\n6. What does the simplified equation tell us about the total probability?\n7. What value does $x$ represent in the equation, and what is the significance of this value?\n8. How can we solve the equation to find the value of $x$?\n9. What is the final answer to the problem?"
+}

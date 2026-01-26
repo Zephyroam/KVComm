@@ -1,0 +1,7 @@
+{
+    "problem": "Find the units digit of $7 \\cdot 17 \\cdot 1977 - 7^3$",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "Since the units digits of $7 \\cdot 17 \\cdot 1977$ and $7^3$ are the same, their difference has a units digit of $\\boxed{0}$.",
+    "socratic_questions": "1. Can you identify the operations involved in the expression $7 \\cdot 17 \\cdot 1977 - 7^3$? \n2. What is the significance of the units digit in this problem? Why is it important to find the units digit of the expression?\n3. How can you determine the units digit of the product $7 \\cdot 17 \\cdot 1977$? Are there any patterns or properties that can help in finding the units digit?\n4. What is the value of $7^3$ and how does it relate to the units digit?\n5. In subtraction, what happens when the units digits of the minuend and the subtrahend are the same?\n6. What is the units digit of the difference between the product and the cube?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Our club has 10 members, and wishes to pick a president, secretary, treasurer, and morale officer.  In how many ways can we choose the officers, if individual members can only hold at most one office?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "The president can be any of the 10 members, the secretary can be any of the 9 remaining members, the treasurer can be any of the remaining 8 members, and the morale officer can be any of the remaining 7 members. There are $10\\times 9\\times 8\\times7=\\boxed{5,\\!040}$ ways.",
+    "socratic_questions": "1. How many members are in the club?\n2. How many different offices need to be filled?\n3. Can the same person hold multiple offices?\n4. How many options are there for selecting a president?\n5. After a president is selected, how many options are left for selecting a secretary?\n6. And after a president and secretary are selected, how many options remain for selecting a treasurer?\n7. Finally, after a president, secretary, and treasurer are chosen, how many options are there for selecting a morale officer?\n8. Why do we multiply the number of options at each step?\n9. Can you think of any other scenarios or problems where a similar process of selecting individuals can be applied?\n10. Are there any restrictions or additional conditions that might change the number of ways to choose the officers?"
+}

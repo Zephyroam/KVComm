@@ -1,0 +1,7 @@
+{
+    "problem": "Find the greatest common divisor of 9,009 and 14,014.",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "There is a pattern here: we notice that $9009 = 9000 + 9 = 9 \\times 1000 + 9 \\times 1 = 9 \\times 1001$, while similarly $14,014 = 14 \\times 1001$. Since $9$ and $14$ have no factors in common, it follows that the greatest common factor of $9,009$ and $14,014$ is $\\boxed{1001}$.",
+    "socratic_questions": "1. Can you describe the first step in finding the greatest common divisor of 9,009 and 14,014?\n2. What is the pattern that we notice in the numbers 9,009 and 14,014?\n3. How did we break down 9,009 into its prime factors?\n4. How did we break down 14,014 into its prime factors?\n5. What is the significance of the common factor we found in the prime factorization of both numbers?\n6. How did we determine that the greatest common divisor of 9,009 and 14,014 is 1001?\n7. Can you think of any other numbers where you can apply a similar pattern to find the greatest common divisor?"
+}

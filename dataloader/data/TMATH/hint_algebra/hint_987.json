@@ -1,0 +1,7 @@
+{
+    "problem": "If the roots of the quadratic equation $\\frac32x^2+11x+c=0$ are $x=\\frac{-11\\pm\\sqrt{7}}{3}$, then what is the value of $c$?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "By the quadratic formula, the roots of the equation are $$x=\\frac{-(11)\\pm\\sqrt{(11)^2-4(\\frac32)c}}{2(\\frac32)},$$which simplifies to $$x=\\frac{-11\\pm\\sqrt{121-6c}}{3}.$$This looks exactly like our target, except that we have to get the $121-6c$ under the square root to equal $7$. So, we solve the equation $121-6c=7$, which yields $c=\\boxed{19}$.",
+    "socratic_questions": "1. Can you first analyze the given quadratic equation and determine its coefficient values of $a$, $b$, and $c$?\n2. How can the roots of a quadratic equation be determined from its coefficients? \n3. Can you apply the quadratic formula to the given equation and show how it leads to the given roots $x=\\frac{-11\\pm\\sqrt{7}}{3}$?\n4. What can you deduce about the discriminant of the quadratic equation based on the given roots? How does the discriminant affect the number and nature of the solutions?\n5. Using the quadratic formula, can you express the general formula for the roots of a quadratic equation with coefficients $a$, $b$, and $c$? What role does the discriminant play in this formula?\n6. Given that the discriminant of the quadratic equation $\\frac32x^2+11x+c=0$ is $7$, what can you conclude about the value of $c$? How can you use this information to solve the problem?"
+}

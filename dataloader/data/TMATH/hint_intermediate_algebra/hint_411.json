@@ -1,0 +1,7 @@
+{
+    "problem": "If $x^2 + \\frac{1}{x^2} = A,$ and $x - \\frac{1}{x} = B,$ where $A$ and $B$ are positive numbers, find the minimum possible numerical value for $\\frac{A}{B}.$",
+    "level": "Level 5",
+    "type": "Intermediate Algebra",
+    "solution": "Note that\n\\[B^2 = \\left( x - \\frac{1}{x} \\right)^2 = x^2 - 2 + \\frac{1}{x^2} = A - 2,\\]so\n\\[\\frac{A}{B} = \\frac{B^2 + 2}{B} = B + \\frac{2}{B}.\\]By AM-GM,\n\\[B + \\frac{2}{B} \\ge 2 \\sqrt{B \\cdot \\frac{2}{B}} = 2 \\sqrt{2}.\\]Equality occurs when $x - \\frac{1}{x} = \\sqrt{2}$ (which has $x = \\frac{1 + \\sqrt{3}}{\\sqrt{2}}$ as a root), so the minimum value is $\\boxed{2 \\sqrt{2}}.$",
+    "socratic_questions": "1. Can you describe the given equations and what we are trying to find?\n2. What is the relationship between $A$ and $B$ in the given equations?\n3. How can we express $B$ in terms of $A$ using the given equations?\n4. Can you simplify the expression $\\frac{A}{B}$ using the relationship derived in question 3?\n5. Are there any constraints on the values of $A$ and $B$?\n6. Based on the simplified expression, what would be the minimum numerical value of $\\frac{A}{B}$?\n7. How can we apply the AM-GM inequality to find the minimum value of $\\frac{A}{B}$?\n8. Can you explain why the minimum value occurs when $x - \\frac{1}{x} = \\sqrt{2}$?\n9. Can you calculate the numerical value of $\\frac{A}{B}$ when $x - \\frac{1}{x} = \\sqrt{2}$?\n10. How does this minimum value relate to the given problem? Can you draw any conclusions?"
+}

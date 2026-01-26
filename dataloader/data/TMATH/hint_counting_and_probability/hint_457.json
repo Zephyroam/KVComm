@@ -1,0 +1,7 @@
+{
+    "problem": "Determine the number of ways to arrange the letters of the word TARTAR.",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "First we count the arrangements if all the letters are unique, which is $6!$. Then since the T's, A's, and the R's are not unique, we divide by $2!$ thrice for the arrangements of T's, A's, and R's, for an answer of $\\dfrac{6!}{2! \\times 2! \\times 2!} = \\dfrac{720}{8} = \\boxed{90}$.",
+    "socratic_questions": "1. How would you describe the problem statement in your own words?\n2. Can you explain what it means for the letters to be arranged?\n3. If all the letters were unique, how many different arrangements would there be?\n4. Why do we divide by $2!$ three times for the arrangements of the T's, A's, and R's?\n5. Can you explain why we use a factorial in the denominator?\n6. What does the result $\\frac{720}{8}$ represent in the context of the problem?"
+}

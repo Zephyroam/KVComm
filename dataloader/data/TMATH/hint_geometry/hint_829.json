@@ -1,0 +1,7 @@
+{
+    "problem": "The figure shown is a cube. The distance between vertices $B$ and $G$ is $5\\sqrt{2}$ units. What is the volume of the cube, in cubic units?\n\n[asy]\n\nsize(3cm,3cm);\n\npair A,B,C,D,a,b,c,d;\n\nA=(0,0);\nB=(1,0);\nC=(1,1);\nD=(0,1);\n\ndraw(A--B--C--D--A);\n\na=(-0.25,0.1);\nb=D+(A+a);\nc=C+(A+a);\n\ndraw(A--a);\n\ndraw(D--b);\n\ndraw(C--c);\n\ndraw(a--b--c);\n\ndraw(A--b,1pt+dotted);\n\nlabel(\"$B$\",b,W);\nlabel(\"$G$\",A,NE);\n\ndot(A);\ndot(b);\n\n[/asy]",
+    "level": "Level 2",
+    "type": "Geometry",
+    "solution": "$BG$ is a diagonal along one face of the cube. Since this diagonal splits the square face into two $45-45-90$ triangles, the diagonal is $\\sqrt{2}$ times longer than a side of the square, so a side of the square measures $5\\sqrt{2}/\\sqrt{2}=5$ units. Thus, the volume of the cube is $5^3=\\boxed{125}$ cubic units.",
+    "socratic_questions": "1. What is the given information in this problem?\n2. How can we determine the length of a side of the square face given the diagonal length BG?\n3. What type of triangles are formed when the diagonal splits the square face?\n4. How can we find the length of a side of the square using the properties of these triangles?\n5. What is the formula to calculate the volume of a cube?\n6. How can we use the side length of the square to find the volume of the cube?\n7. Can you calculate the volume of the cube using the information we have gathered?"
+}

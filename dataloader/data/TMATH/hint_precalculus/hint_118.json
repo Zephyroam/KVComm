@@ -1,0 +1,7 @@
+{
+    "problem": "Compute\n\\[\\begin{pmatrix} 1 & 1 & -2 \\\\ 0 & 4 & -3 \\\\ -1 & 4 & 3 \\end{pmatrix} \\begin{pmatrix} 2 & -2 & 0 \\\\ 1 & 0 & -3 \\\\ 4 & 0 & 0 \\end{pmatrix}.\\]",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "We have that\n\\[\\begin{pmatrix} 1 & 1 & -2 \\\\ 0 & 4 & -3 \\\\ -1 & 4 & 3 \\end{pmatrix} \\begin{pmatrix} 2 & -2 & 0 \\\\ 1 & 0 & -3 \\\\ 4 & 0 & 0 \\end{pmatrix} = \\boxed{\\begin{pmatrix} -5 & -2 & -3 \\\\ -8 & 0 & -12 \\\\ 14 & 2 & -12 \\end{pmatrix}}.\\]",
+    "socratic_questions": "1. What is the definition of matrix multiplication?\n2. How many rows and columns are in the first matrix? How about the second matrix? \n3. What is the process of computing the element in the first row and first column of the output matrix? How about the second row and third column? \n4. What is the meaning of each element in the output matrix? \n5. Can you explain why the dimension of the output matrix is (3, 3)? \n6. How would you check if the computation is correct? \n7. Can you think of any other application of matrix multiplication?"
+}

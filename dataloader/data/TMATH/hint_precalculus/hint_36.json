@@ -1,0 +1,7 @@
+{
+    "problem": "Simplify\n\\[\\frac{\\sin{10^\\circ}+\\sin{20^\\circ}}{\\cos{10^\\circ}+\\cos{20^\\circ}}.\\]Enter your answer is a trigonometric function evaluated at an integer, such as \"sin 7\".  (The angle should be positive and as small as possible.)",
+    "level": "Level 3",
+    "type": "Precalculus",
+    "solution": "From the product-to-sum identities,\n\\[\\frac{\\sin{10^\\circ}+\\sin{20^\\circ}}{\\cos{10^\\circ}+\\cos{20^\\circ}} = \\frac{2 \\sin 15^\\circ \\cos (-5^\\circ)}{2 \\cos 15^\\circ \\cos(-5^\\circ)} = \\frac{\\sin 15^\\circ}{\\cos 15^\\circ} = \\boxed{\\tan 15^\\circ}.\\]",
+    "socratic_questions": "1. How can we simplify the given expression \\[\\frac{\\sin{10^\\circ}+\\sin{20^\\circ}}{\\cos{10^\\circ}+\\cos{20^\\circ}}\\] using trigonometric identities?\n2. What is the product-to-sum identity? How can we apply it in this problem?\n3. How do we rewrite the expression using the product-to-sum identity?\n4. What can we cancel out in the numerator and denominator after applying the product-to-sum identity?\n5. What is the final simplified expression?\n6. What trigonometric function is the simplified expression equivalent to?\n7. What is the angle in the trigonometric function and why should it be positive and as small as possible?\n8. What is the final answer in the requested format, using the function mentioned and an integer angle?"
+}

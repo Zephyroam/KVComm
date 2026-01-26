@@ -1,0 +1,7 @@
+{
+    "problem": "If\n\\[\\tan x = \\frac{2ab}{a^2 - b^2},\\]where $a > b > 0$ and $0^\\circ < x < 90^\\circ,$ then find $\\sin x$ in terms of $a$ and $b.$",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "We can construct a right triangle with legs $a^2 - b^2$ and $2ab.$  Then by Pythagoras, the hypotenuse is\n\\[\\sqrt{(a^2 - b^2)^2 + (2ab)^2} = \\sqrt{a^4 + 2a^2 b^2 + b^4} = a^2 + b^2.\\][asy]\nunitsize(1.5 cm);\n\npair A, B, C;\n\nA = (2,1.8);\nB = (0,0);\nC = (2,0);\n\ndraw(A--B--C--cycle);\ndraw(rightanglemark(A,C,B,5));\n\nlabel(\"$x$\", B + (0.5,0.2));\nlabel(\"$a^2 - b^2$\", (B + C)/2, S);\nlabel(\"$2ab$\", (A + C)/2, E);\nlabel(\"$a^2 + b^2$\", (A + B)/2, NW);\n[/asy]\n\nHence,\n\\[\\sin x = \\boxed{\\frac{2ab}{a^2 + b^2}}.\\]",
+    "socratic_questions": "1. What is the given equation and what is the desired quantity to find?\n2. Can you rewrite $\\tan x$ in terms of the opposite and adjacent sides of a right triangle?\n3. What side lengths can we associate with $2ab$ and $a^2 - b^2$ in the context of a right triangle?\n4. How can we use the Pythagorean theorem to relate $a^2 + b^2$ to the side lengths of this right triangle?\n5. Can you write an expression for $\\sin x$ in terms of the side lengths above?\n6. How does the requirement that $a > b > 0$ and $0^\\circ < x < 90^\\circ$ constrain the possible values of the sides of the right triangle, and what implications does this have for our answer?"
+}

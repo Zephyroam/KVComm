@@ -1,0 +1,7 @@
+{
+    "problem": "The scores on a $110$-point test were organized in the stem-and-leaf plot shown. $9 | 6$ represents $96$ points. What is the mode of the scores? \\begin{tabular}{c|lllllll}\n\\multicolumn{8}{c}{\\underline{Points on the Test}}\\\\\n5 &0 & 0 & & & & &\\\\\n6 &3 & & & & & &\\\\\n7 &7 & 8 & & & & &\\\\\n8 &2 & 6 & 7 & 9 & 9 & 9 & 9\\\\\n9 &1 & 4 & 4 & 4 & 6 & &\\\\\n10 &0 & 0 & 0 & & & &\\\\\n\\end{tabular}",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "In the fourth row, the digit $9$ appears $4$ times. This is the greatest number of appearances of a digit in any row, so the mode is $\\boxed{89}.$",
+    "socratic_questions": "1. Can you explain what the stem-and-leaf plot is used for in organizing test scores?\n2. What do the numbers in each row of the stem-and-leaf plot represent?\n3. How can you determine the frequency of a particular score from the stem-and-leaf plot?\n4. Which row in the stem-and-leaf plot has the highest frequency for a particular digit, and what does that tell us about the mode?\n5. Can you explain why the mode is determined by the row with the highest frequency of a particular digit rather than just the digit itself?\n6. If there were multiple rows with the same highest frequency, how would you determine the mode in that case?\n7. How would you use the stem-and-leaf plot to find the median or mean of the scores?\n8. Are there any limitations or drawbacks to using a stem-and-leaf plot to organize test scores?"
+}

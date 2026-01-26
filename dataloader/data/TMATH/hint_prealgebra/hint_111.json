@@ -1,0 +1,7 @@
+{
+    "problem": "Find $(21 \\div (6 + 1 - 4)) \\cdot 5.$",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "Recall that expressions within parentheses should be done first. In the inner set of parentheses, we have $6+1-4=3.$ So, the outer set of parentheses can be rewritten as $21\\div3=7.$ Finally, \\[(21 \\div (6 + 1 - 4)) \\cdot 5=7\\cdot5=\\boxed{35}.\\]",
+    "socratic_questions": "1. How would you describe the first step in solving the expression?\n2. Why is it important to perform the calculations within the inner set of parentheses first? What happens if we ignore them?\n3. How would you simplify the inner set of parentheses? What is the result?\n4. What do you notice about the value of $21 \\div 3$ obtained after simplifying the inner set of parentheses? How does it relate to the original expression?\n5. What operation should be performed next to simplify the expression further?\n6. Can you explain why multiplying $7$ by $5$ gives us the final result for the expression?\n7. Are there alternative ways to simplify the expression that yield the same result?\n8. Can you think of a similar expression where the order of operations would lead to a different result if not followed correctly?"
+}

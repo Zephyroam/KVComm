@@ -1,0 +1,7 @@
+{
+    "problem": "How many prime numbers between 30 and 65 have a prime remainder when divided by 10?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "If a prime number between 30 and 65 has a prime remainder when divided by 10, it must end in 3 or 7, since any number greater than 10 ending in 2 or 5 is composite.  Systemically checking all possibilities, we see that the only such primes are 37, 43, 47, and 53, which gives us a total of $\\boxed{4}$ such numbers.",
+    "socratic_questions": "1. How do you define a prime number?\n2. Can you describe the concept of a remainder when dividing one number by another?\n3. What is the significance of a prime remainder when dividing a prime number between 30 and 65 by 10?\n4. How many prime numbers exist between 30 and 65?\n5. How does knowing that a prime number must end in 3 or 7 when it has a prime remainder when divided by 10 help you solve this problem?\n6. Can you list the possible prime numbers that fit the given criteria?\n7. How can you verify that each of these possible prime numbers is in fact a prime number?\n8. How many prime numbers between 30 and 65 have a prime remainder when divided by 10?"
+}

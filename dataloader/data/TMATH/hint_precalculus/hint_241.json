@@ -1,0 +1,7 @@
+{
+    "problem": "If $\\|\\mathbf{a}\\| = 3$ and $\\|\\mathbf{b}\\| = 6,$ then find $(\\mathbf{a} + \\mathbf{b}) \\cdot (\\mathbf{a} - \\mathbf{b}).$",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "Expanding the dot product, we get\n\\begin{align*}\n(\\mathbf{a} + \\mathbf{b}) \\cdot (\\mathbf{a} - \\mathbf{b}) &= (\\mathbf{a} + \\mathbf{b}) \\cdot \\mathbf{a} - (\\mathbf{a} + \\mathbf{b}) \\cdot \\mathbf{b} \\\\\n&= \\mathbf{a} \\cdot \\mathbf{a} + \\mathbf{b} \\cdot \\mathbf{a} - \\mathbf{a} \\cdot \\mathbf{b} - \\mathbf{b} \\cdot \\mathbf{b} \\\\\n&= \\mathbf{a} \\cdot \\mathbf{a} - \\mathbf{b} \\cdot \\mathbf{b} \\\\\n&= \\|\\mathbf{a}\\|^2 - \\|\\mathbf{b}\\|^2 \\\\\n&= 3^2 - 6^2 = \\boxed{-27}.\n\\end{align*}",
+    "socratic_questions": "1. Can you explain what the dot product of two vectors represents?\n2. Given that the magnitudes of vectors a and b are 3 and 6 respectively, what is the geometric interpretation of these magnitudes?\n3. How can we find the dot product of (a + b) and (a - b)? Which properties of the dot product can we apply in this situation?\n4. Can you expand the dot product expression using the distributive property?\n5. What do the terms involving the dot product of vector a with itself and vector b with itself simplify to?\n6. How can we evaluate these dot products using the given magnitudes of vectors a and b?\n7. What is the final value of the dot product (a + b) · (a - b)? Can you explain why we obtain this result?"
+}

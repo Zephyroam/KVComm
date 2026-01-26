@@ -1,0 +1,7 @@
+{
+    "problem": "How many degrees are in each interior angle of a regular hexagon?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "The sum of the angle measures in a hexagon is $180(6-2) = 720$ degrees.  The angles of a regular hexagon are congruent, so each measures $720^\\circ/6 = \\boxed{120^\\circ}$.",
+    "socratic_questions": "1. Can you define what a regular hexagon is and what its characteristics are?\n2. How many total degrees are in the interior angles of any polygon? \n3. Can you explain how to find the sum of the angle measures in a hexagon? \n4. Why are all of the interior angles of a regular hexagon congruent? \n5. Using the formula for the sum of angle measures in a polygon and what we know about regular hexagons, how can we determine the measure of each interior angle? \n6. Can you apply this same method to find the measure of each interior angle in a regular octagon or decagon?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Find $1-0.\\overline{9}.$",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "First, we convert $0.\\overline{9}$ to fraction form. Let $a=0.\\overline{9}.$ Multiply both sides of this equation by $10$ to get $10a=9.\\overline{9}.$ Subtracting the left-hand sides $10a$ and $a$ as well as the right-hand sides $9.\\overline{9}$ and $0.\\overline{9}$ yields $9a=9$, which implies that $a=1.$ So, \\begin{align*}1-0.\\overline{9} &= 1-a\\\\ &= 1-1\\\\ &= \\boxed{0}.\\end{align*}",
+    "socratic_questions": "1. What is the value of $0.\\overline{9}$ expressed as a fraction?\n2. How do we convert $0.\\overline{9}$ to fraction form using algebraic manipulation? \n3. What is the relationship between $0.\\overline{9}$ and $1$? \n4. How do we determine the value of $1-0.\\overline{9}$ using the previous observations? \n5. Can you think of other examples where expressing repeating decimals as fractions can be useful in problem solving? \n6. How does this process relate to the concept of limits and convergence in calculus?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Find the value of $h$ such that the following equation in base $h$ is true: $$\\begin{array}{c@{}c@{}c@{}c@{}c@{}c} &&6&4&5&3_h\\\\ &+&7&5&1&2_h\\\\ \\cline{2-6} &1&6&1&6&5_h.\\\\ \\end{array}$$",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "The two rightmost columns do not result in any carrying; however, in the third column there is a residue of $1$. Subtracting $1$ from the sum of $4$ and $5$, we see that $h$ is $\\boxed{8}$.",
+    "socratic_questions": "1. Can you explain what is meant by \"base $h$\" in this equation? \n2. How many possible values of $h$ are there in this problem? \n3. Why is it important to note that the two rightmost columns do not require carrying? \n4. Why is there a residue of $1$ in the third column of the solution? \n5. Can you describe the process of subtracting $1$ from the sum of $4$ and $5$ and why it leads to the value of $h$? \n6. Can you think of any other examples where the concept of base is important in solving a problem?"
+}

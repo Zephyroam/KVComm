@@ -1,0 +1,7 @@
+{
+    "problem": "What is the units digit of $\\frac{20 \\cdot 21 \\cdot 22 \\cdot 23 \\cdot 24 \\cdot 25}{1000}$?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "$\\frac{20\\cdot 21\\cdot 22\\cdot 23\\cdot 24\\cdot 25}{1000} = \\frac{2^2\\cdot 5\\cdot 21\\cdot 2\\cdot 11\\cdot 23\\cdot 2^3\\cdot 3\\cdot 5^2}{2^3\\cdot 5^3} = 2^3\\cdot 3\\cdot 21 \\cdot 11\\cdot 23 \\equiv 2^3\\cdot 3^2 \\pmod{10} \\equiv \\boxed{2}\\pmod{10}$.",
+    "socratic_questions": "1. What is the given expression that we want to evaluate and what is its simplified form?\n2. How can we simplify the expression to better understand the units digit?\n3. What are the different ways to determine the units digit of a number?\n4. How do we find the units digit of a product of numbers?\n5. Can we use divisibility rules or patterns to simplify the calculation of the units digit?\n6. How can modular arithmetic help us determine the units digit?\n7. What is the significance of the units digit in number theory and mathematical calculations?"
+}

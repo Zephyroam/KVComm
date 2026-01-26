@@ -1,0 +1,7 @@
+{
+    "problem": "My grandpa has 10 pieces of art, including 3 prints by Escher. If he hangs the pieces of art in a row in a random order, what is the probability that all three pieces by Escher will be placed consecutively?",
+    "level": "Level 5",
+    "type": "Counting & Probability",
+    "solution": "To count the number of ways of arranging the 10 pieces of art with the three Escher's consecutively, treat the three of them as one item. It is clear that we are then selecting the location of 1 item out of 8 total which can be done in $\\binom{8}{1}=8$ ways. There are also a total of $\\binom{10}{3}=120$ ways to place the three pictures without restrictions. Thus the probability that we want is $\\dfrac{8}{120}=\\boxed{\\dfrac{1}{15}}$.",
+    "socratic_questions": "1. How many total pieces of art does your grandpa have?\n2. How many prints by Escher does your grandpa have?\n3. If all the pieces of art are hung in a row randomly, what is the total number of possible arrangements? \n4. How many ways can the three prints by Escher be placed consecutively?\n5. Why can we treat the three Escher prints as one item when counting the arrangements?\n6. How many locations are there for this \"combined\" item in the row of art?\n7. What is the total number of ways to place the three Escher prints without any restrictions?\n8. How can we calculate the probability of the three Escher prints being placed consecutively?\n9. What is the final probability of the three Escher prints being placed consecutively?"
+}

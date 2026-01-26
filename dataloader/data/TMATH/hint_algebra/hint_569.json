@@ -1,0 +1,7 @@
+{
+    "problem": "Express $(4-5i)(-5+5i)$ in the form $a+bi$, where $a$ and $b$ are integers and $i^2 = -1.$",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "We simplify, bearing in mind that $i^2 = -1$. We get  \\begin{align*}\n(4-5i)(-5+5i) &= 4(-5) + 4(5i) -5i(-5) -5i(5i) \\\\ &= -20 +20i +25i +25 \\\\ &= \\boxed{5 + 45i}.\n\\end{align*}",
+    "socratic_questions": "1. How would you begin by multiplying the expression $(4-5i)(-5+5i)$? What steps would you take?\n2. Can you identify the format of the expression $a+bi$ and explain its significance in complex numbers?\n3. How can you expand the expression $(4-5i)(-5+5i)$ using the distributive property? What are the resulting terms?\n4. How can you further simplify the expression by combining like terms? \n5. Can you identify the real and imaginary parts of the resulting expression? \n6. Based on the expression $a+bi$, what is the value of $a$ and $b$ in the simplified form of $(4-5i)(-5+5i)$?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Solve for $x$: $2(3^x) = 162$.",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "Divide both sides of the equation by 2 to find $3^x=81$.  Since the fourth power of 3 is 81, $x=\\boxed{4}$.",
+    "socratic_questions": "1. Can you describe the first step you would take to solve this equation?\n2. Are you familiar with any specific methods for solving exponential equations? Which method(s) do you think could be applied here?\n3. If you choose to use logarithms, which base would you use and why?\n4. Why is it necessary to apply logarithms to both sides of the equation? What does this step allow us to do?\n5. After applying logarithms, what does the equation look like? Can you simplify it?\n6. What is the value of the logarithm? How can you use this information to find the value of $x$?\n7. Are there any restrictions on the domain for which the equation is valid? If so, what are they and why?\n8. Can you think of any other types of exponential equations where similar thinking and steps might be useful?"
+}

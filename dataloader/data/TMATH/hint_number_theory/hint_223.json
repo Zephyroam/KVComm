@@ -1,0 +1,7 @@
+{
+    "problem": "When $n$ is divided by 6, a remainder of 1 is given. What is the remainder when $n+2010$ is divided by 6?",
+    "level": "Level 1",
+    "type": "Number Theory",
+    "solution": "If $n$ has a remainder of 1 when divided by 6, then $n+6$ will also have a remainder of 1 when divided by 6. If we keep adding 6 to $n$, we still have a remainder of 1. We can write $2010 = 6 \\cdot 335$, so once we add 6 to $n$ 335 times, we will get that $n+2010$ has a remainder of $\\boxed{1}$ when it is divided by 6.",
+    "socratic_questions": "1. How do we know that $n$ has a remainder of 1 when divided by 6?\n2. What does it mean when we say that $n+2010$ is divided by 6?\n3. Based on the information given, what is the relationship between the remainders of $n$ and $n+6$ when divided by 6?\n4. How can we express $2010$ in terms of $6$? What does this tell us about the relationship between $n$ and $n+2010$ when divided by 6?\n5. What happens to the remainder of $n+6$ when we keep adding 6 to it repeatedly? How does this relate to the remainder of $n+2010$ when divided by 6?\n6. Can you think of other examples where a similar reasoning and steps can be applied to determine the remainder of a sum when divided by a given number?"
+}

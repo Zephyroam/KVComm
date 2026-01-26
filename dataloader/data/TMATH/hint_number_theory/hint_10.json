@@ -1,0 +1,7 @@
+{
+    "problem": "If $AAA_4$ can be expressed as $33_b$, where $A$ is a digit in base 4 and $b$ is a base greater than 5, what is the smallest possible sum $A+b$?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "We can rewrite $AAA_4$ and $33_b$ to get \\begin{align*}\n16A+4A+A&=3b+3\\quad\\Rightarrow\\\\\n21A&=3b+3.\n\\end{align*}The smallest possible value for $A$ is 1, which gives us $21=3b+3$ and $b=6$. So the smallest sum $A+b=\\boxed{7}$. While there are other values for $A$ and $b$ that work, increasing $A$ will increase $b$, resulting in a larger sum.",
+    "socratic_questions": "1. Can you explain how you rewrote $AAA_4$ and $33_b$ to obtain the equation $21A=3b+3$?\n2. How did you determine that the smallest possible value for $A$ is 1?\n3. Why did you choose to solve for $A$ in terms of $b$ instead of solving for $b$ in terms of $A$?\n4. Are there any other possible values for $A$ and $b$ that satisfy the equation $21A=3b+3$? If so, what values are they and what would be the corresponding sum $A+b$?"
+}

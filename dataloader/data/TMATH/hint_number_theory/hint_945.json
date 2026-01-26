@@ -1,0 +1,7 @@
+{
+    "problem": "Suppose that $a$ and $b$ are positive integers for which $a$ has $3$ factors and $b$ has $a$ factors. If $b$ is divisible by $a$, then what is the least possible value of $b?$",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "Since $a$ has three factors, it is the square of a prime. The smallest such square is $a=2^2=4,$ so we look to find the smallest positive integer $b$ with $4$ factors. The smallest positive integers with four factors are 6 and 8, of which $\\boxed{8}$ is divisible by 4. It is easy to check that no smaller value of $b$ would work for a different choice of $a$, because the next smallest square is 9, which is greater than 8.",
+    "socratic_questions": "1. What is the definition of a factor of a number?\n2. How many factors does a prime number have? How about the square of a prime?\n3. Can you find the smallest value of $a$ that has exactly 3 factors? What is its square?\n4. What is the definition of a divisor of a number?\n5. If $a$ has 3 factors, what can you say about its prime factorization?\n6. Can you find the smallest positive integer $b$ that has exactly 4 factors? \n7. How can you determine if $b$ is divisible by $a$?\n8. Can you find the least possible value of $b$ that satisfies the given conditions?"
+}

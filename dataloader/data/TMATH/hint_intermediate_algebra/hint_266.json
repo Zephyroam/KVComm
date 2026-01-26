@@ -1,0 +1,7 @@
+{
+    "problem": "If $x$ is a number between 0 and 1, which of the following represents the smallest value?\n\nA). $x$\nB). $x^2$\nC). $2x$\nD). $\\sqrt{x}$\nE). $\\frac{1}{x}$\n\nExpress your answer as A, B, C, D, or E.",
+    "level": "Level 1",
+    "type": "Intermediate Algebra",
+    "solution": "Since $0 < x < 1,$\n\\[x^2 < x < 2x,\\]and $x^2 < x < \\sqrt{x}$ and $x < 1 < \\frac{1}{x}.$  Therefore, the smallest number is always $x^2,$ and the answer is $\\boxed{\\text{B}}.$",
+    "socratic_questions": "1. Can you describe the given problem and what is being asked?\n2. What are the given constraints for the variable $x$?\n3. Are you able to determine the smallest value by looking at the options?\n4. What is the relationship between the different expressions ($x$, $x^2$, $2x$, $\\sqrt{x}$, and $\\frac{1}{x}$) when $0 < x < 1$? \n5. How can you compare the values of $x$, $x^2$, $2x$, $\\sqrt{x}$, and $\\frac{1}{x}$ to determine which is the smallest?\n6. Can you explain why $x^2$ is always the smallest value in this case?\n7. Can you think of any similar problems or scenarios where you might use similar reasoning and steps?"
+}

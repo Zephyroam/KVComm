@@ -1,0 +1,7 @@
+{
+    "problem": "Container I holds 8 red balls and 4 green balls; containers II and III each hold 2 red balls and 4 green balls. A container is selected at random and then a ball is randomly selected from that container. What is the probability that the ball selected is green? Express your answer as a common fraction.",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "There are three different possibilities for our first decision, each corresponding to which container we choose. So, if we choose container I, with $\\frac{1}{3}$ probability, we have a $\\frac{4}{12} = \\frac{1}{3}$ probability for a $\\frac{1}{3} \\cdot \\frac{1}{3} = \\frac{1}{9}$ probability of getting green from Container I. Similarly for container II the probability is $\\frac{1}{3} \\cdot \\frac{4}{6} = \\frac{2}{9}$, and the same for container III. So, the total probability is $\\frac{1}{9} + \\frac{2}{9} + \\frac{2}{9} = \\boxed{\\frac{5}{9}}$.",
+    "socratic_questions": "1. What are the different containers available and what balls do they hold?\n2. What is the probability of choosing each container?\n3. If we choose container I, what is the probability of selecting a green ball from it?\n4. Similarly, what is the probability of selecting a green ball from container II and container III?\n5. How can we calculate the total probability of selecting a green ball?\n6. Can you simplify the expression for the total probability?\n7. What is the final answer for the probability of selecting a green ball?"
+}

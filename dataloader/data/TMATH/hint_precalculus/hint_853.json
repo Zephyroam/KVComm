@@ -1,0 +1,7 @@
+{
+    "problem": "If $\\tan x+\\tan y=25$ and $\\cot x + \\cot y=30$, what is $\\tan(x+y)$?",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "The second equation is equivalent to $\\frac1{\\tan x} + \\frac1{\\tan y} = 30,$ or $\\frac{\\tan x + \\tan y}{\\tan x \\tan y} = 30.$ Thus, $\\frac{25}{\\tan x \\tan y} = 30,$ so $\\tan x \\tan y = \\frac{25}{30} = \\frac{5}{6}.$ Then from the angle addition formula,\n\\[\\tan(x+y) = \\frac{\\tan x+ \\tan y}{1 - \\tan x \\tan y} = \\frac{25}{1 - \\frac{5}{6}} = \\boxed{150}.\\]",
+    "socratic_questions": "1. Can you describe the first step in solving this problem?\n2. What are some different methods that can be used to solve equations like this?\n3. If you choose to use the angle addition formula, how would you apply it to find the value of $\\tan(x+y)$?\n4. Why is the equation $\\tan x+\\tan y=25$ equivalent to $\\frac{\\tan x+\\tan y}{\\tan x \\tan y}=30$?\n5. How did you determine that $\\tan x \\tan y = \\frac{5}{6}$?\n6. Can you think of any other types of equations where a similar approach could be used to find a solution?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "The congruent sides of an isosceles triangle are each 5 cm long, and the perimeter is 17 cm. In centimeters, what is the length of the base?",
+    "level": "Level 1",
+    "type": "Geometry",
+    "solution": "If the length of the base is $b$ centimeters, then the perimeter of the triangle is $5+5+b$ cm.  Solving $5+5+b=17$ we find $b=\\boxed{7}$.",
+    "socratic_questions": "1. Can you describe what the first step would be to solve this problem?\n2. How would you approach finding the length of the base of the triangle?\n3. What strategy did you use to solve the equation for the perimeter?\n4. How did you simplify the equation $5+5+b=17$?\n5. Why did you set the equation equal to 17? What does that represent?\n6. Can you explain why the length of the base is equal to the value you found in the equation?\n7. Can you think of any other scenarios where you might use similar steps to solve for unknown lengths or values?"
+}

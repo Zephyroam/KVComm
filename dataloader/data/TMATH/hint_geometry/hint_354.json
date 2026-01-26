@@ -1,0 +1,7 @@
+{
+    "problem": "In the diagram, $BP$ and $BQ$ trisect $\\angle ABC$. $BM$ bisects $\\angle PBQ$. Find the ratio of the measure of $\\angle MBQ$ to the measure of $\\angle ABQ$.",
+    "level": "Level 1",
+    "type": "Geometry",
+    "solution": "Let $\\angle MBQ = x$, so $\\angle MBP=x$ as well.  Therefore, we have $\\angle PBQ = 2x$, so $\\angle ABP = \\angle PBQ = \\angle QBC = 2x$.  Finally, we have $\\angle ABQ = \\angle ABP + \\angle PBQ = 4x$, so  \\[\\frac{\\angle MBQ}{\\angle ABQ} = \\frac{x}{4x} = \\boxed{\\frac14}.\\]",
+    "socratic_questions": "1. Can you describe the steps you would take to find the ratio of the measure of \u2220MBQ to the measure of \u2220ABQ?\n2. How did you determine that \u2220MBQ and \u2220MBP are equal in measure?\n3. What information can you gather by knowing that BP and BQ trisect \u2220ABC?\n4. How did you deduce that \u2220PBQ is twice the measure of \u2220MBQ?\n5. Can you explain why \u2220ABP, \u2220PBQ, and \u2220QBC are all equal in measure?\n6. How did you arrive at the conclusion that \u2220ABQ is four times the measure of \u2220MBQ?\n7. How does the ratio of the measures of \u2220MBQ and \u2220ABQ simplify? Can you explain why?"
+}

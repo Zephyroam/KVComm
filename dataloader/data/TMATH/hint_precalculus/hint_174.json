@@ -1,0 +1,7 @@
+{
+    "problem": "Convert the point $\\left( 8, \\frac{7 \\pi}{6} \\right)$ in polar coordinates to rectangular coordinates.",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "In rectangular coordinates, $\\left( 8, \\frac{7 \\pi}{6} \\right)$ becomes\n\\[\\left( 8 \\cos \\frac{7 \\pi}{6}, 8 \\sin \\frac{7 \\pi}{6} \\right) = \\boxed{(-4 \\sqrt{3},-4)}.\\]",
+    "socratic_questions": "1. How do you convert a point from polar coordinates to rectangular coordinates?\n2. What is the formula for finding the x-coordinate in rectangular coordinates given the polar angle and magnitude?\n3. What is the formula for finding the y-coordinate in rectangular coordinates given the polar angle and magnitude?\n4. How would you use the formula to find the x-coordinate for the given polar point (8, 7\u03c0/6)?\n5. How would you use the formula to find the y-coordinate for the given polar point (8, 7\u03c0/6)?\n6. Can you calculate the x-coordinate and y-coordinate using the formulas? What are the results?\n7. What is the rectangular coordinate representation of the point (8, 7\u03c0/6) in terms of x and y?\n8. What are the final rectangular coordinates for the given polar point?"
+}

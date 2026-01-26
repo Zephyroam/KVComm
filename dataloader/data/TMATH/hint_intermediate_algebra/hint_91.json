@@ -1,0 +1,7 @@
+{
+    "problem": "Suppose $f(x)$ is a rational function such that $3f\\left(\\dfrac{1}{x}\\right)+\\dfrac{2f(x)}{x}=x^2$ for $x\\neq 0$.  Find $f(-2)$.",
+    "level": "Level 4",
+    "type": "Intermediate Algebra",
+    "solution": "Setting $x = -2,$ we get\n\\[3 f \\left( -\\frac{1}{2} \\right) - f(-2) = 4.\\]Setting $x = -\\frac{1}{2},$ we get\n\\[3f(-2) - 4 f \\left( -\\frac{1}{2} \\right) = \\frac{1}{4}.\\]Solving these equations as a system in $f(-2)$ and $f \\left( -\\frac{1}{2} \\right),$ we find $f(-2) = \\boxed{\\frac{67}{20}}$ and $f \\left( -\\frac{1}{2} \\right) = \\frac{49}{20}.$",
+    "socratic_questions": "1. What is a rational function?\n2. Can you rewrite the given equation to express $f(x)$ in terms of $f\\left(\\frac{1}{x}\\right)$?\n3. How can we use the given equation to eliminate $f\\left(\\frac{1}{x}\\right)$ and solve for $f(x)$?\n4. How did we get the system of equations that allowed us to solve for $f(-2)$ and $f\\left(-\\frac{1}{2}\\right)$?\n5. Is there a way we can check if the values we obtained for $f(-2)$ and $f\\left(-\\frac{1}{2}\\right)$ are correct?\n6. If we were given a different rational function and equation, how might we approach solving it?"
+}

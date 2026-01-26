@@ -1,0 +1,7 @@
+{
+    "problem": "A rectangular room has a perimeter of 42 feet and an area of 108 square feet. What is the length, in feet, of the shorter side?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "Let the longer side have length $a$ and the shorter side have length $b$. We have the two equations \\begin{align*}\n2a+2b&=42\\\\\nab&=108\n\\end{align*} From Equation (1), we have $a+b=21$, so $a=21-b$. Substituting that into Equation (2) to eliminate $a$, we get \\begin{align*}\n(21-b)(b)&=108\\\\\n21b-b^2&=108\\\\\nb^2-21b+108&=0\n\\end{align*} Factoring the equation, we get $(b-9)(b-12)=0$, so $b=9$ or $b=12$. $b=12$ corresponds to the longer side, so the length of the shorter side is $\\boxed{9}$ feet.",
+    "socratic_questions": "1. Can you describe the first step you would take to solve this problem?\n2. What are some different methods you know that can be used to solve this type of problem?\n3. If you choose to use the formula for perimeter and area, how would you set up the equations to find the length of the shorter side?\n4. Why do the equations for perimeter and area work in this situation? What properties of rectangles make these equations applicable?\n5. What values did you find for the length and width of the rectangle using the equations? How can you confirm that these values are correct?\n6. Can you think of other types of geometric problems where similar thinking and steps could be applied?"
+}

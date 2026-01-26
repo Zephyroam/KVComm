@@ -1,0 +1,7 @@
+{
+    "problem": "An ice cream shop offers 6 kinds of ice cream. What is the greatest number of two scoop sundaes that can be made such that each sundae contains two types of ice cream and no two sundaes are the same combination?",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "Because there are 6 choices of ice cream and each sundae must consist of 2 of them, there are ${6 \\choose 2} = \\boxed{15}$ kinds of two scoop sundaes.",
+    "socratic_questions": "1. Can you explain what a two scoop sundae is and why we are interested in counting the number of different combinations of ice cream flavors?\n2. How many choices do we have for the first scoop of ice cream? And how many choices are left for the second scoop?\n3. Can you calculate ${6 \\choose 2}$ and explain what it represents in this scenario?\n4. Why do we use ${6 \\choose 2}$ to calculate the number of different two scoop sundaes? What does the combination formula represent in this context?\n5. Can you list all the possible combinations of two scoops of ice cream using the 6 flavors available?\n6. How did you determine that each of these combinations is unique and that no two sundaes have the same combination of flavors?\n7. Can you think of any other situations where we might use the combination formula to count different combinations of items?"
+}

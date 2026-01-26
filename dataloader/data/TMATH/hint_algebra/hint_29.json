@@ -1,0 +1,7 @@
+{
+    "problem": "In the geometric sequence with a first term of $6$ and a second term of $-6$, what is the $205^{th}$ term?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "The common ratio of this sequence is $-1$.  The first few terms will be: $$6,-6,6,-6,...$$All even numbered terms have value $-6$, and all odd numbered terms have value $6$.  Since 205 is odd, its value will be $\\boxed{6}$.",
+    "socratic_questions": "1. Can you describe what a geometric sequence is?\n2. How do you find the common ratio of the given sequence?\n3. What is the formula to find the nth term of a geometric sequence?\n4. How can we use the given information to find the 205th term of the sequence?\n5. Can you determine if the sequence is increasing or decreasing? How does it affect finding the 205th term?\n6. Can you think of any real-life scenarios where geometric sequences are used? How are they helpful in those situations?\n7. Is there any pattern or rule we can apply to simplify finding the 205th term without calculating each term individually?\n8. How does the value of the common ratio affect the growth or decay of the geometric sequence?\n9. Can you think of any other ways to mathematically represent the 205th term in the given sequence?\n10. How would the process of finding the nth term differ if the given sequence had a different first term or a different common ratio?"
+}

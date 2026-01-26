@@ -1,0 +1,7 @@
+{
+    "problem": "In parallelogram $ABCD$, $AB = 38$ cm, $BC = 3y^3$ cm, $CD = 2x +4$ cm, and $AD = 24$ cm. What is the product of $x$ and $y$?",
+    "level": "Level 3",
+    "type": "Geometry",
+    "solution": "Since opposite sides of a parallelogram have the same length, we have the equations $$AB=CD\\qquad\\Rightarrow \\qquad38=2x+4\\qquad\\Rightarrow \\qquad x=17$$and $$BC=AD\\qquad\\Rightarrow \\qquad3y^3=24\\qquad\\Rightarrow\\qquad y=2.$$The product of $x$ and $y$ is then $17\\cdot2=\\boxed{34}$.",
+    "socratic_questions": "1. What is a parallelogram and what are its defining characteristics?\n2. How do we use the given information to find the values of $x$ and $y$?\n3. Why is it important to know that opposite sides of a parallelogram have the same length?\n4. How can we use the fact that $AB=CD$ to solve for $x$?\n5. How do we solve for $y$ using the equation $BC=AD$?\n6. What is the significance of finding the product of $x$ and $y$ in this problem?\n7. Can you think of other geometric shapes where opposite sides have the same length, and how would that affect solving for unknown lengths or angles?\n8. How can the concept of parallelograms be applied in real-life situations, such as in construction or designing objects?"
+}

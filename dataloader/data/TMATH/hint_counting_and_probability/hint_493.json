@@ -1,0 +1,7 @@
+{
+    "problem": "Determine the number of ways to arrange the letters of the word COMBINATION.",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "There are two O's, two I's, two N's and eleven total letters, so the answer is $\\dfrac{11!}{2! \\times 2! \\times 2!} = \\boxed{4,\\!989,\\!600}$.",
+    "socratic_questions": "1. How many total letters are in the word \"COMBINATION\"?\n2. Are there any repeating letters in the word? If so, which ones?\n3. Why do we need to account for the repeating letters when counting the number of arrangements?\n4. What does the expression \"11!\" represent in the formula for the number of arrangements?\n5. What does the expression \"2! \\times 2! \\times 2!\" represent in the formula?\n6. What property of factorials and permutations allows us to divide by these repeating factorials?\n7. Can you explain why we divide the total number of arrangements by the factorials of the counts of the repeating letters?\n8. Can you calculate the value of the expression $\\dfrac{11!}{2! \\times 2! \\times 2!}$?"
+}

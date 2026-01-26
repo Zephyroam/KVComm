@@ -1,0 +1,7 @@
+{
+    "problem": "The real numbers $a,$ $b,$ $c,$ and $d$ satisfy\n\\[a^2 + b^2 + c^2 + 1 = d + \\sqrt{a + b + c - d}.\\]Find $d.$",
+    "level": "Level 5",
+    "type": "Intermediate Algebra",
+    "solution": "Let $x = \\sqrt{a + b + c - d}.$  Then $x^2 = a + b + c - d,$ so $d = a + b + c - x^2,$ and we can write\n\\[a^2 + b^2 + c^2 + 1 = a + b + c - x^2 + x.\\]Then\n\\[a^2 - a + b^2 - b + c^2 - c + x^2 - x + 1 = 0.\\]Completing the square in $a,$ $b,$ $c,$ and $x,$ we get\n\\[\\left( a - \\frac{1}{2} \\right)^2 + \\left( b - \\frac{1}{2} \\right)^2 + \\left( c - \\frac{1}{2} \\right)^2 + \\left( x - \\frac{1}{2} \\right)^2 = 0.\\]Hence, $a = b = c = x = \\frac{1}{2},$ so\n\\[d = a + b + c - x^2 = \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} - \\frac{1}{4} = \\boxed{\\frac{5}{4}}.\\]",
+    "socratic_questions": "1. What is the given equation and what are we asked to find?\n2. What information can we gather from the given equation?\n3. How can we manipulate the equation to isolate the variable we need to find?\n4. What substitution can we make to simplify the equation?\n5. What does the equation become after the substitution?\n6. How can we complete the square in the equation to make it easier to solve?\n7. What do we get after completing the square?\n8. How can we use the equation obtained after completing the square to find the value of $d$?\n9. What is the final value of $d$ that we obtain?\n10. Does this value satisfy the given equation?\n11. Can we use a similar approach to solve other equations with similar structure?"
+}

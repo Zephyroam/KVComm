@@ -1,0 +1,7 @@
+{
+    "problem": "What is the largest multiple of 7 less than 50?",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "Dividing 50 by 7 will give us an answer of 7 with a remainder of 1. $$50=7\\cdot 7 +1$$Because the answer must be less than 50, $7\\cdot 7=\\boxed{49}$ must be our answer.",
+    "socratic_questions": "1. What is the problem we're trying to solve?\n2. How can we use the information about the division of 50 by 7 to help us solve this problem?\n3. What options do we have for finding multiples of 7 that are less than 50? \n4. How can we use the fact that $7\\cdot 7 +1=50$ to help us solve this problem? \n5. Is there a quicker way to find the largest multiple of 7 less than 50? \n6. Can you think of other problems that require finding multiples of a certain number and how might we approach those? \n7. How can we check that our answer of 49 is correct?"
+}

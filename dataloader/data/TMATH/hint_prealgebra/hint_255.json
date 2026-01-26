@@ -1,0 +1,7 @@
+{
+    "problem": "A regular polygon has perimeter 108 cm and each side has length 12 cm.  How many sides does this polygon have?",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "Since the polygon has perimeter 108 cm and each side has length 12 cm, then the polygon has $108 \\div 12 = \\boxed{9}$ sides.",
+    "socratic_questions": "1. Can you describe the given problem in your own words?\n2. How can we determine the number of sides of a polygon?\n3. What information is given in the problem that can help us solve it?\n4. How can we calculate the perimeter of a polygon?\n5. What is the formula for calculating the perimeter of a regular polygon?\n6. How can we use the formula to solve this problem?\n7. Can you describe the steps you would take to find the number of sides?\n8. Are there any equations or expressions we can set up to represent the problem?\n9. How can we use the length of each side and the perimeter to solve for the number of sides?\n10. Can you think of any other scenarios where we might need to use similar thinking and steps to solve a problem?"
+}

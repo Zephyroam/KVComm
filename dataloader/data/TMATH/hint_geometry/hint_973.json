@@ -1,0 +1,7 @@
+{
+    "problem": "For his birthday, Bert gets a box that holds $125$ jellybeans when filled to capacity. A few weeks later, Carrie gets a larger box full of jellybeans. Her box is twice as high, twice as wide and twice as long as Bert's. Approximately, how many jellybeans did Carrie get?",
+    "level": "Level 1",
+    "type": "Geometry",
+    "solution": "Since the exact dimensions of Bert's box do not matter, assume the box is $1 \\times 2 \\times 3$.  Its volume is 6.  Carrie's box is $2 \\times 4 \\times 6$, so its volume is 48 or 8 times the volume of Bert's box.  Carrie has approximately $8(125) = \\boxed{1000}$ jellybeans.\n$\\textbf{Note:}$ Other examples may help to see that the ratio is always 8 to 1.",
+    "socratic_questions": "1. Can you describe the relationship between the sizes of Bert's box and Carrie's box?\n2. How does the volume of Bert's box relate to the volume of Carrie's box?\n3. If Bert's box can hold 125 jellybeans when filled to capacity, how many jellybeans would Carrie's box hold, approximately?\n4. Can you explain why the volume of Carrie's box is 8 times the volume of Bert's box?\n5. Are there any assumptions we are making in this problem? Can you think of scenarios where the ratio wouldn't be 8 to 1?\n6. How could we generalize this problem to other scenarios involving different ratios of dimensions?"
+}

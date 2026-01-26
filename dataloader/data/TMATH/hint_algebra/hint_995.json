@@ -1,0 +1,7 @@
+{
+    "problem": "Find the sum of the coefficients in the polynomial $-2(x^7 - x^4 + 3x^2 - 5) + 4(x^3 + 2x) - 3(x^5 - 4)$.",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "The sum of the coefficients in the polynomial $-2(x^7 - x^4 + 3x^2 - 5) + 4(x^3 + 2x) - 3(x^5 - 4)$ is $-2 (1 - 1 + 3 - 5) + 4 (1 + 2) - 3 (1 - 4) = (-2) \\cdot (-2) + 4 \\cdot 3 - 3 \\cdot (-3) = \\boxed{25}$.  (The sum of the coefficients in a polynomial can be found by setting the variable equal to 1.)",
+    "socratic_questions": "1. Can you identify the degree of each term in the given polynomial? How does the degree of a term affect its coefficient in the final sum?\n2. How would you simplify the polynomial expression by combining like terms? What steps would you take and why?\n3. What is the rule for adding or subtracting polynomials? How does this apply to the given expression?\n4. Can you identify any common factors within each term? How would factoring affect the coefficients in the final sum?\n5. How would you distribute the coefficients outside the parentheses to simplify the expression further? What would be the effect on the coefficients?\n6. How can you combine the coefficients of the like terms to find the sum? What is the final result?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Let $n$ be an odd integer with exactly 11 positive divisors.  Find the number of positive divisors of $8n^3$.",
+    "level": "Level 5",
+    "type": "Number Theory",
+    "solution": "Since $t(n) = 11$ is prime and is the product of 1 more than each of the exponents in the prime factorization of $n$, there can be only one exponent, and therefore one prime in the prime factorization of $n$.  This means $n = p^{10}$ for some odd prime number $p$, so $$ 8n^3 = 2^3 \\cdot p^{30} \\qquad \\Rightarrow \\qquad t(8n^3) = (3 + 1)(30 + 1) = \\boxed{124}. $$",
+    "socratic_questions": "1. What is the definition of an odd integer?\n2. How can we determine the number of positive divisors a number has?\n3. Can a number with prime factorization in the form $p^{10}$ have any other divisors besides $1, p, p^2, ..., p^{10}$?\n4. What is the prime factorization of $8n^3$?\n5. How can we use the prime factorization to determine the number of positive divisors of $8n^3$?\n6. Is it possible for $8n^3$ to have any divisors other than those derived from its prime factorization?\n7. What is the relationship between the number of positive divisors of $n$ and the number of positive divisors of $8n^3$?"
+}

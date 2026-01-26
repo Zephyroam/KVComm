@@ -1,0 +1,7 @@
+{
+    "problem": "If $\\cos \\theta = \\frac{1}{4},$ then find $\\cos 3 \\theta.$",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "From the triple angle formula,\n\\[\\cos 3 \\theta = 4 \\cos^3 \\theta - 3 \\cos \\theta = 4 \\left( \\frac{1}{4} \\right)^3 - 3 \\cdot \\frac{1}{4} = \\boxed{-\\frac{11}{16}}.\\]",
+    "socratic_questions": "1. How would you describe the given problem in your own words?\n2. Can you explain the concept of cosine and its relation to angles?\n3. What approach would you take to find the value of cos 3\u03b8? \n4. Are you familiar with any trigonometric identities that might be useful in this situation?\n5. If cos \u03b8 is known, what information can you derive about sin \u03b8?\n6. How does the triple angle formula relate to the problem at hand?\n7. Can you walk me through the steps of applying the triple angle formula to find cos 3\u03b8?\n8. How would you validate your answer? Can you think of a different method to verify your result?\n9. Are there any similar problems or applications where understanding cos 3\u03b8 would be useful?\n10. How does finding cos 3\u03b8 help deepen your understanding of precalculus concepts?"
+}

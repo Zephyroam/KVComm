@@ -1,0 +1,7 @@
+{
+    "problem": "The sum of the lengths of all the edges of a cube is 60 cm. Find the number of cubic centimeters in the volume of the cube.",
+    "level": "Level 1",
+    "type": "Geometry",
+    "solution": "Since there are 12 congruent edges on a cube, each edge has length $60/12=5$ cm. Since the volume of the cube is equal to the edge length cubed, the volume is $5^3=5\\cdot5\\cdot5=\\boxed{125}$.",
+    "socratic_questions": "1. What is a cube in geometry, and what are its defining characteristics?\n2. How many edges does a cube have, and what is the length of each edge?\n3. How can we find the total length of all the edges on a cube, and what is the result for this particular question?\n4. What is the formula for the volume of a cube, and how does it relate to the length of the edges?\n5. Using the length of the edges we found in question 2, what is the volume of the cube in this problem, and how did we calculate it?\n6. Can we generalize this process to find the volume of any cube, regardless of its dimensions?"
+}

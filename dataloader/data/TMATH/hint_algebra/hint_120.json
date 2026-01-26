@@ -1,0 +1,7 @@
+{
+    "problem": "The sum of the first four terms of an arithmetic sequence is $10$. If the fifth term is $5$, what is the sixth term?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "Call the common difference between any two consecutive terms $x$. We can express the first four terms in terms of $x$ and the fifth term: The fourth term is $5-x$, the third is $5-2x$, etc. So, we have $(5-4x) + (5-3x) + (5-2x) + (5-x) = 10$, which simplifies to $-10x = -10$, or $x = 1$. So the sixth term is $5+1 = \\boxed{6}$.",
+    "socratic_questions": "1. How would you define an arithmetic sequence? \n2. What is the formula for finding the sum of the first n terms of an arithmetic sequence? \n3. How can we use the given information about the sum of the first four terms to find the common difference of the arithmetic sequence in this problem? \n4. Once we know the common difference, how can we find the sixth term of the sequence? \n5. Are there any other ways to find the sixth term without explicitly calculating each term? \n6. Can you think of any real-life situations or examples where arithmetic sequences are commonly used?"
+}

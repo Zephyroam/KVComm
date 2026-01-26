@@ -1,0 +1,7 @@
+{
+    "problem": "A cat has found $432_{9}$ methods in which to extend each of her nine lives.  How many methods are there in base 10?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "$432_{9} = 2\\cdot9^{0}+3\\cdot9^{1}+4\\cdot9^{2} = 2+27+324 = \\boxed{353}$.",
+    "socratic_questions": "1. Can you explain what base 9 means and how it works?\n2. How does converting a number from base 9 to base 10 help us solve the problem?\n3. Can you walk me through the process of converting $432_9$ to base 10?\n4. Why do we multiply each digit by a power of 9 when converting from base 9 to base 10?\n5. How did we determine that the number of methods is 353?\n6. Can you think of a similar problem where converting from one base to another is helpful in finding a solution?"
+}

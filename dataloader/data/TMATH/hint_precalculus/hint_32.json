@@ -1,0 +1,7 @@
+{
+    "problem": "Find the distance between the points $(2,1,-4)$ and $(5,8,-3).$",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "The distance between $(2,1,-4)$ and $(5,8,-3)$ is\n\\[\\sqrt{(2 - 5)^2 + (1 - 8)^2 + (-4 + 3)^2} = \\boxed{\\sqrt{59}}.\\]",
+    "socratic_questions": "1. What is the definition of distance between two points in three-dimensional space?\n2. How can we find the distance between two points using the coordinates of the points?\n3. What formula can we use to calculate the distance between two points in three-dimensional space?\n4. How can we apply the distance formula to find the distance between the points (2,1,-4) and (5,8,-3)?\n5. What are the steps involved in using the distance formula to find the distance between these two points?\n6. What are the similarities and differences between finding the distance between two points in two-dimensional space and three-dimensional space?\n7. Can you think of any real-world applications where finding the distance between two points in three-dimensional space is important?"
+}

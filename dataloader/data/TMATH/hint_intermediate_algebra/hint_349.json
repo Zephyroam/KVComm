@@ -1,0 +1,7 @@
+{
+    "problem": "The function $f(x)$ satisfies\n\\[f(x + f(x)) = 4f(x)\\]for all $x,$ and $f(1) = 4.$  Find $f(21).$",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "Setting $x = 1,$ we get $f(1 + f(4)) = 4f(1),$ so\n\\[f(5) = 16.\\]Setting $x = 5,$ we get $f(5 + f(5)) = 4f(5),$ so\n\\[f(21) = \\boxed{64}.\\]",
+    "socratic_questions": "1. What is the given equation? \n2. Is there any information about the function $f(x)$ provided in the problem statement? \n3. Can you find any values of $x$ for which the equation is easy to solve? \n4. What does it mean when we say $f(1) = 4$? \n5. How can we use the given equation and the value of $f(1)$ to determine $f(2)$? \n6. Can we use the same method to determine $f(3)$? \n7. How can we use the given equation and the value of $f(1)$ to determine $f(5)$? \n8. Can we use the same method to determine $f(21)$? \n9. What is the final answer for $f(21)$?"
+}

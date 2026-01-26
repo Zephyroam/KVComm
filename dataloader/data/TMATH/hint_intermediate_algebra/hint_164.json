@@ -1,0 +1,7 @@
+{
+    "problem": "Find the remainder when $x^3 - 3x + 5$ is divided by $x + 2.$",
+    "level": "Level 1",
+    "type": "Intermediate Algebra",
+    "solution": "By the Remainder Theorem, we can find the remainder by setting $x = -2.$  This gives us a remainder of $(-2)^3 - 3(-2) + 5 = \\boxed{3}.$",
+    "socratic_questions": "1. What is the Remainder Theorem and how is it used to find the remainder when dividing a polynomial by a linear factor?\n2. How do we set up the problem to apply the Remainder Theorem in this specific scenario?\n3. Can you explain the steps involved in evaluating the polynomial using the Remainder Theorem in this case?\n4. What is the significance of the remainder obtained from the division? How does it relate to the polynomial and the divisor?\n5. Are there any specific properties or characteristics of the given polynomial or divisor that make the Remainder Theorem a suitable method to find the remainder? Could we use a different approach?\n6. Can you think of any other scenarios or polynomial division problems where we might need to apply the Remainder Theorem in a similar way?"
+}

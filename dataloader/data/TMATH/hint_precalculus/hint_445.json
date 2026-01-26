@@ -1,0 +1,7 @@
+{
+    "problem": "In triangle $PQR,$ $\\angle Q = 30^\\circ,$ $\\angle R = 105^\\circ,$ and $PR = 4 \\sqrt{2}.$  Find $QR.$",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "We have that $\\angle P = 180^\\circ - 30^\\circ - 105^\\circ = 45^\\circ.$  Then by the Law of Sines,\n\\[\\frac{QR}{\\sin P} = \\frac{PR}{\\sin Q}.\\]Hence,\n\\[QR = PR \\cdot \\frac{\\sin P}{\\sin Q} = 4 \\sqrt{2} \\cdot \\frac{\\sin 45^\\circ}{\\sin 30^\\circ} = \\boxed{8}.\\]",
+    "socratic_questions": "1. Can you explain why the sum of angles in a triangle is always 180 degrees? How can we use this information to find the measure of angle P in triangle PQR?\n2. What is the Law of Sines? How can we apply it to find the length of QR in triangle PQR?\n3. Why do we use the sine function in the Law of Sines? Is there any other trigonometric function that can help us solve this problem?\n4. Can we rely on the given information about angles Q and R to determine the length of PR? How?\n5. Can you describe the relationship between the sides and angles of a triangle in general? How does this relate to our current problem?\n6. If the measure of angle Q was different, would this change the length of QR? How can we explore this using the Law of Sines?"
+}

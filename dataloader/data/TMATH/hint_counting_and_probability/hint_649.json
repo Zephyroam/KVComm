@@ -1,0 +1,7 @@
+{
+    "problem": "The numbers 1 through 25 are written on 25 cards with one number on each card. Sara picks one of the 25 cards at random. What is the probability that the number on her card will be a multiple of 2 or 5? Express your answer as a common fraction.",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "There are $12$ even numbers and $5$ multiples of $5$ in the range $1$ to $25$.  However, we have double-counted $10$ and $20$, which are divisible by both $2$ and $5$.  So the number of good outcomes is $12+5-2=15$ and the probability is $\\frac{15}{25}=\\boxed{\\frac{3}{5}}$.",
+    "socratic_questions": "1. What is the total number of cards available to Sara?\n2. How many cards have a number that is a multiple of 2?\n3. How many cards have a number that is a multiple of 5?\n4. Are there any cards that are multiples of both 2 and 5?\n5. How would you determine the number of cards that are multiples of 2 or 5?\n6. What is the formula or method used to calculate probability?\n7. How can we use the concepts of counting and probability to find the probability of Sara picking a card with a number that is a multiple of 2 or 5?\n8. Can you express the probability as a simplified fraction?\n9. What does the resulting fraction represent in terms of likelihood?"
+}

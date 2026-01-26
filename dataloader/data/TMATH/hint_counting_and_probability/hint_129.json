@@ -1,0 +1,7 @@
+{
+    "problem": "What is the sum of all integer values $n$ for which $\\binom{20}{n}+\\binom{20}{10}=\\binom{21}{11}$?",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "From Pascal's identity $\\binom{n-1}{k-1}+\\binom{n-1}{k}=\\binom{n}{k}$.\n\nTherefore, we have $\\binom{20}{11}+\\binom{20}{10}=\\binom{21}{11}$, so $n=11$.\n\nWe know that $\\binom{21}{11}=\\binom{21}{21-11}=\\binom{21}{10}$.\n\nWe use Pascal's identity again to get $\\binom{20}{9}+\\binom{20}{10}=\\binom{21}{10}$, so $n=9$.\n\nThere are two values for $n$, $9$ and $11$, so the sum is $9+11=\\boxed{20}$.",
+    "socratic_questions": "1. What is the problem asking you to determine? \n2. What is the formula for Pascal's identity? \n3. How is Pascal's identity used to solve the problem? \n4. Why is $\\binom{20}{11}$ equal to $\\binom{21}{11}$ and $\\binom{21}{10}$? \n5. What is the value of $\\binom{20}{9}$? \n6. How does Pascal's identity help find the value of $\\binom{20}{9}$? \n7. Are there any other values of $n$ that satisfy the equation? \n8. How does the sum of these values of $n$ help find the final solution? \n9. Can you think of any other examples where Pascal's identity can be applied?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "A cube with an edge length of 4 units has the same volume as a square-based pyramid with base edge lengths of 8 units and a height of $h$ units. What is the value of $h$?",
+    "level": "Level 3",
+    "type": "Geometry",
+    "solution": "The cube has volume $4^3=64$.  The pyramid has volume $\\frac{1}{3}8^2h$.  So\n\n$$64=\\frac{64}{3}h\\Rightarrow h=\\boxed{3}$$",
+    "socratic_questions": "1. Can you describe the basic concept of volume for both a cube and a square-based pyramid?\n2. How can we express the volume of the cube in terms of its edge length?\n3. How can we express the volume of the square-based pyramid in terms of its base edge length and height?\n4. What does it mean for the two volumes to be equal in this problem?\n5. Can you write an equation that represents the relationship between the volume of the cube and the volume of the pyramid?\n6. How can we solve this equation to find the value of $h$?\n7. What does the value of $h$ represent in the context of the problem?"
+}

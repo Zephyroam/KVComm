@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\dbinom{5}{1}$.",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "$\\dbinom{5}{1} = \\dfrac{5!}{1!4!}=\\dfrac{(5\\times 4\\times 3\\times 2)(1)}{(1)(4\\times 3\\times 2\\times 1)}=\\dfrac{5}{1}=\\boxed{5}.$",
+    "socratic_questions": "1. Can you define what \"combinations\" mean in counting and probability?\n2. How many ways can you choose 1 item from a pool of 5 items? \n3. Can you describe the difference between combinations and permutations? \n4. How would you modify your approach if you wanted to choose 2 items instead of 1 from the pool of 5 items? \n5. What is the relationship between the calculation of $\\dbinom{5}{1}$ and the formula for combinations $\\dbinom{n}{k}=\\dfrac{n!}{k!(n-k)!}$?\n6. Can you provide an example scenario where the calculation of $\\dbinom{5}{1}$ would be useful in calculating probability?"
+}

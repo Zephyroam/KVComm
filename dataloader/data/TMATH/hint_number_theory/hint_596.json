@@ -1,0 +1,7 @@
+{
+    "problem": "What is the remainder when $2^{87} +3$ is divided by $7$?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "We are looking at powers of 2, so we notice that $2^3=8=7+1$.  Therefore  \\[2^3\\equiv1\\pmod7.\\] In particular \\[2^{87}\\equiv2^{3\\cdot29}\\equiv 8^{29}\\equiv 1^{29}\\equiv1\\pmod7.\\] Therefore \\[2^{87}+3\\equiv1+3\\equiv4\\pmod7.\\] The remainder upon division by 7 is $\\boxed{4}$.",
+    "socratic_questions": "1. Can you explain what the goal of this problem is? \n2. Do you notice any patterns or relationships when you look at the powers of 2 modulo 7? \n3. How can we express $2^{87}$ in terms of a more manageable expression modulo 7? \n4. What is the significance of $2^3$ congruent to 1 modulo 7? How does that help us simplify $2^{87}$? \n5. If $2^{87}\\equiv1\\pmod7$, what does that tell us about the remainder when we divide $2^{87} + 3$ by 7? \n6. What is the final answer to the problem? "
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Given that 0.5 liters is approximately 1.05 pints, how many pints are in one liter? Express your answer as a decimal to the nearest tenth.",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "If half a liter is 1.05 pints, then a whole liter is $2\\cdot1.05=\\boxed{2.1}$ pints.",
+    "socratic_questions": "1. What information are you given in this problem?\n2. How can you use the given information to determine the number of pints in one liter?\n3. What operation(s) do you think you need to perform to solve this problem?\n4. Can you explain your reasoning for why you multiplied 1.05 by 2?\n5. How did you determine that the answer should be expressed as a decimal to the nearest tenth?\n6. Can you think of any other conversion problems where similar reasoning and steps might be useful?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Melinda will roll two standard six-sided dice and make a two-digit number with the two numbers she rolls. For example, if she rolls a 6 and a 3, she can either form 36 or 63. What is the probability that she will be able to make an integer between 10 and 20, inclusive? Express your answer as a common fraction.",
+    "level": "Level 5",
+    "type": "Counting & Probability",
+    "solution": "She can do this if and only if at least one of the dice lands on a 1. The probability neither of the dice is a 1 is $\\left(\\frac{5}{6}\\right) \\left(\\frac{5}{6}\\right) = \\frac{25}{36}$. So the probability at least one die is a 1 is $1-\\frac{25}{36} = \\boxed{\\frac{11}{36}}$.",
+    "socratic_questions": "1. Can you describe the scenario and what Melinda needs to do to form a two-digit number?\n2. What are the possible outcomes when rolling two standard six-sided dice?\n3. How many outcomes would result in forming a two-digit number between 10 and 20 inclusive?\n4. What is the probability of neither of the dice landing on a 1?\n5. How can we find the probability of at least one die landing on a 1?\n6. What is the probability, expressed as a common fraction, that Melinda will be able to make an integer between 10 and 20?"
+}

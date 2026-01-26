@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\dbinom{7}{4}$.",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "$\\dbinom{7}{4} = \\dfrac{7!}{4!3!}=\\dfrac{7\\times 6\\times 5\\times 4}{4\\times 3\\times 2\\times 1}=\\boxed{35}.$",
+    "socratic_questions": "1. What is $\\dbinom{n}{k}$ and how does it relate to the concept of \"choosing\"?\n2. In the formula $\\dbinom{n}{k}=\\dfrac{n!}{k!(n-k)!}$, what does each part of the equation represent?\n3. Why does $\\dbinom{n}{k}$ equal the number of ways to choose a set of k objects from a total of n objects?\n4. If we wanted to choose 4 objects from a set of 7 objects, how many different sets of 4 objects could we choose?\n5. How would the answer change if we wanted to choose 3 objects instead of 4?\n6. Is there a different way to express $\\dbinom{n}{k}$ that could help us understand its properties better?\n7. What is the relationship between $\\dbinom{n}{k}$ and the binomial theorem? How can we use this relationship to expand binomial expressions?"
+}

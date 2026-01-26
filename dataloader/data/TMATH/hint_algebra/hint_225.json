@@ -1,0 +1,7 @@
+{
+    "problem": "The quadratic $x^2+1300x+1300$ can be written in the form $(x+b)^2+c$, where $b$ and $c$ are constants. What is $\\frac{c}{b}$?",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "We complete the square.\n\nThe square whose non-constant terms agree with $x^2+1300x+1300$ is $(x+650)^2$. Specifically, we have $$(x+650)^2 = x^2 + 1300x + 650^2,$$so \\begin{align*}\nx^2+1300x+1300 &= (x+650)^2 - 650^2 + 1300 \\\\\n&= (x+650)^2 - 650\\cdot 650 + 2\\cdot 650 \\\\\n&= (x+650)^2 + (-650+2)\\cdot 650 \\\\\n&= (x+650)^2 + (-648)(650).\n\\end{align*}This has the target form $(x+b)^2+c$, where $b=650$ and $c=(-648)(650)$. Therefore, $\\frac{c}{b} = \\frac{(-648)(650)}{650} = \\boxed{-648}$.",
+    "socratic_questions": "1. Can you express the quadratic equation $x^2+1300x+1300$ in the form $(x+b)^2+c$? If not, what would you need to do to achieve this form?\n2. What does the form $(x+b)^2$ represent in terms of algebraic expansion? How does it relate to the original quadratic equation?\n3. By comparing coefficients, can you determine the value of $b$ in the expression $(x+b)^2$ for the given quadratic equation?\n4. What does the term $c$ represent in the expression $(x+b)^2+c$? How does it relate to the original quadratic equation?\n5. How can you determine the value of $c$ in the expression $(x+b)^2+c$ for the given quadratic equation?\n6. Once you have found the values of $b$ and $c$, how can you determine the ratio $\\frac{c}{b}$? What does this ratio represent in terms of the quadratic equation?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "If $200\\%$ of $x$ is equal to $50\\%$ of $y$, and $x = 16$, what is the value of $y$?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "If $200\\%$ of $x$ is equal to $50\\%$ of $y$, then $400\\%$ of $x$ is equal to $y$. If $x = 16$, then $400\\%$ of $x$ is $4x = y = \\boxed{64}$.",
+    "socratic_questions": "1. Can you restate the given problem in your own words?\n2. What is the first step in solving this problem? \n3. How would you represent $200\\%$ as a fraction or decimal? And $50\\%$? \n4. What operation would you use to set up the equation for the problem? \n5. Why is it necessary to set up an equation for this problem? \n6. How would you solve for $y$ in the equation? \n7. Can you check your answer to make sure it is reasonable? \n8. Are there any other real-world scenarios where you might use this type of problem-solving?"
+}

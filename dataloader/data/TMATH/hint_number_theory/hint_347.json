@@ -1,0 +1,7 @@
+{
+    "problem": "What is the greatest possible three-digit number that is divisible by 3 and divisible by 6?",
+    "level": "Level 1",
+    "type": "Number Theory",
+    "solution": "The number must be even and divisible by 3. Counting down from 999, the first number that satisfies both these properties is $\\boxed{996}$.",
+    "socratic_questions": "1. Can you explain what it means for a number to be divisible by 3? \n2. How do you determine whether a number is divisible by 6? \n3. Are there any strategies you can use to find the greatest possible three-digit number that is divisible by both 3 and 6? \n4. How do you know that the number you found is indeed the greatest possible number that satisfies the given conditions? \n5. Can you think of other examples where you might need to find the greatest possible number that satisfies certain conditions? How might you approach these types of problems?"
+}

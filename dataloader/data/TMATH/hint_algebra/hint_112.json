@@ -1,0 +1,7 @@
+{
+    "problem": "I have the following terms of an arithmetic sequence: $\\frac{1}{2}, x-1, 3x, \\ldots$. Solve for $x$.",
+    "level": "Level 5",
+    "type": "Algebra",
+    "solution": "Any two consecutive terms of an arithmetic sequence must have a common difference. So, $(x-1) - \\frac{1}{2} = (3x) - (x-1)$, or $x - \\frac{3}{2} = 2x+1$. Solving gives $x = \\boxed{-\\frac{5}{2}}$.",
+    "socratic_questions": "1. What is the definition of an arithmetic sequence?\n2. How would you find the common difference in an arithmetic sequence?\n3. Can you determine the common difference in the given sequence?\n4. What is the formula for the nth term of an arithmetic sequence?\n5. Using the formula, can you find the expression for the nth term of the given sequence?\n6. How can we use the expression for the nth term to find the value of x that satisfies the sequence?\n7. If we substitute the value of x back into the sequence terms, do they still form an arithmetic sequence?\n8. Are there any other possible values of x that would satisfy the given sequence?\n9. Can you think of any other properties or characteristics of arithmetic sequences that might be relevant to this problem?\n10. How can you check if your solution is correct?\n11. Are there any other similar types of arithmetic sequence problems that could involve similar thinking and steps?"
+}

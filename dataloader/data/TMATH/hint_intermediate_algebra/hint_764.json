@@ -1,0 +1,7 @@
+{
+    "problem": "If $f(x) = 4-3x$ and $g(x) = x^2 +1$, find $f(g(\\sqrt{2}))$.",
+    "level": "Level 1",
+    "type": "Intermediate Algebra",
+    "solution": "We have that\n$$g(\\sqrt{2}) = (\\sqrt{2})^2 + 1 = 2 +1 = 3.$$Then,\n$$f(g(\\sqrt{2})) = f(3) = 4 - 3(3) = 4 - 9 = \\boxed{-5}.$$",
+    "socratic_questions": "1. What is the equation for the function $f(x)$? \n2. What is the equation for the function $g(x)$?\n3. What is $g(\\sqrt{2})$? \n4. How do you find the value of $f(g(\\sqrt{2}))$ using the given functions? \n5. What is the final value of $f(g(\\sqrt{2}))$? \n6. Can you think of any other compositions of functions that we can evaluate using similar methods?"
+}

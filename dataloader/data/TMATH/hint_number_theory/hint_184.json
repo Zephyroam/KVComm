@@ -1,0 +1,7 @@
+{
+    "problem": "What is the sum of the digits of the decimal representation of $2^{2005} \\times 5^{2007} \\times 3$?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "We have $$2^{2005}\\times5^{2007}\\times3=(2\\times5)^{2005}\\times5^2\\times3=75\\times10^{2005},$$ so the sum of the digits is $7+5=\\boxed{12}$.",
+    "socratic_questions": "1. What is the given expression and what do you think we need to find?\n2. How can we simplify the expression $2^{2005} \\times 5^{2007} \\times 3$ further?\n3. What is the significance of $2 \\times 5$ in this expression?\n4. How does multiplying by $10^{2005}$ affect the sum of the digits?\n5. Can you explain why the sum of the digits of $75 \\times 10^{2005}$ is the same as the sum of the digits of $75$?\n6. What is the sum of the digits of $75$? How did you calculate that?\n7. Can you generalize the approach used in this problem for finding the sum of digits in similar expressions?"
+}

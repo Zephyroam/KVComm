@@ -1,0 +1,7 @@
+{
+    "problem": "Triangle $DEF$ is similar to triangle $ABC$.  If $DE=6$, $EF=12$, and $BC=18$ units, what is the length of segment $AB$?\n\n[asy]draw((0,0)--(7,0));\ndraw((0,0)--(0,4));\ndraw((0,4)--(7,0));\nlabel(\"E\",(0,0),W);\nlabel(\"F\",(7,0),E);\nlabel(\"D\",(0,4),W);\ndraw((15,0)--(25.5,0));\ndraw((15,0)--(15,6));\ndraw((15,6)--(25.5,0));\nlabel(\"C\",(25.5,0),E);\nlabel(\"B\",(15,0),W);\nlabel(\"A\",(15,6),W);[/asy]",
+    "level": "Level 1",
+    "type": "Geometry",
+    "solution": "Because $\\triangle DEF \\sim \\triangle ABC$, we have the equation \\[\\frac{AB}{DE}=\\frac{BC}{EF}\\] since corresponding sides are in proportion. Plugging in the lengths we know and solving for the length of $AB$, we have \\[\\frac{AB}{6}=\\frac{18}{12}\\Rightarrow AB=\\frac{18}{12}\\cdot6=\\boxed{9}\\]",
+    "socratic_questions": "1. Can you explain what it means for two triangles to be similar? \n2. How does the equation $\\frac{AB}{DE}=\\frac{BC}{EF}$ help us in solving for the length of $AB$ in this problem? \n3. Is there another way to approach this problem without using similarity and proportions? \n4. How would the problem change if we only knew the ratio of the sides of the two triangles, rather than their actual lengths? \n5. If we were given the length of another side of $\\triangle ABC$, instead of $BC$, how could we modify our approach to find the length of $AB$? \n6. Can we apply the concept of similarity to other geometric figures, such as circles or quadrilaterals? How would the approach be different?"
+}

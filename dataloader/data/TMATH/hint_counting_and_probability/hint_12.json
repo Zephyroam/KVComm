@@ -1,0 +1,7 @@
+{
+    "problem": "What is the coefficient of $x^8$ in the expansion of $(x-1)^9$?",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "By the Binomial Theorem applied to $(x+(-1))^9$, this term is $\\binom98x^8(-1)^1=-9x^8$.  The coefficient of this term is $\\boxed{-9}$.",
+    "socratic_questions": "1. What is the Binomial Theorem?\n2. How do we apply the Binomial Theorem to expand $(x-1)^9$?\n3. Can you write out the expanded form of $(x-1)^9$ using the Binomial Theorem?\n4. What is the term that contains $x^8$ in the expanded form?\n5. How do we determine the coefficient of the term containing $x^8$?\n6. Can you explain why the coefficient in front of $x^8$ is negative and why it is $9$ choose $8$?\n7. Can you generalize this method to find the coefficient of any given term in the expansion of a binomial expression? \n8. Can you give an example of a real-life situation where the application of the Binomial Theorem might be useful?"
+}

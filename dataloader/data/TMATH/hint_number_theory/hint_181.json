@@ -1,0 +1,7 @@
+{
+    "problem": "The number $n$ is a prime number between 20 and 30. If you divide $n$ by 8, the remainder is 5. What is the value of $n$?",
+    "level": "Level 1",
+    "type": "Number Theory",
+    "solution": "We look at multiples of 8 greater than 15 and less than 25 (since adding 5 should make the number between 20 and 30). So the multiples of 8 that we consider are 16 and 24. Adding 5, we get 21 and 29. Only 29 is a prime number so $n=\\boxed{29}$.\n\nOR\n\nWhen we divide 20 by 8, we get a remainder of 4. That means 21 will have a remainder of 5. The next number with a remainder of 5 would be $21+8=29$. When we consider 21 and 29, $\\boxed{29}$ is the prime number.",
+    "socratic_questions": "1. What do we know about the number \"n\"?\n2. How can we find a prime number between 20 and 30?\n3. Why should we divide \"n\" by 8 and find the remainder?\n4. What does it mean for \"n\" to have a remainder of 5 when divided by 8?\n5. How can we use the information about remainders to narrow down the possible values of \"n\"?\n6. Can we use multiples of 8 to check for the prime number condition?\n7. What are the possible values of \"n\" when we add 5 to the multiples of 8 between 15 and 25?\n8. How can we determine if a number is prime or not?\n9. Why do we conclude that 29 is the value of \"n\"?\n10. Can you think of any other problem where we use a similar approach to find a specific value within certain conditions?"
+}

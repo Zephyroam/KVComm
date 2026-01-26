@@ -1,0 +1,7 @@
+{
+    "problem": "One-half of one-seventh of $T$ equals one-third of one-fifth of 90. What is the value of $T$?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "From the problem, we write the equation \\[\\frac{1}{2}\\cdot\\frac{1}{7}\\cdot T=\\frac{1}{3}\\cdot\\frac{1}{5}\\cdot90.\\]Simplifying, we have  \\begin{align*}\n\\frac{1}{14}\\cdot T&=\\frac{1}{15}\\cdot90 \\quad \\implies \\\\\n\\frac{1}{14} \\cdot T &=6 \\quad \\implies \\\\\nT &= \\boxed{84}.\n\\end{align*}",
+    "socratic_questions": "1. What is the problem asking us to find?\n2. Can you explain the equation that represents the problem in your own words?\n3. How did you simplify the equation to solve for T?\n4. Are there any other methods you could have used to solve this problem?\n5. How would the problem change if the values given were different? Can you give an example?\n6. Can you come up with a real-world situation where this type of problem could arise?"
+}

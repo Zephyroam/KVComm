@@ -1,0 +1,7 @@
+{
+    "problem": "A band has 72 members who will all be marching during halftime. They need to march in rows with the same number of students per row. If there must be between 5 and 20 students per row, in how many possible row-lengths can the band be arranged?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "If $x$ members march in each row and there is a total of $y$ rows, then $xy=72=2^3\\cdot3^2$. Given that $5\\le x\\le20$, the possible values for $x$ are $2^3=8$, $2^2\\cdot3=12$, $2\\cdot3=6$, $2\\cdot3^2=18$ and $3^2=9$, for a total of $ \\boxed{5}$ row-lengths.",
+    "socratic_questions": "1. Can you describe the problem in your own words? What is the band trying to accomplish?\n2. If there are 72 members in the band, how many different ways can they be arranged in rows with the same number of students in each row?\n3. Are there any restrictions on the number of students that can be in each row? If so, what are those restrictions?\n4. How can we represent the number of students in each row mathematically? Can you write an equation to represent the total number of students in the band?\n5. What is the prime factorization of 72? How can we use this prime factorization to find the possible values for the number of students in each row?\n6. Can you list the possible values for the number of students in each row that satisfy the restriction of having between 5 and 20 students per row?\n7. How many different row lengths can the band be arranged in?"
+}

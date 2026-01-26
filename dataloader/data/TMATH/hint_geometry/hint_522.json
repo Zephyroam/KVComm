@@ -1,0 +1,7 @@
+{
+    "problem": "A right cylinder with a height of 5 inches has a radius of 2 inches. What is the area of the curved surface of the cylinder, in square inches? Express your answer in terms of $\\pi$.",
+    "level": "Level 2",
+    "type": "Geometry",
+    "solution": "The lateral area of a cylinder is $2\\pi rh$. Since $h = 5$ and $r = 2$, our answer is $2\\pi\\cdot 2\\cdot 5 = \\boxed{20\\pi}$.",
+    "socratic_questions": "1. What is the given information in the problem?\n2. How does the height and radius of the cylinder relate to its shape?\n3. What is the formula for the lateral area of a cylinder?\n4. Can you explain the steps involved in using the formula to find the lateral area?\n5. What values should we substitute into the formula for this specific problem?\n6. How do we simplify the expression $2\\pi\\cdot 2\\cdot 5$?\n7. Can you express the final answer in terms of $\\pi$?\n8. What would be the units of the final answer?\n9. Can you think of any real-life examples where knowing the lateral area of a cylinder would be useful?\n10. Are there any other methods or formulas you can think of that could also be used to find the area of the curved surface of a cylinder?"
+}

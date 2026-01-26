@@ -1,0 +1,7 @@
+{
+    "problem": "Find the smallest, positive four-digit multiple of $15.$",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Dividing $1000$ by $15$ gives a quotient of $66$ with a remainder of $10.$ In other words, \\[1000=15\\cdot66+10.\\]So, $66\\cdot15$ is the largest three-digit multiple of $15,$ and $67\\cdot15=\\boxed{1005}$ is the smallest four-digit multiple.",
+    "socratic_questions": "1. Can you state the problem and identify the key information?\n2. What does it mean for a number to be a multiple of $15$?\n3. How do you find the multiples of a number?\n4. What is the process for finding a multiple of a specific number that is the smallest possible and has a certain number of digits?\n5. Can you explain the concept of quotient and remainder and how they relate to finding multiples?\n6. How can you use the given information of $1000=15\\cdot66+10$ to find the smallest four-digit multiple of $15$?\n7. Can you think of different strategies to approach this problem and possibly find other four-digit multiples of $15$?"
+}

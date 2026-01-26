@@ -1,0 +1,7 @@
+{
+    "problem": "Point $P$ is inside equilateral $\\triangle ABC$.  Points $Q$, $R$, and $S$ are the feet of the perpendiculars from $P$ to $\\overline{AB}$, $\\overline{BC}$, and $\\overline{CA}$, respectively. Given that $PQ=1$, $PR=2$, and $PS=3$, what is $AB$ in terms of radicals?",
+    "level": "Level 5",
+    "type": "Geometry",
+    "solution": "Let the side length of $\\triangle ABC$ be $s$. Then the areas of $\\triangle APB$, $\\triangle BPC$, and $\\triangle CPA$ are, respectively, $s/2$, $s$, and $3s/2$.  The area of $\\triangle ABC$ is the sum of these, which is $3s$.  The area of $\\triangle ABC$ may also be expressed as $(\\sqrt{3}/4)s^2$, so $3s = (\\sqrt{3}/4)s^2$. The unique positive solution for $s$ is $\\boxed{4\\sqrt{3}}$.",
+    "socratic_questions": "1. How can we describe the position of point P in relation to equilateral triangle ABC? \n2. What do we know about the lengths of the perpendiculars, PQ, PR, and PS? \n3. How can we express the areas of triangles APB, BPC, and CPA in terms of the side length of triangle ABC? \n4. What is the total area of triangle ABC? \n5. Can we also express the area of triangle ABC using a different formula? What is that formula? \n6. How can we set up an equation using the given information about the areas of the triangles? \n7. How can we solve that equation? \n8. What is the final answer for the side length of triangle ABC in terms of radicals?"
+}

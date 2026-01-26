@@ -1,0 +1,7 @@
+{
+    "problem": "Evaluate $\\log_{\\sqrt{6}} (216\\sqrt{6})$.",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "Let $x= \\log_{\\sqrt{6}}(216\\sqrt{6})$.  Putting this in exponential notation gives $(\\sqrt{6})^x = 216\\sqrt{6}$.  Writing both sides with $6$ as the base gives us $6^{\\frac{x}{2}} = 6^3\\cdot 6^{\\frac{1}{2}} = 6^{\\frac{7}{2}}$, so $x/2=7/2$.  Therefore, $x=\\boxed{7}$.",
+    "socratic_questions": "1. What is the definition of a logarithm?\n2. Can you rewrite the given expression using a different base for the logarithm?\n3. What is the relationship between the base and the exponent in a logarithmic expression?\n4. How can we rewrite the given expression in exponential form?\n5. What is the value of $\\sqrt{6}^3$ and how does it relate to the given expression?\n6. How can we rewrite the expression $216\\sqrt{6}$ using the base $\\sqrt{6}$?\n7. Can you simplify the expression $\\frac{216}{\\sqrt{6}}$?\n8. How can we rewrite the simplified expression in logarithmic form?\n9. What is the value of the logarithm with the simplified expression?"
+}

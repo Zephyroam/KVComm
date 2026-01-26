@@ -1,0 +1,7 @@
+{
+    "problem": "Given $\\begin{vmatrix} a & b \\\\ c & d \\end{vmatrix} = 5,$ find $\\begin{vmatrix} 2a & 2b \\\\ 2c & 2d \\end{vmatrix}.$",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "From $\\begin{vmatrix} a & b \\\\ c & d \\end{vmatrix} = 5,$ $ad - bc = 5.$  Then\n\\[\\begin{vmatrix} 2a & 2b \\\\ 2c & 2d \\end{vmatrix} = (2a)(2d) - (2b)(2c) = 4(ad - bc) = \\boxed{20}.\\]",
+    "socratic_questions": "1. What is the definition of a determinant?\n2. Can you explain how the determinant of a 2x2 matrix is calculated?\n3. How is the determinant affected when all the elements in a row or a column of the matrix are multiplied by the same constant?\n4. If the determinant of a matrix is zero, what does that tell us about the matrix?\n5. Given the determinant of a 2x2 matrix, can you find the values of its elements?\n6. How does the determinant change when the rows or columns of a matrix are interchanged?\n7. Using the properties of determinants, can you explain how to find the determinant of the matrix $\\begin{vmatrix} 2a & 2b \\\\ 2c & 2d \\end{vmatrix}$ in terms of the determinant of the matrix $\\begin{vmatrix} a & b \\\\ c & d \\end{vmatrix}$? \n8. Can you use the property mentioned in the previous question to find the determinant of the matrix $\\begin{vmatrix} 3 & 4 \\\\ 6 & 8 \\end{vmatrix}$ using the determinant of the matrix $\\begin{vmatrix} 1 & 2 \\\\ 3 & 4 \\end{vmatrix}$?"
+}

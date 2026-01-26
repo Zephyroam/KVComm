@@ -1,0 +1,7 @@
+{
+    "problem": "Find the domain of the function $z(x) = \\sqrt[3]{x - 1} + \\sqrt[3]{8 - x}.$",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "Since we can take the cube root of any real number (positive or negative), $z(x) = \\sqrt[3]{x - 1} + \\sqrt[3]{8 - x}$ is defined for all real numbers $x.$  Thus, the domain of $z(x)$ is $\\boxed{(-\\infty,\\infty)}.$",
+    "socratic_questions": "1. Can you give a brief explanation of what the function $z(x)$ represents? \n2. How do you determine the domain of a function? \n3. What is the range of the cube root function? \n4. Can you simplify the expression $\\sqrt[3]{x-1} + \\sqrt[3]{8-x}$? \n5. Are there any values of $x$ that would make the expression under the cube root negative? What impact would this have on the domain of the function?\n6. How do you graph $z(x)$? \n7. Is $z(x)$ an odd or even function? How do you know? \n8. Are there any asymptotes for $z(x)$? \n9. Are there any discontinuities for $z(x)$? If so, where and why? \n10. How would you find the inverse function of $z(x)$?"
+}

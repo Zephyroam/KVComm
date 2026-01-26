@@ -1,0 +1,7 @@
+{
+    "problem": "In how many ways can four people line up in a straight line if the youngest person cannot be first in line?",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "Consider the number of people that can fill each place in line. There are three people who could be first (the youngest is excluded). There are then three people who could be second, two people who could be third, and the last is determined. Thus, there are $3 \\cdot 3 \\cdot 2 = \\boxed{18}$ ways in which to form a line.",
+    "socratic_questions": "1. What is the problem asking us to find?\n2. What is the condition given in the problem?\n3. How many people are involved in this problem?\n4. Can the youngest person be first in line? If not, how does this affect the possible arrangements?\n5. What is the first step in solving this problem?\n6. How many options are there for the first person in line?\n7. How many options are there for the second person in line?\n8. How many options are there for the third person in line?\n9. How many options are there for the last person in line?\n10. How do we use these options to find the total number of valid arrangements?\n11. Can you think of a similar problem involving restrictions on the arrangements of items or people?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Solve for $y$: $4+2.3y = 1.7y - 20$",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "First we get all the terms with $y$ on one side by subtracting $1.7y$ from both sides.  This gives us $4+0.6y = -20$.  Subtracting 4 from both sides gives $0.6y = -24$.  Dividing both sides by 0.6 isolates $y$ and gives us $y = -24/(0.6) = -240/6 = \\boxed{-40}$.",
+    "socratic_questions": "1. Can you describe the first step in solving this equation for $y$?\n2. What different methods do you know for solving equations like this one?\n3. If you choose to use the method of combining like terms, what would you do with the numbers on each side of the equation?\n4. Why is it possible to combine like terms in this equation? What property allows us to do this?\n5. After combining like terms, what does the equation look like? How does this help us find the value of $y$?\n6. Can you think of other types of equations where similar thinking and steps might be used to solve them?"
+}

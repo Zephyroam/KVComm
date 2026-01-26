@@ -1,0 +1,7 @@
+{
+    "problem": "The measure of each exterior angle of a regular polygon is $30$ degrees. What is the sum of the measures of the interior angles, in degrees?",
+    "level": "Level 3",
+    "type": "Geometry",
+    "solution": "Taking one exterior angle per vertex, the sum of the exterior angles of a polygon is $360^\\circ$. If each exterior angle is $30^\\circ$, then the polygon has $\\frac{360}{30}=12$ sides. The sum of the interior angles of an $n$-sided polygon is $180(n-2)$, so for a polygon with 12 sides, the sum of the interior angles is $180(12-2)=\\boxed{1800}$ degrees.",
+    "socratic_questions": "1. How would you define a regular polygon? \n2. What is the relationship between the measure of each exterior angle and the sum of all exterior angles in a polygon? \n3. How can we use the given information about the measure of each exterior angle to determine the number of sides in the polygon? \n4. Can you explain the formula for finding the sum of the interior angles of an n-sided polygon? \n5. Applying the formula, what is the sum of the interior angles for a polygon with 12 sides? \n6. Is there any other way to verify the sum of the interior angles using different reasoning or formulas?"
+}

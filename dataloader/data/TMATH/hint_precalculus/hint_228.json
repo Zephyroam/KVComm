@@ -1,0 +1,7 @@
+{
+    "problem": "Find the curve defined by the equation\n\\[r = \\frac{1}{\\sin \\theta - \\cos \\theta}.\\](A) Line\n(B) Circle\n(C) Parabola\n(D) Ellipse\n(E) Hyperbola\n\nEnter the letter of the correct option.",
+    "level": "Level 3",
+    "type": "Precalculus",
+    "solution": "From $r = \\frac{1}{\\sin \\theta - \\cos \\theta},$\n\\[r \\sin \\theta - r \\cos \\theta = 1.\\]Then $y - x = 1,$ which is the equation of a line.  The answer is $\\boxed{\\text{(A)}}.$\n\n[asy]\nunitsize(2 cm);\n\ndraw((-1.3,-0.3)--(0.3,1.3),red);\ndraw((-1.3,0)--(0.3,0));\ndraw((0,-0.3)--(0,1.3));\nlabel(\"$r = \\frac{1}{\\sin \\theta - \\cos \\theta}$\", (-1,1), red);\n[/asy]",
+    "socratic_questions": "1. Can you explain how we can rewrite the equation in terms of $x$ and $y$ coordinates using trigonometric identities?\n2. What does the equation $y - x = 1$ represent geometrically? Can you visualize it?\n3. How does the equation of a line compare to the equation of a circle? Can you think of any similarities or differences?\n4. Are there any specific properties or characteristics of a parabola that we can use to determine if the given equation represents a parabola or not?\n5. We have concluded that the equation represents a line. Can you generalize this result for other equations of the form $r = \\frac{1}{\\sin \\theta - \\cos \\theta}$? Can you find any patterns?\n6. How does the equation of a line compare to the equations of an ellipse or a hyperbola? Can you think of any specific features that differentiate them?"
+}

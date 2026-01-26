@@ -1,0 +1,7 @@
+{
+    "problem": "Find the quotient when $x^5-23x^3+11x^2-14x+10$ is divided by $x+5$.",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "We use synthetic division.\n\\[\n\\begin{array}{rrrrrrr}\n\\multicolumn{1}{r|}{-5} & {1} & 0 & -23 & 11 & -14 & 10 \\\\\n\\multicolumn{1}{r|}{} & & -5& 25& -10 & -5 & 95 \\\\\n\\cline{2-7}\n & 1& -5& 2& 1 & -19& \\multicolumn{1}{|r}{105} \\\\\n\\end{array}\n\\]So we have a quotient of $\\boxed{x^4-5x^3+2x^2+x-19}$ and a remainder of $105$.",
+    "socratic_questions": "1. What is the goal of dividing the polynomial $x^5-23x^3+11x^2-14x+10$ by $x+5$? \n2. How does synthetic division help simplify the process of dividing polynomials? \n3. Can you explain the steps involved in synthetic division and why it works? \n4. What is the significance of the remainder in this problem? \n5. How can you verify that the quotient obtained through synthetic division is correct? \n6. Are there other methods for dividing polynomials that you are aware of? \n7. Can you solve similar problems using the same method of synthetic division? \n8. How can you apply the concept of polynomial division to real-world scenarios?"
+}

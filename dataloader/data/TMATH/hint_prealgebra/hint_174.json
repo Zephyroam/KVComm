@@ -1,0 +1,7 @@
+{
+    "problem": "Sixty percent of a plane's passengers are women and ten percent of those women are in first class. What is the number of women in first class if the plane is carrying 200 passengers?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Sixty percent of the plane's 200 passengers is $200\\cdot \\frac{60}{100} = 120$ passengers. Ten percent of these women are in first class; this is $120\\cdot \\frac{10}{100} = \\boxed{12}$.",
+    "socratic_questions": "1. What percentage of the plane's passengers are women?\n2. How many passengers are there on the plane?\n3. How can we calculate the number of women passengers on the plane if we know the percentage of female passengers?\n4. What percentage of the women passengers are in first class?\n5. How can we find the number of women in first class if we know the total number of women passengers?\n6. Can you calculate the number of women in first class based on the given information?"
+}

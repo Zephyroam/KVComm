@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\dbinom{25}{2}$.",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "\\begin{align*}\n\\dbinom{25}{2} &= \\dfrac{25!}{23!2!} \\\\\n&= \\dfrac{25\\times 24}{2\\times 1} \\\\\n&= 25 \\times \\dfrac{24}{2} \\\\\n&= 25 \\times 12 \\\\\n&= \\boxed{300}.\n\\end{align*}",
+    "socratic_questions": "1. What is the definition of $\\dbinom{25}{2}$?\n2. Can you simplify $\\dfrac{25!}{23!2!}$?\n3. Why do we need to use factorials in the expression for $\\dbinom{25}{2}$?\n4. How does $\\dbinom{25}{2}$ relate to combinations and permutations?\n5. In what types of problems might we need to use $\\dbinom{25}{2}$?\n6. Can you find $\\dbinom{25}{2}$ using a different method? If so, what is it and why is it equivalent to the original method?\n7. What is the significance of the result, 300, in the context of the problem?\n8. How can we extend this concept to compute other binomial coefficients, such as $\\dbinom{25}{k}$?"
+}

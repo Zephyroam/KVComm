@@ -1,0 +1,7 @@
+{
+    "problem": "Our school's girls volleyball team has 14 players, including a set of 3 triplets: Alicia, Amanda, and Anna.  In how many ways can we choose 6 starters with no restrictions? (The triplets are treated as distinguishable.)",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "We are choosing 6 starters from 14 players, which can be done in $\\binom{14}{6} = \\boxed{3003}$ ways.",
+    "socratic_questions": "1. How many players do we have in total?\n2. How many starters do we need to choose?\n3. Are there any restrictions on choosing the starters?\n4. How many ways can we choose 6 starters without considering the triplets?\n5. How many ways can we choose starters from the triplets?\n6. How can we combine the number of ways of choosing starters without considering the triplets and the number of ways of choosing starters from the triplets?\n7. Can you explain why we use combinations to calculate the number of ways of choosing starters in this case?\n8. What other factors should we consider when counting the number of ways to choose starters?\n9. Can you think of any other scenarios where similar reasoning and steps can be applied?\n10. Can you generalize this approach to solve similar problems involving different numbers of players and starters?"
+}

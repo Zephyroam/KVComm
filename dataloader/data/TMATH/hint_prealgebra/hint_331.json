@@ -1,0 +1,7 @@
+{
+    "problem": "The Ponde family's Powerjet pumps 420 gallons of water per hour. At this rate, how many gallons of water will it pump in 45 minutes?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "Since 45 minutes is $\\frac{3}{4}$ of an hour, the Powerjet will pump $420\\times\\frac{3}{4}=\\boxed{315}$ gallons of water in 45 minutes.",
+    "socratic_questions": "1. What is the rate at which the Powerjet pumps water in gallons per hour?\n2. How can we convert 45 minutes to hours? What is the value of 45 minutes in terms of hours?\n3. Given that the Powerjet pumps water at a rate of 420 gallons per hour, how many gallons will it pump in 1 hour?\n4. If the Powerjet pumps 420 gallons of water in 1 hour, how much water will it pump in $\\frac{3}{4}$ of an hour?\n5. What is the value of $\\frac{3}{4}$ of 420 gallons?\n6. Based on our calculations, how many gallons of water will the Powerjet pump in 45 minutes? Please provide your answer in gallons."
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Determine the number of digits in the value of $2^{12} \\times 5^8 $.",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "$2^{12}\\times5^8=2^4\\times(2\\times5)^8=16\\times10^8$. $10^8$ has 9 digits, so $16\\times(10)^8$ has 10 digits (1, 6, and eight 0's). Therefore, there are $\\boxed{10}$ digits in the value of $2^{12}\\times5^8$.",
+    "socratic_questions": "1. Can you explain what is meant by \"number of digits\"?\n2. What is the prime factorization of $2^{12}$ and $5^8$?\n3. How can we simplify the expression $2^{12} \\times 5^8$? \n4. Can you explain why we can rewrite $2^{12} \\times 5^8$ as $16\\times10^8$?\n5. How many digits are in $10^8$ and why?\n6. Using this information, can you determine the number of digits in $16\\times10^8$?\n7. Can you think of a similar problem where we can use this method to simplify and find the number of digits?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Kate has saved up $4444_8$ dollars for a trip to France. A round-trip airline ticket costs $1000_{10}$ dollars. In base ten, how many dollars will she have left for lodging and food?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "$4444_8=4\\cdot8^3+4\\cdot8^2+4\\cdot8^1+4\\cdot8^0=2048+256+32+4=2340_{10}$. Therefore, Kate will have $2340-1000=\\boxed{1340}$ dollars for lodging and food.",
+    "socratic_questions": "1. Can you describe how we can convert a number from base 8 to base 10? What is the general process?\n2. What is the value of each digit in the number $4444_8$ when expressed in base 10? How did you calculate this?\n3. How can we write \"$4444_8$\" in expanded form using powers of 8? Can you show step-by-step how you computed this?\n4. If Kate's round-trip ticket costs $1000_{10}$ dollars, how would you calculate the amount she has left for lodging and food in base 10? What mathematical operation is involved?\n5. Can you explain why we subtract the cost of the ticket from the total amount Kate has saved? What does this represent in terms of Kate's budget?\n6. How could you verify the correctness of your answer? Is there a way to double-check and ensure the calculation is accurate?\n7. In general, can you think of other situations where converting numbers from different bases might be useful or applicable? Can you provide examples?"
+}

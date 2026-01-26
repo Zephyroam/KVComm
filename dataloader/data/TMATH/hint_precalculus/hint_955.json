@@ -1,0 +1,7 @@
+{
+    "problem": "Two lines are perpendicular.  One line has a direction vector of $\\begin{pmatrix} 3 \\\\ -7 \\end{pmatrix}.$  The other line has a direction vector of $\\begin{pmatrix} a \\\\ 2 \\end{pmatrix}.$  Find $a.$",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "Since the two lines are perpendicular, their direction vectors are orthogonal.  This means that the dot product of the direction vectors is 0:\n\\[\\begin{pmatrix} 3 \\\\ -7 \\end{pmatrix} \\cdot \\begin{pmatrix} a \\\\ 2 \\end{pmatrix} = 0.\\]Then $3a - 14 = 0,$ so $a = \\boxed{\\frac{14}{3}}.$",
+    "socratic_questions": "1. What is the dot product of two vectors?\n2. How do you determine if two lines are perpendicular using their direction vectors?\n3. Why does the dot product of two orthogonal vectors equal 0?\n4. Can you explain the algebraic steps for finding $a$ in the given problem?\n5. Are there any other methods you could use to find the value of $a$?\n6. Can you apply the concept of orthogonal vectors to solve any other problems in geometry or physics?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "For each positive integer $n$, the mean of the first $n$ terms of a sequence is $n$. What is the 2008th term of the sequence?",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "Let $a_n$ denote the $n$th term.  Then\n\\[\\frac{a_1 + a_2 + \\dots + a_{2008}}{2008} = 2008,\\]so $a_1 + a_2 + \\dots + a_{2008} = 2008^2.$\n\nAlso,\n\\[\\frac{a_1 + a_2 + \\dots + a_{2007}}{2007} = 2007,\\]so $a_1 + a_2 + \\dots + a_{2007} = 2007^2.$  Subtracting these equations, we get\n\\[a_{2008} = 2008^2 - 2007^2 = (2008 + 2007)(2008 - 2007) = \\boxed{4015}.\\]",
+    "socratic_questions": "1. What is the given information in this problem? Can you restate the problem in your own words?\n2. Let's focus on the mean of the first $n$ terms. How is the mean related to the sum of the terms?\n3. How can we express the sum of the first $n$ terms in terms of $n$?\n4. What equation can we set up using the given information and the relationship between the sum and the mean?\n5. How can we solve this equation to find the sum of the first 2008 terms?\n6. What relationship does the sum of the first 2008 terms have with the 2008th term in the sequence?\n7. How can we use the sum of the first 2008 terms to find the value of the 2008th term in the sequence?\n8. Can you now determine the value of the 2008th term using the information we have?"
+}

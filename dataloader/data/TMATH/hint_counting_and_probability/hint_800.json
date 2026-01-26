@@ -1,0 +1,7 @@
+{
+    "problem": "How many paths are there from $A$ to $B$, if every step must be up or to the right?[asy]size(4cm,4cm);int w=6;int h=5;int i;pen p=fontsize(9);for (i=0; i<h; ++i){draw((0,i) -- (w-1,i));}for (i=0; i<w; ++i){draw((i, 0)--(i,h-1));}label(\"$A$\", (0,0), SW, p);label(\"$B$\", (w-1,h-1), NE, p);[/asy]",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "There are 5 steps to the right, and 4 steps up.  These 9 steps can be made in any order, so we can choose 4 of the 9 steps to be \"up\" in $\\binom{9}{4} = \\boxed{126}$ ways.",
+    "socratic_questions": "1. Can you describe the first step in solving this problem?\n2. How do you determine the number of steps needed to reach from point A to point B?\n3. Can you explain why each step must be either up or to the right?\n4. How can you represent each step in the solution path mathematically?\n5. What does it mean to choose 4 out of the 9 steps to be \"up\"?\n6. Is there any other way to represent the problem mathematically?\n7. Why do we use the combination formula $\\binom{9}{4}$ to calculate the number of paths?\n8. Can you think of any other problems where the concept of combinations might be useful?\n9. What happens if we change the number of steps to the right or up? How would that affect the calculation?\n10. Can you make a general statement or formula to find the number of paths for any given number of steps to the right and up?"
+}

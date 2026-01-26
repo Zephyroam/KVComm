@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\dbinom{133}{133}$.",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "$\\dbinom{133}{133}=\\dbinom{133}{0}=\\boxed{1}.$",
+    "socratic_questions": "1. Can you explain what the notation \"$\\dbinom{133}{133}$\" represents in terms of counting and probability?\n2. How many ways can you choose 0 objects from a total of 133 objects? Can you think of any scenarios where this situation might be applicable?\n3. Why is the value of $\\dbinom{133}{133}$ equal to 1? Is there a mathematical formula or property that can help justify this?\n4. Can you think of any other examples where the number of ways to choose 0 objects is equal to 1? How does this relate to the concept of combinations?\n5. How does $\\dbinom{133}{133}$ relate to the concept of binomial coefficients? Can you explain the significance of choosing 133 objects from a total of 133 objects?\n6. Can you think of any other situations or problems where the concept of combinatorics, similar to $\\dbinom{133}{133}$, might be applicable?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Find the greatest common divisor of 12 and 20.",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "$12 = 2^2 \\cdot 3^1$ and $20 = 2^2 \\cdot 5^1$, so $\\gcd(12, 20) = 2^2 = \\boxed{4}$.",
+    "socratic_questions": "1. What is the definition of the greatest common divisor (GCD)?\n2. Can you identify the prime factorization of 12 and 20?\n3. What do you notice about the common factors between 12 and 20?\n4. How can you determine the GCD from the prime factorization of the numbers?\n5. Why is it important to consider the highest power of common prime factors?\n6. Can you think of any other examples where finding the GCD would be useful?\n7. How would you verify that the GCD you found is indeed correct?"
+}

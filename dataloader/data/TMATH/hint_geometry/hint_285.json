@@ -1,0 +1,7 @@
+{
+    "problem": "The endpoints of a diameter of circle $M$ are $(-1,-4)$ and $(-7,6)$. What are the coordinates of the center of circle $M$? Express your answer as an ordered pair.",
+    "level": "Level 2",
+    "type": "Geometry",
+    "solution": "The midpoint of a diameter of a circle is its center. Thus, $M$ is the midpoint of the segment from $(-1,-4)$ to $(-7,6),$ so $M$ has coordinates \\[\\left(\\frac{-1+(-7)}{2},\\frac{-4+6}{2} \\right)=\\boxed{(-4,1)}.\\]",
+    "socratic_questions": "1. What is the definition of a diameter of a circle?\n2. What is the midpoint of a line segment?\n3. Can you find the midpoint of the line segment with endpoints $(-1,-4)$ and $(-7,6)$?\n4. How does finding the midpoint of the diameter help us find the center of the circle?\n5. What is the relationship between the center of a circle and its diameter?\n6. Using the coordinates of the center and one of the endpoints of the diameter, can you find the radius of the circle?\n7. Is there any other information we need to find the equation of the circle? If so, what is it?\n8. How can we check that the coordinates of the center we found are correct?"
+}

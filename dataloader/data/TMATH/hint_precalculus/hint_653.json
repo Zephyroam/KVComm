@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\cos \\left( \\arcsin \\frac{2}{3} \\right).$",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "Consider a right triangle where the opposite side is 2 and the hypotenuse is 3.\n\n[asy]\nunitsize (1 cm);\n\ndraw((0,0)--(sqrt(5),0)--(sqrt(5),2)--cycle);\n\nlabel(\"$\\sqrt{5}$\", (sqrt(5)/2,0), S);\nlabel(\"$3$\", (sqrt(5)/2,1), NW);\nlabel(\"$2$\", (sqrt(5),1), E);\nlabel(\"$\\theta$\", (0.7,0.3));\n[/asy]\n\nThen $\\sin \\theta = \\frac{2}{3},$ so $\\theta = \\arcsin \\frac{2}{3}.$  By Pythagoras, the adjacent side is $\\sqrt{5},$ so $\\cos \\theta = \\boxed{\\frac{\\sqrt{5}}{3}}.$",
+    "socratic_questions": "1. What is the definition of arcsin? \n2. How does the given triangle relate to the value of arcsin 2/3? \n3. What is the value of sin(theta) in the given triangle and how is it related to the opposite side and hypotenuse? \n4. How can we use the Pythagorean theorem to find the adjacent side of the triangle? \n5. What is the definition of cosine and how is it related to the adjacent side and hypotenuse? \n6. What is the value of cos(theta) in the given triangle and how does it relate to the length of the adjacent side and hypotenuse? \n7. How can we use the value of sin(theta) to find the value of cos(theta)? \n8. Are there any other trigonometric functions that we can use to find the value of cos(arcsin(2/3))? \n9. Can we use similar methods to solve for other trigonometric functions in similar situations?"
+}

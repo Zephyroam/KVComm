@@ -1,0 +1,7 @@
+{
+    "problem": "The planning committee at school has 10 members. Exactly four of these members are teachers. A four-person subcommittee with at least one member who is a teacher must be formed from the members of the planning committee. How many distinct subcommittees are possible?",
+    "level": "Level 4",
+    "type": "Counting & Probability",
+    "solution": "Because there are 4 teachers on the committee, there are 6 non-teachers. Now, in total, we can form ${10 \\choose 4} = 210$ subcomittees. The number of subcomittees with 0 teachers is the number of subcommittees formed by the 6 nonteachers, totaling ${6 \\choose 4} = 15$. So, the number of subcomittees with at least 1 teacher is $210 - 15 = \\boxed{195}$.",
+    "socratic_questions": "1. What is the total number of members on the planning committee?\n2. How many teachers are there on the planning committee?\n3. How many non-teachers are there on the planning committee?\n4. Can you explain why we need to consider subcommittees with at least one teacher?\n5. How many subcommittees can be formed from the planning committee if there are no restrictions?\n6. How many subcommittees can be formed from the non-teachers alone?\n7. How can we determine the number of subcommittees with at least one teacher using the values from the previous questions?\n8. Are there any other conditions or restrictions that we need to consider in this problem?\n9. Can you think of any other scenarios where counting and probability concepts can be applied?"
+}

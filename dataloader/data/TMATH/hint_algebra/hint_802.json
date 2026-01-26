@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $i^{600} + i^{599} + \\cdots + i + 1$, where $i^2=-1$.",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "Each group of 4 consecutive powers of $i$ adds to 0: $i + i^2 + i^3 + i^4 = i - 1 - i +1 = 0$, $i^5+i^6+i^7+i^8 = i^4(i+i^2+i^3+i^4) = 1(0) = 0$, and so on.  Because 600 is divisible by 4, we know that if we start grouping the powers of $i$ as suggested by our first two groups above, we won't have any `extra' powers of $i$ beyond $i^{600}$.  We will, however, have the extra 1 before the $i$, so: \\[i^{600} + i^{599} + \\cdots + i + 1 = (0) + (0) + \\cdots + (0) + 1 = \\boxed{1}.\\]",
+    "socratic_questions": "1. How would you describe the first step in computing the given expression?\n2. What are the properties of the imaginary unit, i, and how can they be applied in this situation?\n3. Is there a pattern or relationship between the exponents of i? If so, how can it be utilized in simplifying the expression?\n4. Can you identify any simplification techniques or identities that can be used to simplify the given expression?\n5. How can you group terms in the expression to facilitate computation?\n6. Are there any strategies or shortcuts that can be employed to simplify the expression efficiently?\n7. What is the simplified form of each term in the expression, and how do they contribute to the overall value?\n8. Can you generalize or extend this problem to other expressions involving powers of i? What insights or strategies can be applied in those cases?"
+}

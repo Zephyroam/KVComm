@@ -1,0 +1,7 @@
+{
+    "problem": "If $x$, $y$, and $z$ are positive with $xy=24$, $xz = 48$, and $yz=72$, what is the value of $x+y+z$?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "Since $$x=\\frac{24}{y}=\\frac{48}{z}$$ we have $z = 2y$. So $72\n= 2y^2$, which implies that $y=6$, $x = 4$, and $z = 12$. Hence $x+y+z = \\boxed{22}$.",
+    "socratic_questions": "1. Can you describe what the first step should be in solving this problem?\n2. In solving equations with multiple variables, what strategies or methods can you think of using?\n3. If you were to eliminate a variable in this problem, which equation would you choose and why?\n4. What is the relationship between the three given equations? How can you use this relationship to simplify the problem?\n5. Once you have eliminated one variable, what can you do next to solve for the remaining variables?\n6. How can the given equations be rearranged or combined in order to find the values of $x$, $y$, and $z$?\n7. What is the value of $x+y+z$ and how does it relate to the given information?\n8. If you were given different values for $xy$, $xz$, and $yz$, how would that affect the steps you take to find $x+y+z$?\n9. Can you think of any real-life scenarios where solving equations with multiple variables and using similar reasoning would be useful?\n10. How would you check the correctness of your solution for $x+y+z$ in this problem?"
+}

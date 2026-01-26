@@ -1,0 +1,7 @@
+{
+    "problem": "For how many integer values of $x$ is $5x^{2}+19x+16 > 20$ not satisfied?",
+    "level": "Level 5",
+    "type": "Algebra",
+    "solution": "We can simplify the inequality to $5x^{2}+19x-4 > 0$, which can then be factored into $(5x-1)(x+4)>0$. We see that this inequality is satisfied when $x<-4$ and $\\frac{1}{5}<x$, because in former case $5x-1$ and $x+4$ are both negative, and in the latter case they are both positive. This means that the inequality is not satisfied for $x$ between $-4$ and $\\frac{1}{5}$. The integer values of $x$ in this range are $-4, -3, -2, -1, \\text{ and }0$, and there are $\\boxed{5}$ of them.",
+    "socratic_questions": "1. How would you begin solving the inequality $5x^{2}+19x+16 > 20$? What do you notice about the inequality compared to a regular equation?\n2. Can you factorize the quadratic expression $5x^{2}+19x+16$? If so, what are the factors? How can this help you solve the inequality?\n3. Why does factoring the quadratic expression help in this case? What properties or characteristics of the expression make factoring an effective approach?\n4. How would you solve the inequality $5x^{2}+19x+16 > 20$ using the factored form? What steps would you take?\n5. Are there any other methods you can think of to solve the inequality $5x^{2}+19x+16 > 20$? How are they different from the factoring method?\n6. Can you generalize the steps and thinking process you used to solve this inequality to other similar types of equations or inequalities?"
+}

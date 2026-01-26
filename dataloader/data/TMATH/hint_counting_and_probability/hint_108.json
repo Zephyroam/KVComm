@@ -1,0 +1,7 @@
+{
+    "problem": "How many perfect squares are between 50 and 250?",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "Since $7^2 < 50 < 8^2$ and $15^2 < 250 < 16^2$, the squares between 50 and 250 are $8^2,9^2,10^2,\\ldots,15^2$.  So there are $15 - 8 + 1 = \\boxed{8}$ such squares.",
+    "socratic_questions": "1. What is a perfect square and how is it related to counting?\n2. How can we determine the range of perfect squares between two given numbers?\n3. What is the smallest perfect square greater than or equal to 50 and how do we find it?\n4. What is the largest perfect square less than or equal to 250 and how do we find it?\n5. How do we use the information about the smallest and largest perfect squares to determine the number of perfect squares between 50 and 250?\n6. Can this method of counting perfect squares be applied to other ranges of numbers? If so, how? If not, why not?"
+}

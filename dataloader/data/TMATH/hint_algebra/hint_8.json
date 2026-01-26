@@ -1,0 +1,7 @@
+{
+    "problem": "Find the distance between the points $(-5,-2)$ and $(7,3)$.",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "We use the distance formula to find that the distance is \\[\\sqrt{(-5 -7)^2 + (-2-3)^2} = \\!\\sqrt{144 + 25} = \\boxed{13}.\\]",
+    "socratic_questions": "1. How would you define the distance between two points in a Cartesian coordinate system?\n2. What information do we need in order to calculate the distance between two points?\n3. How can we express the coordinates of the given points in the distance formula?\n4. What is the formula for finding the distance between two points?\n5. Can you identify and explain each component of the distance formula?\n6. How would you substitute the coordinates of the given points into the distance formula to find the distance?\n7. What are the key steps involved in simplifying and evaluating the expression for the distance?\n8. Can you calculate the distance between the given points using the distance formula?\n9. What are the units of the resulting distance?\n10. Can you think of any other scenarios or problems where calculating distance between points using the distance formula might be useful?"
+}

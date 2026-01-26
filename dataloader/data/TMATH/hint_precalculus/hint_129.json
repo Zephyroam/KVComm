@@ -1,0 +1,7 @@
+{
+    "problem": "Given vectors $\\mathbf{v}$ and $\\mathbf{w}$ such that $\\|\\mathbf{v}\\| = 3,$ $\\|\\mathbf{w}\\| = 7,$ and $\\mathbf{v} \\cdot \\mathbf{w} = 10,$ then find $\\|\\operatorname{proj}_{\\mathbf{w}} \\mathbf{v}\\|.$",
+    "level": "Level 3",
+    "type": "Precalculus",
+    "solution": "Note that\n\\begin{align*}\n\\|\\operatorname{proj}_{\\mathbf{w}} \\mathbf{v}\\| &= \\left\\| \\frac{\\mathbf{v} \\cdot \\mathbf{w}}{\\|\\mathbf{w}\\|^2} \\mathbf{w} \\right\\| \\\\\n&= \\frac{|\\mathbf{v} \\cdot \\mathbf{w}|}{\\|\\mathbf{w}\\|^2} \\cdot \\|\\mathbf{w}\\| \\\\\n&= \\frac{|\\mathbf{v} \\cdot \\mathbf{w}|}{\\|\\mathbf{w}\\|} \\\\\n&= \\boxed{\\frac{10}{7}}.\n\\end{align*}",
+    "socratic_questions": "1. Can you explain what the projection of one vector onto another means geometrically?\n2. How does the dot product play a role in finding the projection of one vector onto another?\n3. Given that the dot product of vectors v and w is 10, what does this tell us about the angle between these two vectors?\n4. How can we use the norm of vectors v and w to find the norm of the projection of v onto w?\n5. What formula or equation can we use to calculate the norm of the projection of v onto w?\n6. Applying this formula, what is the norm of the projection of v onto w in this case given that ||v|| = 3, ||w|| = 7, and v · w = 10?"
+}

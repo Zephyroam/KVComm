@@ -1,0 +1,7 @@
+{
+    "problem": "What is $a-2b$, where $a=4-2i$ and $b=3+2i$?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "Substituting in, we have $4-2i-2(3+2i)$. Expanding the last part, we have $4-2i-6-4i$; adding, we have $\\boxed{-2-6i}$.",
+    "socratic_questions": "1. What is the value of $a$ in the expression $a - 2b$?\n2. What is the value of $b$ in the expression $a - 2b$?\n3. Given that $a = 4 - 2i$ and $b = 3 + 2i$, how can we substitute these values into the expression $a - 2b$?\n4. What is the result of subtracting $2b$ from $a$ using the given values of $a$ and $b$?\n5. How do we perform subtraction with complex numbers?\n6. Can you express the expression $a - 2b$ in simplified form, where the real and imaginary parts are separated?\n7. Can you simplify the expression $a - 2b$ to obtain a single complex number? What is its real part and imaginary part?\n8. How does the value of $a-2b$ relate to the given complex numbers $a$ and $b$?\n9. What is the significance of the result obtained for $a-2b$ in terms of understanding complex number operations?\n10. Can you think of any other similar expressions involving complex numbers where the same reasoning and steps can be applied?"
+}

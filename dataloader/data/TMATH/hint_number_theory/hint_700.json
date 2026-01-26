@@ -1,0 +1,7 @@
+{
+    "problem": "Determine the number of positive integers $a$ less than $12$ such that the congruence $ax\\equiv 1\\pmod{12}$ has a solution in $x$.",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "The given congruence has a solution if and only if $a$ is invertible modulo $12$ since the congruence implies that $a,x$ are inverses of each other modulo $12$. In other words, $\\gcd(12,a)=1$. The only such positive $a$ less than $12$ are $1,5,7,11$. So the number of possible values of $a$ is $\\boxed{4}$.",
+    "socratic_questions": "1. Can you explain what it means for the congruence $ax \\equiv 1 \\pmod{12}$ to have a solution in $x$?\n2. How can we determine whether a given positive integer $a$ is invertible modulo $12$? What does it mean for an integer to be invertible modulo $n$?\n3. Are there any restrictions on $a$ that we need to consider in order for it to be invertible modulo $12$?\n4. How can we find the set of positive integers $a$ less than $12$ that satisfy the condition $\\gcd(12, a) = 1$? Why is it important to calculate the greatest common divisor in this context?\n5. Can you determine the values of $a$ that satisfy the condition $\\gcd(12, a) = 1$? How many are there?\n6. Are there any additional conditions or considerations we need to take into account when determining the number of possible values for $a$?"
+}

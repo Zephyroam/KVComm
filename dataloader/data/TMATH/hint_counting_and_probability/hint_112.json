@@ -1,0 +1,7 @@
+{
+    "problem": "What is the sum of all integer values $n$ for which $\\binom{26}{13}+\\binom{26}{n}=\\binom{27}{14}$?",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "From Pascal's identity $\\binom{n-1}{k-1}+\\binom{n-1}{k}=\\binom{n}{k}$.\n\nTherefore, we have $\\binom{26}{13}+\\binom{26}{14}=\\binom{27}{14}$, so $n=14$.\n\nWe know that $\\binom{27}{14}=\\binom{27}{27-14}=\\binom{27}{13}$.\n\nWe use Pascal's identity again to get $\\binom{26}{13}+\\binom{26}{12}=\\binom{27}{13}$, so $n=12$.\n\nThere are two values for $n$, $12$ and $14$, so the sum is $12+14=\\boxed{26}$.",
+    "socratic_questions": "1. According to Pascal's identity, what is the relationship between the values of $\\binom{n-1}{k-1}$, $\\binom{n-1}{k}$, and $\\binom{n}{k}$?\n2. How can we apply Pascal's identity to the equation $\\binom{26}{13}+\\binom{26}{n}=\\binom{27}{14}$?\n3. By applying Pascal's identity, what is the new equation we obtain?\n4. How can we simplify the new equation to solve for the value of $n$?\n5. What values of $n$ satisfy the equation?\n6. How can we calculate the sum of all the integer values of $n$ that satisfy the equation?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "In order for Mateen to walk a kilometer(1000m) in his rectangular backyard, he must walk the length 25 times or walk its perimeter 10 times. What is the area of Mateen's backyard in square meters?",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "The perimeter is $1000\\div 10=100$, and this is two lengths and two widths. The length of the backyard is $1000\\div 25=40$. Since two lengths total 80, the two widths total 20, and the width is 10. The area is $10\\times 40=\\boxed{400}$.",
+    "socratic_questions": "1. What is the given information in the problem?\n2. How is the length related to the number of times Mateen walks it to cover a kilometer?\n3. How is the perimeter related to the number of times Mateen walks it to cover a kilometer?\n4. What is the formula for the perimeter of a rectangle? How is it related to the length and width?\n5. How can we calculate the length of the backyard using the given information?\n6. How can we calculate the width of the backyard using the given information?\n7. How can we calculate the area of the backyard using the length and width?\n8. What is the final answer for the area of Mateen's backyard in square meters?"
+}

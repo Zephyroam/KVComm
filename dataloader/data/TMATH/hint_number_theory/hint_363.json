@@ -1,0 +1,7 @@
+{
+    "problem": "When $x$ is divided by each of $4$, $5$, and $6$, remainders of $3$, $4$, and $5$ (respectively) are obtained. What is the smallest possible positive integer value of $x$?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "Note that $x+1$ is divisible by $4$, $5$, and $6$. Therefore, it must be divisible by their least common multiple, which is $60$. Therefore, the smallest value for $x+1$ is $60$ and the smallest possible value for $x$ is $\\boxed{59}$.",
+    "socratic_questions": "1. Can you describe the problem in your own words? \n2. What is the relationship between the remainders obtained when x is divided by 4, 5, and 6? \n3. How can we use the statement \"Note that x+1 is divisible by 4, 5, and 6\" to help us solve the problem? \n4. Why is the least common multiple of 4, 5, and 6 equal to 60? \n5. How do we know that the smallest value for x+1 is 60? \n6. Why do we subtract 1 from the value of x+1 to get the smallest possible value for x? \n7. Can you think of a similar problem in which we can use the concept of least common multiple to find the solution?"
+}

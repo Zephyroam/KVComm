@@ -1,0 +1,7 @@
+{
+    "problem": "Find $\\cos \\frac{5 \\pi}{4}.$",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "Converting to degrees,\n\\[\\frac{5 \\pi}{4} = \\frac{180^\\circ}{\\pi} \\cdot \\frac{5 \\pi}{4} = 225^\\circ.\\]Then $\\cos 225^\\circ = -\\cos (225^\\circ - 180^\\circ) = -\\cos 45^\\circ = \\boxed{-\\frac{1}{\\sqrt{2}}}.$",
+    "socratic_questions": "1. Can you describe the concept of cosine and its relationship to angles?\n2. How can we convert an angle from radians to degrees?\n3. How did we convert $\\frac{5 \\pi}{4}$ to $225^\\circ$?\n4. What is the reference angle for $225^\\circ$?\n5. In which quadrant does the angle $225^\\circ$ lie?\n6. What is the general approach to finding the cosine of an angle in a specific quadrant?\n7. How does the cosine value change as we move through different quadrants?\n8. What is the exact value of $\\cos 45^\\circ$ and how did we use it to find $\\cos 225^\\circ$?\n9. Can you think of any other angles or trigonometric functions that we can explore using a similar thought process?\n10. How can understanding the concept of cosine help us solve problems in precalculus and other mathematical disciplines?"
+}

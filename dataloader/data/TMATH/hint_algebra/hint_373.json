@@ -1,0 +1,7 @@
+{
+    "problem": "The sum of the first and third of three consecutive integers is 118. What is the value of the second integer?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "If $n$ is the second integer, then the first integer is $n-1$ and the third integer is $n+1$.  The sum of the first and third integers is $2n$, so $n=118/2=\\boxed{59}$.",
+    "socratic_questions": "1. What are three consecutive integers? Can you provide an example?\n2. How can we represent the first, second, and third consecutive integers algebraically? \n3. According to the problem, the sum of the first and third integers is 118. Can you write an equation to represent this relationship? \n4. What strategy or method can we use to solve this equation? Can you explain why?\n5. If we let x represent the first integer, can you express the second and third integers in terms of x?\n6. How will you set up the equation using the information from steps 3 and 5? \n7. Can you solve the equation to find the value of x, representing the first integer?\n8. Once you find the value of x, how can you use it to determine the value of the second integer?\n9. Can you verify your solution by substituting the values of the first and second integers into the original equation?\n10. Can you generalize this problem to find the second integer if the sum of the first and third integers is a different value?"
+}

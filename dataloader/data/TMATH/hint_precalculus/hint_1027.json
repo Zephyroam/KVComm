@@ -1,0 +1,7 @@
+{
+    "problem": "Given $\\mathbf{a} = \\begin{pmatrix} -7 \\\\ 0 \\\\ 1 \\end{pmatrix}$ and $\\mathbf{b} = \\begin{pmatrix} 4 \\\\ 2 \\\\ -1 \\end{pmatrix},$ find $\\mathbf{a} - 3 \\mathbf{b}.$",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "We have that\n\\[\\mathbf{a} - 3 \\mathbf{b} = \\begin{pmatrix} -7 \\\\ 0 \\\\ 1 \\end{pmatrix} - 3 \\begin{pmatrix} 4 \\\\ 2 \\\\ -1 \\end{pmatrix} = \\boxed{\\begin{pmatrix} -19 \\\\ -6 \\\\ 4 \\end{pmatrix}}.\\]",
+    "socratic_questions": "1. What is the definition of vector subtraction?\n2. How do we subtract vectors algebraically? \n3. Can you explain step-by-step how to subtract two vectors using coordinate notation? \n4. What is the significance of multiplying a vector by a scalar? \n5. How does scalar multiplication affect the direction and magnitude of a vector?\n6. Can you explain the concept of multiplying a vector by a scalar using geometric interpretation? \n7. What is the final result of the expression a - 3b? Can you find the value using the given vectors?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "What is the value of $19^2-17^2+15^2-13^2+11^2-9^2+7^2-5^2+3^2-1^2?$",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "We can start by pairing the terms in this expression and factoring them as a difference of squares: \\begin{align*}\n&\\phantom{=} \\,\\,\\, (19^2-17^2)+(15^2-13^2)+(11^2-9^2)+(7^2-5^2)+(3^2-1^2) \\\\\n&= 2(19 + 17) + 2(15 + 13) + 2(11 + 9) + 2(7 + 5) + 2(3 + 1)\\\\\n&= 2(19 + 17 + 15 + 13 + 11 + 9 + 7 + 5 + 3 + 1) \\\\\n&= 2(100) \\\\\n&= \\boxed{200}.\n\\end{align*}",
+    "socratic_questions": "1. What is the general pattern or relationship between the numbers being squared?\n2. How can we simplify the expression by grouping the terms?\n3. Can we rewrite any of the terms using algebraic identities or shortcuts?\n4. What properties or rules of algebra can we apply to simplify the expression further?\n5. Can we recognize any common factors or terms that can be simplified?\n6. Are there any alternative methods or strategies to simplify this expression?\n7. Can we verify our final answer by checking if it follows the original pattern or relationship between the squared numbers?"
+}

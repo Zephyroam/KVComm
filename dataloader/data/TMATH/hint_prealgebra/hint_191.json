@@ -1,0 +1,7 @@
+{
+    "problem": "At lunch, $60\\%$ of the students selected soda while $20\\%$ selected milk. If 72 students selected soda, how many students selected milk?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "The number of students who selected milk will be $\\frac{20\\%}{60\\%}=\\frac{1}{3}$ of the number of students who selected soda.  Therefore, $\\frac{1}{3}\\cdot 72=\\boxed{24}$ students selected milk.",
+    "socratic_questions": "1. How would you describe the given information in this problem?\n2. What does it mean when we say \"$60\\%$ of the students selected soda\" and \"$20\\%$ selected milk\"?\n3. How can we determine the number of students who selected milk based on the given information?\n4. What is the relationship between the number of students who selected soda and the number of students who selected milk?\n5. How can we use the given information to find the number of students who selected milk?\n6. How can we express this relationship mathematically?\n7. Can you determine the number of students who selected milk using the information given?\n8. What is the proportion of students who selected milk to the number of students who selected soda?\n9. How does this proportion help us find the number of students who selected milk?\n10. Can you calculate the number of students who selected milk using the given proportion and the number of students who selected soda?"
+}

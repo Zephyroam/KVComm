@@ -1,0 +1,7 @@
+{
+    "problem": "What is the positive difference between the two largest prime factors of $159137$?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "Let's find the prime factorization of 159137: $159137=11\\cdot14467=11\\cdot17\\cdot851=11\\cdot17\\cdot23\\cdot37$. The positive difference between the two largest prime factors of 159137 is therefore $37-23=\\boxed{14}$.",
+    "socratic_questions": "1. Can you describe the first step in finding the prime factorization of 159137?\n2. What methods or strategies can you think of to find the prime factorization of a number?\n3. How did you determine that 11 is a prime factor of 159137?\n4. Why is 17 also a prime factor of 159137? Can you explain the reasoning behind it?\n5. How did you discover that 23 and 37 are also prime factors of 159137?\n6. What is the positive difference between the two largest prime factors of 159137? How did you calculate it?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "If $\\mathbf{a} \\times \\mathbf{b} = \\begin{pmatrix} 5 \\\\ 4 \\\\ -7 \\end{pmatrix},$ then compute $\\mathbf{a} \\times (3 \\mathbf{b}).$",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "Since the cross product is distributive,\n\\[\\mathbf{a} \\times (3 \\mathbf{b}) = 3 (\\mathbf{a} \\times \\mathbf{b}) = \\boxed{\\begin{pmatrix} 15 \\\\ 12 \\\\ -21 \\end{pmatrix}}.\\]",
+    "socratic_questions": "1. What does the cross product of two vectors represent geometrically?\n2. Can you describe the steps involved in calculating the cross product of two vectors?\n3. Given that $\\mathbf{a} \\times \\mathbf{b} = \\begin{pmatrix} 5 \\\\ 4 \\\\ -7 \\end{pmatrix}$, what can we conclude about the direction of the resulting vector?\n4. How does scalar multiplication affect the cross product of two vectors? Can you provide an example?\n5. Using the distributive property, what is the cross product $\\mathbf{a} \\times (3 \\mathbf{b})$ equal to?\n6. How can we calculate the result of this cross product using the given information?\n7. Can you verify your answer by expanding and simplifying the expression $3 (\\mathbf{a} \\times \\mathbf{b})$?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "The probability of snow for each of the next three days is $\\frac{3}{4}$. What is the probability that it will not snow at all during the next three days? Express your answer as a common fraction.",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "The probability of it snowing on any one day is $\\frac{3}{4}$ so the probability of it not snowing on any one day is $\\frac{1}{4}$. So, the probability it not snowing on all three days is $\\left(\\frac{1}{4}\\right)^3 = \\boxed{\\frac{1}{64}}$.",
+    "socratic_questions": "1. What does it mean when we say the probability of snow for each of the next three days is $\\frac{3}{4}$?\n2. How can we interpret the probability of it not snowing on any one day as $\\frac{1}{4}$? What does this probability represent?\n3. To find the probability that it will not snow at all during the next three days, what operation do we need to perform with the probability of it not snowing on each day?\n4. Why do we raise $\\frac{1}{4}$ to the power of 3 when calculating the probability of it not snowing on all three days?\n5. Can you explain why we multiply the probabilities when events are independent?\n6. In general, how do we find the probability of an event not occurring? Is there a specific formula or rule we can use?"
+}

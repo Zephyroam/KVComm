@@ -1,0 +1,7 @@
+{
+    "problem": "Find the minimum value of\n\\[\\frac{x^2}{x - 8}\\]for $x > 8.$",
+    "level": "Level 4",
+    "type": "Intermediate Algebra",
+    "solution": "We can write\n\\[\\frac{x^2}{x - 8} = \\frac{x^2 - 64 + 64}{x - 8} = \\frac{(x - 8)(x + 8) + 64}{x - 8} = x + 8 + \\frac{64}{x - 8} = x - 8 + \\frac{64}{x - 8} + 16.\\]By AM-GM,\n\\[x - 8 + \\frac{64}{x - 8} \\ge 2 \\sqrt{(x - 8) \\cdot \\frac{64}{x - 8}} = 16,\\]so\n\\[\\frac{x^2}{x - 8} \\ge 32.\\]Equality occurs when $x = 16,$ so the minimum value is $\\boxed{32}.$",
+    "socratic_questions": "1. What is the given expression and what is the specified range for $x$?\n2. How can we rewrite the given expression to reveal a different form?\n3. What is the motivation behind rewriting the expression in that form?\n4. How can we apply the AM-GM inequality to the rewritten expression?\n5. What values can the expression $x - 8 + \\frac{64}{x - 8}$ achieve? How does this relate to the minimum value of the given expression?\n6. How can we determine the specific value of $x$ that achieves the minimum?"
+}

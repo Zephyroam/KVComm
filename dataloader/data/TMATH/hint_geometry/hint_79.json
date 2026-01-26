@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\tan 0^\\circ$.",
+    "level": "Level 1",
+    "type": "Geometry",
+    "solution": "Rotating the point $(1,0)$ about the origin by $0^\\circ$ counterclockwise gives us the point $(1,0)$, so $\\tan 0^\\circ = \\frac{\\sin 0^\\circ}{\\cos 0^\\circ} = \\frac{0}{1} = \\boxed{0}$.",
+    "socratic_questions": "1. How would you describe the first step in computing $\\tan 0^\\circ$?\n2. Can you think of any other ways to compute $\\tan 0^\\circ$?\n3. Why do we need to rotate the point $(1,0)$ counterclockwise by $0^\\circ$?\n4. What is the value of $\\sin 0^\\circ$? How about $\\cos 0^\\circ$?\n5. How did you obtain the value $\\tan 0^\\circ = \\frac{\\sin 0^\\circ}{\\cos 0^\\circ}$?\n6. Can you think of any other angles where the computation of $\\tan$ would involve similar steps or reasoning?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Find a nonzero $p$ such that $px^2-12x+4=0$ has only one solution.",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "For a quadratic to have only one solution, the discriminant must be zero. Therefore, we have $(-12)^2-4 \\cdot p \\cdot 4 = 0$. Solving, we get $(-12)^2-4 \\cdot p \\cdot 4 = 144-16p = 0$. Thus, $144=16p$, so $p=\\boxed{9}$.",
+    "socratic_questions": "1. Can you explain what it means for a quadratic equation to have only one solution?\n2. How many solutions does a quadratic equation typically have?\n3. Considering the quadratic equation given, what can you infer about the discriminant (the part inside the square root in the quadratic formula)? \n4. How does the discriminant relate to the number of solutions of a quadratic equation?\n5. Given the quadratic equation $px^2-12x+4=0$, can you determine an expression for the discriminant in terms of $p$?\n6. In order for the equation to have only one solution, what should be the relationship between $p$ and the discriminant?\n7. Based on your findings, can you calculate a value for $p$ that ensures the quadratic equation has only one solution?\n8. How would you verify that the quadratic equation $px^2-12x+4=0$ indeed has only one solution when using the calculated value for $p$?\n9. Can you think of any other types of quadratic equations where a similar thought process and steps would be useful in finding a specific solution?"
+}

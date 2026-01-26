@@ -1,0 +1,7 @@
+{
+    "problem": "What is the least common multiple of the numbers 1332 and 888?",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "We prime factorize 1332 and 888: $1332=2^2\\cdot3^2\\cdot37$ and $888=2^3\\cdot3\\cdot37$. The prime factorization of any common multiple of these two numbers must include 2 to at least the third power, three to at least the second power, and 37 to at least the first power. The least common multiple is the one that includes only these factors and nothing more: $2^3\\cdot3^2\\cdot37=\\boxed{2664}$.",
+    "socratic_questions": "1. What does it mean to find the least common multiple of two numbers?\n2. How do we find the prime factorization of a number?\n3. Based on the prime factorization of 1332 and 888, what factors must be included in any common multiple of the two numbers?\n4. How do we find the least common multiple from the common factors?\n5. Can we apply this method to find the least common multiple of more than two numbers?\n6. Is there a relationship between the least common multiple and the greatest common factor of two numbers? If so, what is it?"
+}

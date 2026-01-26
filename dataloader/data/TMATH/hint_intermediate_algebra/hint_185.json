@@ -1,0 +1,7 @@
+{
+    "problem": "One of the roots of $z^2 = -55 + 48i$ is $3 + 8i.$  What is the other root?",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "The other root is simply the negative of $3 + 8i,$ which is $\\boxed{-3 - 8i}.$",
+    "socratic_questions": "1. How did you determine that $3 + 8i$ is a root of the equation $z^2 = -55 + 48i$?\n2. Can you explain why the other root would be the negative of $3 + 8i$?\n3. Is it always true that for any complex number $a + bi$, the negative of it would be $-a - bi$? Why or why not?\n4. What would happen if we substituted $-3 - 8i$ into the equation $z^2 = -55 + 48i$? Do you think it would satisfy the equation?\n5. Can you come up with any other examples where finding one root allows you to determine the other root using a similar approach? How does this concept extend to other equations?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Eight women of different heights are at a party. Each woman decides to only shake hands with women shorter than herself. How many handshakes take place?",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "Because the women are of different heights, any handshake will take place between two people, one of whom is taller than the other. Of course, the shorter of the two will not participate in the handshake because her handshake partner is not shorter than herself. Applying this logic to all of the pairs, there are $\\boxed{0}$ handshakes.",
+    "socratic_questions": "1. In this problem, what are the conditions that must be met for a handshake to take place? \n2. How many women are at the party? \n3. Is there any restriction on how many hands each woman can shake? \n4. Using the conditions given, can you think of any pairs of women who could potentially have a handshake? \n5. Why are all potential handshakes eliminated in this problem? \n6. If all the women were the same height, how would the answer change? \n7. Can you think of a similar problem where the solution would involve counting the number of handshakes between a certain group of people?"
+}

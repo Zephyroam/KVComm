@@ -1,0 +1,7 @@
+{
+    "problem": "What's the coefficient of the $m^4n^4$ term in the expansion of $(m+n)^8$?",
+    "level": "Level 4",
+    "type": "Counting & Probability",
+    "solution": "By the Binomial Theorem, the coefficient that we want is just $\\binom{8}{4}=\\boxed{70}$.",
+    "socratic_questions": "1. What is the Binomial Theorem? Can you explain its significance in expanding binomial expressions?\n2. How does the Binomial Theorem help us determine the coefficients in the expansion of $(m+n)^8$?\n3. Can you identify the pattern or relationship between the exponents of $m$ and $n$ in the expansion?\n4. How does the combination notation, $\\binom{n}{k}$, relate to the expansion of $(m+n)^8$?\n5. What does $\\binom{8}{4}$ represent in the context of this problem?\n6. How can we calculate the value of $\\binom{8}{4}$ using factorials?\n7. Can you explain why $\\binom{8}{4}$ gives us the coefficient of the $m^4n^4$ term in the expansion?\n8. Are there any other terms in the expansion of $(m+n)^8$ that involve both $m^4$ and $n^4$? Why or why not?\n9. What would happen if we were asked to find the coefficient of a different term, like $m^3n^5$? How would you approach that?\n10. Can you think of any real-world applications or examples where understanding the Binomial Theorem and its coefficients would be useful?"
+}

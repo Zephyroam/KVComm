@@ -1,0 +1,7 @@
+{
+    "problem": "In the diagram, what is the value of $x$? [asy]\nsize(120);\ndraw(Circle((0,0),1));\ndraw((0,0)--(.5,sqrt(3)/2));\ndraw((0,0)--(sqrt(3)/2,.5));\ndraw((0,0)--(sqrt(3)/2,-.5));\ndraw((0,0)--(-1,0));\nlabel(\"$4x^\\circ$\",(0,0),NNW); label(\"$5x^\\circ$\",(0,0),SSW);\nlabel(\"$2x^\\circ$\",(.3,0));label(\"$x^\\circ$\",(.3,.3));\n\n[/asy]",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "The sum of the angles around any point is $360^\\circ$. Therefore, $5x^\\circ+4x^\\circ+x^\\circ+2x^\\circ=360^\\circ$ or $12x = 360$ or $x=\\boxed{30}$.",
+    "socratic_questions": "1. What is the sum of angles around any point, according to the given information?\n2. Can you identify all the angles in the diagram and express them in terms of $x$?\n3. Based on the given information, can you form an equation involving $x$ to solve for its value?\n4. How did you determine that the sum of the angles is equal to $360^\\circ$?\n5. Can you explain the steps you took to solve the equation $12x = 360$?\n6. Why is it necessary to divide both sides of the equation by 12?\n7. What is the final value of $x$ that you obtained, and how does it correspond to the angle in the diagram?\n8. Can you think of any other situations or diagrams where the concept of sum of angles around a point could be applied?\n9. How would the solution process change if the angles in the diagram were given as ratios or expressions instead of degrees?\n10. Can you find any patterns or relationships among the angles in the diagram?"
+}

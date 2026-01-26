@@ -1,0 +1,7 @@
+{
+    "problem": "Two chords, $AB$ and $CD,$ meet inside a circle at $P.$  If $AP = 3$ and $CP = 8,$ then what is $\\frac{BP}{DP}$?",
+    "level": "Level 3",
+    "type": "Geometry",
+    "solution": "By the Power of a Point formula, we know that $AP \\cdot BP = CP \\cdot DP.$ Substituting, we have $3 \\cdot BP = 8 \\cdot DP.$ Then, we have $\\frac{BP}{DP} = \\boxed{\\frac{8}{3}}.$",
+    "socratic_questions": "1. What is the Power of a Point formula and how is it used in this problem?\n2. How did we get the equation $AP \\cdot BP = CP \\cdot DP$, and what does it mean?\n3. Can you explain why $\\frac{BP}{DP}=\\frac{8}{3}$ using algebraic manipulation?\n4. Is there a geometric interpretation for the ratio $\\frac{BP}{DP}$?\n5. What would happen if we changed the lengths of $AP$ and $CP$? Would the ratio $\\frac{BP}{DP}$ still be the same? Why or why not?\n6. Can you think of any real-life scenarios where the concept of Power of a Point and similar triangles might be useful?"
+}

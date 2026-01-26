@@ -1,0 +1,7 @@
+{
+    "problem": "The time right now is exactly midnight. What time will it be in 1234 minutes?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "There are $60$ minutes in an hour. When $1234$ is divided by $60$, you get $20$ with a remainder of $34$. Therefore, the time in $1234$ minutes will be $\\boxed{20\\!:\\!34}$ or $\\boxed{8\\!:\\!34 \\text{ p.m.}}$.",
+    "socratic_questions": "1. How many minutes are there in an hour?\n2. When we divide 1234 by 60, what is the quotient and remainder?\n3. How can we interpret the quotient and remainder when we calculate time?\n4. What is the significance of the quotient and remainder when determining the time?\n5. How can we express the time in 1234 minutes using the quotient and remainder?\n6. Is there any other way to calculate the time in 1234 minutes? If so, what would be the steps involved?"
+}

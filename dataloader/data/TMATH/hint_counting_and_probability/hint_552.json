@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\dbinom{6}{3}$.",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "\\begin{align*}\n\\dbinom{6}{3} &= \\dfrac{6!}{3!3!} \\\\\n&= \\dfrac{6\\times 5\\times 4}{3\\times 2\\times 1} \\\\\n&= \\dfrac{6}{3\\times 2\\times 1} \\times 5 \\times 4 \\\\\n&= 1 \\times 5 \\times 4 \\\\\n&= \\boxed{20}.\n\\end{align*}",
+    "socratic_questions": "1. What does $\\dbinom{6}{3}$ represent?\n2. Can you describe what a combination is? How is it different from a permutation?\n3. How many ways are there to choose a group of 3 items from a set of 6 items? Can you explain why?\n4. Can you generalize the formula for computing combinations, using the example of $\\dbinom{6}{3}$?\n5. How would the value of $\\dbinom{6}{3}$ change if we wanted to choose a larger or smaller group of items from the set of 6? Can you explain why?\n6. In what types of problems or real-life scenarios might we use combinations? Can you give examples?"
+}

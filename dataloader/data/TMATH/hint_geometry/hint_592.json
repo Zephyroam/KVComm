@@ -1,0 +1,7 @@
+{
+    "problem": "A cylinder has a radius of 3 cm and a height of 8 cm. What is the longest segment, in centimeters, that would fit inside the cylinder?",
+    "level": "Level 2",
+    "type": "Geometry",
+    "solution": "The longest segment stretches from the bottom to the top of the cylinder and across a diameter, and is thus the hypotenuse of a right triangle where one leg is the height $8$, and the other is a diameter of length $2(3)=6$.  Thus its length is\n\n$$\\sqrt{6^2+8^2}=\\boxed{10}$$",
+    "socratic_questions": "1. What is the shape of a cylinder?\n2. How can we calculate the length of the longest segment inside a cylinder?\n3. What are the dimensions of this particular cylinder (radius and height)?\n4. How can we determine the length of the segment that stretches from the bottom to the top of the cylinder?\n5. Can we use any known geometric formulas to find this length?\n6. Are there any right triangles involved in this scenario? If so, how are they related to the length we're trying to find?\n7. How can we calculate the length of the hypotenuse of a right triangle if we know the lengths of the other two sides?\n8. What are the lengths of the legs of the right triangle in this case? How can we determine them based on the dimensions of the cylinder?\n9. Can we use the Pythagorean theorem to calculate the length of the hypotenuse in this right triangle?\n10. What is the final length of the longest segment that can fit inside the cylinder?"
+}

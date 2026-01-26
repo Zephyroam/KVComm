@@ -1,0 +1,7 @@
+{
+    "problem": "What is the largest three-digit multiple of 9 whose digits' sum is 18?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "We note that any integer whose digits' sum is $18=2\\cdot9$ is divisible by 9. Therefore, we need to find the largest three-digit number whose digits' sum is 18. That number is $\\boxed{990}$.",
+    "socratic_questions": "1. Can you restate the problem in your own words?\n2. How can we determine if a number is a multiple of 9? \n3. What is the largest three-digit number we can form using digits that add up to 18?\n4. How can we find the largest three-digit number where the sum of its digits is 18?\n5. Can you explain why that number is the largest three-digit multiple of 9 with a digits' sum of 18?\n6. Can you think of any other scenarios or problems where finding the largest number with a certain property is important?\n7. Can we generalize our approach to find the largest number with a certain sum of digits for different conditions?"
+}

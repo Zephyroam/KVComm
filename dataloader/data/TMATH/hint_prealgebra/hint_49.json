@@ -1,0 +1,7 @@
+{
+    "problem": "Jane's quiz scores were 98, 97, 92, 85 and 93. What was her mean score?",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "Her mean score was $\\frac{98+97+92+85+93}{5}=\\boxed{93}$.",
+    "socratic_questions": "1. What is the definition of mean score in this context?\n2. How do we calculate the mean score using the given quiz scores?\n3. Can you identify any patterns or similarities in the given quiz scores that might help calculate the mean score more efficiently?\n4. Why is it necessary to add up all the quiz scores before dividing by the number of scores?\n5. Can you explain why the mean score represents a measure of central tendency? How does it provide information about the overall performance?\n6. Are there any potential limitations or biases in using the mean score as a measure of Jane's performance?"
+}

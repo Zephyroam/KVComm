@@ -1,0 +1,7 @@
+{
+    "problem": "If $f(x) = 2x + 3$ and $g(x) = 3x - 2$ find $\\frac{f(g(f(2)))}{g(f(g(2)))}$. Express your answer in the form $\\frac{a}{b}$.",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "We have $f(2) = 2(2) + 3 = 7$ and $g(2) = 3(2) - 2 = 4$, so \\[\\frac{f(g(f(2)))}{g(f(g(2)))} = \\frac{f(g(7))}{g(f(4))}.\\] We then have $g(7) = 3(7) - 2 = 19$ and $f(4) = 2(4) + 3 = 11$, so we have \\[\\frac{f(g(7))}{g(f(4))} = \\frac{f(19)}{g(11)} = \\frac{2(19) + 3}{3(11) - 2} = \\boxed{\\frac{41}{31}}.\\]",
+    "socratic_questions": "1. What is the purpose of first evaluating $f(2)$ in the expression?\n2. After evaluating $f(2)$, what is the resulting value and how does it affect the overall expression?\n3. What is the purpose of substituting the result of $f(2)$ into $g$ in the next step?\n4. How can we simplify the expression $g(f(2))$ and what is the value obtained?\n5. After evaluating $g(f(2))$, what is the purpose of substituting the result back into $f$?\n6. How do we evaluate the expression $f(g(f(2)))$ after completing the previous steps?\n7. What is the purpose of evaluating $g(2)$ in the next part of the expression?\n8. How can we simplify the expression $f(g(2))$ and what is the value obtained?\n9. After evaluating $f(g(2))$, what is the purpose of substituting the result into $g$?\n10. How do we evaluate the expression $g(f(g(2)))$ after completing the previous steps?\n11. Finally, how do we simplify the overall expression $\\frac{f(g(f(2)))}{g(f(g(2)))}$ and express it in the form $\\frac{a}{b}$?"
+}

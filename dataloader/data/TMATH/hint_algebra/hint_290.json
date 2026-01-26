@@ -1,0 +1,7 @@
+{
+    "problem": "Find the greatest value of $b$ such that $-b^2+7b-10 \\ge 0$.",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "We factor the quadratic, getting $(b-5)(2-b) \\ge 0$. The expression is equal to $0$ when $b=5 \\text{ or } 2$.  When $b \\le 2$ or $b \\ge 5$, the quadratic is negative. When $2 \\le b \\le 5$, the quadratic is non-negative. Therefore, the greatest value of $b$ for which $(b-5)(2-b)\\ge 0$ is $b=\\boxed{5}$.",
+    "socratic_questions": "1. Can you describe the first step in solving this inequality?\n2. Do you know what methods can be used to solve this kind of inequality?\n3. If you choose to factorize, how would you find the appropriate factors?\n4. Why can this inequality be factorized? What characteristics make it suitable for this method?\n5. What are the factors you found, and how do they confirm that your solution is correct?\n6. Can you think of other types of inequalities where similar thinking and steps may be used in solving them?\n7. How would you graphically represent this inequality and determine the greatest value of b?\n8. What is the significance of finding the greatest value of b in this inequality?\n9. How can you apply the principles of algebra to verify if your answer is correct?\n10. What insights have you gained from solving this inequality and how could you apply them to other algebraic problems?"
+}

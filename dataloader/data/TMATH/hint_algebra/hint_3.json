@@ -1,0 +1,7 @@
+{
+    "problem": "If $A=2+i$, $O=-4$, $P=-i$, and $S=2+4i$, find $A-O+P+S$.",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "Adding real parts and imaginary parts separately, we have $(2-(-4)+0+2)+(1+0-1+4)i=\\boxed{8+4i}$.",
+    "socratic_questions": "1. What are the given values of A, O, P, and S?\n2. How can we represent complex numbers in the form a+bi?\n3. How would you add or subtract two complex numbers?\n4. What is the result of A - O?\n5. What is the result of P + S?\n6. How can we combine the results of the previous steps to find A - O + P + S?\n7. Can you simplify the expression A - O + P + S?\n8. Can you express the final answer in the form a+bi?"
+}

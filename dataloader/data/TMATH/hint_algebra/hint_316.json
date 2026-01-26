@@ -1,0 +1,7 @@
+{
+    "problem": "Evaluate $\\lfloor{\\sqrt{12}}\\rfloor^2$.",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "Since $\\sqrt{9}<\\sqrt{12}<\\sqrt{16}$, or, equivalently $3<\\sqrt{12}<4$, the greatest integer less than or equal to $\\sqrt{12}$ must be $3$. Thus, $\\lfloor{\\sqrt{12}}\\rfloor^2=3^2=\\boxed{9}$.",
+    "socratic_questions": "1. What does the symbol $\\lfloor{x}\\rfloor$ represent in mathematics?\n2. Can you explain what the function $\\sqrt{x}$ does?\n3. How would you evaluate $\\sqrt{12}$?\n4. What is the significance of the square bracket notation $\\lfloor{\\sqrt{12}}\\rfloor$?\n5. Can you substitute the value of $\\sqrt{12}$ into the expression and evaluate it? What is the result?\n6. What does squaring a number mean? Can you square $\\lfloor{\\sqrt{12}}\\rfloor$?\n7. How can you find the floor value of a number? How does it affect the final result?\n8. Is there any other way to approach this problem using algebraic manipulation or reasoning?"
+}

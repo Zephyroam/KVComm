@@ -1,0 +1,7 @@
+{
+    "problem": "If $a\\equiv 18\\pmod{42}$ and $b\\equiv 73\\pmod{42}$, then for what integer $n$ in the set $\\{100,101,102,\\ldots,140,141\\}$ is it true that $$a-b\\equiv n\\pmod{42}~?$$",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "Reading all congruences $\\pmod{42}$, we have \\begin{align*}\na-b &\\equiv 18-73 \\\\\n&\\equiv -55 \\\\\n&\\equiv -55+42+42 \\\\\n&\\equiv 29\\pmod{42}.\n\\end{align*}That's great, except we want to find $n$ with $100\\leq n<142$.  Therefore we should add copies of 42 until we get into this range: \\[29\\equiv 29+42\\equiv71\\pmod{42}.\\]That's not large enough. \\[71\\equiv71+42\\equiv113\\pmod{42}.\\]That is in our range, so $n=\\boxed{113}$.",
+    "socratic_questions": "1. What does it mean for integers to be congruent modulo a certain number?\n2. How can we use the given congruences to find the value of $a-b$ modulo 42?\n3. Why do we need to add multiples of 42 to the difference $a-b$ to obtain a value in the range $100\\leq n<142$?\n4. Are there any other ways to solve this problem besides using modular arithmetic?\n5. Can we generalize this problem to find $n$ for any pair of congruent integers $a$ and $b$ modulo a certain number? How would we approach such a problem?"
+}

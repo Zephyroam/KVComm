@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\arccos (\\cos 7).$  All functions are in radians.",
+    "level": "Level 3",
+    "type": "Precalculus",
+    "solution": "Since $\\cos (7 - 2 \\pi) = \\cos 7$ and $0 \\le 7 - 2 \\pi \\le \\pi,$ $\\arccos (\\cos 7) = \\boxed{7 - 2 \\pi}.$",
+    "socratic_questions": "1. What does $\\arccos$ represent in trigonometry?\n2. What is the range of the cosine function?\n3. Can you explain what the inverse function of cosine is and how it can be used to solve a problem like this?\n4. How does the identity $\\cos (x - 2\\pi) = \\cos x$ relate to the problem at hand?\n5. Why is it important to consider the range of the cosine function in finding the inverse function?\n6. How can we verify that $7-2\\pi$ is indeed the correct solution to the problem? \n7. Can you provide an example of another problem where the inverse function of cosine could be used to find a solution?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "A diagonal of a polygon is a segment joining two nonconsecutive vertices of the polygon. How many diagonals does a regular octagon have?",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "An $n$-gon has $n(n-3)/2$ diagonals.  To see this, subtract the $n$ consecutive pairs of vertices from the $\\binom{n}{2}$ pairs of vertices:  \\begin{align*}\n\\binom{n}{2}-n&=\\frac{n(n-1)}{2}-n \\\\\n&=\\frac{n^2-n}{2}-\\frac{2n}{2} \\\\\n&=\\frac{n^2-n-2n}{2} \\\\\n&=\\frac{n^2-3n}{2} \\\\\n&=\\frac{n(n-3)}{2}.\n\\end{align*} An octagon has $8(8-3)/2=\\boxed{20}$ diagonals.",
+    "socratic_questions": "1. Can you describe what a diagonal is in the context of a polygon?\n2. How many vertices does a regular octagon have?\n3. How many pairs of nonconsecutive vertices can you create in a regular octagon?\n4. How many diagonals does each pair of nonconsecutive vertices create?\n5. Can you come up with a formula or equation to express the number of diagonals in terms of the number of vertices?\n6. How can you derive the formula for the number of diagonals in a regular octagon?\n7. Can you prove that the formula holds true for any regular octagon?\n8. Are there any special properties or characteristics of the regular octagon that allow us to apply this formula?\n9. Can you think of any other polygons where the same formula can be used to find the number of diagonals?\n10. How does understanding the formula for counting diagonals help us analyze or solve problems involving regular polygons?"
+}

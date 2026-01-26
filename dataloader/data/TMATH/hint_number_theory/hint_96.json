@@ -1,0 +1,7 @@
+{
+    "problem": "What is the remainder when $13^{51}$ is divided by 5?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "Note that  $13^{51}$ is $(10 + 3)^{51}$. Any term in the expansion that involves the 10 will be 0 modulo 5, so it suffices to consider $3^{51} \\pmod{5}$. We look for a pattern in powers of 3. \\begin{align*}\n3^1 &\\equiv 3 \\pmod{5} \\\\\n3^2 &\\equiv 4 \\pmod{5} \\\\\n3^3 &\\equiv 2 \\pmod{5} \\\\\n3^4 &\\equiv 1 \\pmod{5}.\n\\end{align*}Since $3^4 \\equiv 1 \\pmod{5},$ we see that $3^{51} \\equiv 3^3 \\cdot (3^4)^{12} \\equiv 2 \\pmod{5},$ hence our desired remainder is $\\boxed{2}.$",
+    "socratic_questions": "1. Can you describe the first step you would take to find the remainder when $13^{51}$ is divided by 5?\n2. What are some different methods you know of that can be used to find remainders when dealing with exponents?\n3. If you consider the expression $(10 + 3)^{51}$, can you explain why terms involving 10 would be 0 modulo 5?\n4. Why do we only need to consider $3^{51} \\pmod{5}$ after considering the expression $(10 + 3)^{51}$?\n5. Can you observe any patterns in the powers of 3 modulo 5? Is there a repeating pattern?\n6. Based on the pattern you discovered, what is the value of $3^{51} \\pmod{5}$?\n7. How does this value help us find the remainder when $13^{51}$ is divided by 5?"
+}

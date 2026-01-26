@@ -1,0 +1,7 @@
+{
+    "problem": "Simplify $\\frac{1}{330} + \\frac{19}{30}$.",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "We see that the denominators have a common multiple of 330, so the expression becomes $\\frac{1}{330} + \\frac{11 \\cdot 19}{11 \\cdot 30} = \\frac{1}{330} + \\frac{209}{330} = \\frac{1+209}{330} = \\frac{210}{330}$. Factoring the numerator and denominator, we see that the fraction is $\\frac{2 \\cdot 3 \\cdot 5 \\cdot 7}{2 \\cdot 3 \\cdot 5 \\cdot 11}$. Thus, the numerator and denominator share common factors of 2, 3, and 5. Thus, cancelling, we find the answer is $\\frac{\\cancel{2} \\cdot \\cancel{3} \\cdot \\cancel{5} \\cdot 7}{\\cancel{2} \\cdot \\cancel{3} \\cdot \\cancel{5} \\cdot 11} = \\boxed{\\frac{7}{11}}.$",
+    "socratic_questions": "1. What is the first step in simplifying the expression $\\frac{1}{330} + \\frac{19}{30}$?\n2. How do you find the common multiple of the denominators in the expression?\n3. What methods can you use to simplify fractions with different denominators?\n4. How do you determine which factors in the numerator and denominator can be cancelled out?\n5. Can you explain why cancelling out common factors works in fraction simplification?\n6. Are there any potential pitfalls to be aware of when cancelling out common factors in fractions?\n7. Can you give an example of a similar problem where cancelling out common factors can simplify the expression?"
+}

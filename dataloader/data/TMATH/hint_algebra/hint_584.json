@@ -1,0 +1,7 @@
+{
+    "problem": "Solve  \\[\\frac{x^2+2x+3}{x+4}=x+5\\]for $x$.",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "Cross-multiplication gives  \\[x^2+2x+3=(x+4)(x+5)=x^2+9x+20.\\]Therefore \\[0=7x+17\\]and $x=\\boxed{-\\frac{17}7}$.",
+    "socratic_questions": "1. Can you describe the first step in solving this equation?\n2. Are you familiar with any different methods that can be used to solve equations like this one?\n3. If you choose to multiply both sides by (x+4), what would be the logic behind that step?\n4. Why can we multiply both sides by (x+4)? What characteristics of the equation allow us to use this method?\n5. After multiplying both sides by (x+4), can you simplify the equation? What does it look like?\n6. How would you isolate x on one side of the equation after simplification?\n7. What are the possible values for x that satisfy this equation?\n8. Are there any restrictions on x that we need to consider in this equation?\n9. How would you verify if the solutions you found are correct for this equation?\n10. Can you think of any other types of equations that might require similar thinking and steps to solve?"
+}

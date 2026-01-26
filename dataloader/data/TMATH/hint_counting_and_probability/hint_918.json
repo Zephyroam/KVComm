@@ -1,0 +1,7 @@
+{
+    "problem": "Our school's girls volleyball team has 14 players, including a set of 3 triplets: Missy, Lauren, and Liz.  In how many ways can we choose 6 starters if the only restriction is that not all 3 triplets can be in the starting lineup?",
+    "level": "Level 4",
+    "type": "Counting & Probability",
+    "solution": "It's tempting to do this problem using casework, but there's an easier way. There are a total of $\\binom{14}{6}=3003$ ways to select a lineup with no restrictions. Of those 3003 lineups, the only ones that don't satisfy the given condition are ones that contain all three triplets. There are $\\binom{11}{3}=165$ of these, since once we insert the three triplets in the lineup we have 3 spots left to fill using the remaining 11 players. Subtracting gives us our answer: $3003-165=\\boxed{2838}$ possible starting line ups.",
+    "socratic_questions": "1. What is the problem asking us to solve?\n2. How many total players are on the girls volleyball team and how many of them are triplets?\n3. What is the maximum number of triplets that can be in the starting lineup?\n4. How many ways are there to select a starting lineup with no restrictions?\n5. What is the condition that must be satisfied for a starting lineup to be valid?\n6. How can we find the number of starting lineups that contain all three triplets?\n7. What is the equation we can use to find this number?\n8. How can we find the number of starting lineups that don't satisfy the given condition?\n9. What is the final answer and how did we arrive at it?"
+}

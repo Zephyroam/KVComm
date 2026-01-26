@@ -1,0 +1,7 @@
+{
+    "problem": "If $y= \\frac{x^2+2x+8}{x-4}$, at what value of $x$ will there be a vertical asymptote?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "A function will have a vertical asymptote where the denominator equals zero and the degree of that root is greater than the degree of the same root in the numerator.  Here, the denominator is zero at $x = 4.$  The degree of this root is 1.  The number has no root at $x = 4$ (degree 0), so there is a vertical asymptote at $x=\\boxed{4}$.",
+    "socratic_questions": "1. Can you explain what a vertical asymptote is and its significance in a function?\n2. What condition or factor in a rational function determines the presence of a vertical asymptote?\n3. In the given rational function, what values of x would make the denominator, x-4, equal to zero?\n4. Can you determine the value(s) of x that satisfy the equation x-4 = 0?\n5. How does the value of x that satisfies x-4 = 0 relate to the presence of a vertical asymptote in the rational function y = (x^2 + 2x + 8)/(x-4)?\n6. Is there any other mathematical concept or function that exhibits a similar behavior as a vertical asymptote? Can you provide an example?"
+}

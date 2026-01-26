@@ -1,0 +1,7 @@
+{
+    "problem": "Abby, Bart, Cindy and Damon weigh themselves in pairs. Together Abby and Bart weigh 260 pounds, Bart and Cindy weigh 245 pounds, and Cindy and Damon weigh 270 pounds. How many pounds do Abby and Damon weigh together?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "Let the weights of Abby, Bart, Cindy, and Damon be $a$, $b$, $c$, and $d$, respectively. We have the equations \\begin{align*}\na+b&=260\\\\\nb+c&=245\\\\\nc+d&=270\n\\end{align*} Subtracting the second equation from the first, we have $(a+b)-(b+c)=260-245 \\Rightarrow a-c=15$. Adding this last equation to the third given equation, we have $(a-c)+(c+d)=15+270 \\Rightarrow a+d=285$. Thus, Abby and Damon together weigh $\\boxed{285}$ pounds.",
+    "socratic_questions": "1. What information do we have in the problem? \n2. What is the objective or what are we trying to find? \n3. How can we set up an equation or equations to represent the given information? \n4. How can we solve the equations to find the weights of Abby, Bart, Cindy, and Damon individually? \n5. How can we use the information about their individual weights to find the combined weight of Abby and Damon? \n6. Can we check our solution to ensure it is correct?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Evaluate $y(y-3x)$ for $x=3$ and $y=0$.",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "Since 0 times anything is 0, when $y=0$, we have $y(y-3x) = 0(y-3x) = \\boxed{0}$.",
+    "socratic_questions": "1. Can you define the term \"evaluate\" in the context of algebraic expressions?\n2. What are the values of x and y for this given expression?\n3. What operation is indicated by the parentheses in the expression?\n4. How would you substitute the values of x and y into the expression?\n5. What is the first step to evaluate the expression when x = 3 and y = 0?\n6. What is the result of multiplying y by (y - 3x)?\n7. How would you simplify the expression further after substituting the values of x and y?\n8. Can you explain the significance of evaluating the expression for specific values of x and y?\n9. Are there any alternative methods or strategies to evaluate this expression? If so, what are they?\n10. Can you think of any other algebraic expressions that involve a similar thought process and steps to evaluate?"
+}

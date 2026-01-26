@@ -1,0 +1,7 @@
+{
+    "problem": "How many three digit numbers are there?",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "The three-digit numbers start with $100$ and end with $999$. There are $999-100+1=\\boxed{900}$ three-digit numbers.",
+    "socratic_questions": "1. Can you define what a three-digit number is?\n2. How many digits are in a three-digit number?\n3. What is the smallest three-digit number?\n4. What is the largest three-digit number?\n5. How many three-digit numbers start with the digit 1?\n6. How many three-digit numbers end with the digit 5?\n7. How many three-digit numbers have the digit 9 in the middle?\n8. Can you explain how you arrived at the answer to question 7?\n9. How many three-digit numbers have all different digits?\n10. How many three-digit numbers have at least one digit that is a 7?\n11. Can you think of other variations of this problem that involve counting and probability?"
+}

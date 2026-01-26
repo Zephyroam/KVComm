@@ -1,0 +1,7 @@
+{
+    "problem": "How many of the 200 smallest positive integers are congruent to 1 (mod 9)?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "An integer congruent to 1 (mod 9) can be written in the form $9n + 1$ for some integer $n$.  We want to count the number of integers $n$ such that $$ 1 \\le 9n + 1 \\le 200. $$Subtracting 1 from all parts of the inequality, we get $0 \\le 9n \\le 199$.  Dividing by 9 we get $0 \\le n \\le 22\\, \\frac{1}{9}$.  There are $22 - 0 + 1 = \\boxed{23}$ values of $n$ corresponding to positive integers from 1 to 200 inclusive that are congruent to 1 (mod 9).",
+    "socratic_questions": "1. Can you explain what it means for an integer to be congruent to 1 (mod 9)?\n2. How can you express an integer congruent to 1 (mod 9) in terms of an integer $n$?\n3. Based on the given information, what is the range of values for $n$ such that $9n+1$ is between 1 and 200 inclusive?\n4. How can we find the number of integers $n$ that satisfy the inequality $0\\leq n\\leq 22\\,\\frac{1}{9}$?\n5. Can you explain why we add 1 to the difference between the upper and lower bounds of the range of values for $n$?\n6. Is it possible to use a similar approach to find the number of integers congruent to a different residue modulo 9? If so, how would you modify the approach?"
+}

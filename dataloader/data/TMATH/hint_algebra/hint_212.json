@@ -1,0 +1,7 @@
+{
+    "problem": "If $A=4-3i$, $M=-4+i$, $S=i$, and $P=2$, find $A-M+S-P$.",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "Adding real parts and imaginary parts separately, we have $(4-(-4)+0-2)+(-3-1+1-0)i=\\boxed{6-3i}$.",
+    "socratic_questions": "1. Can you explain what the given expression $A-M+S-P$ represents in terms of the given variables?\n2. What are the values of $A$, $M$, $S$, and $P$?\n3. How do you perform subtraction and addition operations on complex numbers?\n4. Can you simplify the expression $A-M$? What is the result?\n5. How do you simplify the expression $S-P$? What is the result?\n6. What is the value of $A-M+S-P$ after simplifying the individual components?\n7. Can you represent the final result in the form of a complex number?"
+}

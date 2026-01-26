@@ -1,0 +1,7 @@
+{
+    "problem": "One leg of a right triangle is 12 inches, and the measure of the angle opposite that leg is $30^\\circ$. What is the number of inches in the hypotenuse of the triangle?",
+    "level": "Level ?",
+    "type": "Geometry",
+    "solution": "A right triangle with a $30^\\circ$ angle is a 30-60-90 triangle.  In such a triangle, the hypotenuse has twice the length of the leg opposite the $30^\\circ$ angle, so the hypotenuse of the triangle in the problem has length $2\\cdot 12 = \\boxed{24}$ inches.",
+    "socratic_questions": "1. Can you Identify the given information in the problem? \n2. What type of triangle is described in the problem? \n3. How is the hypotenuse related to the other two sides in a 30-60-90 triangle? \n4. Can you calculate the length of the hypotenuse using the given information? \n5. What is the length of the hypotenuse for the given triangle? \n6. Can you explain why the hypotenuse is twice the length of the leg opposite the 30\u00b0 angle?"
+}

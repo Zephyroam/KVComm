@@ -1,0 +1,7 @@
+{
+    "problem": "The measures of a pair of supplementary angles are in the ratio of 7:2. How many degrees are in the measure of their positive difference?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Since the measures are in the ratio $7:2$, the measures are $7x$ and $2x$ for some value of $x$.  Since the angles are supplementary, we have $7x + 2x = 180^\\circ$, so $9x = 180^\\circ$ and $x= 20^\\circ$.  Therefore, the angle measures are $7x=140^\\circ$ and $2x=40^\\circ$, so their positive difference is $140^\\circ - 40^\\circ = \\boxed{100^\\circ}$.",
+    "socratic_questions": "1. What are supplementary angles?\n2. How can we represent the measures of the angles using a ratio?\n3. Can you explain why we can set up an equation $7x + 2x = 180^\\circ$?\n4. What is the value of $x$ that satisfies the equation? How did you find it?\n5. What are the measures of the two angles? How did you find them?\n6. What does it mean to find the positive difference between two angles?\n7. How did you calculate the positive difference between the two angles?\n8. Can you think of any other scenarios where you could use ratios and supplementary angles to find a positive difference?"
+}

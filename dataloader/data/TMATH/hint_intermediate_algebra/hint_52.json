@@ -1,0 +1,7 @@
+{
+    "problem": "What is the remainder when $x^2+7x-5$ divides $2x^4+11x^3-42x^2-60x+47$?",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "\\[\n\\begin{array}{c|cc ccc}\n\\multicolumn{2}{r}{2x^2} & -3x & -11 \\\\\n\\cline{2-6}\nx^2+7x-5 & 2x^4 & +11x^3 & -42x^2 & -60x & +47  \\\\\n\\multicolumn{2}{r}{-2x^4} & -14x^3 & +10x^2 \\\\\n\\cline{2-4}\n\\multicolumn{2}{r}{0} & -3x^3 & -32x^2 & -60x \\\\\n\\multicolumn{2}{r}{} & +3x^3 & +21x^2 & -15x \\\\\n\\cline{3-5}\n\\multicolumn{2}{r}{} & 0 & -11x^2 & -75x & +47 \\\\\n\\multicolumn{2}{r}{} &  & +11x^2 & +77x & -55 \\\\\n\\cline{4-6}\n\\multicolumn{2}{r}{} &  & 0 & 2x & -8 \\\\\n\\end{array}\n\\]Since the degree of $2x-8$ is lower than that of $x^2+7x-5$, we cannot divide any further. So our remainder is $\\boxed{2x-8}$.",
+    "socratic_questions": "1. How do we determine the remainder when dividing polynomials using polynomial long division?\n2. What does the degree of a polynomial represent?\n3. Why do we begin by dividing the term with the highest degree in the dividend by the highest degree term in the divisor?\n4. What steps do we take to find the quotient and remainder in polynomial long division?\n5. How do we know when we can no longer divide any further in polynomial long division?\n6. What is the significance of the remainder in polynomial long division?\n7. Can you think of any other scenarios where polynomial long division might be useful in solving algebraic problems?\n8. How could we check if our answer is correct in polynomial long division?"
+}

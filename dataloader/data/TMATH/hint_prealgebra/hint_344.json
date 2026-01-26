@@ -1,0 +1,7 @@
+{
+    "problem": "Caroline can make eleven lassis out of two mangoes. How many lassis can she make out of twelve mangoes?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "We have $\\text{lassis}:\\text{mangoes} = 11:2$.  Multiplying both parts of the ratio by 6 gives \\[\\text{lassis}:\\text{mangoes} = 11:2 = 66:12,\\]so she can make $\\boxed{66}$ lassis.",
+    "socratic_questions": "1. What is the given information about Caroline and the mangoes?\n2. Can you restate the given information as a ratio?\n3. How can we use the given ratio to find the number of lassis Caroline can make with 12 mangoes?\n4. What mathematical operation can we perform to find the number of lassis?\n5. Can you explain why we multiply both parts of the ratio by 6?\n6. What does the new ratio represent?\n7. How can we interpret the new ratio to determine the number of lassis Caroline can make with 12 mangoes?\n8. Can you calculate the number of lassis using the new ratio?\n9. Is there any other method or strategy you can think of to solve this problem?\n10. Can you apply the same reasoning and steps to solve similar problems involving ratios and quantities?"
+}

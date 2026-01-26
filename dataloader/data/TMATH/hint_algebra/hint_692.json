@@ -1,0 +1,7 @@
+{
+    "problem": "The sum of two numbers is 25 and their product is 126. What is the absolute value of the difference of the two numbers?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "We are given that $x + y = 25$ and $xy = 126$ for some numbers $x$ and $y$. We note that \\begin{align*}\n(x-y)^2&= x^2 - 2xy + y^2\\\\\n&= x^2 + 2xy + y^2 - 4xy\\\\\n&= (x + y)^2 - 4xy\\\\\n&= (25)^2 - 4\\cdot 126\\\\\n&= 121.\n\\end{align*}\n\nThus, we have $(x - y)^2 = 121$. Taking the square root of both sides, we have $\\sqrt{(x- y)^2} = |x - y| = \\boxed{11}$.",
+    "socratic_questions": "1. How would you represent the two numbers algebraically?\n2. Can we determine the values of the two numbers using only the given information? Why or why not?\n3. If we let x and y represent the two numbers, can you write an equation that represents the given information?\n4. How can we solve the equation to find the values of x and y?\n5. Is there more than one way to solve the equation? If so, what are the different methods?\n6. If we find the values of x and y, how can we calculate the absolute value of their difference?\n7. Can you think of any similar problems where we would use similar steps and thinking?"
+}

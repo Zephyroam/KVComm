@@ -1,0 +1,7 @@
+{
+    "problem": "The side lengths of a triangle are 14 cm, 48 cm and 50 cm. How many square centimeters are in the area of the triangle?",
+    "level": "Level 1",
+    "type": "Geometry",
+    "solution": "Shrinking the triangle by dividing every side length by 2, we recognize the resulting set $$\\{7,24,25\\}$$ of side lengths as a Pythagorean triple.  Therefore, the original triangle is also a right triangle, and its legs measure 14 cm and 48 cm.  The area of the triangle is $\\frac{1}{2}(14\\text{ cm})(48\\text{ cm})=\\boxed{336}$ square centimeters.",
+    "socratic_questions": "1. Can you describe what the first step should be in finding the area of this triangle?\n2. How can we determine if the set of side lengths is a Pythagorean triple?\n3. What is the significance of recognizing the set of side lengths as a Pythagorean triple?\n4. How do we calculate the legs of the right triangle from the side lengths?\n5. What formula can we use to calculate the area of a triangle?\n6. How do we apply this formula to find the area of the given triangle?\n7. If we had not recognized the side lengths as a Pythagorean triple, how else could we have found the area of the triangle?\n8. Can you think of any other types of triangles where we could use similar reasoning and steps to find the area?"
+}

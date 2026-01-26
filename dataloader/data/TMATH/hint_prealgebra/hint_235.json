@@ -1,0 +1,7 @@
+{
+    "problem": "If $\\sqrt{5+n}=7$, then what is the value of $n$?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Since $\\sqrt{5+n}=7$ and $7=\\sqrt{49}$, then $5+n=49$, so $n=\\boxed{44}$.",
+    "socratic_questions": "1. Can you explain what the equation $\\sqrt{5+n}=7$ means in words? \n2. What property or operation did you use to get from $\\sqrt{5+n}=7$ to $7=\\sqrt{49}$? \n3. Why is it valid to square both sides of the equation $\\sqrt{5+n}=7$? \n4. Once you have $7=\\sqrt{49}$, how did you determine that $5+n=49$? \n5. Could there be other values of $n$ that satisfy the equation $\\sqrt{5+n}=7$? Why or why not? \n6. How did you isolate and find the value of $n$ after obtaining $5+n=49$? \n7. Can you think of any other equations where square roots are involved and a similar problem-solving approach can be used?"
+}

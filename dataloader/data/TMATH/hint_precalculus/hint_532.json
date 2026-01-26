@@ -1,0 +1,7 @@
+{
+    "problem": "Find the integer $n,$ $0 \\le n \\le 180,$ such that $\\cos n^\\circ = \\cos 758^\\circ.$",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "Since the cosine function has period $360^\\circ,$\n\\[\\cos 758^\\circ = \\cos (758^\\circ - 2 \\cdot 360^\\circ) = \\cos 38^\\circ,\\]so $n = \\boxed{38}.$",
+    "socratic_questions": "1. What is the definition of the cosine function in trigonometry?\n2. How does the period of a trigonometric function relate to its graph and values?\n3. What is the relationship between the cosine of an angle and the cosine of its supplement?\n4. How can we use the identity $\\cos(360^\\circ-\\theta)=\\cos \\theta$ to simplify the problem?\n5. What other trigonometric identities can we use to simplify the expression $\\cos 758^\\circ$?\n6. How can we apply the concept of reference angles to solve this problem?\n7. How does the intermediate value theorem guarantee that there is only one solution for $n$ in the given interval?\n8. Can we use a calculator or trigonometric table to find the value of $\\cos 38^\\circ$? How does this relate to the concept of exact solutions in trigonometry?"
+}

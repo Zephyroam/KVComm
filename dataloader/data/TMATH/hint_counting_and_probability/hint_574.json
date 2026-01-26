@@ -1,0 +1,7 @@
+{
+    "problem": "An integer greater than 9 and less than 100 is randomly chosen. What is the probability that its digits are different?",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "We calculate the probability that the digits are the same, and subtract from 1. From the 90 integers to be chosen from, only 9 have the same digits: 11, 22, 33, ..., 99. Therefore, the probability that the digits are the same is $\\frac{9}{90} = \\frac{1}{10}$, so the probability that the digits are different is $1-\\frac{1}{10}= \\boxed{\\frac{9}{10}}$.",
+    "socratic_questions": "1. What is the problem asking us to find the probability of? \n2. What is the total number of integers between 9 and 100 (inclusive)? \n3. From the total number of integers, how many have the same digits? \n4. How did we arrive at 9 integers having the same digits between 9-100? \n5. Why did we calculate the probability of the same digits instead of different digits? \n6. What is the probability of selecting an integer with the same digits? \n7. What is the probability of selecting an integer with different digits? \n8. How did we arrive at the final answer for the probability of different digits? \n9. Can you think of other similar probability problems that may require subtracting from 1 to find the desired probability?"
+}

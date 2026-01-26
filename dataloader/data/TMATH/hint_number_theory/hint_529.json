@@ -1,0 +1,7 @@
+{
+    "problem": "Use each of the digits 3, 4, 6, 8 and 9 exactly once to create the greatest possible five-digit multiple of 6. What is that multiple of 6?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "A multiple of 6 is a multiple of 3, which means the sum of its digits is a multiple of 3, and a multiple of 2, which means its units digit is even. We note that 4, 6, and 8 are even and that $3+4+6+8+9=30=3(10)$, so indeed it is possible to create a multiple of 6. Choose the smallest even number on the list, 4, for the units digit and arrange the rest of the digits in decreasing order to maximize the multiple of 6: $\\boxed{98,634}$.",
+    "socratic_questions": "1. What is the definition of a multiple of 6?\n2. How do we determine whether a number is a multiple of 6 based on its digits?\n3. Which digits in the given set are even? How does this affect our search for the greatest multiple of 6?\n4. Why is it important to note that the sum of the digits must be a multiple of 3 in order for a number to be a multiple of 6?\n5. Why do we choose the smallest even digit, 4, for the units digit of our multiple of 6?\n6. How do we arrange the remaining digits, 3, 6, 8, and 9, to maximize the multiple of 6?\n7. Is there another arrangement of the digits that could result in a greater multiple of 6? Why or why not?\n8. How do concepts from number theory, such as the properties of multiples, help us to solve this problem?"
+}

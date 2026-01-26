@@ -1,0 +1,7 @@
+{
+    "problem": "What is the reciprocal of the common fraction form of $.\\overline{2}$?",
+    "level": "Level 1",
+    "type": "Number Theory",
+    "solution": "If we remember that $\\frac19=.\\overline{1}$, then we know that $.\\overline{2}=\\frac29$. The reciprocal is $\\boxed{\\frac92}$.\n\nIf we didn't know that $\\frac19=.\\overline{1}$, we let $x=.\\overline{2}$. That means $10x=2.\\overline{2}$ and $9x=2.\\overline{2}-.\\overline{2}=2$. So $x=\\frac29$ and the reciprocal is $\\frac92$.",
+    "socratic_questions": "1. Can you represent the decimal $.\\overline{2}$ in its common fraction form?\n2. If we assume that $\\frac{1}{9} = .\\overline{1}$, what can we conclude about the decimal $.\\overline{2}$?\n3. How can we express $.\\overline{2}$ as a fraction using algebraic equations?\n4. Can you solve the equation $10x = 2.\\overline{2}$ and find the value of $x$?\n5. What is the reciprocal of $\\frac{2}{9}$, which represents $.\\overline{2}$ in common fraction form?\n6. Can you think of any other recurring decimals that can be expressed as fractions using similar methods?"
+}

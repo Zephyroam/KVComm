@@ -1,0 +1,7 @@
+{
+    "problem": "I flip a fair coin once and roll a regular six-sided die.  What is the probability the coin will show heads and the die will show a 2?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "There are 2 possible outcomes for the coin and 6 possible outcomes for the die, so there are $2 \\times 6 = 12$ equally likely outcomes.  Only 1 of these is a successful outcome: the coin must show heads and the die must show 2.  So the probability is $\\boxed{\\dfrac{1}{12}}$.",
+    "socratic_questions": "1. What are the possible outcomes when flipping a fair coin and rolling a regular six-sided die?\n2. How many total outcomes are there when flipping a coin and rolling a die?\n3. How many of these outcomes result in the coin showing heads and the die showing 2?\n4. What is the relationship between the number of successful outcomes and the total number of possible outcomes?\n5. Based on the number of successful outcomes and the total number of possible outcomes, how would you calculate the probability of the coin showing heads and the die showing 2?\n6. Can you think of any other similar probability scenarios where you would calculate the probability using a similar thought process and steps as this one?"
+}

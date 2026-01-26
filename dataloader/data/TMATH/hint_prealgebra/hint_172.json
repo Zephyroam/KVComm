@@ -1,0 +1,7 @@
+{
+    "problem": "Using the digits 1, 2, 3, 4, 5, how many even three-digit numbers less than 500 can be formed if each digit can be used more than once?",
+    "level": "Level 5",
+    "type": "Prealgebra",
+    "solution": "There are four choices for the hundreds digit: 1, 2, 3, or 4. The tens digit is unrestricted; it could be any one of the five. Finally, the units digit can only be a 2 or 4. Thus, there are $4 \\cdot 5 \\cdot 2 = \\boxed{40}$ such numbers that can be formed.",
+    "socratic_questions": "1. What are the possible values for the hundreds digit in this problem?\n2. Why is the tens digit unrestricted in this problem?\n3. What are the possible values for the units digit in this problem?\n4. How did you determine the number of possible combinations for the three-digit numbers?\n5. Can you explain why the number of even three-digit numbers less than 500 is restricted to a certain range?\n6. Can you think of any other similar problems involving digit combinations and restrictions?"
+}

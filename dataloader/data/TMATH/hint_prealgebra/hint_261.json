@@ -1,0 +1,7 @@
+{
+    "problem": "What percent of square $ABCD$ is shaded?  All angles in the diagram are right angles. [asy]\nimport graph;\ndefaultpen(linewidth(0.7));\n\nxaxis(0,5,Ticks(1.0,NoZero));\nyaxis(0,5,Ticks(1.0,NoZero));\n\nfill((0,0)--(1,0)--(1,1)--(0,1)--cycle);\nfill((2,0)--(3,0)--(3,3)--(0,3)--(0,2)--(2,2)--cycle);\nfill((4,0)--(5,0)--(5,5)--(0,5)--(0,4)--(4,4)--cycle);\n\nlabel(\"$A$\",(0,0),SW);\nlabel(\"$B$\",(0,5),N);\nlabel(\"$C$\",(5,5),NE);\nlabel(\"$D$\",(5,0),E);[/asy]",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "The area of the square is $5^2=25$ square units, and the shaded area is $(1^2-0^2)+(3^2-2^2)+(5^2-4^2)=15$ square units.  Therefore, $\\frac{15}{25}=\\boxed{60}$ percent of the region is shaded.",
+    "socratic_questions": "1. How would you calculate the area of the entire square $ABCD$?\n2. What is the formula for calculating the area of a square?\n3. Can you explain how you calculated the shaded area?\n4. What is the difference between the squared numbers in each shaded region?\n5. How did you determine the total shaded area by adding the individual shaded regions?\n6. What is the relationship between the shaded area and the total area of the square?\n7. Can you calculate the percentage of the square that is shaded?"
+}

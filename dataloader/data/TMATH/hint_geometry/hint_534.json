@@ -1,0 +1,7 @@
+{
+    "problem": "A right circular cone has a volume of $12\\pi$ cubic centimeters. The height of the cone is 4 cm. How many centimeters is the circumference of the base of the cone, in terms of $\\pi$?",
+    "level": "Level 3",
+    "type": "Geometry",
+    "solution": "The volume of a cone is $\\frac{1}{3}\\pi r^2 h$. We're given that the volume is $12\\pi$ and the height is $4$. Thus, $\\frac{1}{3}\\pi r^2 \\cdot 4 = 12\\pi$. Solving for $r$, we find $r = 3$. Therefore, the circumference of the base is $2\\pi r = \\boxed{6\\pi}$.",
+    "socratic_questions": "1. Can you describe the first step in solving this problem?\n2. What formula or equation can we use to find the volume of a cone?\n3. How can we use the given information about the volume and height of the cone to solve for the radius?\n4. After solving for the radius, what measurements can we use to find the circumference of the base?\n5. What is the formula for the circumference of a circle? How is it related to the radius?\n6. Can you calculate the circumference of the base of the cone using the values we've found?"
+}

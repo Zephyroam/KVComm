@@ -1,0 +1,7 @@
+{
+    "problem": "What is the largest integer that must divide the product of any $4$ consecutive integers?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "Any $4$ consecutive integers will have at least one multiple of $3,$ an even number not divisible by $4,$ and a multiple of $4.$ Therefore the product of any $4$ consecutive integers must be divisible by $2\\cdot 3\\cdot 4=\\boxed{24}.$\n\nWe can check that no larger number divides every product of four consecutive integers by considering $1\\cdot2\\cdot3\\cdot4=24$.",
+    "socratic_questions": "1. What is the problem asking us to find out?\n2. How can we approach this problem using number theory concepts?\n3. Can you identify any patterns or relationships among consecutive integers that could help solve this problem?\n4. How can we prove that the largest integer to divide the product of any 4 consecutive integers is 24?\n5. Have we considered all the possibilities for the product of 4 consecutive integers to ensure that no larger number divides every possible product? \n6. Can you think of other similar problems in number theory that might also involve finding the largest integer to divide a product of consecutive integers?"
+}

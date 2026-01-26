@@ -1,0 +1,7 @@
+{
+    "problem": "Point $C$ is on the segment $AB$ which has endpoints $A(-1, 0)$  and $B(3, 8)$.  Point $C$ is three times as far from point $A$ as it is from  point $B$.  What are the coordinates of point $C$?",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "We are told that $AC = 3CB$, so $AB = AC + CB = 4CB$.  Let $M$ be the midpoint of $\\overline{AB}$. Then, we have $BM = \\dfrac{AB}{2}$.\n\nSince $AB = 4CB$, we have $CB = \\dfrac{AB}{4} = \\dfrac{BM}{2}$.  In other words, $C$ is the midpoint of $\\overline{BM}$.\n\nSince $M$ is the midpoint of $\\overline{AB}$, we have $M = \\left(\\dfrac{-1+3}{2} , \\dfrac{0+8}{2}\\right) = (1,4)$.\n\nSimilarly, since $C$ is the midpoint of $\\overline{BM}$, we have $C = \\left(\\dfrac{3 + 1}{2}, \\dfrac{8 + 4}{2}\\right) = \\boxed{(2,6)}$.",
+    "socratic_questions": "1. How would you describe the first step in solving this problem? \n2. What are some different methods you can think of for finding the coordinates of point C? \n3. If you choose to set up an equation, how would you do that based on the given information? \n4. Why does the problem state that point C is three times as far from point A as it is from point B? How does that affect the equation or approach to finding the coordinates? \n5. What steps would you take to solve the equation and find the coordinates of point C? \n6. Can you think of any other scenarios or problems where a similar thought process and steps might be applied?"
+}

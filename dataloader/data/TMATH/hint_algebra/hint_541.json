@@ -1,0 +1,7 @@
+{
+    "problem": "Evaluate $\\lfloor (12.1)^2 \\rfloor - \\lfloor 12.1 \\rfloor \\cdot \\lfloor 12.1 \\rfloor .$",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "We compute that $\\lfloor (12.1)^2 \\rfloor = \\lfloor 146.41 \\rfloor = 146$ and $\\lfloor 12.1 \\rfloor \\cdot \\lfloor 12.1 \\rfloor = 12\\cdot 12 = 144,$ so $\\lfloor (12.1)^2 \\rfloor - \\lfloor 12.1 \\rfloor \\cdot \\lfloor 12.1 \\rfloor = \\boxed{2}.$",
+    "socratic_questions": "1. How would you define the floor function and its properties?\n2. What happens when we square a number? How does it affect the decimal part?\n3. How does the floor function behave with regards to real numbers and integers?\n4. Can you explain the significance of using the floor function in this expression?\n5. What is the value of squaring 12.1? How does it differ from the floor of 12.1 squared?\n6. How does the floor function affect the multiplication of two values?\n7. What is the importance of subtracting the product of the floor of 12.1 by itself?\n8. Can you simplify the expression by applying the floor function to each term separately?\n9. How can you evaluate the expression step by step, considering the order of operations?\n10. Are there any other mathematical concepts or functions that can be related to this expression and its solution?"
+}

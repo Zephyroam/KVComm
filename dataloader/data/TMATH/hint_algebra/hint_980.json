@@ -1,0 +1,7 @@
+{
+    "problem": "Let \\[f(x) = \\left\\{\n\\begin{array}{cl}\nx^2+1 &\\text{ if }x>5, \\\\\n2x-3 &\\text{ if } -5 \\le x \\le 5, \\\\\n3 &\\text{ if } x <-5.\n\\end{array}\n\\right.\\]Find $f(-7)+f(0)+f(7)$.",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "Since $-7<-5$, $f(-7)=3$. Since $-5 \\le 0 \\le 5$, $f(0)=2(0)-3=-3$. Since $7>5$, $f(7)=7^2+1=50$. Therefore, $f(-7)+f(0)+f(-7)=3-3+50=\\boxed{50}$.",
+    "socratic_questions": "1. What does the function definition tell us about the value of f(x) for different ranges of x?\n2. How would you determine the value of f(-7)? What specific part of the function definition applies to this value?\n3. How would you determine the value of f(0)? What specific part of the function definition applies to this value?\n4. How would you determine the value of f(7)? What specific part of the function definition applies to this value?\n5. Can you simplify the expressions: f(-7), f(0), and f(7) using the given function definitions?\n6. What are the numerical values of f(-7), f(0), and f(7) after simplification? Calculate and verify your answers.\n7. How would you find the sum of f(-7), f(0), and f(7)? What is the final result?"
+}

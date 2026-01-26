@@ -1,0 +1,7 @@
+{
+    "problem": "What is the sum of all integers from 80 through 90, inclusive?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "The sum of an arithmetic series is equal to the average of the first and last term, multiplied by the number of terms.  The number of integers from 80 to 90 is $90 - 80 + 1 = 11$, so the sum is $(80 + 90)/2 \\cdot 11 = \\boxed{935}$.",
+    "socratic_questions": "1. How would you approach finding the sum of all integers from 80 through 90, inclusive?\n2. Can you describe a step-by-step process to calculate this sum?\n3. Are there any alternative methods to solve this problem? If so, what are they? \n4. How would you determine the total number of integers in the range from 80 through 90?\n5. What is the first integer in the range? What is the last integer in the range? Why is this information important?\n6. Why is it necessary to include both 80 and 90 in the sum? What happens if we exclude them?\n7. Can you think of any patterns or shortcuts that could help simplify finding this sum?\n8. Are there any similar problems where the same approach can be used to find the sum of a consecutive sequence?\n9. What are the potential challenges or pitfalls someone might encounter when calculating this sum?\n10. How would you verify the correctness of your solution?"
+}

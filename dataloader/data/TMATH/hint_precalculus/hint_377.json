@@ -1,0 +1,7 @@
+{
+    "problem": "Given that $z$ is a complex number such that $z+\\frac 1z=2\\cos 3^\\circ$, find $z^{2000}+\\frac 1{z^{2000}}$.",
+    "level": "Level 4",
+    "type": "Precalculus",
+    "solution": "From the given equation, $z^2 + 1 = 2z \\cos 3^\\circ,$ or $z^2 - 2z \\cos 3^\\circ + 1 = 0.$  Then by the quadratic formula,\n\\[z = \\frac{2 \\cos 3^\\circ \\pm \\sqrt{4 \\cos^2 3^\\circ - 4}}{2} = \\cos 3^\\circ \\pm i \\sin 3^\\circ.\\]Then by DeMoivre's Theorem,\n\\[z^{2000} = \\cos 6000^\\circ \\pm i \\sin 6000^\\circ = \\cos 240^\\circ \\pm i \\sin 240^\\circ,\\]and\n\\[\\frac{1}{z^{2000}} = \\cos (-240^\\circ) \\pm i \\sin (-240^\\circ) = \\cos 240^\\circ \\mp i \\sin 240^\\circ,\\]so\n\\[z^{2000} + \\frac{1}{z^{2000}} = 2 \\cos 240^\\circ = \\boxed{-1}.\\]",
+    "socratic_questions": "1. Can you describe the first step in solving this problem? What is the given equation and what do we want to find?\n2. How can we rewrite the given equation in terms of the complex number $z$?\n3. What can we observe about the roots of the equation $z^2 - 2z \\cos 3^\\circ + 1 = 0$? What are the possible values of $z$?\n4. How can we express $z^{2000}$ in terms of trigonometric functions using DeMoivre's Theorem?\n5. What is the value of $\\cos 240^\\circ$ and $\\sin 240^\\circ$?\n6. How can we find $\\frac{1}{z^{2000}}$ using the properties of complex numbers and the given equation?\n7. What is the final value of $z^{2000} + \\frac{1}{z^{2000}}$ and what does it signify?"
+}

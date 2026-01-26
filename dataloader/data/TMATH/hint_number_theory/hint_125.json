@@ -1,0 +1,7 @@
+{
+    "problem": "What is the units digit of the product of all the odd positive integers between 10 and 110?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "Any odd multiple of 5 will end in a units digit of 5 (even multiples will end in a units digit of 0). Since all the integers we are multiplying are odd and some of them have a factor of 5, the product will be an odd multiple of 5 with a units digit of $\\boxed{5}$.",
+    "socratic_questions": "1. What is the range of positive odd integers between 10 and 110?\n2. How can we determine the units digit of a product involving odd integers?\n3. What is the units digit of the product of any odd integer with the digit 5?\n4. Can you explain why odd multiples of 5 will always have a units digit of 5?\n5. How can we determine if a product will have an odd or even units digit?\n6. Are there any other patterns or concepts related to units digits that can help us solve this problem?"
+}

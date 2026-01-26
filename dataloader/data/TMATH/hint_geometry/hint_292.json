@@ -1,0 +1,7 @@
+{
+    "problem": "What is the smallest possible perimeter, in units, of a triangle whose side-length measures are consecutive integer values?",
+    "level": "Level 3",
+    "type": "Geometry",
+    "solution": "The smallest such triangle has lengths 1, 2, and 3. However, this triangle doesn't work since the sum of any two side lengths must be greater than the third side length (by the Triangle Inequality). The next smallest triangle has lengths 2, 3, and 4, which works. Thus, the smallest possible perimeter is $2+3+4=\\boxed{9}$ units.",
+    "socratic_questions": "1. Can you provide a description of the problem's context? What is the question asking for specifically?\n2. What are the side-length measures of the smallest possible triangle according to the problem?\n3. Why does the triangle with side lengths 1, 2, and 3 not work? Can you explain why it violates the Triangle Inequality?\n4. Can you identify the next smallest triangle with consecutive integer side lengths? How does it satisfy the Triangle Inequality?\n5. What is the perimeter of the next smallest triangle? Can you explain how you obtained this value? \n6. Are there any other triangles with consecutive integer side lengths that you can think of? If so, how would you determine if they satisfy the Triangle Inequality?\n7. Based on your observations, what can you conclude about the smallest possible perimeter of a triangle with consecutive integer side lengths?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "The circles whose equations are $x^2 + y^2 - 4x + 2y - 11 = 0$ and $x^2 + y^2 - 14x + 12y + 60 = 0$ intersect in the points $A$ and $B.$  Compute the slope of $\\overline{AB}.$",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "Subtracting the given equations, we get\n\\[10x - 10y - 71 = 0.\\]Note that $A$ and $B$ must satisfy this equation, which is conveniently a line, so this equation represents line $AB.$  We see that the slope is $\\boxed{1}.$",
+    "socratic_questions": "1. What is the equation of the first circle and the second circle?\n2. How can we find the points of intersection between two circles?\n3. What is the equation obtained by subtracting the equations of the two circles?\n4. Why does this new equation represent the line AB?\n5. Is there any specific reason why we are subtracting the equations of the two circles?\n6. How can we determine the slope of a line given its equation?\n7. How can we determine the slope of the line AB using the equation $10x - 10y - 71 = 0$?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "When $0.\\overline{36}$ is expressed as a common fraction in lowest terms, what is the sum of the numerator and denominator?",
+    "level": "Level 5",
+    "type": "Prealgebra",
+    "solution": "$0.\\overline{36}=\\frac{36}{99}=\\frac{4}{11}$. The sum of the numerator and denominator is $4+11=\\boxed{15}$.",
+    "socratic_questions": "1. How would you describe the first step in solving this problem of expressing $0.\\overline{36}$ as a common fraction in lowest terms?\n2. Can you think of any other ways to represent a repeating decimal as a fraction? What are the differences between these methods?\n3. Why is it possible to express $0.\\overline{36}$ as a fraction? Are there any patterns or features that make it suitable for this method?\n4. How did you determine the numerator and denominator of the fraction $0.\\overline{36}$ as $\\frac{4}{11}$? What process or reasoning did you use?\n5. How can you verify that $\\frac{4}{11}$ is the correct fraction for $0.\\overline{36}$? What steps or calculations can you perform to check its accuracy?\n6. Can you think of any other decimal numbers or situations where a similar thought process and steps may be used to express them as fractions?"
+}

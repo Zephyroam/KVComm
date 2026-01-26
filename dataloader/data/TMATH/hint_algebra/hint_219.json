@@ -1,0 +1,7 @@
+{
+    "problem": "What is the inverse of $f(x)=4-5x$?",
+    "level": "Level 5",
+    "type": "Algebra",
+    "solution": "If we let $g(x)$ denote the inverse to $f$ then we can evaluate $f$ at $g(x)$ to get  \\[f(g(x))=4-5g(x).\\]Since $g$ is the inverse to $f$, the left side is $x$ and  \\[x=4-5g(x).\\]Solving for $g(x)$, we find $g(x) = \\boxed{\\frac{4-x}{5}}$.",
+    "socratic_questions": "1. How would you define the inverse of a function? \n2. What is the process for finding the inverse of a given function? \n3. Can you explain why the inverse of a function and the original function \"undo\" each other? \n4. Is it always possible to find the inverse of a function? Why or why not? \n5. In the function $f(x)=4-5x$, what would be the general approach to finding its inverse? \n6. How would you begin the process of finding the inverse of $f(x)=4-5x$? \n7. What steps would you take to solve for $x$ in terms of $y$ in the equation $y=4-5x$ in order to find the inverse? \n8. Once you have the equation for the inverse function, how would you confirm that it is indeed the inverse? \n9. Can you determine the domain and range of the original function and its inverse? \n10. Are there any restrictions or conditions for a function to have an inverse?"
+}

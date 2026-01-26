@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\dbinom{8}{0}$.",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "This problem uses the identity $0!=1$ $$\\dbinom{8}{0}=\\frac{8!}{8!0!}=\\frac{1}{0!}=\\frac{1}{1}=\\boxed{1}$$",
+    "socratic_questions": "1. What does $\\dbinom{8}{0}$ represent? Can you explain it in your own words?\n2. How does the identity $0! = 1$ relate to the computation of $\\dbinom{8}{0}$? Why is it acceptable to use this identity?\n3. Can you explain what $8!$ and $0!$ represent in the expression $\\dbinom{8}{0}$?\n4. What is the significance of the combination formula $\\dbinom{n}{k}$ in counting and probability? How does it relate to the concept of choosing objects?\n5. Can you think of any real-life examples where $\\dbinom{8}{0}$ might be applicable? How does this relate to counting and probability?\n6. If you were to evaluate $\\dbinom{8}{k}$ for some other value of $k$, how would the computation vary? Can you generalize the pattern you observe?"
+}

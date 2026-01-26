@@ -1,0 +1,7 @@
+{
+    "problem": "For what value of $n$ is $3^3-5=4^2+n$?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "First, we simplify $3^3=3\\cdot3\\cdot3=27$, and $4^2=4\\cdot4=16$. Subtracting $16$ from both sides, we find $n=27-5-16=\\boxed{6}$.",
+    "socratic_questions": "1. What is the first step you would take to simplify the equation?\n2. Can you explain the process of simplifying $3^3$ and $4^2$?\n3. What does it mean to subtract 5 from $3^3$?\n4. How do you subtract 16 from both sides of the equation?\n5. Can you show the steps involved in finding the value of $n$?\n6. Is there any other method you can think of to solve this equation?\n7. How can you verify that $n=6$ is the correct solution?\n8. Can you think of any other similar equations that require similar reasoning and steps to solve?"
+}

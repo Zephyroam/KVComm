@@ -1,0 +1,7 @@
+{
+    "problem": "Mark and Sandy are walking to the convenience store at the midpoint of their coordinates. Mark is standing at $(0,7)$, and Sandy is standing at $(-4,-1)$. At what coordinate will they meet?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "The coordinate at which the two will meet is the midpoint of the two given coordinates. We apply the midpoint formula to find $$\\left(\\frac{-4+0}{2},\\frac{-1+7}{2}\\right)=\\boxed{(-2,3)}.$$",
+    "socratic_questions": "1. Can you describe what the midpoint of two coordinates means in this scenario? \n2. How can we determine the midpoint between two coordinates? \n3. If Mark is standing at $(0, 7)$ and Sandy is standing at $(-4, -1)$, what is the x-coordinate of the midpoint? \n4. And what is the y-coordinate of the midpoint? \n5. By combining the x and y-coordinates, can you determine the final coordinate where Mark and Sandy will meet? \n6. Can you think of any real-life scenarios where finding the midpoint of two coordinates is useful or applicable?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "For what positive value of $t$ is $|6+ti| = 10$?",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "Since $|6+ti| = \\sqrt{6^2 + t^2} = \\sqrt{t^2+36}$, the equation $|6+ti| = 10$ tells us that $\\sqrt{t^2 + 36} = 10$.  Squaring both sides gives $t^2 + 36= 100$, so $t^2= 64$.  Since we want the positive value of $t$, we have $t = \\boxed{8}$.",
+    "socratic_questions": "1. Can you describe the first step in solving this equation?\n2. What is the geometric interpretation of $|6+ti|$?\n3. How can we rewrite $|6+ti|$ using the Pythagorean theorem?\n4. What does the equation $|6+ti| = 10$ tell us about the length of the complex number $6+ti$?\n5. How can we simplify the equation $\\sqrt{t^2 + 36} = 10$ further?\n6. Can you explain the process of squaring both sides and the potential implications?\n7. What values of $t$ satisfy the equation $t^2 + 36 = 100$?\n8. Why do we only consider the positive value of $t$?\n9. How does finding the value of $t$ help us answer the original question?"
+}

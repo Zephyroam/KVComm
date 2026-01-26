@@ -1,0 +1,7 @@
+{
+    "problem": "Let $m$ be the smallest positive, three-digit integer congruent to 5 (mod 11). Let $n$ be the smallest positive, four-digit integer congruent to 5 (mod 11). What is $n-m$?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "Both $m$ and $n$ can be written in the form $11k+5$. For $m$, we have that $11k+5 \\ge 100$, so $k \\ge \\frac{95}{11}$, so since $k$ must be an integer, we have that $k = 9$, so $m = 11(9) + 5 = 104$. For $n$, we have that $11l+5 \\ge 1000$, so $l \\ge \\frac{995}{11}$, so since $l$ must be an integer, we have that $l = 91$, so $n = 11(91) + 5 = 1006$. Therefore, $n-m = 1006 - 104 = \\boxed{902}$.",
+    "socratic_questions": "1. What are the conditions given in the problem? How can we express $m$ and $n$ in terms of congruence and the number 11?\n2. How can we determine the smallest three-digit integer congruent to 5 modulo 11? Can you explain the steps involved in finding $m$?\n3. In a similar manner, how can we find the smallest four-digit integer congruent to 5 modulo 11? Can you describe the steps required to find $n$?\n4. Now that we have values for both $m$ and $n$, how can we find their difference? What is the expression for $n - m$?\n5. Can you calculate the value of $n - m$ based on the values of $m$ and $n$ that we have found? What is the result?"
+}

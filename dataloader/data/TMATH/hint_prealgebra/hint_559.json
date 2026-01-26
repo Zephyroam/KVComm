@@ -1,0 +1,7 @@
+{
+    "problem": "Stan drove 300 miles in 5 hours, 20 minutes. Next, he drove 360 miles in 6 hours, 40 minutes. What was Stan's average speed in miles per hour for the total trip?",
+    "level": "Level 5",
+    "type": "Prealgebra",
+    "solution": "Average speed is defined as total distance traveled divided by time traveled. In total, Stan drove 660 miles and it took him 12 hours. His average speed was $660/12=600/12+60/12=50+5=\\boxed{55}$ miles per hour.",
+    "socratic_questions": "1. Can you calculate the total time Stan spent driving for the entire trip?\n2. How would you calculate the total distance Stan traveled during the entire trip?\n3. What is the definition of average speed? How is it calculated?\n4. How can you determine the total average speed for Stan's trip using the information given?\n5. What is the formula to calculate average speed? Can you apply it to find the answer?\n6. Can you convert the time from hours and minutes into a decimal format to simplify the calculation?\n7. What would you do next after calculating the total distance and total time?\n8. What is the final answer to the question: What was Stan's average speed in miles per hour for the total trip?"
+}

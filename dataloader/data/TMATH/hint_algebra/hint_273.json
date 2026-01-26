@@ -1,0 +1,7 @@
+{
+    "problem": "Find the coefficient of $x^2$ when $4(x - x^3) - 3(x^2 - x^3 + x^5) + 2(4x^2 - x^9)$ is simplified.",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "The coefficient of $x^2$ in $4(x - x^3) - 3(x^2 - x^3 + x^5) + 2(4x^2 - x^9)$ is $-3 + 2 \\cdot 4 = \\boxed{5}$.",
+    "socratic_questions": "1. What are the first steps in simplifying the expression?\n2. Can you identify any like terms in the expression that can be combined?\n3. How do you simplify the expression inside each set of parentheses separately?\n4. What happens when you distribute the coefficients to each term inside the parentheses?\n5. After distributing the coefficients, what terms can be combined to simplify the expression further?\n6. How do you combine the like terms involving the same powers of x?\n7. What is the coefficient of x^2 in the simplified expression?"
+}

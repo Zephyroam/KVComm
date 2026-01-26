@@ -1,0 +1,7 @@
+{
+    "problem": "What is the sum of the prime numbers between 10 and 20?",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "The primes between 10 and 20 are 11, 13, 17, and 19. Their sum is $\\boxed{60}$.",
+    "socratic_questions": "1. What is the definition of a prime number?\n2. Why are the numbers 10 and 20 specifically mentioned in the question?\n3. Can you list the prime numbers from 1 to 20? \n4. How did you identify the prime numbers between 10 and 20? \n5. Is there a method or rule you used to determine if a number is prime or not? \n6. Can you explain why the sum of the prime numbers between 10 and 20 is 60? \n7. Are there any other intervals of numbers where you could use a similar approach to find the sum of the prime numbers between them? \n8. How is this concept of prime numbers and their sums useful in real life situations?"
+}

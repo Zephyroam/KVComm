@@ -1,0 +1,7 @@
+{
+    "problem": "$f(x)$ is a monic polynomial such that $f(0)=4$ and $f(1)=10$. If $f(x)$ has degree $2$, what is $f(x)$? Express your answer in the form $ax^2+bx+c$, where $a$, $b$, and $c$ are real numbers.",
+    "level": "Level 5",
+    "type": "Algebra",
+    "solution": "Since $f(x)$ has degree $2$, we know it is of the form $ax^2+bx+c$. A monic polynomial is one whose leading coefficient is $1$, so $a=1$. Since $f(0)=4$, we know $1(0)^2+b(0)+c=4$, so $c=4$. Since $f(1)=10$, we know $1(1)^2+b(1)+4=10$, so $b+5=10$ and $b=5$. Thus $f(x)=\\boxed{x^2+5x+4}$.",
+    "socratic_questions": "1. What is a monic polynomial and why is it significant in this problem?\n2. Given that $f(0)=4$ and $f(1)=10$, can you determine any relationships or constraints on the coefficients of the polynomial?\n3. Since $f(x)$ has degree 2, what can we determine about the form of the polynomial?\n4. How can we use the given information to set up an equation or system of equations to solve for the coefficients?\n5. If $f(x)$ is of the form $ax^2+bx+c$, how can we relate the coefficients to the given conditions $f(0)=4$ and $f(1)=10$?\n6. Can you derive an equation or system of equations that relates the coefficients $a$, $b$, and $c$ to the given conditions? \n7. How can you solve these equations to find the values of $a$, $b$, and $c$ for $f(x)$? \n8. Finally, can you express the polynomial $f(x)$ in the form $ax^2+bx+c$ using the calculated coefficients?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "If $\\sin x = 3 \\cos x,$ then what is $\\sin x \\cos x$?",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "We know that $\\sin^2 x + \\cos^2 x = 1.$  Substituting $\\sin x = 3 \\cos x,$ we get\n\\[9 \\cos^2 x + \\cos^2 x = 1,\\]so $10 \\cos^2 x = 1,$ or $\\cos^2 x = \\frac{1}{10}.$  Then\n\\[\\sin x \\cos x = (3 \\cos x)(\\cos x) = 3 \\cos^2 x = \\boxed{\\frac{3}{10}}.\\]",
+    "socratic_questions": "1. How can we use the given equation $\\sin x = 3 \\cos x$ to simplify the expression $\\sin x \\cos x$?\n2. What is the relationship between $\\sin x$ and $\\cos x$ in the given equation?\n3. Based on the given equation, can we express $\\sin x$ in terms of $\\cos x$ or vice versa?\n4. What is the equation that relates $\\sin x$, $\\cos x$, and $\\tan x$?\n5. How can we manipulate the equation $\\sin x = 3 \\cos x$ to find an expression for $\\cos x$?\n6. Once we have an expression for $\\cos x$, how can we find $\\sin x$ using the Pythagorean identity?\n7. How does the substitution of $\\sin x = 3 \\cos x$ help us simplify the expression $\\sin x \\cos x$?\n8. How can we use the derived expression for $\\sin x$ and $\\cos x$ to find the value of $\\sin x \\cos x$?\n9. What is the final result for $\\sin x \\cos x$ in terms of a numerical value?"
+}

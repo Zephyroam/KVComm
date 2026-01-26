@@ -1,0 +1,7 @@
+{
+    "problem": "To test whether an integer, $n$, is prime, it is enough to be sure that none of the primes less than or equal to the square root of $n$ divide $n$. If you want to check that a number between 900 and 950 is prime with this rule, what is the largest prime divisor you need to test?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "You need to test the primes less than a number between $\\sqrt{900}=30$ and $\\sqrt{950}<31$, so the largest prime divisor you need to test is $\\boxed{29}$.",
+    "socratic_questions": "1. What is the definition of a prime number?\n2. Why is it enough to test the primes less than or equal to the square root of $n$ to determine if $n$ is prime?\n3. Can you explain the reasoning behind this statement: \"If a number is not divisible by any primes less than its square root, then it is not divisible by any larger primes either\"?\n4. Can you find the square roots of 900 and 950? What is the largest whole number less than the square root of 950?\n5. Why do we need to consider prime divisors less than the square root of the number we are testing?\n6. Can you explain why testing primes less than or equal to the square root of a number is a more efficient approach compared to testing all primes less than the number itself?\n7. Applying this rule to the range of 900 to 950, what is the largest prime divisor we need to test?\n8. Can you explain why testing beyond 29 as the largest prime divisor is unnecessary in this case?"
+}

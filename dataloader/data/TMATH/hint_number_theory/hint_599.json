@@ -1,0 +1,7 @@
+{
+    "problem": "If $n$ is $1$ less than a multiple of $50$, then what is the remainder when $n^2+2n+3$ is divided by $50$?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "We have $n = 50a-1$ for some integer $a$, so $n\\equiv -1\\pmod{50}$. Therefore, \\begin{align*}\nn^2+2n+3 &\\equiv (-1)^2+2(-1)+3 \\\\\n&\\equiv 1-2+3 \\\\\n&\\equiv 2\\quad\\pmod{50}.\n\\end{align*}The remainder when $n^2+2n+3$ is divided by $50$ is $\\boxed{2}$.",
+    "socratic_questions": "1. Can you describe the given problem in your own words?\n2. What does it mean for a number to be \"1 less than a multiple of 50\"?\n3. What does the notation \"≡\" (congruence) signify, and how does it relate to dividing by 50?\n4. If we know that $n\\equiv -1\\pmod{50}$, how can we use this information to find the remainder when $n^2+2n+3$ is divided by 50?\n5. What do we mean when we say that two numbers are \"congruent modulo 50\"?\n6. How can we simplify the expression $n^2+2n+3$ given the congruence $n\\equiv -1\\pmod{50}$?\n7. What is the remainder when $n^2+2n+3$ is divided by 50 based on the simplification?\n8. Can you think of other similar problems where the concept of congruence and finding remainders modulo a certain number can be applied?"
+}

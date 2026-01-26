@@ -1,0 +1,7 @@
+{
+    "problem": "Jordan ran 2 miles in half the time it took Steve to run 3 miles. If it took Steve 24 minutes to run 3 miles, using the same rates, how many minutes would it take Jordan to run 5 miles?",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "Since Steve's 3-mile time is 24 minutes, Jordan ran 2 miles in $\\frac{1}{2}\\cdot24=12$ minutes.  Therefore, each mile takes Jordan 6 minutes to run, so he would take $6\\cdot5=\\boxed{30}$ minutes to run five miles.",
+    "socratic_questions": "1. Can you describe the relationship between the distances Jordan and Steve ran?\n2. Based on the given information, what can you infer about Jordan's running rate compared to Steve's?\n3. If it took Steve 24 minutes to run 3 miles, how long did it take Jordan to run 2 miles?\n4. What is the ratio of Jordan's running time to Steve's running time for the same distance?\n5. How can you use this ratio to determine how long it would take Jordan to run 5 miles?\n6. Can you generalize this problem and apply the same reasoning to find how long it would take Jordan to run any given distance?"
+}

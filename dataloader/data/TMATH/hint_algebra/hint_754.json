@@ -1,0 +1,7 @@
+{
+    "problem": "Point $M(3,7)$ is the midpoint of $\\overline{AB}$. If point $A$ has coordinates $(9,3)$, what is the sum of the coordinates of point $B$?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "Let point $B$ have coordinates $(x,y)$. We have the equations $(x+9)/2=3$ and $(y+3)/2=7$, or $x=-3$ and $y=11$. Thus, the sum of coordinates of point $B$ is $-3+11=\\boxed{8}$.",
+    "socratic_questions": "1. How can we determine the coordinates of point B given that point M is the midpoint of line segment AB?\n2. What does it mean for point M to be the midpoint of line segment AB?\n3. How can the coordinates of a midpoint be used to find the coordinates of the endpoints of a line segment?\n4. What formula or strategy can we use to find the coordinates of point B?\n5. Can you explain the steps involved in using the formula or strategy to find the coordinates of point B?\n6. How can we apply what we have learned about finding the coordinates of point B to other midpoint problems in geometry?"
+}

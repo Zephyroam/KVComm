@@ -1,0 +1,7 @@
+{
+    "problem": "For a sale, a store owner reduces the price of a $\\$10$ scarf by $30\\%$. Later the price is lowered again, this time by $50\\%$ of the reduced price. What is the current price, in dollars?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "The sale price is $70\\%$ of the original price, or $\\$7.00$. After the next reduction, the final price is one-half the sale price of $\\$7.00$. or $\\boxed{\\$3.50}$.",
+    "socratic_questions": "1. Can you explain the problem in your own words? What are we trying to find?\n2. How can we represent the original price of the scarf mathematically?\n3. What does it mean when the store owner reduces the price by 30%? How can we calculate the new price?\n4. After the first reduction, what is the price of the scarf?\n5. How can we represent the second reduction mathematically? What percentage of the reduced price is being subtracted?\n6. What is the final price of the scarf after the second reduction?\n7. Can you explain why the final price is one-half the sale price of $\\$7.00?\n8. What is the current price of the scarf, in dollars?"
+}

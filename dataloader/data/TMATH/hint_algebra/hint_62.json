@@ -1,0 +1,7 @@
+{
+    "problem": "We have that $\\lceil x \\rceil - \\lfloor x \\rfloor = 0.$ Then, what is $\\lceil x \\rceil - x$?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "Given that $\\lceil x \\rceil - \\lfloor x \\rfloor = 0,$ we see that $x$ must be an integer. Otherwise, the ceiling of $x$ would be greater than the floor of $x.$ Therefore, $\\lceil x \\rceil = x$ and $\\lceil x \\rceil - x = \\boxed{0}.$",
+    "socratic_questions": "1. Can you explain what the symbols $\\lceil x \\rceil$ and $\\lfloor x \\rfloor$ represent in this context?\n2. How would you define the ceiling function $\\lceil x \\rceil$ and the floor function $\\lfloor x \\rfloor$?\n3. Given that $\\lceil x \\rceil - \\lfloor x \\rfloor = 0$, what does this tell us about the relationship between the ceiling and floor values of $x$?\n4. Considering the equation $\\lceil x \\rceil - x$, can you simplify it algebraically using the properties of the ceiling function?\n5. What is the possible range of values for $\\lceil x \\rceil - x$ based on the given information?\n6. Can you think of any scenarios where this equation might be useful or applicable in real-life situations?\n7. How can understanding the relationship between $\\lceil x \\rceil$, $\\lfloor x \\rfloor$, and $\\lceil x \\rceil - x$ help us in solving other algebraic problems?"
+}

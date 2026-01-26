@@ -1,0 +1,7 @@
+{
+    "problem": "Sasha has $\\$3.20$ in U.S. coins. She has the same number of quarters and nickels. What is the greatest number of quarters she could have?",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "Suppose Sasha has $q$ quarters.  Then she also has $q$ nickels, and the total value of her quarters and nickels is $.25q + .05q = .30q$.  Since $3.20/0.30 = 10\\frac{2}{3}$, this means that she has at most $\\boxed{10}$ quarters.  (This amount is obtainable; for example we can let the rest of her coins be pennies.)",
+    "socratic_questions": "1. Can you restate the problem in your own words?\n2. What information is given in the problem?\n3. What is the relationship between the number of quarters and the number of nickels? \n4. How can we represent the total value of her quarters and nickels using variables?\n5. What is the equation that represents the total value of her coins?\n6. How can we solve this equation to find the maximum number of quarters Sasha could have?\n7. Can you think of any constraints or limitations in the problem?\n8. How can we check if our solution is correct?\n9. Can you come up with any real-life scenarios where a similar problem-solving approach could be useful?\n10. Can you generalize this problem to different coin values or different total amounts?"
+}

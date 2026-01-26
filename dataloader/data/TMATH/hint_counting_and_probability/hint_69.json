@@ -1,0 +1,7 @@
+{
+    "problem": "An eight-sided die has its faces numbered from 1 to 8. What is the expected value of the roll of the die?",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "The expected value of one roll is the average of all the outcomes, or $E = \\dfrac{1}{8}(1 + 2 + \\cdots + 8) = \\boxed{4.5}$.",
+    "socratic_questions": "1. What is an eight-sided die, and how does it work?\n2. What do we mean by \"expected value\" of a die roll? \n3. How do we calculate the expected value of a single roll of an eight-sided die?\n4. Are all the outcomes equally likely when rolling an eight-sided die, and why or why not?\n5. How does the range of numbers on a die affect its expected value?\n6. What is the significance of the expected value in probability theory and statistics?\n7. Can manipulating the number of sides on a die affect its expected value, and if so, how?\n8. Is the expected value of rolling multiple eight-sided dice equivalent to rolling one eight-sided die multiple times, and why or why not?\n9. Can you give examples of scenarios where calculating the expected value of a die roll would be useful?"
+}

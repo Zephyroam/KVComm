@@ -1,0 +1,7 @@
+{
+    "problem": "Find $1+2\\cdot3-4+5.$",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "Recall that multiplication should be done before addition and subtraction. So, \\begin{align*}1+2\\cdot3-4+5 &=1+(2\\cdot3)-4+5\\\\ &=1+6-4+5=\\boxed{8}.\\end{align*}",
+    "socratic_questions": "1. What is the first step you should take to solve this expression?\n2. Can you identify the different operations involved in this expression?\n3. According to the order of operations, which operation should be performed first?\n4. What is the result of multiplying 2 and 3?\n5. What is the result of adding 1 and 6?\n6. What is the result of subtracting 4 from 7?\n7. What is the final result of the expression?"
+}

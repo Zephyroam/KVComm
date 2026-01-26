@@ -1,0 +1,7 @@
+{
+    "problem": "Simplify $2w+4w+6w+8w+10w+12$.",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "We have to be careful!  We can combine all the $w$ terms to get \\[2w+4w+6w+8w+10w+12 = (2+4+6+8+10)w + 12 = \\boxed{30w+12},\\] but we can't combine the 12 with anything!",
+    "socratic_questions": "1. What are the terms in the given expression?\n2. Can we combine the terms in any way? If yes, how?\n3. How many $w$ terms are there in the expression?\n4. Can we simplify the coefficients of the $w$ terms? If yes, how?\n5. What is the simplified form of the expression?\n6. How did we know that we could combine the $w$ terms but not the constant term?\n7. Are there any other ways to simplify this expression? If yes, what are they?"
+}

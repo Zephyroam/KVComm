@@ -1,0 +1,7 @@
+{
+    "problem": "Given that $x$ is a positive integer less than 100, how many solutions does the congruence $x + 13 \\equiv 55 \\pmod{34}$ have?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "Adding $-13$ to both sides of $x + 13 \\equiv 55 \\pmod{34}$ gives $x \\equiv 55-13 \\pmod{34}$. We find $55-13 = 42 \\equiv 8 \\pmod{34}$, so $x \\equiv 8 \\pmod{34}$. Thus the smallest positive integer that satisfies the given congruence is $x = 8$, and all the other solutions can be obtained by a multiple of 34 to 8. The next three such integers are 42, 76, and 110. Since 110 is greater than 100, there are $\\boxed{3}$ integers less than 100 that satisfy the congruence $x + 13 \\equiv 55 \\pmod{34}$.",
+    "socratic_questions": "1. What is a congruence in number theory?\n2. Can you restate the given congruence using modular arithmetic notation?\n3. How many possible values of $x$ are there if we consider all positive integers?\n4. How did we determine that the smallest positive integer solution is $x=8$?\n5. How do we find the other solutions to the congruence?\n6. Is $x=101$ a solution to the congruence? Why or why not?\n7. How does the range of possible values of $x$ change if we change the modulus of the congruence?"
+}

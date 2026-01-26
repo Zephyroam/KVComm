@@ -1,0 +1,7 @@
+{
+    "problem": "Let $x$ be a value such that $8x^2 + 7x - 1 = 0$ and $24x^2+53x-7 = 0.$ What is the value of $x$? Express your answer as a simplified common fraction.",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "We solve each equation separately. First off, we have $8x^2 + 7x - 1 = (8x-1)(x+1) = 0.$ We can also see that $24x^2+53x-7 = (8x-1)(3x+7) = 0.$ It is clear that both equations are satisfied only when $8x - 1 = 0,$ therefore $x = \\boxed{\\dfrac{1}{8}}.$",
+    "socratic_questions": "1. How would you approach solving the quadratic equation $8x^2 + 7x - 1 = 0$? What would be your first step?\n2. Are you familiar with any methods for solving quadratic equations? Can you list some different methods that can be used?\n3. If you choose to use the quadratic formula, can you identify the values of $a$, $b$, and $c$ in the equation $ax^2 + bx + c = 0$? What would be the next steps in applying the quadratic formula?\n4. Can you explain why the quadratic formula can be used to solve any quadratic equation? What are the important characteristics of a quadratic equation that make it suitable for using the quadratic formula?\n5. After applying the quadratic formula to the equation $8x^2 + 7x - 1 = 0$, what solutions did you obtain for $x$? How can you verify that these solutions are correct?\n6. Can you think of other types of equations where a similar thought process and steps might be used to solve them?"
+}

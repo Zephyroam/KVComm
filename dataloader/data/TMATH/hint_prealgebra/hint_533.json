@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $7\\left(\\frac{1}{5}\\right)^3$.",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Recall that $\\left(\\frac{a}{b}\\right)^n=\\frac{a^n}{b^n}$. Therefore  $$7\\left(\\frac{1}{5}\\right)^3=7\\left(\\frac{1^3}{5^3}\\right)=7\\left(\\frac{1}{125}\\right)=\\boxed{\\frac{7}{125}}.$$",
+    "socratic_questions": "1. What is the question asking you to do?\n2. Can you recall the formula related to the given expression? What is it?\n3. How can you simplify the expression using the formula?\n4. Can you identify the values for each element in the formula? What are they?\n5. How can you solve the expression once you have simplified it?\n6. Are there any real-world situations where you may need to use this formula or a similar one? What are they, and how would you go about using the formula in those situations?\n7. Can you explain this concept to someone who has never encountered it before? What would you say to help them understand it?"
+}

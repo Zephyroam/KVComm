@@ -1,0 +1,7 @@
+{
+    "problem": "What is the greatest integer $x$ for which $\\frac79 > \\frac{x}{13}$?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "Multiplying both sides of the inequality by $13$, we have $\\frac{91}{9}>x$. The largest integer smaller than $\\frac{91}{9}$ is $\\boxed{10}$.",
+    "socratic_questions": "1. What is the significance of the inequality sign in the given problem? How does it relate to the concept of \"greater than\"?\n2. How would you interpret the fractional form of the inequality? What does it indicate about the relationship between $\\frac{7}{9}$ and $\\frac{x}{13}$?\n3. If we multiply both sides of the inequality by $13$, what happens to the inequality sign? Why is that the case?\n4. What is the purpose of multiplying both sides of the inequality by $13$ in this scenario? How does it help us compare the values of $\\frac{7}{9}$ and $\\frac{x}{13}$?\n5. What is the value of $\\frac{91}{9}$ when simplified? How does this value relate to $x$? Thinking about the concept of integers, what does the largest integer smaller than $\\frac{91}{9}$ represent?\n6. How can we determine the greatest integer $x$ that satisfies the given inequality using the obtained value? Can you think of any other scenarios or examples where a similar thought process and steps might be needed?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "If we express $x^2 - 5x$ in the form $a(x - h)^2 + k$, then what is $k$?",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "We complete the square.  We can square $x - \\frac{5}{2}$ to get $x^2 - 5x + \\frac{25}{4}$, so $x^2 - 5x = \\left( x - \\frac{5}{2} \\right)^2 - \\frac{25}{4}$.  We see that $k = \\boxed{-\\frac{25}{4}}$.",
+    "socratic_questions": "1. Can you explain how we can express $x^2 - 5x$ in the form $a(x - h)^2 + k$?\n2. How can we determine the value of $k$ in the expression $a(x - h)^2 + k$?\n3. What role does the term $-5x$ play in the given expression $x^2 - 5x$ when we try to express it in the form $a(x - h)^2 + k$?\n4. Can you provide an example of a similar algebraic expression where we can easily determine the value of $k$ using the given form?\n5. How does expressing $x^2 - 5x$ in the form $a(x - h)^2 + k$ help us in analyzing the equation or expression?\n6. Can you think of any other situations or applications where expressing an expression in this form could be helpful?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "What is the sum of all integer solutions to $1<(x-2)^2<25$?",
+    "level": "Level 5",
+    "type": "Algebra",
+    "solution": "Let $y = x - 2,$ so $1 < y^2 < 25.$  Then the integer solutions to $y$ are $-4,$ $-3,$ $-2, 2, 3, 4,$ so the solutions in $x$ are $-4 + 2 = -2,$ $-3 + 2 = -1,$ $-2 + 2 = 0,$ $2 + 2 = 4,$ $3 + 2 = 5,$ and $4 + 2 = 6.$  Their sum is $(-2) + (-1) + 0 + 4 + 5 + 6 = \\boxed{12}.$",
+    "socratic_questions": "1. What does the expression $(x-2)^2$ represent in the given inequality?\n2. What is the significance of the inequality sign being \"<\" rather than \"<=\"?\n3. Can you determine the possible range of values for $(x-2)^2$ based on the given inequality? \n4. What does it mean for a value to be an integer solution in this context?\n5. How can you find the integer solutions that satisfy the inequality using the given expression?\n6. What are the possible values of $(x-2)$ that satisfy the inequality? \n7. What values of $x$ satisfy the condition $1<(x-2)^2<25$?\n8. How can you find the sum of all integer solutions to satisfy the given inequality?"
+}

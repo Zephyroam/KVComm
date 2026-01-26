@@ -1,0 +1,7 @@
+{
+    "problem": "A math conference is presenting a lecture series with six different lecturers. If Dr. Smith's lecture depends on Dr. Jones's lecture, so that Dr. Smith must be scheduled at some time after Dr. Jones, in how many orders can the six lecturers be scheduled?",
+    "level": "Level 4",
+    "type": "Counting & Probability",
+    "solution": "There are a total of $6!$ ways to order the 6 lectures with no restriction. By symmetry, exactly half of these will have Dr. Jones's lecture before Dr. Smith's lecture. Thus there are $6!/2 = \\boxed{360}$ ways to schedule the conference.",
+    "socratic_questions": "1. How many different lectures are there in the conference?\n2. Is there any restriction on the scheduling order of the lecturers?\n3. Which lecturer's schedule is dependent on another lecturer's schedule?\n4. Can Dr. Smith be scheduled before Dr. Jones?\n5. How many possible orders are there if there are no restrictions on the scheduling of the lecturers?\n6. How many of these orders would have Dr. Jones's lecture before Dr. Smith's lecture?\n7. How can we determine the number of ways to schedule the conference considering the dependency between Dr. Smith and Dr. Jones?\n8. What is the relationship between the unrestricted and restricted scheduling orders?\n9. How can we calculate the final number of possible scheduling orders for the conference?"
+}

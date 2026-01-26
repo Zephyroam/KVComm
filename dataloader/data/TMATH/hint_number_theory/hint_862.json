@@ -1,0 +1,7 @@
+{
+    "problem": "If $\\Diamond4_7=\\Diamond1_{8}$ and $\\Diamond$ represents a digit, solve for $\\Diamond$.",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "Converting everything to base ten: \\begin{align*}\n\\Diamond4_7&=\\Diamond1_{8}\\\\\n\\Diamond\\cdot7^1+4\\cdot7^0&=\\Diamond\\cdot8^1+1\\cdot8^0\\\\\n7\\Diamond+4&=8\\Diamond+1\\\\\n\\Diamond&=\\boxed{3}.\n\\end{align*}",
+    "socratic_questions": "1. What is the given equation and what are we trying to solve for?\n2. Can you explain the process of converting the given expression to base ten? \n3. Why do we convert the expression to base ten? Are there any benefits or advantages to doing so?\n4. Can you identify any patterns or relationships within the equation after the conversion?\n5. How did you determine the coefficients of $\\Diamond$ on each side of the equation?\n6. How did you determine the coefficients of the constant terms on each side of the equation?\n7. How did you solve the equation to find the value of $\\Diamond$?\n8. Can you think of any other equations or numerical problems where similar steps and reasoning might be required?\n9. Is there any significance or meaning behind the solution value of $\\Diamond=3$ in this context?"
+}

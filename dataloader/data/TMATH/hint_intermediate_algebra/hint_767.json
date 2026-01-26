@@ -1,0 +1,7 @@
+{
+    "problem": "For what positive value of $n$ does $|3+ni|=3\\sqrt{10}$?",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "We know that $3\\sqrt{10}=|3+ni|=\\sqrt{3^2+n^2}$. Squaring both sides gives $90 = 9 +n^2$, from which we quickly get our solution of $n=\\boxed{9}$.",
+    "socratic_questions": "1. What is the given equation trying to solve for and what are the given values?\n2. How do we usually approach equations involving absolute values like this?\n3. What does $|3+ni|$ represent in terms of geometry on the complex plane?\n4. How can we use the given equation and our understanding of the complex plane to solve for $n$?\n5. Can we check our answer to make sure it is correct? How would we do that?\n6. What other types of complex number problems might involve the use of the absolute value or the complex plane?"
+}

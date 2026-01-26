@@ -1,0 +1,7 @@
+{
+    "problem": "If 52 cards are dealt to 8 people as evenly as possible, how many people will end up with fewer than 7 cards?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "When you divide 52 by 8, you get 6 with a remainder of 4.  Therefore, 4 of the people will get an extra card, bringing their total to 7, while the remaining $\\boxed{4}$ people have only 6 cards.",
+    "socratic_questions": "1. How many cards are there in a standard deck?\n2. How many people are there in total?\n3. If you divide the number of cards by the number of people, what is the quotient? What does this represent in terms of how many cards each person gets?\n4. What is the remainder when you divide the number of cards by the number of people? What does this represent?\n5. How many people will receive an extra card? How do you know?\n6. How many people will end up with fewer than 7 cards?"
+}

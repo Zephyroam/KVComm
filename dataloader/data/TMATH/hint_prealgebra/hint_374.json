@@ -1,0 +1,7 @@
+{
+    "problem": "Six balls, numbered 2, 3, 4, 5, 6, 7, are placed in a hat.  Each ball is equally likely to be chosen.  If one ball is chosen, what is the probability that the number on the selected ball is a prime number?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Of the numbers 2, 3, 4, 5, 6, 7, only the numbers 2, 3, 5, and 7 are prime.\n\nSince 4 out of the 6 numbers are prime, then the probability of choosing a ball with a prime number is $\\frac{4}{6} = \\boxed{\\frac{2}{3}}$.",
+    "socratic_questions": "1. What is the definition of a prime number?\n2. Can you identify the prime numbers among the numbers 2, 3, 4, 5, 6, and 7?\n3. How many prime numbers are in the given set?\n4. If one ball is chosen randomly, what is the total number of possible outcomes?\n5. How many of those outcomes would result in selecting a prime number?\n6. Can you express the probability of choosing a prime number as a fraction?\n7. Upon simplifying the fraction, what is the final probability of selecting a prime number?"
+}

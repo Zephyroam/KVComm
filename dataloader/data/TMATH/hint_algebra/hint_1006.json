@@ -1,0 +1,7 @@
+{
+    "problem": "Find the center of the circle with equation $x^2 - 6x + y^2 + 2y = 9$.",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "Completing the square, we get $(x - 3)^2 + (y + 1)^2 = 19$. Therefore, the center of the circle is $\\boxed{(3, -1)}$.",
+    "socratic_questions": "1. What is the center of a circle, and how is it represented in the equation of a circle?\n2. In the given equation, can you identify the terms that represent the center of the circle? \n3. How can we transform the given equation to a standard form to identify the center? \n4. What steps can we take to complete the square for both the x and y terms in order to express the given equation in standard form? \n5. Once the equation is in standard form, what are the x and y coordinates of the center of the circle? \n6. Can you explain why completing the square helps identify the center of the circle? \n7. Can you think of other equations of circles where a similar approach can be used to find the center?"
+}

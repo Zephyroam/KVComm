@@ -1,0 +1,7 @@
+{
+    "problem": "What is the greatest two-digit whole number, the product of whose digits is 8?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "$8=1\\cdot8=2\\cdot4$. Therefore, the only two-digit whole numbers the product of whose digits is $8$ are $18$, $81$, $24$, and $42$. The greatest is $\\boxed{81}$.",
+    "socratic_questions": "1. Can you explain what it means for a two-digit whole number to have a product of its digits equal to 8?\n2. How can we find the possible combinations of two-digit whole numbers whose digits multiply to 8?\n3. Can you list all the possible combinations of two-digit whole numbers whose digits multiply to 8?\n4. Based on the list, which of the numbers is the greatest?\n5. Why is 81 the greatest two-digit whole number with a product of its digits equal to 8?\n6. Can you think of any other similar problems where you need to find the greatest number with a specific property?"
+}

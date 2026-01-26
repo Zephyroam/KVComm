@@ -1,0 +1,7 @@
+{
+    "problem": "If $2^{x-3}=4^2$, find $x$.",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "Since $4=2^2$, we have that $4^2={2^2}^2=2^4$. We know that $2^{x-3}=4^2=2^4$, so $x-3=4$. Solving for $x$, we find that $x=4+3=\\boxed{7}$.",
+    "socratic_questions": "1. Can you rewrite $4^2$ using the base 2?\n2. What property or rule of exponents allows us to equate $2^{x-3}$ and $4^2$?\n3. How can we simplify or rewrite $4^2$ in terms of powers of 2?\n4. Based on the previous question, what can we say about the relationship between $x-3$ and $2$?\n5. What value of $x$ satisfies the equation $x-3=2$?\n6. Can you think of any other exponential equations that could be approached in a similar way?"
+}

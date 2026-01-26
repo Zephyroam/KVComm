@@ -1,0 +1,7 @@
+{
+    "problem": "What is the greatest common multiple of 8 and 12 that is less than 90?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Recall that the common multiples of a set of integers are precisely the multiples of the least common multiple of the set. In this case, the common multiples are integers of the form $24k$ (where $k$ is an integer), since 24 is the least common multiple of 8 and 12. Since $24(3)=72$ and $24(4)=96>90$, the greatest common multiple of 8 and 12 less than 90 is $\\boxed{72}$.",
+    "socratic_questions": "1. What is the definition of the greatest common multiple?\n2. How do we find the least common multiple (LCM) of two numbers?\n3. Can you determine the LCM of 8 and 12?\n4. What are the common multiples of 8 and 12?\n5. How can we determine the greatest common multiple of 8 and 12 from the common multiples?\n6. What is the significance of the greatest common multiple being less than 90?\n7. Can you calculate the greatest common multiple of 8 and 12 that is less than 90?"
+}

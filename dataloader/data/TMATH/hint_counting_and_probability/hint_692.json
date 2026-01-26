@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\dbinom{10}{5}$.",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "\\begin{align*}\n\\dbinom{10}{5} &= \\dfrac{10!}{5!5!} \\\\\n&= \\dfrac{10\\times9\\times 8\\times 7\\times 6}{5\\times 4\\times 3\\times 2\\times 1} \\\\\n&= \\dfrac{10}{5}\\times \\dfrac{9}{3} \\times \\dfrac{8}{4} \\times \\dfrac{7}{1} \\times \\dfrac{6}{2} \\\\\n&= 2\\times 3\\times 2\\times 7\\times 3 \\\\\n&= \\boxed{252}.\n\\end{align*}",
+    "socratic_questions": "1. Can you explain what the expression $\\binom{10}{5}$ represents in terms of counting and probability?\n2. How would you calculate $\\binom{10}{5}$ using the formula $\\binom{n}{k} = \\frac{n!}{k!(n-k)!}$? \n3. Can you break down $\\binom{10}{5}$ into smaller, simpler calculations? \n4. Why is the expression $\\binom{10}{5}$ equal to $\\frac{10}{5}\\times \\frac{9}{3}\\times \\frac{8}{4}\\times \\frac{7}{1}\\times \\frac{6}{2}$?\n5. How does cancelling out common factors in the numerator and denominator help simplify the expression $\\frac{10}{5}\\times \\frac{9}{3}\\times \\frac{8}{4}\\times \\frac{7}{1}\\times \\frac{6}{2}$?\n6. Can you think of any other situations where the combination formula could be used to solve a problem?"
+}

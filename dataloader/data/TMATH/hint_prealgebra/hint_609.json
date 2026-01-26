@@ -1,0 +1,7 @@
+{
+    "problem": "A triangle has a side of length 6 cm, a side of length 8 cm and a right angle. What is the shortest possible length of the remaining side of the triangle? Express your answer in centimeters as a decimal to the nearest hundredth.",
+    "level": "Level 5",
+    "type": "Prealgebra",
+    "solution": "The remaining side is minimized if it is a leg of the triangle rather than the hypotenuse.  Then its length is $\\sqrt{8^2 - 6^2} = 2\\sqrt 7\\approx \\boxed{5.29}$ cm.",
+    "socratic_questions": "1. What are the given lengths of the sides of the triangle?\n2. What is the relationship between the given sides of the triangle and the remaining side?\n3. How can we determine whether the remaining side should be a leg or the hypotenuse of the triangle?\n4. What is the formula we can use to find the length of the remaining side when it is a leg of a right triangle?\n5. How do we apply the formula to calculate the length of the remaining side in this specific scenario?\n6. Can we simplify the square root expression to get a decimal approximation for the length of the remaining side? If so, what is the decimal approximation?"
+}

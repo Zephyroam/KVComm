@@ -1,0 +1,7 @@
+{
+    "problem": "Express eleven in base 2.",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "We have $11=1\\cdot 2^3 + 0 \\cdot 2^2 + 1\\cdot 2^1 + 1\\cdot 2^0,$ so $11=\\boxed{1011_2}$.",
+    "socratic_questions": "1. Can you explain the concept of expressing a number in a different base system?\n2. How does base 2 differ from our usual decimal base system?\n3. What is the binary representation of the number 11 in base 2?\n4. Can you break down the process of converting 11 into base 2 step by step?\n5. How did you determine the coefficients for each power of 2 in the binary representation of 11?\n6. Are there any similarities or differences between expressing numbers in base 2 and base 10?\n7. Can you think of any other numbers that would be interesting to express in base 2? How would you go about doing that?\n8. Why do you think expressing numbers in different base systems is useful in number theory or computer science?"
+}

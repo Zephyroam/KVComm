@@ -1,0 +1,7 @@
+{
+    "problem": "Solve for $y$: $3y+7y = 282-8(y-3)$.",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "First, we distribute the $-8$ on the right side to obtain $282-8(y-3) = 282-8y+24 = 306-8y.$ Now, $3y + 7y = 10y$ so we now have $10y = 306-8y,$ which means that $18y = 306$ and we have $y = \\boxed{17}.$",
+    "socratic_questions": "1. How would you describe the first step in solving this equation?\n2. What method(s) do you know for solving equations like this one?\n3. If you choose to distribute the -8 on the right side, how would you properly distribute it?\n4. Why can we distribute the -8 in this equation? Is there a specific property or characteristic of the equation that allows for this step?\n5. Once you've distributed the -8 and simplified, what do you need to do next to isolate the variable?\n6. Can you think of other types of equations where a similar thought process and steps might be used to solve them?"
+}

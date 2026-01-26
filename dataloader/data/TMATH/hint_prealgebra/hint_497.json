@@ -1,0 +1,7 @@
+{
+    "problem": "Express as a common fraction in simplest form: $$\n\\sqrt{6\\frac{1}{4}}\n$$",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "As a common fraction, $6\\frac{1}{4}=\\frac{24}{4}+\\frac{1}{4}=\\frac{25}{4}$. Since exponents distribute across division (and the square root is an exponent of 1/2), we have $\\sqrt{6\\frac{1}{4}}=\\frac{\\sqrt{25}}{\\sqrt{4}}=\\boxed{\\frac{5}{2}}$.",
+    "socratic_questions": "1. What is the fraction equivalent of $6\\frac{1}{4}$?\n2. How can we simplify the square root of $\\frac{25}{4}$?\n3. Why does the exponent of 1/2 represent taking the square root?\n4. Can we simplify other square roots in the same way as we did for $\\sqrt{6\\frac{1}{4}}$?\n5. What is the significance of simplifying a radical expression into its simplest form?\n6. Are there any restrictions on the values that can be placed under a square root symbol?"
+}

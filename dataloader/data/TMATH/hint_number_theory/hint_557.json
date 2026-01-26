@@ -1,0 +1,7 @@
+{
+    "problem": "What is the units digit when $5^4$ is multiplied out?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "The units digit of any positive integer power of 5 is $\\boxed{5}$.\n\n(Note: this claim may be proved by induction, since the units digit of $5n$ is 5 whenever the units digit of $n$ is 5.)",
+    "socratic_questions": "1. What is the units digit of 5 when multiplied by itself once (i.e., $5^1$)?\n2. What is the pattern in the units digit of 5 when we multiply it by itself multiple times (e.g., $5^2$, $5^3$, $5^4$, etc.)?\n3. Can you generalize a rule for finding the units digit of any positive integer power of 5 based on the pattern observed?\n4. How can we prove this rule using mathematical induction?\n5. If the units digit of $5^4$ is the same as the units digit of $5^3$, what can we say about the relation between the units digit of $5^n$ and $5^{(n+1)}$?\n6. Are there any exceptions to this pattern? Can you think of any cases where the units digit does not follow the rule we observed?"
+}

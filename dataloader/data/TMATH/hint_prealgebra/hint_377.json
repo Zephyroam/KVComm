@@ -1,0 +1,7 @@
+{
+    "problem": "Three-fourths of the parrots on Bird Island are green, and the remainder are blue. If there are 92 parrots total on Bird Island, how many of those parrots are blue?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Since $\\dfrac{3}{4}$ of the parrots are green and the rest are blue, then $1-\\dfrac{3}{4} = \\dfrac{1}{4}$ of the parrots are blue. Since there are 92 parrots total, there must be $\\dfrac{1}{4}(92) = \\boxed{23}$ blue parrots.",
+    "socratic_questions": "1. Can you summarize the problem and identify what information is given?\n2. How can we represent the fraction of parrots that are blue?\n3. If three-fourths of the parrots are green, what fraction of the parrots are blue?\n4. How can we calculate the total number of blue parrots given the total number of parrots on Bird Island?\n5. Can you solve for the number of blue parrots using the given information?\n6. Is there another approach or method that can be used to solve this problem?\n7. How does the solution align with the initial problem statement?"
+}

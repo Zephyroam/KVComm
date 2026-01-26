@@ -1,0 +1,7 @@
+{
+    "problem": "What is the probability, expressed as a decimal, of drawing one marble which is either red or blue from a bag containing 3 red, 2 blue, and 5 yellow marbles?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "There are ten total marbles, and five are either red or blue. Thus, the probability is $\\frac{5}{10} = \\frac{1}{2},$ or $\\boxed{0.5}.$",
+    "socratic_questions": "1. Can you describe the problem and what is being asked for?\n2. What is the total number of marbles in the bag and how many of them are red, blue, and yellow respectively?\n3. What is the probability of drawing a red marble from the bag, based on the given information?\n4. What is the probability of drawing a blue marble from the bag, based on the given information?\n5. Can you explain the difference between mutually exclusive and non-mutually exclusive events in terms of probability? How does it relate to this problem?\n6. Is it possible to calculate the probability of drawing either a red or blue marble from the bag using the addition rule of probability? If so, what is the calculation? If not, why not?\n7. How does the probability of drawing a yellow marble from the bag relate to the probability of drawing either a red or blue marble? Is it necessary to consider the probability of drawing a yellow marble in this problem? \n8. Can you think of another probability problem that involves drawing objects from a bag or a set of items, and how can the techniques used in this problem be applied to solve it?"
+}

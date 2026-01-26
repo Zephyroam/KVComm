@@ -1,0 +1,7 @@
+{
+    "problem": "Find the integer $n$, $4 \\le n \\le 8$, such that \\[n \\equiv 7882 \\pmod{5}.\\]",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "We see that $7882 \\equiv 2 \\pmod{5}$.  The only integer $n$ such that $4 \\le n \\le 8$ and $n \\equiv 2 \\pmod{5}$ is $n = \\boxed{7}$.",
+    "socratic_questions": "1. What does it mean for an integer $n$ to be congruent to $7882$ modulo $5$?\n2. In this problem, what range of values are we considering for $n$?\n3. What does it mean for two numbers to be congruent modulo $5$?\n4. What do we know about the possible remainder when an integer is divided by $5$?\n5. How can we determine the remainder of $7882$ when divided by $5$?\n6. Based on the given information, what can we deduce about the value of $n$?\n7. What is the only integer between $4$ and $8$ that has a remainder of $2$ when divided by $5$?"
+}

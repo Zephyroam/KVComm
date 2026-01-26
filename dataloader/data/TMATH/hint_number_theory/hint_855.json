@@ -1,0 +1,7 @@
+{
+    "problem": "What is $3^{-1} + 3^{-2} \\pmod{25}$? Express your answer as an integer from $0$ to $24$, inclusive.",
+    "level": "Level 5",
+    "type": "Number Theory",
+    "solution": "If we first get a \"common denominator\" as if 3 and 9 represent real numbers rather than residues, we get $$\\frac 13 + \\frac 19 \\equiv \\frac{9 + 3}{27} \\equiv \\frac{12}{2} \\equiv \\boxed{6} \\pmod{25}.$$We can justify this as follows: let $a \\equiv 3^{-1} \\pmod{25}$ and $b \\equiv 9^{-1} \\pmod{25}$. Then $27a \\equiv 9 \\pmod{25}$ and $27b \\equiv 3 \\pmod{25}$. Summing these congruences shows that $27(a+b) \\equiv 2(a+b) \\equiv 9 + 3 \\equiv 12 \\pmod{25}$, so $a+b \\equiv 6 \\pmod{25}$, as desired.",
+    "socratic_questions": "1. What is the concept of modular arithmetic and how does it relate to this problem?\n2. How do we find the inverse of a number in modular arithmetic, and how does that apply to solving this problem?\n3. Why do we need to find a common denominator in this problem, and how does that help us simplify the expression?\n4. How do we apply the rules of modular arithmetic to simplify the expression after finding a common denominator?\n5. How does the process of simplifying this expression relate to solving other modular arithmetic problems involving inverses and common denominators?\n6. How do we know that our final answer is correct and how can we check our work?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "What is the remainder when the sum of the first five primes is divided by the sixth prime?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "The sum of the first five primes is $2+3+5+7+11=28$. Divide the sum by the next prime, 13, to get $28\\div13=2R2$. Thus the remainder is $\\boxed{2}$.",
+    "socratic_questions": "1. Can you explain what it means to find the remainder when dividing numbers?\n2. How would you approach finding the sum of the first five primes?\n3. Why do you think we need to divide the sum by the sixth prime?\n4. What do you think will happen if the sum is evenly divisible by the sixth prime?\n5. What is the sum of the first five primes? Can you calculate it?\n6. Can you write out the division process of the sum by the sixth prime?\n7. What is the quotient and remainder when the sum is divided by the sixth prime?\n8. Why is it important to focus on the remainder in this problem?\n9. Can you generalize this problem to finding the remainder when summing any set of numbers divided by a prime?\n10. Can you think of any other scenarios where finding the remainder might be useful?"
+}

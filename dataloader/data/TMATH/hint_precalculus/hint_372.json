@@ -1,0 +1,7 @@
+{
+    "problem": "If $\\det \\mathbf{A} = 2$ and $\\det \\mathbf{B} = 12,$ then find $\\det (\\mathbf{A} \\mathbf{B}).$",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "We have that $\\det (\\mathbf{A} \\mathbf{B}) = (\\det \\mathbf{A})(\\det \\mathbf{B}) = (2)(12) = \\boxed{24}.$",
+    "socratic_questions": "1. Can you define what the determinant of a matrix means? \n2. How can we calculate the determinant of a product of two matrices? \n3. What is the value of the determinant of matrix A if we know that it equals 2? \n4. Similarly, what is the value of the determinant of matrix B if we know that it is equal to 12? \n5. Based on what we know about the determinants of matrices A and B, can you predict what the determinant of their product will be? \n6. How can we calculate the determinant of the product of matrices A and B using the values we know for their determinants? \n7. Is it possible for the product of two matrices to have a determinant of 0? Why or why not? \n8. Can you provide an example of two matrices whose product would have a determinant of 1? \n9. How does understanding the determinant of a matrix help us solve problems in linear algebra? \n10. Can you think of any real world applications where knowing the determinant of a matrix would be important?"
+}

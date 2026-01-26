@@ -1,0 +1,7 @@
+{
+    "problem": "If $\\sec x + \\tan x = \\frac{5}{2},$ then find $\\sec x - \\tan x.$",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "Note that\n\\begin{align*}\n(\\sec x + \\tan x)(\\sec x - \\tan x) &= \\sec^2 x - \\tan^2 x \\\\\n&= \\frac{1}{\\cos^2 x} - \\frac{\\sin^2 x}{\\cos^2 x} \\\\\n&= \\frac{1 - \\sin^2 x}{\\cos^2 x} = \\frac{\\cos^2 x}{\\cos^2 x} = 1.\n\\end{align*}Therefore, $\\sec x - \\tan x = \\boxed{\\frac{2}{5}}.$",
+    "socratic_questions": "1. What is the given equation and what are we asked to find?\n2. In what form should we express the value of $\\sec x - \\tan x$ in order to use the given information?\n3. How can we use the identity $(\\sec x + \\tan x)(\\sec x - \\tan x) = 1$ to solve the problem?\n4. What is the value of $\\sec x + \\tan x$ given in the problem, and how can we use it to find the value of $\\sec x - \\tan x$?\n5. Can we use any other trigonometric identities or concepts to check our answer or further understand the problem?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Find all values of $b$ such that $b+\\lceil b\\rceil=17.8$.",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "First, $b$ must be positive since $b+\\lceil b\\rceil$ has a positive solution. Because $\\lceil b\\rceil$ must be an integer, $0.8$ must be the decimal component of $b$. Therefore, $b$ can be rewritten as $a+0.8$. $\\lceil b\\rceil$ must then equal $a+1$. The original equation is then as follows: \\begin{align*}\nb+\\lceil b\\rceil&=17.8\\\\\na+0.8+a+1&=17.8\\\\\n2a+1.8&=17.8\\\\\n2a&=16\\\\\na&=8\n\\end{align*}Therefore, $b=a+0.8=\\boxed{8.8}$.",
+    "socratic_questions": "1. Can you explain what the equation $b + \\lceil b\\rceil = 17.8$ means and what it represents in real-world terms?\n2. What does the symbol $\\lceil b\\rceil$ represent? How does it affect the equation?\n3. What are the possible values of $\\lceil b\\rceil$? How does that limit the range of possible values for $b$?\n4. If $b$ is an integer, what can you conclude about the value of $\\lceil b\\rceil$ and how it affects the equation?\n5. How does the decimal part of $17.8$ affect the possible values of $b$? Is there any restriction on the range of values?\n6. Can you think of any other equations that involve the ceiling function and require similar reasoning and steps to solve?"
+}

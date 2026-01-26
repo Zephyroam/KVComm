@@ -1,0 +1,7 @@
+{
+    "problem": "Find $\\begin{pmatrix} 3 \\\\ -7 \\end{pmatrix} + \\begin{pmatrix} -6 \\\\ 11 \\end{pmatrix}.$",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "We have that\n\\[\\begin{pmatrix} 3 \\\\ -7 \\end{pmatrix} + \\begin{pmatrix} -6 \\\\ 11 \\end{pmatrix} = \\begin{pmatrix} 3 + (-6) \\\\ (-7) + 11 \\end{pmatrix} = \\boxed{\\begin{pmatrix} -3 \\\\ 4 \\end{pmatrix}}.\\]",
+    "socratic_questions": "1. What is the first step in performing vector addition?\n2. Can you explain the rules and properties of vector addition?\n3. How would you determine the sum of the x-components of the two given vectors?\n4. What about the sum of the y-components?\n5. What is the significance of adding the x-components separately and the y-components separately?\n6. Can you think of any real-life scenarios where vector addition is applicable?\n7. Are there any alternative methods to calculate the sum of two vectors? If so, what are they and how do they compare to the method shown here?\n8. Can you generalize the process of vector addition for vectors of different dimensions? If so, explain how."
+}

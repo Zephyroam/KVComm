@@ -1,0 +1,7 @@
+{
+    "problem": "Find the largest prime factor of $15^3+10^4-5^5$.",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "The greatest common divisor of the three terms is $5^3$. Factoring $5^3$ out of each term and using the distributive property gives: \\begin{align*}\n15^3+10^4-5^5 &= 5^3\\cdot3^3 + 5^3\\cdot5\\cdot2^4-5^3\\cdot5^2 \\\\\n&= 5^3(3^3+5\\cdot2^4-5^2)\\\\\n& = 5^3(27+80-25) \\\\\n&= 5^3(82)=2\\cdot5^3\\cdot41.\n\\end{align*}So the largest prime factor is $\\boxed{41}$.",
+    "socratic_questions": "1. How can we find the largest prime factor of a given number?\n2. What is the process for factoring a number?\n3. Can we factor out common factors before finding the largest prime factor? Why or why not?\n4. Can we use divisibility rules to determine potential prime factors of the given number?\n5. How does the prime factorization of a number help us find its largest prime factor?\n6. Can we use the Sieve of Eratosthenes to find prime factors of the given number? If so, how?"
+}

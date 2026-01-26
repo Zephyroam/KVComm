@@ -1,0 +1,7 @@
+{
+    "problem": "What is the least four-digit whole number that is both a perfect square and a perfect cube?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "Let $n$ be the least four-digit whole number that is both a perfect square and a perfect cube.  In order for a number to be a perfect cube and a perfect square, it must be a perfect sixth power. Now we choose the smallest $a$ such that $n$ is four-digit: $2^6=64$, $3^6=729$, $4^6=4096$. Thus, $n=\\boxed{4096}$.",
+    "socratic_questions": "1. Can you explain what it means for a number to be both a perfect square and a perfect cube?\n2. What characteristics should the number have in order to be a perfect sixth power?\n3. How can we find the least four-digit number that is a perfect sixth power?\n4. Can you identify the smallest possible values for the base that would yield a four-digit number when raised to the power of 6?\n5. What are the possible values of the base that would yield a four-digit number when raised to the power of 6?\n6. Among those possible values, which is the smallest four-digit number that can be formed by raising a number to the power of 6?"
+}

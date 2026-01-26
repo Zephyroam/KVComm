@@ -1,0 +1,7 @@
+{
+    "problem": "How many positive divisors do 8400 and 7560 have in common?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "$$ \\text{gcd}(7560, 8400) = 840 = 2^3 \\cdot 3^1 \\cdot 5^1 \\cdot 7^1 $$The common divisors of 7560 and 8400 are the divisors of their GCD: $$ t(840) = (3+1)(1+1)(1+1)(1+1) = \\boxed{32}. $$",
+    "socratic_questions": "1. Can you explain what the greatest common divisor (GCD) is and its significance in finding common divisors?\n2. What do you understand by the phrase \"positive divisors\"?\n3. Based on the prime factorization of 7560 and 8400, can you determine their GCD?\n4. How many different prime factors are there in the prime factorization of the GCD?\n5. How many possible combinations of these prime factors can you form to find the divisors of the GCD?\n6. For each combination, can you explain how to calculate the corresponding divisor?\n7. How many possible divisors exist for each prime factor combination? Can you explain why?\n8. Can you list all the divisors of the GCD?\n9. How can you determine which of these divisors are common divisors of 7560 and 8400?\n10. Can you calculate the number of positive divisors these numbers have in common based on our findings?"
+}

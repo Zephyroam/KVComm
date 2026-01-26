@@ -1,0 +1,7 @@
+{
+    "problem": "A bag of grapes is to be distributed evenly to 5 kids in a class, and the grapes that are left over will be thrown out. If each student receives the greatest possible number of grapes, what is the greatest possible number of grapes that could be thrown out?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "If we have at least $5$ grapes left, we can give each student one more, so they do not have the greatest possible number.  On the other hand, if we have $4$ grapes left, we cannot give out any more without leaving out at least one student.  So $\\boxed{4}$ grapes is the maximum that we throw out.",
+    "socratic_questions": "1. What is the problem asking for?\n2. Is there a specific formula or method that we can use to solve this problem?\n3. If we give each student the greatest possible number of grapes, how many grapes will each student receive?\n4. Are there any remaining grapes after distributing the grapes equally among the students?\n5. If there are remaining grapes, can we give them out in a way that each student still gets the same number and no grapes are wasted?\n6. What happens if we cannot distribute the remaining grapes equally among the students without any waste?\n7. What is the maximum number of grapes that can be thrown out?"
+}

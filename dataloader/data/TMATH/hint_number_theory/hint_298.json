@@ -1,0 +1,7 @@
+{
+    "problem": "Find the units digit of the sum, $$ 1! + 2! + 3! + \\cdots + 2006!. $$",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "Since the units digits of $n!$ is always 0 when $n$ is an integer greater than 4, we just sum the first few factorials to get our answer: $1 + 2 + 6 + 24 = 33$, so $\\boxed{3}$ is the units digit.",
+    "socratic_questions": "1. Can you explain what the units digit of a number refers to?\n2. What is the units digit of 1 factorial? How about 2 factorial? Can you generalize the units digit pattern for factorials?\n3. What is the units digit of the sum $1! + 2!$? Can you explain why?\n4. How would you find the units digit of the sum $1! + 2! + 3!$? Can you see a pattern emerging?\n5. Can you find the units digit of the sum $1! + 2! + 3! + 4!$? Can you generalize the pattern you observed?\n6. What is the units digit of $2006!$? Can you explain why it has this units digit?\n7. How would you find the units digit of the sum $1! + 2! + 3! + \\cdots + 2006!$? Can you apply the pattern you have observed to simplify this sum?\n8. What is the units digit of the simplified sum? Can you explain why this is the units digit of the original sum?\n9. Can you think of other similar sums involving factorials where finding the units digit might be useful?"
+}

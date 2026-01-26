@@ -1,0 +1,7 @@
+{
+    "problem": "Lark has forgotten her locker combination. It is a sequence of three numbers, each in the range from 1 to 30, inclusive. She knows that the first number is odd, the second number is even, and the third number is a multiple of 3. How many combinations could possibly be Lark's?",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "There are 15 odd numbers, 15 even numbers, and 10 multiples of 3, making for $15^2\\cdot 10 = 225 \\cdot 10 = \\boxed{2250}$ combinations total.",
+    "socratic_questions": "1. What is the range of numbers for each of the three digits in Lark's locker combination?\n2. How many odd numbers are there in the given range of numbers?\n3. How many even numbers are there in the given range of numbers?\n4. How many multiples of 3 are there in the given range of numbers? \n5. What is the formula to calculate the total number of combinations when there are different options for each digit?\n6. Using the formula, calculate the total number of combinations for Lark's locker combination.\n7. What is the final answer for the total number of possible combinations for Lark's locker combination?"
+}

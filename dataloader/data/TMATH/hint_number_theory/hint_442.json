@@ -1,0 +1,7 @@
+{
+    "problem": "What is the 100th letter in the pattern ABCABCABC...?",
+    "level": "Level 1",
+    "type": "Number Theory",
+    "solution": "Since $100=33\\cdot3+1$, the first $100$ letters are $33$ copies of the $3$ letters $ABC$ followed by an $A$.  The $100$th letter is $\\boxed{A}$.",
+    "socratic_questions": "1. How would you describe the pattern in this sequence of letters?\n2. Can you determine any regularity or repetition within the pattern?\n3. How many copies of the letters \"ABC\" are there before the 100th letter?\n4. What is the significance of the number 33 in determining the number of copies of \"ABC\"?\n5. Why is there an \"A\" after the 33rd repetition of \"ABC\"?\n6. How did you arrive at the conclusion that the 100th letter is \"A\"?\n7. Are there any other patterns or sequences that you can think of that follow a similar structure?"
+}

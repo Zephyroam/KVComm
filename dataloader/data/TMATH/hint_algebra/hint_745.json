@@ -1,0 +1,7 @@
+{
+    "problem": "What is the sum of $1+2+4+8+16+ \\cdots + 1024$?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "This is a finite geometric series with first term 1, common ratio 2 and 11 terms. Thus the sum is: $$\\frac{1(1-2^{11})}{1-2} = \\frac{1-2^{11}}{-1} = 2^{11}-1 = 2048-1 = \\boxed{2047}.$$",
+    "socratic_questions": "1. How would you describe the sequence given in the problem? \n2. Can you identify any patterns or relationships within this sequence? \n3. What is the value of the first term in the sequence? \n4. How can you find the common ratio between consecutive terms in the sequence? \n5. How does the common ratio help you determine the value of the final term in the sequence? \n6. How can you use the formula for the sum of a geometric sequence to find the sum of this sequence? \n7. What is the formula for the sum of a geometric sequence? \n8. How can you apply the formula to calculate the sum of the given sequence? \n9. Can you simplify the formula and use it to find the sum more efficiently? \n10. What is the sum of the given sequence? \n11. Can you think of any other sequences or series where similar patterns and steps could be applied?"
+}

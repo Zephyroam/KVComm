@@ -1,0 +1,7 @@
+{
+    "problem": "When a water tank is $30\\%$ full, it contains 27 gallons less than when it is $20\\%$ empty. How many gallons of water does the tank hold when it is full?",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "$20\\%$ empty is the same thing as $80\\%$ full.  Thus, 27 gallons represents the difference between $80\\%$ and $30\\%$ of the tank, meaning that 27 gallons is $50\\%$ of the tank.  Since half the tank is 27 gallons, the entire tank can hold $\\boxed{54\\text{ gallons}}$.",
+    "socratic_questions": "1. Can you restate the problem in your own words to ensure you understand it correctly?\n2. How can we represent the tank's capacity when it is 30% full and 20% empty?\n3. What is the difference in gallons between these two states of the tank?\n4. If 27 gallons represents 50% of the tank, what does 100% of the tank represent?\n5. Can you explain why 20% empty is the same as 80% full?\n6. How can you determine the number of gallons in 80% of the tank?\n7. If 80% of the tank holds 27 gallons, how can we find the capacity of the entire tank?\n8. Can you think of any similar problems where the same type of thinking and steps would be useful?"
+}

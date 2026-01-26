@@ -1,0 +1,7 @@
+{
+    "problem": "Find the center of the hyperbola $4x^2 - 24x - 25y^2 + 250y - 489 = 0.$",
+    "level": "Level 1",
+    "type": "Intermediate Algebra",
+    "solution": "Completing the square in $x$ and $y,$ we get\n\\[4(x - 3)^2 - 25(y - 5)^2 + 100 = 0.\\]Then\n\\[\\frac{(y - 5)^2}{4} - \\frac{(x - 3)^2}{25} = 1,\\]so the center of the hyperbola is $\\boxed{(3,5)}.$",
+    "socratic_questions": "1. What is the equation of the given hyperbola?\n2. Can you explain how to complete the square in $x$ and $y$ and rewrite the equation in standard form?\n3. What is the significance of the coefficients in the standard form of the equation of a hyperbola? \n4. How can you determine the vertices and foci of the hyperbola using the standard form equation? \n5. What is the relationship between the distance between the foci and the length of the transverse axis of the hyperbola? \n6. How can you use the equation of a hyperbola to graph it and determine its shape and orientation? \n7. Can you think of any real-life applications of hyperbolas in mathematics or physics?"
+}

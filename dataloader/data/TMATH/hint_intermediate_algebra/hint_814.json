@@ -1,0 +1,7 @@
+{
+    "problem": "If $\\left( r + \\frac{1}{r} \\right)^2 = 3,$ then find $r^3 + \\frac{1}{r^3}.$",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "Expanding, we get $r^2 + 2 + \\frac{1}{r^2} = 3,$ so\n\\[r^2 - 1 + \\frac{1}{r^2} = 0.\\]Then\n\\[r^3 + \\frac{1}{r^3} = \\left( r + \\frac{1}{r} \\right) \\left( r^2 - 1 + \\frac{1}{r^2} \\right) = \\boxed{0}.\\]",
+    "socratic_questions": "1. What is the first step in solving the equation $\\left( r + \\frac{1}{r} \\right)^2 = 3$? \n2. Can we use other methods to solve this equation? If so, what are they? \n3. How can we simplify the given equation to help find the value of $r$? \n4. What can be inferred about the relationship between $r$ and $\\frac{1}{r}$ from the given equation? \n5. How can we use the relationship between $r$ and $\\frac{1}{r}$ to find $r^3 + \\frac{1}{r^3}$? \n6. What is the final result of $r^3 + \\frac{1}{r^3}$ and how does it relate to the original equation? \n7. Are there any other types of equations where we can use similar reasoning and steps to solve them? If so, what are they?"
+}

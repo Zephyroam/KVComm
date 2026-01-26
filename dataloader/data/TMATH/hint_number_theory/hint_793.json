@@ -1,0 +1,7 @@
+{
+    "problem": "If $a,b,c$ are integers from the set of positive integers less than $7$ such that \\begin{align*}\nabc&\\equiv 1\\pmod 7,\\\\\n5c&\\equiv 2\\pmod 7,\\\\\n6b&\\equiv 3+b\\pmod 7,\n\\end{align*}then what is the remainder when $a+b+c$ is divided by $7$?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "From the second given congruence, we have $$c\\equiv 3\\cdot 5c\\equiv 3\\cdot 2\\equiv 6\\pmod 7.$$From the third given congruence, we have $$5b\\equiv 3\\pmod 7$$$$\\implies b\\equiv 3\\cdot 5b\\equiv 3\\cdot 3\\equiv 2\\pmod 7.$$Then, from the first given congruence, we have $$1\\equiv abc a\\cdot 6\\cdot 2\\equiv 12a\\equiv 5a\\pmod 7$$$$\\implies a\\equiv 3\\cdot 5a\\equiv 3\\cdot 1\\equiv 3\\pmod 7.$$Thus, $$a+b+c\\equiv 3+2+6\\equiv \\boxed{4}\\pmod 7.$$",
+    "socratic_questions": "1. Can you explain what the given congruences mean in this problem?\n2. How did you use the second congruence to find the value of c?\n3. What was your strategy for solving the third congruence and finding the value of b?\n4. How did you apply the first congruence to determine the value of a?\n5. Why is it important to find the remainders of a, b, and c when divided by 7 in this problem?\n6. If the given congruences had different moduli, how would that affect the solution approach?\n7. Can you think of other similar problems that involve solving a system of congruences?\n8. How does the concept of remainders help in solving modular equations?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Find the inverse of the matrix\n\\[\\begin{pmatrix} 2 & 3 \\\\ -1 & 7 \\end{pmatrix}.\\]If the inverse does not exist, then enter the zero matrix.",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "From the formula,\n\\[\\begin{pmatrix} 2 & 3 \\\\ -1 & 7 \\end{pmatrix}^{-1} = \\frac{1}{(2)(7) - (3)(-1)} \\begin{pmatrix} 7 & -3 \\\\ 1 & 2 \\end{pmatrix} = \\boxed{\\begin{pmatrix} 7/17 & -3/17 \\\\ 1/17 & 2/17 \\end{pmatrix}}.\\]",
+    "socratic_questions": "1. What is a matrix and how is it represented?\n2. How is the inverse of a matrix defined and what is its significance?\n3. Is it always possible to find the inverse of a matrix? If not, why?\n4. What steps can we take to determine if the given matrix has an inverse?\n5. If the inverse exists, can we find it using the formula given?\n6. How do we interpret the entries of the inverse matrix?\n7. Can you think of a real-world application where finding the inverse of a matrix would be useful?\n8. Can you solve a system of linear equations using the inverse matrix method? If so, how?"
+}

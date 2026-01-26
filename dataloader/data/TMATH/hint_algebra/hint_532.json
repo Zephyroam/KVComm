@@ -1,0 +1,7 @@
+{
+    "problem": "What is the discriminant of $3x^2 - 7x - 12$?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "We simply plug into $b^2 - 4ac = (-7)^2 - 4(3)(-12) = 49 + 144 = \\boxed{193},$ and that is our answer.",
+    "socratic_questions": "1. Can you explain what the discriminant is in the context of quadratic equations?\n2. What formula can we use to calculate the discriminant?\n3. Using the given equation, what would be the coefficients for the formula of the discriminant?\n4. Can you substitute the values into the formula and calculate the discriminant?\n5. What information does the value of the discriminant provide about the quadratic equation?\n6. How can we interpret the value of the discriminant in terms of the solutions of the quadratic equation?\n7. Are there any special cases or conditions related to the discriminant that we need to consider?\n8. Can you identify any other quadratic equations and determine the discriminant for each of them?\n9. How can the discriminant help us determine the nature or type of solutions a quadratic equation might have?\n10. Can you connect the concept of the discriminant to any real-life applications or examples?"
+}

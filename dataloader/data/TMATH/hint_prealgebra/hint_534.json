@@ -1,0 +1,7 @@
+{
+    "problem": "The greatest common divisor of 21 and some number between 50 and 60 is 7. What is the number?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "If the greatest common divisor with 21 is 7, then the other number must be a multiple of 7. The only multiple of 7 between 50 and 60 is $\\boxed{56}$, so that is our answer.",
+    "socratic_questions": "1. What is the definition of greatest common divisor (GCD)? \n2. Can you determine the GCD of 21 and a number between 50 and 60? \n3. How do you know that the number must be a multiple of 7? \n4. Can you explain why 56 is the only multiple of 7 between 50 and 60? \n5. How can you verify that 56 is in fact the correct answer to the problem? \n6. Can you think of other problems that involve finding the GCD of two numbers and apply similar techniques to solve them?"
+}

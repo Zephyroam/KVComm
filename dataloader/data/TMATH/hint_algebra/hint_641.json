@@ -1,0 +1,7 @@
+{
+    "problem": "Suppose that $f(x)=\\frac{1}{2x+b}$. For what value of $b$ does $f^{-1}(x)=\\frac{1-2x}{2x}$?",
+    "level": "Level 5",
+    "type": "Algebra",
+    "solution": "Substituting $f(x)$ into the equation $f^{-1}(x) = \\frac{1 - 2x}{2x}$, and noting that $f^{-1}(f(x)) = x$ for all $x$ in the domain of $f$, we get \\[x = \\frac{1 - 2f(x)}{2f(x)}.\\] Solving for $f(x)$, we get \\[f(x) = \\frac{1}{2x + 2}.\\] Therefore, $b = \\boxed{2}$.",
+    "socratic_questions": "1. What is the first step you should take when finding the inverse of a function?\n2. Can you recall any specific methods or techniques to find the inverse of a function?\n3. If you choose to use the substitution method, how would you proceed to find the inverse in this case?\n4. What does it mean for two functions to be inverses of each other? How can you use this information to find the value of $b$ in the given problem?\n5. What is the inverse function $f^{-1}(x)$ in this case? Can you explain how you arrived at this result?\n6. Can you think of any other types of functions where finding the inverse might require similar reasoning and steps?"
+}

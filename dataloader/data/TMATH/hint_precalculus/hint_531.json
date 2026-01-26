@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\begin{pmatrix} 2 & 3 \\\\ 7 & -1 \\end{pmatrix} \\begin{pmatrix} 1 & -5 \\\\ 0 & 4 \\end{pmatrix}.$",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "We have that\n\\[\\begin{pmatrix} 2 & 3 \\\\ 7 & -1 \\end{pmatrix} \\begin{pmatrix} 1 & -5 \\\\ 0 & 4 \\end{pmatrix} = \\begin{pmatrix} (2)(1) + (3)(0) & (2)(-5) + (3)(4) \\\\ (7)(1) + (-1)(0) & (7)(-5) + (-1)(4) \\end{pmatrix} = \\boxed{\\begin{pmatrix} 2 & 2 \\\\ 7 & -39 \\end{pmatrix}}.\\]",
+    "socratic_questions": "1. What is the first step in computing the given matrix multiplication?\n2. Can you explain the process of multiplying these matrices using the row-column method?\n3. How did you determine the entries in the resulting matrix by multiplying the corresponding entries in the original matrices?\n4. Are there any rules or properties of matrix multiplication that you used in this computation? If so, what are they?\n5. Are there any patterns or relationships between the entries of the original matrices and the resulting matrix that you observe?\n6. Can you think of any other matrix multiplication examples that might require similar thinking and steps to solve?"
+}

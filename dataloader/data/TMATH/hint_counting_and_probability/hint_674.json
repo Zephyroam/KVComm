@@ -1,0 +1,7 @@
+{
+    "problem": "Crestview's school colors are purple and gold. The students are designing a flag using three solid-colored horizontal stripes, as shown. Using one or both of the school colors, how many different flags are possible if adjacent stripes may be the same color?\n\n[asy]\nsize(75);\ndraw((0,0)--(0,12));\ndot((0,12));\ndraw((0,12)--(8,12)--(8,11)--(0,11));\ndraw((8,11)--(8,9)--(0,9));\ndraw((8,9)--(8,6)--(0,6));\n[/asy]",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "There are two possible colors for the first stripe, two possible colors for the second stripe, and two possible colors for the third stripe. Since the colors of each stripe are mutually exclusive, there are $2\\times 2 \\times 2 = \\boxed{8}$ ways to color the flag.",
+    "socratic_questions": "1. How many school colors are there?\n2. How many stripes are there on the flag?\n3. How many different colors can be used for each stripe?\n4. Can adjacent stripes have the same color?\n5. How many different ways can the first stripe be colored?\n6. How many different ways can the second stripe be colored?\n7. How many different ways can the third stripe be colored?\n8. How can we determine the total number of different flags possible?\n9. What is the final answer, and how did you arrive at it?\n10. Can you think of any other scenarios where similar thinking and steps might be applied?"
+}

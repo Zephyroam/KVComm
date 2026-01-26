@@ -1,0 +1,7 @@
+{
+    "problem": "In how many ways can Michael choose 3 out of 8 math classes to take?",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "Michael can choose in $\\binom{8}{3}=\\boxed{56}$ ways.",
+    "socratic_questions": "1. Can you explain what \"choosing 3 out of 8 math classes\" means in this problem?\n2. How would you simplify the expression $\\binom{8}{3}$? What does this notation represent?\n3. Can you think of a real-life situation where this combination formula might be applicable?\n4. What does the value of $\\binom{8}{3}=56$ represent in this context?\n5. Can you explain why we use the combination formula instead of other counting methods in this problem?\n6. How would the answer change if Michael could only choose 2 or 4 math classes instead of 3?"
+}

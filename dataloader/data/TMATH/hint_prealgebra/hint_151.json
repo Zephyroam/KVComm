@@ -1,0 +1,7 @@
+{
+    "problem": "A gift shop offers free gift wrapping. They have eight varieties of wrapping paper, three colors of ribbon, and four types of gift cards. Using one variety of wrapping paper, one color of ribbon and one type of gift card, how many combinations are possible?",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "There are $8\\times 3\\times 4=\\boxed{96}$ ways to make three decisions if there are 8, 3, and 4 options available for the decisions.",
+    "socratic_questions": "1. How many different decisions do we need to make in this problem?\n2. What are the different options available for each decision?\n3. If we want to choose one variety of wrapping paper, how many options do we have?\n4. If we want to choose one color of ribbon, how many options do we have?\n5. If we want to choose one type of gift card, how many options do we have?\n6. How can we determine the total number of combinations possible when making these three decisions?\n7. Can we use any mathematical principle or strategy to calculate the total number of combinations?\n8. Can we multiply the number of options for each decision together to find the total number of combinations? Why or why not?\n9. Can you explain the reasoning behind using multiplication in this problem?\n10. Is there any other approach or formula that we can use to solve this problem?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "A line containing the points $(9, 1)$ and $(5, 5)$ intersects the $x$ -axis at what point?",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "The $x$-axis has equation $y = 0$.  Thus we need to find out what $x$ is when $y = 0$.  We notice that the slope of the line is $\\frac{9 - 5}{1 - 5} = -1$.  So to get to $y = 1$ we can start at $(9, 1)$ and go down one in the $y$ direction.  Since the slope of the line is $-1$ we know that going down in $y$ by one results in going up in $x$ by one (i.e. $x$ will be 10).  Thus the line intercepts the $x$-axis at $\\boxed{(10, 0)}$.",
+    "socratic_questions": "1. Can you identify the equation of the line passing through the points (9, 1) and (5, 5)?\n2. How would you find the point where this line intersects the x-axis?\n3. What does it mean for a point to lie on the x-axis? How can this information help us solve the problem?\n4. Can you determine the x-coordinate of the point of intersection by considering the equation of the line?\n5. Are there any specific properties or characteristics of the x-axis that can assist in finding the point of intersection?\n6. Can you think of any other scenarios where you might need to find the point of intersection between a line and the x-axis? How would this line be defined in those cases?"
+}

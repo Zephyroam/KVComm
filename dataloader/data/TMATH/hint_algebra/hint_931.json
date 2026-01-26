@@ -1,0 +1,7 @@
+{
+    "problem": "What is the sum of the integers from $-30$ to $50$, inclusive?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "The sum of the integers from $-30$ to 30 is zero, so we need to find only the sum of the integers from 31 to 50.\n\nThe sum of an arithmetic series is equal to the average of the first and last term, multiplied by the number of terms.  The number of integers from 31 to 50 is $50 - 31 + 1 = 20$, so the sum is $(31 + 50)/2 \\cdot 20 = \\boxed{810}$.",
+    "socratic_questions": "1. How would you approach finding the sum of these integers?\n2. Can you think of any shortcuts or formulas that could help in this situation?\n3. What are some strategies you could use to make the calculation process more efficient?\n4. Are there any patterns or relationships you notice among the integers from -30 to 50?\n5. How could you verify the accuracy of your calculation?\n6. Can you think of any other scenarios where finding the sum of a sequence of integers would be useful, and how would you approach solving them?"
+}

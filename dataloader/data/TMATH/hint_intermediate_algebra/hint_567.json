@@ -1,0 +1,7 @@
+{
+    "problem": "What is the value of $a^3 + b^3$ given that $a+b=10$ and $ab=17$?",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "We realize that $a^3+b^3$ is the sum of two cubes and thus can be expressed as $(a+b)(a^2-ab+b^2)$. From this, we have  \\begin{align*}\na^3 + b^3 & = (a+b)(a^2-ab+b^2) \\\\\n& = (a+b)((a^2+2ab+b^2)-3ab) \\\\\n& = (a+b)((a+b)^2-3ab)\n\\end{align*}Now, since $a+b=10$ and $ab=17$, we have $$a^3+b^3= (a+b)((a+b)^2-3ab)=10\\cdot(10^2-3\\cdot17)=10\\cdot49=\\boxed{490}.$$",
+    "socratic_questions": "1. Can you describe the first step in solving the equation $a^3 + b^3$ given that $a+b=10$ and $ab=17$?\n2. How can you rewrite $a^3 + b^3$ using the sum of cubes formula?\n3. What is the value of $(a+b)^2$ given that $a+b=10$?\n4. How can you find the value of $ab$ in terms of $a$ and $b$ using the given information?\n5. What is the expression for $a^3 + b^3$ in terms of $a+b$ and $ab$ using the sum of cubes formula?\n6. Can you simplify the expression $10(10^2-3\\cdot17)$? \n7. What is the final value of $a^3 + b^3$?"
+}

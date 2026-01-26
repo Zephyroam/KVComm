@@ -1,0 +1,7 @@
+{
+    "problem": "If $\\tan x = 2,$ then find $\\tan \\left( x + \\frac{\\pi}{4} \\right).$",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "From the angle addition formula,\n\\begin{align*}\n\\tan \\left( x + \\frac{\\pi}{4} \\right) &= \\frac{\\tan x + \\tan \\frac{\\pi}{4}}{1 - \\tan x \\tan \\frac{\\pi}{4}} \\\\\n&= \\frac{1 + 2}{1 - 2 \\cdot 1} \\\\\n&= \\boxed{-3}.\n\\end{align*}",
+    "socratic_questions": "1. What is the given information in the problem?\n2. What is the desired value we are trying to find?\n3. Can you explain the concept of the angle addition formula?\n4. How can we use the angle addition formula to find the value of $\\tan \\left( x + \\frac{\\pi}{4} \\right)$?\n5. Can you simplify the expression $\\frac{\\tan x + \\tan \\frac{\\pi}{4}}{1 - \\tan x \\tan \\frac{\\pi}{4}}$ and explain why this step is necessary?\n6. How did you substitute $\\tan x = 2$ into the expression?\n7. Can you evaluate the resulting expression using the given values?\n8. What is the final value of $\\tan \\left( x + \\frac{\\pi}{4} \\right)$?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "What is the base five product of the numbers $121_{5}$ and $11_{5}$?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "Notice that $121_5 \\times 11_5 = 121_5 \\times (10_5 + 1_5) = 1210_5 + 121_5 = \\boxed{1331}_5$.",
+    "socratic_questions": "1. Can you describe the first step in calculating the base five product of these numbers?\n2. Are you familiar with the concept of base five multiplication? How does it differ from base ten multiplication?\n3. If we break down the multiplication in this problem, what are the factors involved?\n4. Why do we add a zero in the multiplication? Why is it necessary?\n5. How do we combine the partial products to obtain the final result in base five?\n6. Can you think of other examples where base five multiplication could be used? What similarities and differences can you identify?"
+}

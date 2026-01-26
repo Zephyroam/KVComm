@@ -1,0 +1,7 @@
+{
+    "problem": "Let $x,$ $y,$ and $z$ be positive real numbers such that $x + y + z = 6.$  Find the minimum value of\n\\[\\frac{x^2 + y^2}{x + y} + \\frac{x^2 + z^2}{x + z} + \\frac{y^2 + z^2}{y + z}.\\]",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "By QM-AM,\n\\[\\sqrt{\\frac{x^2 + y^2}{2}} \\ge \\frac{x + y}{2}.\\]Then\n\\[\\frac{x^2 + y^2}{2} \\ge \\left( \\frac{x +  y}{2} \\right)^2,\\]which we can re-arrange as\n\\[\\frac{x^2 + y^2}{x + y} \\ge \\frac{x + y}{2}.\\]Similarly,\n\\begin{align*}\n\\frac{x^2 + y^2}{x + y} &\\ge \\frac{x + y}{2}, \\\\\n\\frac{y^2 + z^2}{y + z} &\\ge \\frac{y + z}{2}.\n\\end{align*}Therefore,\n\\[\\frac{x^2 + y^2}{x + y} + \\frac{x^2 + z^2}{x + z} + \\frac{y^2 + z^2}{y + z} \\ge \\frac{x + y}{2} + \\frac{x + z}{2} + \\frac{y + z}{2} = x + y + z = 6.\\]Equality occurs when $x = y = z = 2,$ so the minimum value is $\\boxed{6}.$",
+    "socratic_questions": "1. What is the QM-AM inequality and how is it used in this problem?\n2. How does the re-arrangement inequality help us in this problem?\n3. What is the significance of the equality case in this problem?\n4. Can we use other inequalities or methods to find the minimum value of the expression?\n5. What if $x,$ $y,$ and $z$ are not necessarily positive? How would the solution change?\n6. Can we find the maximum value of the expression using similar methods?"
+}

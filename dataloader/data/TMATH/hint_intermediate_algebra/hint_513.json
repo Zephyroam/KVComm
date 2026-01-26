@@ -1,0 +1,7 @@
+{
+    "problem": "Let $r$, $s$, and $t$ be the three roots of the equation $$\n8x^3 + 1001x + 2008 = 0.\n$$Find $(r + s)^3 + (s + t)^3 + (t + r)^3.$",
+    "level": "Level 4",
+    "type": "Intermediate Algebra",
+    "solution": "By Vieta's formulas, the sum of the three roots is $r+s+t=0$. Thus, we can write \\[(r+s)^3 + (s+t)^3 + (t+r)^3 = (-t)^3 + (-r)^3 + (-s)^3 = -(r^3+s^3+t^3).\\]Since each root satisfies the given equation, we have \\[8r^3 + 1001r + 2008 = 0,\\]so $r^3 = -\\frac{1001}{8}r - 251$. Similar equations hold for $s$ and $t$. Thus, \\[-(r^3+s^3+t^3) = \\frac{1001}{8}(r+s+t) + 3 \\cdot 251.\\]Since $r+s+t=0,$ the answer is $3 \\cdot 251 = \\boxed{753}$.",
+    "socratic_questions": "1. Can you describe the first step in finding the value of $(r + s)^3 + (s + t)^3 + (t + r)^3$?\n2. How does Vieta's formulas relate to finding the sum of the roots of a cubic equation?\n3. What is the sum of the three roots in this equation? Can you simplify it?\n4. How can we express $(r + s)^3 + (s + t)^3 + (t + r)^3$ in terms of the roots $r$, $s$, and $t$?\n5. What do we know about the relationship between each root and the given equation? How can that information help us simplify $(r + s)^3 + (s + t)^3 + (t + r)^3$?\n6. How can we use the expression $r^3 = -\\frac{1001}{8}r-251$ to arrive at a simplified form of $(r + s)^3 + (s + t)^3 + (t + r)^3$?\n7. What is the final answer to the problem, and how can we interpret it in the context of the given equation?"
+}

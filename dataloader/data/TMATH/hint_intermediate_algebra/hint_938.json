@@ -1,0 +1,7 @@
+{
+    "problem": "Compute the product of the roots of the equation \\[3x^3 - x^2 - 20x + 27 = 0.\\]",
+    "level": "Level 1",
+    "type": "Intermediate Algebra",
+    "solution": "By Vieta's formulas, the product of the roots is the negation of the constant term divided by the leading ($x^3$) coefficient. Therefore, the answer is \\[\\frac{-27}{3} = \\boxed{-9}.\\](Don't forget to divide by the leading coefficient of the polynomial!)",
+    "socratic_questions": "1. How would you describe Vieta's formulas for finding the product of the roots of a polynomial equation?\n2. Can you explain why the product of the roots is found by dividing the negation of the constant term by the leading coefficient of the polynomial?\n3. What is the constant term in the given equation? \n4. What is the leading coefficient of the polynomial?\n5. Using Vieta's formulas, what is the product of the roots of the given equation? \n6. Why is it important to divide the product of the roots by the leading coefficient of the polynomial? \n7. Can you think of any other applications of Vieta's formulas in solving polynomial equations?"
+}

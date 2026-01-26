@@ -1,0 +1,7 @@
+{
+    "problem": "What is $6 \\div 0.\\overline{6}$?",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "First let's convert $0.\\overline{6}$ to a fraction. Let $p=0.\\overline{6}$ and multiply both sides of this equation by 10 to obtain $10p=6.\\overline{6}$. Subtracting the left-hand sides $10p$ and $p$ as well as the right-hand sides $6.\\overline{6}$ and $0.\\overline{6}$ of these two equations gives $9p=6$, which implies $p=2/3$. We divide $6$ by $2/3$ to get $$6 \\div \\frac{2}{3} = \\cancelto{3}{6}\\hspace{1mm} \\cdot \\frac{3}{\\cancel{2}} = \\boxed{9}.$$",
+    "socratic_questions": "1. How would you describe the first step in solving the problem $6 \\div 0.\\overline{6}$?\n2. Can you think of different methods that could be used to approach this problem?\n3. If we convert $0.\\overline{6}$ to a fraction, what would that fraction be? How can we derive this?\n4. Why is it possible to divide by the fraction equivalent of the repeating decimal? What characteristics allow us to use this approach?\n5. What is the resulting fraction after converting $6$ to $2/3$? How does this fraction relate to our initial problem?\n6. Can you think of any other types of problems where a similar thought process and steps might be applied?"
+}

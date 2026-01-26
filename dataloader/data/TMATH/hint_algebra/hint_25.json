@@ -1,0 +1,7 @@
+{
+    "problem": "If $4^6=8^n$, what is $n$?",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "We begin by expressing both sides of the equation in terms of the base 2: $(2^2)^6=(2^3)^n$, which simplifies to $2^{12}=2^{3n}$. Setting the exponents equal to each other, $12=3n$, or $n=\\frac{12}{3}=\\boxed{4}$.",
+    "socratic_questions": "1. How can we relate the equation $4^6=8^n$ to the concept of exponentiation?\n2. What is the relationship between $4^6$ and $8^n$ in terms of their base and exponent?\n3. Can we rewrite $8^n$ using the same base as $4^6$? If so, how?\n4. What property of exponents can we use to equate the bases in the equation?\n5. How can we determine the value of $n$ when the bases are equal?\n6. Can you verify the solution you found by substituting the value of $n$ back into the equation?\n7. Are there any other equations where we can apply similar reasoning and steps to find unknown exponents?"
+}

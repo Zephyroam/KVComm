@@ -1,0 +1,7 @@
+{
+    "problem": "Expand the following expression: $16(2x+5)$",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "When using the distributive property, we add the product of 16 and $2x$ to the product of 16 and 5:\n\n\\begin{align*}\n16(2x+5) &= 16\\cdot 2x+16\\cdot 5\\\\\n&= \\boxed{32x+80}\n\\end{align*}",
+    "socratic_questions": "1. Can you explain what it means to expand an expression?\n2. What do you think should be the first step in expanding the given expression?\n3. Are there any specific rules or properties you know that can help you with this expansion?\n4. How would you distribute the $16$ to the terms inside the parentheses?\n5. What do you get when you multiply $16$ by $2x$ and $16$ by $5$ separately?\n6. What is the final expanded form of $16(2x+5)$? How did you arrive at that result?\n7. Can you think of any other expressions that can be expanded in a similar way?\n8. What are some potential applications or situations where expanding expressions might be useful?"
+}

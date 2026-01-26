@@ -1,0 +1,7 @@
+{
+    "problem": "In a history class, the probability of earning an A is .7 times the probability of earning a B, and the probability of earning a C is 1.4 times the probability of earning a B. Assuming that all grades are A, B, or C, how many B's will there be in a history class of 31 students?",
+    "level": "Level 5",
+    "type": "Prealgebra",
+    "solution": "Let $x$ be the number of students who earn a B. Then we know that the number of students who get an A is $.7x$ and the number of students who earn a C is $1.4x$. Since every student in the class gets an A, B, or C and there are 31 students, this gives us the equation $.7x + x + 1.4x = 31 \\Rightarrow 3.1x = 31 \\Rightarrow x =\\boxed{10}$.",
+    "socratic_questions": "1. What does the variable x represent in this problem? \n2. How can we express the number of students who earn an A in terms of x? \n3. How can we express the number of students who earn a C in terms of x? \n4. What equation represents the given information in the problem? \n5. How did we solve the equation to find the value of x? \n6. What does the value of x represent in the context of the problem? \n7. How many students will earn a B in a history class of 31 students?"
+}

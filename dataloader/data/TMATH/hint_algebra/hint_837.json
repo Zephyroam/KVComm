@@ -1,0 +1,7 @@
+{
+    "problem": "When a car's brakes are applied, it travels 7 feet less in each  second than the previous second until it comes to a complete stop.  A car goes 28 feet in the first second after the brakes are applied.  How many feet does the car travel from the time the  brakes are applied to the time the car stops?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "The number of feet the car travels in each second is an arithmetic sequence with first term 28 and common difference $-7$.  We are summing all the positive terms in this sequence (these terms represent the number of feet the car travels in each second). Thus, we want to find the sum $28+21+14+7 = \\boxed{70}$.",
+    "socratic_questions": "1. How can we represent the distance traveled by the car at each second after the brakes are applied?\n2. What would be the equation to represent the distance traveled by the car at a particular second after the brakes are applied?\n3. Can we find a pattern or a relationship between the distance traveled in each second and the time elapsed since the brakes were applied?\n4. How can we use this pattern to determine the total distance traveled by the car until it comes to a complete stop?\n5. What is the distance traveled by the car in the first second after the brakes are applied? And how does this relate to the pattern we identified earlier?\n6. Can we express the total distance traveled by the car as a sum of distances traveled in each second? If so, how can we determine this sum?"
+}

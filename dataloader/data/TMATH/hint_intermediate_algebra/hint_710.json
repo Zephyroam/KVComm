@@ -1,0 +1,7 @@
+{
+    "problem": "Find the remainder when $r^{13} + 1$ is divided by $r - 1$.",
+    "level": "Level 1",
+    "type": "Intermediate Algebra",
+    "solution": "Solution #1\n\nLet $f(r)=r^{13}+1$. Then, by the Remainder Theorem, the remainder when $f(r)$ is divided by $r-1$ is $f(1) = 1^{13}+1 = \\boxed{2}$.\n\nSolution #2\n\nIf you think about geometric series often, you may notice that\n$$\\frac{r^{13}-1}{r-1} = r^{12}+r^{11}+r^{10}+\\cdots+r^2+r+1.$$Therefore, $r^{13}+1 = (r^{13}-1)+2 = (r^{12}+r^{11}+\\cdots+r+1)(r-1)+2$, and so the remainder is $\\boxed{2}$.",
+    "socratic_questions": "1. What is the problem asking you to find?\n2. Have you heard of the Remainder Theorem before? Can you explain it in your own words?\n3. How did Solution #1 use the Remainder Theorem to find the remainder?\n4. Why did Solution #2 use the formula for geometric series to approach the problem?\n5. Can you explain how Solution #2 derived the expression for $r^{13}+1$ in terms of $(r-1)$?\n6. How does Solution #2 use this expression to find the remainder?\n7. Are there other methods you can think of to find the remainder of this division problem? How do they compare to Solutions #1 and #2?"
+}

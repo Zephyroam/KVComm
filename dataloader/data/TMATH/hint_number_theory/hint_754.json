@@ -1,0 +1,7 @@
+{
+    "problem": "Find the terminating decimal expansion of $\\frac{11}{125}$.",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "Terminating decimals can be expressed as $\\frac{a}{10^b}$. So, we try to get our fraction in this form: $$\\frac{11}{125} = \\frac{11}{5^3} = \\frac{11}{5^3} \\cdot \\frac{2^3}{2^3} = \\frac{11\\cdot2^3}{10^3} = \\frac{88}{1000} = \\boxed{0.088}.$$",
+    "socratic_questions": "1. How can we express terminating decimals in the form $\\frac{a}{10^b}$?\n2. Can we rewrite $\\frac{11}{125}$ in a form that resembles $\\frac{a}{10^b}$? If so, how?\n3. What can we do to the denominator $125$ to simplify it?\n4. How can we express $125$ as a power of $10$?\n5. How can we change the numerator $11$ so that it remains equivalent to the original fraction but is in the form of $a \\cdot 2^3$?\n6. How can we combine the simplified numerator and denominator to express the fraction as $\\frac{a}{10^b}$?\n7. What is the simplified fraction equivalent to $\\frac{88}{1000}$ in decimal form?\n8. How does this value confirm that $\\frac{11}{125}$ is indeed a terminating decimal?"
+}

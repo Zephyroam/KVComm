@@ -1,0 +1,7 @@
+{
+    "problem": "When the value of $y$ is doubled and then this increased value is divided by 5, the result is 10. What is the value of $y$?",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "We have the equation $y\\cdot2/5=10$. Solving for $y$ yields $y=\\boxed{25}$.",
+    "socratic_questions": "1. Can you interpret the information given in the problem using your own words?\n2. What does it mean to double the value of y and then divide it by 5?\n3. How can you represent algebraically the expression \"double the value of y and then divide by 5\"?\n4. Why do we set the expression equal to 10 in the equation $y \\cdot 2/5 = 10$?\n5. What steps can you take to solve the equation and find the value of y?\n6. Can you explain the reasoning behind each step you take in solving the equation?\n7. How does the concept of multiplying by the reciprocal help in solving the equation?\n8. Can you check your solution to ensure it is correct?\n9. Are there any alternative methods that can be used to solve the problem?\n10. Can you think of any similar problems where a similar approach could be applied?"
+}

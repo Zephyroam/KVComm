@@ -1,0 +1,7 @@
+{
+    "problem": "What is the only integer whose square is less than its double?",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "The integer is $\\boxed{1}$, since $1^2=1<2$.",
+    "socratic_questions": "1. Can you rephrase the problem using mathematical expressions or equations?\n2. What does it mean for a square to be less than its double?\n3. Can you represent the unknown integer in the problem with a variable? Let's say x represents that integer. How would you express its square and double using x?\n4. Based on the expressions for the square and double of x, how can we form an inequality that satisfies the given condition?\n5. How can we solve this inequality to find the possible values of x?\n6. Can you think of any initial value for x that satisfies the inequality? What do you notice about the relationship between the square and the double of x in this case?\n7. What happens if you increase the value of x? Does the relationship between the square and the double change?\n8. Can you find the specific value(s) of x that satisfy the inequality? How would you verify that these values are indeed the only solutions?"
+}

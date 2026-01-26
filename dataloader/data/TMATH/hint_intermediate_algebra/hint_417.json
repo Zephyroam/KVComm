@@ -1,0 +1,7 @@
+{
+    "problem": "Find \\[\\left|\\left(\\frac 35+\\frac 45i\\right)^6\\right|\\]",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "We know that $|ab|=|a|\\cdot |b|$. Therefore, \\[\\left|\\left(\\frac 35+\\frac 45 i\\right)^6\\right|=\\left|\\frac 35+\\frac 45 i\\right|^6\\]Now, \\[\\left|\\frac 35+\\frac 45i\\right|=\\sqrt{\\left(\\frac 35\\right)^2+\\left(\\frac 45\\right)^2}=1\\]Our answer is $1^6=\\boxed{1}$.",
+    "socratic_questions": "1. What is the definition of absolute value or modulus in complex numbers?\n2. How can we use the property $|ab|=|a|\\cdot|b|$ to simplify the expression $\\left|\\left(\\frac35+\\frac45i\\right)^6\\right|$?\n3. What is the polar form of the complex number $\\frac35+\\frac45i$? How can we use it to calculate its modulus?\n4. How can we express $\\left(\\frac35+\\frac45i\\right)^6$ in polar form? \n5. How can we use De Moivre's Theorem to calculate $\\left(\\frac35+\\frac45i\\right)^6$ in polar form?\n6. Based on our calculations, what is the final result for $\\left|\\left(\\frac35+\\frac45i\\right)^6\\right|$? \n7. Can we use the same method to calculate the modulus of other complex numbers raised to a power? What are some examples?"
+}

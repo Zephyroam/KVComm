@@ -1,0 +1,7 @@
+{
+    "problem": "When rolling a fair 6-sided die, what is the probability of a 2 or 4 being rolled?",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "There are 6 total equally likely outcomes, and 2 successful outcomes, so the probability is $\\frac{2}{6} = \\boxed{\\frac{1}{3}}$.",
+    "socratic_questions": "1. What is the total number of possible outcomes when rolling a fair 6-sided die?\n2. How many numbers on the die correspond to a successful outcome in this case?\n3. Can you calculate the probability of rolling a 2 or 4 by dividing the number of successful outcomes by the total number of possible outcomes?\n4. Is it possible for the die to land on multiple numbers at once?\n5. What does it mean for the outcomes to be equally likely in this scenario?\n6. If you were to roll the die multiple times, would the probability of rolling a 2 or 4 remain the same? Why or why not?\n7. Can you think of any other scenarios where you would use similar thinking and steps to calculate probability?"
+}

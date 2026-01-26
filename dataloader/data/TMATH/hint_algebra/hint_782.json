@@ -1,0 +1,7 @@
+{
+    "problem": "If $\\frac{1}{4}$ of $2^{30}$ is $4^x$, then what is the value of $x$ ?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "We have $\\frac{1}{4} \\cdot 2^{30} = \\frac{2^{30}}{2^2} = 2^{30-2} = 2^{28}$.  We also have $4^{x} = (2^2)^x = 2^{2x}$.  Setting these equal gives $2^{28} = 2^{2x}$, so $2x =28$, which means $x = \\boxed{14}$.",
+    "socratic_questions": "1. How would you begin solving this problem?\n2. Can you think of any mathematical properties or relationships that could be useful in solving this equation?\n3. What strategies or methods could you use to simplify the given expression?\n4. Is there a particular exponent rule that you can apply to simplify the equation?\n5. How can you rewrite $2^{30}$ to express it in terms of $4^x$?\n6. Can you equate the exponents on both sides of the equation? If so, what does that tell you about the relationship between $x$ and $30$?\n7. What is the value of $x$ that satisfies the equation?\n8. Can you verify your answer by substituting the value of $x$ back into the original equation?\n9. Can you generalize the approach used in this problem to solve similar equations involving exponents?"
+}

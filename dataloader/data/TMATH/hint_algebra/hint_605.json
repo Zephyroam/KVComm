@@ -1,0 +1,7 @@
+{
+    "problem": "The equation $y=-16t^2+22t+45$ describes the height (in feet) of a ball thrown upwards at $22$ feet per second from $45$ feet above the ground. Find the time (in seconds) when the ball will hit the ground. Express your answer as a common fraction.",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "The equation $y=-16t^2+22t+45$ can be rewritten as $y=(8t+9)(-2t+5)$. Because $t$ needs to be positive, set $-2t+5=0$ to represent the point where the ball reaches the ground. Therefore: \\begin{align*}\n-2t+5&=0\\\\\n-2t&=-5\\\\\n2t&=5\\\\\nt&=\\boxed{\\frac{5}{2}}\n\\end{align*}",
+    "socratic_questions": "1. Can you describe the first step in solving this problem? What do you think we should do first?\n2. What methods do you know that can be used to solve this type of problem? Can you list them?\n3. If you choose to solve by factoring, how would you go about finding the appropriate factors? \n4. Why do you think factoring is a suitable method for solving this equation? What characteristics make it suitable?\n5. Can you factor the equation? How would you verify that your factors are correct and lead to the right solution?\n6. Can you think of other types of equations where similar thinking and steps might be used to solve them?"
+}

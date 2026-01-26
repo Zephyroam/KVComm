@@ -1,0 +1,7 @@
+{
+    "problem": "If $\\begin{vmatrix} a & b \\\\ c & d \\end{vmatrix} = 5,$ then find\n\\[\\begin{vmatrix} a - c & b - d \\\\ c & d \\end{vmatrix}.\\]",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "Since $\\begin{vmatrix} a & b \\\\ c & d \\end{vmatrix} = 5,$ $ad - bc = 5.$  Then\n\\[\\begin{vmatrix} a - c & b - d \\\\ c & d \\end{vmatrix} = (a - c)d - (b - d)c = ad - bc = \\boxed{5}.\\](Why does this make sense geometrically?)",
+    "socratic_questions": "1. Can you describe the first step in finding the determinant of the matrix $\\begin{vmatrix} a - c & b - d \\\\ c & d \\end{vmatrix}$?\n2. What is the significance of the determinant $\\begin{vmatrix} a & b \\\\ c & d \\end{vmatrix}$ being equal to 5 in relation to the given matrix?\n3. How does the determinant change when we subtract $c$ from $a$ and $d$ from $b$ in the given matrix?\n4. Can you explain why the equation $(a - c)d - (b - d)c$ is equal to the determinant of the given matrix?\n5. What is the geometric interpretation of the determinant of a matrix?\n6. In general, what properties or transformations affect the determinant of a matrix?\n7. Can you think of any other examples where a similar thought process and steps can be used to determine the determinant of a matrix?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "If $a$,$b$, and $c$ are positive real numbers such that $a(b+c) = 152$, $b(c+a) = 162$, and $c(a+b) = 170$, then find $abc.$",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "Adding the given equations gives $2(ab+bc+ca) = 484$, so $ab+bc+ca = 242$. Subtracting from this each of the given equations yields $bc=90$, $ca=80$, and $ab=72$. It follows that $a^2b^2c^2 = 90 \\cdot 80 \\cdot 72 = 720^2$. Since $abc>0$, we have $abc =\\boxed{720}$.",
+    "socratic_questions": "1. Can you describe the first step in solving this problem?\n2. What strategies or methods do you know for solving systems of equations like these?\n3. If we consider the given equations, can you identify a pattern or relationship between the three equations?\n4. Why are we able to add the given equations together to get $2(ab+bc+ca) = 484$? What is the significance of this result?\n5. How can we use the information $ab+bc+ca = 242$ to find the values of $ab$, $bc$, and $ca$ individually?\n6. If we multiply the equations $bc=90$, $ca=80$, and $ab=72$, what do we obtain and how does it relate to finding $abc$?\n7. How can we determine the value of $abc$ using the relationships we have established so far?"
+}

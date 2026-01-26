@@ -1,0 +1,7 @@
+{
+    "problem": "Let $f(x)=2x^4+x^3+x^2-3x+r$. For what value of $r$ is $f(2)=0$?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "Evaluating gives  \\[f(2)=2(2)^4+(2)^3+(2)^2-3(2)+r=32+8+4-6+r=38+r.\\]This is equal to 0 when $r=\\boxed{-38}$.",
+    "socratic_questions": "1. Can you describe the first step to solve this problem?\n2. What is the significance of setting the function equal to zero in this problem?\n3. How can we find the value of the function at a certain point?\n4. How can we find the value of the function when $x$ is equal to 2?\n5. If $f(2) = 0$, what does that tell us about the function at $x = 2$?\n6. How can we determine the value of $r$ that satisfies the equation $f(2) = 0$?"
+}

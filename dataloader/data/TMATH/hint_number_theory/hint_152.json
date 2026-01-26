@@ -1,0 +1,7 @@
+{
+    "problem": "What is the 308th digit to the right of the decimal point when $\\frac{12}{37}$ is expressed as a decimal?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "We use long division to find that the decimal representation of $\\frac{12}{37}$ is $0.\\overline{324}$. When $308$ is divided by $3$ there is a remainder of $2$ $\\left( 308\\div 3=102 \\ R2\\right)$. Therefore the 308th digit to the right of the decimal point is the second digit of $324$, which is $\\boxed{2}$.",
+    "socratic_questions": "1. What is the first step in finding the decimal representation of $\\frac{12}{37}$?\n2. Can you explain why long division is used to find the decimal representation?\n3. How can we determine the repeating pattern in the decimal representation?\n4. What does it mean when a digit repeats? How is it represented in the decimal form?\n5. How can we determine the number of digits that repeat in the decimal representation?\n6. If we want to find the 1,000th digit to the right of the decimal point, what steps would we take? Can you generalize the approach?"
+}

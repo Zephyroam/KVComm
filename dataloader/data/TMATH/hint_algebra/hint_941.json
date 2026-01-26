@@ -1,0 +1,7 @@
+{
+    "problem": "Given points $P(-2,7)$ and $Q(4,y)$ in a coordinate plane, for what value of $y$ is the slope of the line through $P$ and $Q$ equal to $\\frac{-3}{2}$?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "The slope of a line through points $(x_1,y_1)$ and $(x_2,y_2)$  is: $$\\frac{y_2-y_1}{x_2-x_1}=\\text{slope}$$ In this case, we have: $$\\frac{y-7}{4-(-2)}=\\frac{-3}{2}$$ $$2y-14=-18$$ $$2y=-4$$ $$y=\\boxed{-2}$$",
+    "socratic_questions": "1. What is the slope formula for a line passing through two points on a coordinate plane?\n2. How can we find the slope of the line passing through points P(-2,7) and Q(4,y) using the slope formula?\n3. By substituting the coordinates of P and Q into the slope formula, what is the equation that represents the slope of the line through P and Q?\n4. If we set the equation from the previous step equal to -3/2, what does the resulting equation represent?\n5. How can we solve the equation from the previous step to find the value of y that satisfies the condition?\n6. Are there any other ways to find the value of y without directly solving the equation? If so, what are they?\n7. Can you think of any other scenarios where finding the slope of a line is important and similar problem-solving steps are applied?"
+}

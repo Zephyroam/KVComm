@@ -1,0 +1,7 @@
+{
+    "problem": "An insect has just told me that she has laid $154_6$ eggs. In base 10, how many eggs did she lay?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "$154_6 = 1\\cdot6^2 + 5\\cdot6^1 + 4\\cdot6^0 = 36 + 30 + 4 = \\boxed{70}.$",
+    "socratic_questions": "1. How is the given number, $154_6$, represented in base 6?\n2. Can you convert the given base 6 number, $154_6$, to base 10? If so, how?\n3. What is the value of the coefficient of $6^2$ in the base 10 representation of $154_6$?\n4. What is the value of the coefficient of $6^1$ in the base 10 representation of $154_6$?\n5. What is the value of the coefficient of $6^0$ in the base 10 representation of $154_6$?\n6. How can you calculate the sum of the individual terms in the base 10 representation of $154_6$?\n7. What is the final result of converting $154_6$ to base 10, in terms of the number of eggs laid by the insect?"
+}

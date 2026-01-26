@@ -1,0 +1,7 @@
+{
+    "problem": "What is the smallest possible area, in square units, of a right triangle with two sides measuring $4$ units and $5$ units?",
+    "level": "Level 1",
+    "type": "Geometry",
+    "solution": "Since $5>4$, $4$ cannot be the length of the hypotenuse. Thus either $4$ and $5$ are the lengths of the two smaller sides, or $5$ is the hypotenuse, meaning the two smaller sides are $4$ and $3$. In this latter case, the area will be smaller, so the area is $\\frac{(3)(4)}{2} = \\boxed{6}$.",
+    "socratic_questions": "1. Can you identify the given information in the problem? \n2. Based on the information given, what do we know about the right triangle in question? \n3. How can we use the given information to find the missing measurement of the triangle? \n4. Once we have all three side lengths, how can we determine the area of the triangle? \n5. Is it possible to create a right triangle with sides of length 4 and 5? Why or why not? \n6. What is the significance of the right angle in a right triangle? \n7. How does the Pythagorean Theorem relate to right triangles and their side lengths? \n8. Is there a relationship between the area of a triangle and the lengths of its sides? If so, what is it? \n9. Can you think of a real-life situation where knowledge of right triangles and their properties would be useful?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Cory made a complete list of the prime numbers between 1 and 25. What is the sum of the smallest prime number and the largest prime number on his list?",
+    "level": "Level 1",
+    "type": "Number Theory",
+    "solution": "Between 1 and 25, the smallest prime number is 2 and the largest prime number is 23. Thus the sum is $2+23=\\boxed{25}$.",
+    "socratic_questions": "1. Can you define what a prime number is?\n2. How many prime numbers are there between 1 and 25?\n3. Can you list the prime numbers between 1 and 25? What is the smallest and largest number on the list?\n4. How did you determine that the smallest prime number is 2 and the largest is 23?\n5. What is the sum of the smallest prime number and the largest prime number on the list?\n6. Can you explain why the sum of the smallest and largest prime numbers is the answer to the given question?\n7. Is there any specific property or characteristic of prime numbers that helped you find the answer?\n8. Can you think of any other examples or problems where considering prime numbers could be helpful in finding a solution?"
+}

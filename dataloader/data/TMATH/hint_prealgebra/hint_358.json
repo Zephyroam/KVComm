@@ -1,0 +1,7 @@
+{
+    "problem": "Simplify $\\frac{10a^3}{55a^2}$ when $a=3$.",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "The 10 in the numerator and the 55 in the denominator have a common factor of 5. Similarly, the $a^3$ and $a^2$ have a common factor of $a^2$. So we get \\[\n\\frac{10a^3}{55a^2} = \\frac{2\\cdot 5\\cdot a^2\\cdot a^1}{11\\cdot 5 \\cdot a^2} = \\frac{2\\cdot \\cancel{5}\\cdot \\cancel{a^2}\\cdot a^1}{11\\cdot \\cancel{5} \\cdot \\cancel{a^2}} = \\frac{2a}{11}.\n\\]Substituting $a=3$ gives $\\boxed{\\frac{6}{11}}$.",
+    "socratic_questions": "1. What is the expression we need to simplify?\n2. What are the factors in the numerator and the denominator that have a common factor?\n3. How can we simplify the expression by canceling out the common factors?\n4. What is the simplified form of the expression after canceling out the common factors?\n5. How can we substitute the value of $a$ into the simplified expression?\n6. What is the final result after substituting $a=3$ into the expression?"
+}

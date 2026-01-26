@@ -1,0 +1,7 @@
+{
+    "problem": "What is $88 \\div (4 \\div 2)$?",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "We perform the operation in parentheses first: \\[88 \\div (4 \\div 2) = 88 \\div 2 = \\boxed{44}.\\]",
+    "socratic_questions": "1. Can you describe the first step in solving this problem?\n2. What is the role of the parentheses in the expression? How does it affect the calculation?\n3. Can you explain the order of operations that we need to follow in this expression?\n4. Why is it important to first perform the operation inside the parentheses before dividing?\n5. What would happen if we calculated $4 \\div 2$ first, and then divided $88$ by the result?\n6. Are there any other similar expressions where we need to carefully consider the order of operations? Can you provide an example?"
+}

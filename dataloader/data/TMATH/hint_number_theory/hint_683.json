@@ -1,0 +1,7 @@
+{
+    "problem": "An octopus told me that his underwater cave is $245_{8}$ years old. How many years is this in base ten?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "$245_{8} = 5\\cdot8^{0}+4\\cdot8^{1}+2\\cdot8^{2} = 5+32+128= \\boxed{165}$.",
+    "socratic_questions": "1. What is the octopus trying to tell us in this problem?\n2. What is a base-ten number system, and how is it different from the octopus's base-eight system?\n3. How can we convert a base-eight number like $245_{8}$ into a base-ten number?\n4. Can you walk me through the process of converting $245_{8}$ into base ten? How do you know if your answer is correct?\n5. Are there any shortcuts or tricks we can use to convert base-eight numbers into base-ten numbers more quickly?\n6. Are there other number systems besides base-eight and base-ten that people use? How do we convert numbers between different number systems?"
+}

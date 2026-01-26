@@ -1,0 +1,7 @@
+{
+    "problem": "Jamie has a jar of coins containing the same number of nickels, dimes and quarters. The total value of the coins in the jar is $\\$$13.20. How many nickels does Jamie have?",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "Writing the problem in cents, and letting the number of each coin be $x$, we have $5x + 10x + 25x = 1320$, or $40x = 1320$. This gives immediately $x =\n\\boxed{33}$.",
+    "socratic_questions": "1. What is the problem asking for?\n2. How can we represent the number of nickels, dimes, and quarters in the jar?\n3. What is the value of a nickel, a dime, and a quarter in cents?\n4. How can we write the total value of the coins in the jar in terms of cents?\n5. What equation can we set up to represent the total value of the coins in the jar?\n6. How can we combine the terms for the number of each coin on the left side of the equation?\n7. What is the value of the combined terms on the left side of the equation?\n8. How can we rewrite the equation using the combined terms on the left side?\n9. How can we solve the equation to find the value of x?\n10. What is the number of nickels in the jar?"
+}

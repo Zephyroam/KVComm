@@ -1,0 +1,7 @@
+{
+    "problem": "Triangle $ABC$ has side lengths $AB=5$, $BC=6$, and $AC=7$. Two bugs start simultaneously from $A$ and crawl along the perimeter of the triangle in opposite directions at the same speed. They meet at point $D$. What is $BD$?",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "The perimeter of the triangle is $5+6+7=18$, so the distance that each bug crawls is 9.  Therefore $AB+BD=9$, and $BD=\\boxed{4}$.",
+    "socratic_questions": "1. How can we find the perimeter of triangle ABC?\n2. What does it mean when the bugs meet at point D? Can you explain the significance of this point?\n3. Based on the information given, what can we say about the distances each bug crawls?\n4. How can we determine the length of BD based on the distances each bug crawls?\n5. Can you provide a step-by-step explanation of how we can find the length of BD using the given information?\n6. Are there any other ways to approach this problem? Can you think of any alternative methods to find the length of BD?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Let $n$ be a positive integer. If $a\\equiv (3^{2n}+4)^{-1}\\pmod{9}$, what is the remainder when $a$ is divided by $9$?",
+    "level": "Level 5",
+    "type": "Number Theory",
+    "solution": "We have that \\[a\\equiv (3^{2n}+4)^{-1}\\equiv (9^{n}+4)^{-1}\\equiv 4^{-1}\\equiv \\boxed{7}\\pmod{9}.\\]",
+    "socratic_questions": "1. What is the given congruence equation and what is the value we want to find?\n2. How can we simplify the congruence equation using the properties of modular arithmetic?\n3. What does it mean for a number to be congruent to the inverse of another number modulo 9?\n4. How can we rewrite $(3^{2n}+4)^{-1}$ in terms of $9^n$?\n5. How can we further simplify $(9^n+4)^{-1}$ using the properties of modular arithmetic?\n6. How can we find the inverse of 4 modulo 9?\n7. How can we verify that the obtained value for $a$ is indeed the remainder when $a$ is divided by 9?\n8. Can you think of any other types of congruence equations where similar reasoning and steps might be applicable?"
+}

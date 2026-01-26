@@ -1,0 +1,7 @@
+{
+    "problem": "Find the modular inverse of $4$, modulo $21$.\n\nExpress your answer as an integer from $0$ to $20$, inclusive.",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "We are looking for an integer $a$ such that $4a$ is congruent to 1 modulo 21. One approach is to check integers of the form $21k+1$, where $k\\geq 0$ is an integer, for divisibility by 4. We find that 22 and 43 are not divisible by 4, but $21(3)+1=64$ is equal to $4\\times 16$. Thus $\\boxed{16}$ times 4 is congruent to 1 modulo 21.",
+    "socratic_questions": "1. Can you define what a modular inverse is in number theory?\n2. How do you find the modular inverse of a number modulo some other number?\n3. What is the importance of finding a modular inverse in number theory?\n4. Can you explain the significance of the modulo operation in solving this problem?\n5. Why did we choose to check integers of the form $21k+1$? Is there a reason behind this choice?\n6. How do we know that there is only one modular inverse for a given number modulo another number?\n7. Can the method used to find the modular inverse of 4, modulo 21 be applied to find the modular inverse of any other number modulo a different number?"
+}

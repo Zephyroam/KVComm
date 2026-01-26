@@ -1,0 +1,7 @@
+{
+    "problem": "Express $4.\\overline{054}$ as a common fraction in lowest terms.",
+    "level": "Level 5",
+    "type": "Prealgebra",
+    "solution": "Let $x = 4.\\overline{054}$.  We then have $1000x = 4054.\\overline{054}$, so $$ 1000x - x = 4054.\\overline{054} - 4.\\overline{054} = 4050 \\ \\ \\Rightarrow \\ \\ x = \\frac{4050}{999} = \\boxed{\\frac{150}{37}}. $$",
+    "socratic_questions": "1. What is the value of x in the given expression?\n2. How can we write the given expression as a fraction in lowest terms?\n3. What's the significance of using the variable x to represent the given decimal?\n4. What is the reasoning behind multiplying both sides of the equation by 1000?\n5. How did we get from 4054.054 to 4050 in the equation?\n6. Why is 999 used as the denominator when expressing the fraction in lowest terms?\n7. Can the same process be used to convert other repeating decimals to fractions? If so, can you provide an example? If not, why not?"
+}

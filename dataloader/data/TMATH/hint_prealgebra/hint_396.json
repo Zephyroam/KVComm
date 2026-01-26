@@ -1,0 +1,7 @@
+{
+    "problem": "Calculate: $9-8+7\\times6+5-4\\times3+2-1$",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "By the order of operations, we perform the multiplications before the additions and subtractions: \\begin{align*}\n9-8+7\\times 6 +5-4\\times 3+2-1 &= 9-8+42 +5-12 + 2 -1\\\\\n&=1 + 42 +5-12 + 2-1\\\\\n&=48-12 + 2 -1\\\\\n&= 36 +1 = \\boxed{37}.\n\\end{align*}",
+    "socratic_questions": "1. According to the order of operations, what operation should we perform first in the given expression? \n2. Can you explain why the multiplication is performed before the addition and subtraction in this expression? \n3. What is the value of $7\\times 6$? \n4. After performing the multiplication, what step should we take next in the expression? \n5. What is the value of $9-8$? \n6. What do we do next after evaluating $9-8$ and performing the addition in the expression? \n7. Can you calculate the value of $5-4$? \n8. What steps should we take after evaluating $5-4$ and performing the following multiplication? \n9. Can you calculate the value of $4\\times 3$? \n10. What is the next step after evaluating $4\\times 3$ and performing the substraction in the expression? \n11. Can you calculate the value of $2-1$? \n12. Finally, what is the value of the entire expression?"
+}

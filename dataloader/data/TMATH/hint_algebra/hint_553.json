@@ -1,0 +1,7 @@
+{
+    "problem": "BoatsRUs built 7 canoes in January of this year and then each subsequent calendar month they built twice the number of canoes they had built the previous month. How many total canoes were built by BoatsRUs by the end of May of this year?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "The numbers of canoes built by BoatsRUs each month form a geometric sequence: 7, 14, 28, 56, 112. The first term is 7 and the common ratio is 2, so the sum of these terms is $\\frac{7(2^5-1)}{2-1} = \\boxed{217}$.",
+    "socratic_questions": "1. Can you describe the first step in solving this problem? \n2. How would you determine the number of canoes built in February? \n3. What is the pattern in the number of canoes built each month? \n4. Why is the number of canoes built each month doubling? Is there any specific reason for this? \n5. How would you calculate the total number of canoes built by BoatsRUs by the end of March? \n6. Can you identify any formulas or equations that could help calculate the total number of canoes built by the end of May? \n7. What is the final total number of canoes built by BoatsRUs by the end of May? How did you arrive at this answer?"
+}

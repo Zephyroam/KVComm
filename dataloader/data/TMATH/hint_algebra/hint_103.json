@@ -1,0 +1,7 @@
+{
+    "problem": "Find the coefficient of the $x^2$ term in the expansion of the product $(ax^3 + 3x^2 - 2x)(bx^2 - 7x - 4)$.",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "We only need to worry about the terms that multiply to have a degree of $2$. This would be given by the product of the terms $3x^2$ and $-4$ as well as the product of the terms $-2x$ and $-7x$. Thus, $$(3x^2) \\times (-4) + (-2x) \\times (-7x) = -12x^2 + 14x^2 = 2x^2,$$and the coefficient is $\\boxed{2}$.",
+    "socratic_questions": "1. Can you identify the terms that will contribute to the $x^2$ term in the expanded product?\n2. How do you multiply a monomial by a polynomial? Can you apply this multiplication process to the given expression?\n3. What happens when you multiply the term $ax^3$ by the polynomial $(bx^2 - 7x - 4)$? Can you identify the terms that will result in an $x^2$ term?\n4. Similarly, what happens when you multiply the term $3x^2$ by the polynomial $(bx^2 - 7x - 4)$? Can you identify the terms that will contribute to an $x^2$ term?\n5. How does multiplying $-2x$ with the polynomial $(bx^2 - 7x - 4)$ affect the $x^2$ term in the expanded product? Can you determine the terms that will yield an $x^2$ term?\n6. Can you simplify the expression by combining the like terms? What is the coefficient of the resulting $x^2$ term?"
+}

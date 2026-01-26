@@ -1,0 +1,7 @@
+{
+    "problem": "Suppose $11^5\\equiv n\\pmod 9$, where $0\\le n<9$.\n\nWhat is the value of $n$?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "We have $11\\equiv 2\\pmod 9$. Therefore, we have \\begin{align*}\n11^5 &\\equiv 2^5 \\\\\n&= 32 \\\\\n&\\equiv \\boxed{5}\\pmod 9.\n\\end{align*}",
+    "socratic_questions": "1. What is the given problem asking us to find or determine?\n2. What does the notation \"≡\" (congruence) mean in the context of modular arithmetic?\n3. How can we simplify the expression $11^5$ in mod 9? What property or rule can we apply?\n4. What is the remainder when $2^5$ is divided by 9? How did we arrive at this result?\n5. Can you think of any other examples where modular arithmetic can be used as a problem-solving strategy?\n6. How can we verify that our answer of $n=5$ is correct? Is there a way to double-check our solution?"
+}

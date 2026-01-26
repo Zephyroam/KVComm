@@ -1,0 +1,7 @@
+{
+    "problem": "For how many positive integers $x$ is $x^2 + 6x + 9$ between 20 and 40?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "We see that $x^2 + 6x + 9 = (x + 3)^2$. If $x$ must be positive, we can see that this expression can take on the value of any perfect square that is greater than or equal to 16. Thus, the problem is asking for how many perfect squares there are between 20 and 40. There are only $\\boxed{2}$, namely 25 and 36.",
+    "socratic_questions": "1. How can we determine if $x^2 + 6x + 9$ is between 20 and 40?\n2. What is the first step in solving this problem?\n3. Can we simplify or factorize the expression $x^2 + 6x + 9$ to make it easier to work with?\n4. How can we rewrite the expression $x^2 + 6x + 9$ in a different form that might provide more insight?\n5. If we can rewrite the expression as a perfect square, what does that tell us about the possible values of $x$?\n6. What factors or properties should we look for to write $x^2 + 6x + 9$ as a perfect square?\n7. Once we have expressed it as a perfect square, how can we determine the range of values for $x$ that satisfy the inequality?\n8. Are there any other methods or approaches we could use to solve this problem?\n9. Can you generalize this problem and find a similar approach for solving inequalities involving quadratic expressions?\n10. How might changing the given range in the problem affect our solution approach?"
+}

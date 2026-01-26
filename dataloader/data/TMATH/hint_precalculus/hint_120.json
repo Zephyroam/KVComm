@@ -1,0 +1,7 @@
+{
+    "problem": "If $\\tan \\alpha = 8$ and $\\tan \\beta = 7,$ then find $\\tan (\\alpha - \\beta).$",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "From the angle subtraction formula,\n\\[\\tan (\\alpha - \\beta) = \\frac{\\tan \\alpha - \\tan \\beta}{1 + \\tan \\alpha \\tan \\beta} = \\frac{8 - 7}{1 + 8 \\cdot 7} = \\boxed{\\frac{1}{57}}.\\]",
+    "socratic_questions": "1. How would you generally approach finding the value of $\\tan (\\alpha - \\beta)$ when given the values of $\\tan \\alpha$ and $\\tan \\beta$?\n2. Can you explain what the angle subtraction formula is and how it relates to finding $\\tan (\\alpha - \\beta)$?\n3. In this specific problem, what are the given values for $\\tan \\alpha$ and $\\tan \\beta$?\n4. What does the angle subtraction formula tell us about finding $\\tan (\\alpha - \\beta)$ in this case?\n5. How would you apply the angle subtraction formula to find the value of $\\tan (\\alpha - \\beta)$?\n6. Can you explain the reasoning behind each step in the calculation for $\\tan (\\alpha - \\beta)$?\n7. What is the final result and how would you interpret the value of $\\frac{1}{57}$ in the context of this problem?\n8. Can you think of any other scenarios where you might use the angle subtraction formula to find trigonometric values?"
+}

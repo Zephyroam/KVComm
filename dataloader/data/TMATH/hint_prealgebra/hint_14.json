@@ -1,0 +1,7 @@
+{
+    "problem": "Calculate $6 \\cdot 8\\frac{1}{3}$.",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "We can use the distributive property to avoid having to convert our mixed number to a fraction: \\begin{align*}\n6 \\cdot 8\\frac{1}{3} &= 6 \\cdot \\left(8 + \\frac{1}{3}\\right)\\\\\n&= 48 + 6 \\cdot\\frac{1}{3}\\\\\n&= 48 + \\frac{6}{3}\\\\\n&= 48 + 2\\\\\n&= \\boxed{50}.\n\\end{align*}",
+    "socratic_questions": "1. What operation do we need to perform in order to calculate the product of 6 and 8 1/3?\n2. Can we simplify the expression 8 1/3 before performing the multiplication? If yes, how?\n3. What is the result of multiplying 6 by 8?\n4. How can we add the result of the previous step to the remaining fraction, 1/3?\n5. After adding, what is the resulting fraction?\n6. Can we simplify the resulting fraction further? If yes, how?\n7. What is the final result of the calculation?"
+}

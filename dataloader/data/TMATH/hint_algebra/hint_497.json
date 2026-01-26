@@ -1,0 +1,7 @@
+{
+    "problem": "What is the value of $525^2 - 475^2$?",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "$525^2 - 475^2$ can also be expressed as $(525+475)(525-475)$. This simplifies to $1000 \\cdot 50$, which equals $\\boxed{50000}$.",
+    "socratic_questions": "1. What is the general method used to find the value of expressions involving squares?\n2. How can we express the given expression as a difference of squares?\n3. What is the formula for the difference of squares?\n4. What are the values of 525 and 475? How can we substitute them into the formula?\n5. Can you simplify the expression after substituting the values?\n6. How can we evaluate the simplified expression to find the final result?"
+}

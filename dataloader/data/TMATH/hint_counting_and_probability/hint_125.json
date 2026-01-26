@@ -1,0 +1,7 @@
+{
+    "problem": "A library has six identical copies of a certain book. At any given time, some of these copies are at the library and some are checked out. How many different ways are there for some of the books to be in the library and the rest to be checked out if at least one book is in the library and at least one is checked out?  (The books should be considered indistinguishable.)",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "From 1 to 5 books can be in the library, and the rest are checked out. Therefore, there are $\\boxed{5}$ possibilities.",
+    "socratic_questions": "1. Can you explain the problem statement in your own words?\n2. How many identical copies of the book does the library have?\n3. Can there be a situation where all the books are either in the library or checked out? Why or why not?\n4. By the problem's conditions, what is the minimum number of books that must be in the library and checked out?\n5. Can you think of a situation with only one book in the library and the rest checked out? How many possibilities are there?\n6. What about two books in the library? How many possibilities can you find?\n7. Are there any restrictions on how many books can be in the library?\n8. Can you find a pattern or rule for determining the number of possibilities for each number of books in the library?\n9. Can you generalize this pattern to calculate the number of possibilities for any number of books in the library?"
+}

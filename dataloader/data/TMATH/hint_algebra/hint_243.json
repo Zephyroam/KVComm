@@ -1,0 +1,7 @@
+{
+    "problem": "If $f(x) = 3-\\!\\sqrt{x}$ and $g(x) = 5x +2x^2$, what is $f(g(-5))$?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "We have $g(-5) = 5(-5) + 2(-5)^2 = -25 + 50 = 25$, so $f(g(-5)) = f(25) = 3 - \\!\\sqrt{25} = 3-5=\\boxed{-2}$.",
+    "socratic_questions": "1. Can you describe what the function $g(x)$ represents?\n2. What is the value of $g(-5)$?\n3. What is the value of $f(g(-5))$ if we substitute the value of $g(-5)$ into the function $f(x)$?\n4. Is there any simplification we can make for the expression $f(g(-5))$ before evaluating it further?\n5. How can we calculate the square root of a number?\n6. Once we obtain the square root value in $f(g(-5))$, how can we determine the final result?"
+}

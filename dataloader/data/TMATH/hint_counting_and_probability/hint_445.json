@@ -1,0 +1,7 @@
+{
+    "problem": "Our school's girls volleyball team has 14 players, including a set of 3 triplets: Alicia, Amanda, and Anna.  In how many ways can we choose 6 starters if exactly two of the triplets are in the starting lineup?",
+    "level": "Level 4",
+    "type": "Counting & Probability",
+    "solution": "If exactly two of the triplets are in the lineup, we have 3 choices for which triplets to put in the starting lineup (we can see this by noting that we have 3 choices for which triplet to leave out), and then 11 people to choose from for the remaining 4 spots.  So the answer is $3 \\times \\binom{11}{4} = 3 \\times 330= \\boxed{990}$.",
+    "socratic_questions": "1. What is the problem asking us to find?\n2. How many players are there in total, including the triplets?\n3. How many triplets are there in total?\n4. How many triplets can be chosen for the starting lineup?\n5. How many players are left to choose from for the remaining spots in the lineup?\n6. Why do we multiply the number of choices for the triplets with the number of choices for the remaining players?\n7. How do we calculate the number of ways to choose players for the remaining spots?\n8. Can you explain the formula for calculating combinations?\n9. Why are we choosing 4 players to fill the remaining spots?\n10. How do we calculate the final answer?"
+}

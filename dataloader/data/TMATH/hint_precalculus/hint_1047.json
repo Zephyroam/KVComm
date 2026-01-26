@@ -1,0 +1,7 @@
+{
+    "problem": "Find the angle between the vectors $\\begin{pmatrix} 2 \\\\ -1 \\\\ 1 \\end{pmatrix}$ and $\\begin{pmatrix} -1 \\\\ 1 \\\\ 0 \\end{pmatrix},$ in degrees.",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "If $\\theta$ is the angle between the vectors, then\n\\[\\cos \\theta = \\frac{\\begin{pmatrix} 2 \\\\ -1 \\\\ 1 \\end{pmatrix} \\cdot \\begin{pmatrix} -1 \\\\ 1 \\\\ 0 \\end{pmatrix}}{\\left\\| \\begin{pmatrix} 2 \\\\ -1 \\\\ 1 \\end{pmatrix} \\right\\| \\left\\| \\begin{pmatrix} -1 \\\\ 1 \\\\ 0 \\end{pmatrix} \\right\\|} = \\frac{(2)(-1) + (-1)(1) + (1)(0)}{\\sqrt{6} \\cdot \\sqrt{2}} = \\frac{-3}{2 \\sqrt{3}} = -\\frac{\\sqrt{3}}{2}.\\]Hence, $\\theta = \\boxed{150^\\circ}.$",
+    "socratic_questions": "1. How would you define the concept of finding the angle between vectors?\n2. What approach or formula would you use to find the angle between vectors?\n3. Can you explain why the dot product is involved in finding the angle between vectors?\n4. How would you calculate the dot product of the given vectors?\n5. What is the significance of dividing the dot product by the product of the magnitudes of the vectors?\n6. How would you simplify the expression for cosine theta using the given vectors?\n7. What steps would you take to find the final value of theta in degrees?\n8. Can you think of any other examples or scenarios where finding the angle between vectors would be useful or applicable?"
+}

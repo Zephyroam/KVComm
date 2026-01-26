@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $10^{-1}\\pmod{1001}$. Express your answer as a residue from $0$ to $1000$, inclusive.",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "Notice that $1001=10\\cdot 100+1$. Therefore, $$10\\cdot 100\\equiv -1 \\pmod{1001},$$which implies that $$10\\cdot -100\\equiv 1\\pmod{1001}.$$The inverse of $10\\pmod{1001}$ is $-100$, but we need an answer in the interval from $0$ to $1000$. The equivalent residue in this interval is $-100+1001 = \\boxed{901}$.\n\nWe can check our answer: $10\\cdot 901 = 9010 = 9(1001)+1 \\equiv 1\\pmod{1001}$, so $901$ is indeed the inverse of $10\\pmod{1001}$.",
+    "socratic_questions": "1. How does the fact that $1001=10\\cdot 100+1$ help us find the inverse of $10\\pmod{1001}$? \n2. What is the meaning of finding the inverse of a number $\\pmod{n}$? \n3. Are there any restrictions on the possible values of the inverse of a number $\\pmod{n}$? \n4. How do we check that a number is the inverse of another number $\\pmod{n}$? \n5. Can we find the inverse of any number $\\pmod{n}$? If not, what are the conditions that must be satisfied to guarantee the existence of an inverse? \n6. How can we use the concept of inverse to solve equations and simplify calculations in modular arithmetic?"
+}

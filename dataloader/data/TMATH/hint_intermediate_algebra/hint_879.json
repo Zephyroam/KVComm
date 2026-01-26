@@ -1,0 +1,7 @@
+{
+    "problem": "Find the value of $k$ so that\n\\[3 + \\frac{3 + k}{4} + \\frac{3 + 2k}{4^2} + \\frac{3 + 3k}{4^3} + \\dotsb = 8.\\]",
+    "level": "Level 4",
+    "type": "Intermediate Algebra",
+    "solution": "We have that\n\\[3 + \\frac{3 + k}{4} + \\frac{3 + 2k}{4^2} + \\frac{3 + 3k}{4^3} + \\dotsb = 8.\\]Multiplying this equation by 4, we get\n\\[12 + (3 + k) + \\frac{3 + 2k}{4} + \\frac{3 + 3k}{4^2} + \\dotsb = 32.\\]Subtracting these equations, we get\n\\[12 + k + \\frac{k}{4} + \\frac{k}{4^2} + \\frac{k}{4^3} + \\dotsb = 24.\\]Then\n\\[12 + \\frac{k}{1 - 1/4} = 24.\\]Solving for $k,$ we find $k = \\boxed{9}.$",
+    "socratic_questions": "1. What is the first step in solving the given equation?\n2. How can we simplify the given series to make it easier to work with?\n3. How did we transform the original equation into a new equation involving a simpler series?\n4. What mathematical technique did we use to express the infinite series as a finite expression?\n5. How did we use the fact that the series was infinite to solve for the value of $k$?\n6. Can you think of any other ways to approach this problem?"
+}

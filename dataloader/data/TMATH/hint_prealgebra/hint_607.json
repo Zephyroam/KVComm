@@ -1,0 +1,7 @@
+{
+    "problem": "Find one third of 5.4, expressed as a simplified fraction.",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "First, we take $5.4 \\div 3 = 1.8$.  Then, we convert 1.8 to a fraction.  Since $1.8 = \\frac{18}{10}$, we can simplify this fraction to yield $\\boxed{\\frac{9}{5}}$.",
+    "socratic_questions": "1. What is the first step in finding one third of 5.4?\n2. Why do we divide 5.4 by 3 to find one third?\n3. How do we convert 1.8 to a fraction?\n4. Why is 1.8 equal to $\\frac{18}{10}$ when expressed as a fraction?\n5. Can we simplify the fraction $\\frac{18}{10}$? If yes, what is the simplified fraction?\n6. Are there any other numbers or fractions that are one third of 5.4? Why or why not?"
+}

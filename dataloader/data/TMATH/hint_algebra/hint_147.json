@@ -1,0 +1,7 @@
+{
+    "problem": "Simplify $16^{\\frac{1}{2}}-625^{\\frac{1}{2}}$.",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "We can simply plug in $16^{\\frac{1}{2}}=4$ and $625^{\\frac{1}{2}}=25$ and get $4-25=-21$. Alternatively, recognizing the problem as a difference of squares, we can rewrite it as \\begin{align*}\n(16^{\\frac{1}{4}})^2-(625^{\\frac{1}{4}})^2&=(16^{\\frac{1}{4}}-625^{\\frac{1}{4}})(16^{\\frac{1}{4}}+625^{\\frac{1}{4}}) \\\\\n&=(2-5)(2+5)\\\\\n&=(-3)(7)=\\boxed{-21}.\n\\end{align*}",
+    "socratic_questions": "1. What is the first step you would take to simplify the expression $16^{\\frac{1}{2}}-625^{\\frac{1}{2}}$?\n2. Are there any rules or properties of exponents that you can apply to simplify this expression?\n3. How can you express $16$ and $625$ as perfect powers or perfect squares?\n4. Can you simplify each square root separately and then subtract the results?\n5. Why do you think it is important to simplify the square roots individually before subtracting them?\n6. Can you think of any other expressions involving square roots where a similar approach would be useful?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "A club has 10 members, 5 boys and 5 girls.  Two of the members are chosen at random.  What is the probability that they are both girls?",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "There are $\\binom{10}{2} = 45$ ways to choose two members of the group, and there are $\\binom{5}{2} = 10$ ways to choose two girls.  Therefore, the probability that two members chosen at random are girls is $\\dfrac{10}{45} = \\boxed{\\dfrac{2}{9}}$.",
+    "socratic_questions": "1. What is the total number of members in the club?\n2. How many boys are there in the club? How many girls?\n3. If two members are chosen at random, how many different pairs can be formed?\n4. How many ways are there to choose two girls from the 5 girls in the club?\n5. How can we calculate the probability of choosing two girls? What formula can we use?\n6. What is the probability that the two members chosen at random are both girls?\n7. Can you think of any other scenarios where we can use similar reasoning to calculate probabilities?"
+}

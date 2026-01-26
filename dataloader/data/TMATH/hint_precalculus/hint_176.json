@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\arcsin 0.$  Express your answer in radians.",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "Since $\\sin 0 = 0,$ $\\arcsin 0 = \\boxed{0}.$",
+    "socratic_questions": "1. What is the definition of the arcsine function?\n2. What is the range of the arcsine function?\n3. What does it mean for $\\arcsin 0$ to be in radians?\n4. Can you recall any trigonometric identity that involves the sine function?\n5. How can we use that trigonometric identity to find the value of $\\arcsin 0$?\n6. Can you explain why $\\arcsin 0 = 0$ using the trigonometric identity you mentioned earlier?"
+}

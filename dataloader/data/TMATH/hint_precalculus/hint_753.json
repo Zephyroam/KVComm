@@ -1,0 +1,7 @@
+{
+    "problem": "If $\\cos \\theta = \\frac{2}{3},$ then find $\\cos 2 \\theta.$",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "From the double angle formula,\n\\[\\cos 2 \\theta = 2 \\cos^2 \\theta - 1 = 2 \\left( \\frac{2}{3} \\right)^2 - 1 = \\boxed{-\\frac{1}{9}}.\\]",
+    "socratic_questions": "1. Can you explain what the double angle formula is and how it relates to finding $\\cos 2 \\theta$?\n2. How did you determine the value of $\\cos \\theta$ to be $\\frac{2}{3}$?\n3. What steps did you take to apply the double angle formula in order to find $\\cos 2 \\theta$?\n4. Can you explain why the double angle formula involves squaring $\\cos \\theta$ and subtracting 1?\n5. Is there a specific reason why you chose to use the double angle formula to find $\\cos 2 \\theta$ in this problem?\n6. Are there any other trigonometric identities or formulas that could be useful in finding $\\cos 2 \\theta$? If so, how do they relate to the given information?\n7. Can you think of any other similar problems where the double angle formula could be applied to find a trigonometric value?"
+}

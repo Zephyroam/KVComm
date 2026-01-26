@@ -1,0 +1,7 @@
+{
+    "problem": "An eight-digit integer is formed by repeating a positive four-digit integer. For example, 25,632,563 or 60,786,078 are integers of this form. What is the greatest common divisor of all eight-digit integers of this form?",
+    "level": "Level 5",
+    "type": "Number Theory",
+    "solution": "If the repeated four-digit integer is $n$, then the eight-digit integer is $10^4n+n=10001n$. So all numbers in this form share the factor 10001. Consider $10001\\cdot1000$ and $10001\\cdot1001$. After dividing out the factor 10001, 1000 and 1001 share no nontrivial factors, so the greatest common divisor must be exactly $\\boxed{10001}$.",
+    "socratic_questions": "1. Can you explain what an eight-digit integer formed by repeating a positive four-digit integer means? \n2. How can you express an eight-digit integer formed by repeating a positive four-digit integer in terms of its repeated four-digit integer? \n3. What is the common factor shared by all eight-digit integers formed by repeating a positive four-digit integer? \n4. Can you factor out the common factor and determine what is left for any specific eight-digit integer in this form? \n5. How can you find the greatest common divisor of all eight-digit integers formed by repeating a positive four-digit integer using the common factor and the factorizations of the two examples given above? \n6. Can you think of any other examples of integers that share a common factor in this way? How would you use this concept to find their greatest common divisor?"
+}

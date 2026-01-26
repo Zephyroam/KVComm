@@ -1,0 +1,7 @@
+{
+    "problem": "Each of the ten letters in ``MATHCOUNTS'' is written on its own square tile and placed in a bag. What is the probability that a tile randomly selected from the bag will have a letter on it that is in the word ``TEACH''? Express your answer as a common fraction.",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "Among the 10 letters in the word MATHCOUNTS, the 5 letters, A, T, H, C, and T appear in the word TEACH.  The probability of drawing one of these tiles is $\\dfrac{5}{10}=\\boxed{\\frac{1}{2}}$.",
+    "socratic_questions": "1. What is the word provided in the problem?\n2. How many letters are in the word \"MATHCOUNTS\"?\n3. From the given letters in \"MATHCOUNTS,\" which ones are also in the word \"TEACH\"?\n4. How many letters are there in \"TEACH\"?\n5. What is the probability of randomly selecting a tile with a letter from \"TEACH\" out of all the tiles in the bag?\n6. How can we express this probability as a fraction?\n7. What is the numerator of the fraction representing the probability?\n8. What is the denominator of the fraction representing the probability?\n9. Can we simplify the fraction representing the probability?\n10. What is the simplified fraction that represents the probability of selecting a letter from \"TEACH\" out of all the tiles in the bag?"
+}

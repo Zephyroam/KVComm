@@ -1,0 +1,7 @@
+{
+    "problem": "After traveling 50 miles by taxi, Ann is charged a fare of $\\$120$. Assuming the taxi fare is directly proportional to distance traveled, how much would Ann be charged (in dollars) if she had traveled 70 miles?",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "Let $d$ equal the cost of a 70 mile taxi ride. Since we know that Ann was charged $120 dollars a 50 mile taxi ride, we can set up the proportion $\\frac{120}{50}=\\frac{d}{70}$. If we solve for $d$ by multiplying both sides by 70, we find that $d=\\left(\\frac{120}{50}\\right)(70)=\\boxed{168}$ dollars.",
+    "socratic_questions": "1. How would you describe the relationship between the taxi fare and the distance traveled based on the given information? \n2. Can you explain what it means for two quantities to be directly proportional? \n3. What mathematical equation represents the direct proportionality between the taxi fare and the distance traveled? \n4. Using the equation you mentioned, how can we find the constant of proportionality in this scenario? \n5. Once we have determined the constant of proportionality, how can we use it to calculate the fare for a different distance, such as 70 miles? \n6. Are there any assumptions or limitations in this model of direct proportionality between taxi fare and distance traveled that we should be aware of?"
+}

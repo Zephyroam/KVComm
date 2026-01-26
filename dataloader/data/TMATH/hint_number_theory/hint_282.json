@@ -1,0 +1,7 @@
+{
+    "problem": "Find the remainder when $7145 + 7146 + 7147 + 7148 + 7149$ is divided by 8.",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "Reducing each number modulo 8 first, we see that \\begin{align*}\n7145 + 7146 + 7147 + 7148 + 7149 &\\equiv 1 + 2 + 3 + 4 + 5 \\\\\n&\\equiv 15 \\\\\n&\\equiv \\boxed{7} \\pmod{8}.\n\\end{align*}",
+    "socratic_questions": "1. Can you explain what it means to find the remainder when a sum is divided by 8?\n2. What steps did we take to reduce each number modulo 8? Why was it necessary?\n3. How did we simplify the expression after reducing each number? Why did we use modulo arithmetic?\n4. Can you explain the reasoning behind the congruence $7145 + 7146 + 7147 + 7148 + 7149 \\equiv 1 + 2 + 3 + 4 + 5 \\pmod{8}$?\n5. How did we compute the sum $1 + 2 + 3 + 4 + 5$? Can you think of any other ways to compute it?\n6. What does the final congruence $15 \\equiv 7 \\pmod{8}$ tell us about the remainder when the original sum is divided by 8? How can we interpret this result?\n7. Can you think of any similar problems where we might need to use modulo arithmetic to find remainders? How would you approach those problems?"
+}

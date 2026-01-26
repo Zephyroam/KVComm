@@ -1,0 +1,7 @@
+{
+    "problem": "How many ways are there to put 5 balls in 2 boxes if the balls are distinguishable and the boxes are distinguishable?",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "There are 2 different boxes, so each of the 5 balls can be placed in two different locations.  So the answer is $2^5 = \\boxed{32}$.",
+    "socratic_questions": "1. How many balls are there in total? Are they distinguishable or indistinguishable?\n2. How many boxes are there? Are they distinguishable or indistinguishable?\n3. If the balls and boxes are distinguishable, what are the possible arrangements for placing the balls into the boxes?\n4. In this scenario, can a ball be placed in multiple boxes at the same time? Why or why not?\n5. How many choices are there for placing the first ball? And the second ball? How does this relate to the total number of arrangements?\n6. Can you identify a pattern in the number of choices for placing each ball? If so, how does this relate to the final outcome?\n7. Can you explain why raising 2 to the power of the total number of balls gives you the correct answer? How does this relate to the choices for each ball placement?\n8. Can you think of a similar scenario with different numbers of balls and boxes? How would the counting method change for that scenario?"
+}

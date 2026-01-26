@@ -1,0 +1,7 @@
+{
+    "problem": "The probability of rain tomorrow is $\\frac{3}{10}$.  What is the probability that it will not rain tomorrow?  Express your answer as a common fraction.",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "We can use complementary probability to determine that the probability of its not raining tomorrow is $1 - \\frac{3}{10} = \\boxed{\\frac{7}{10}}$.",
+    "socratic_questions": "1. What is the probability of rain tomorrow? \n2. How would you go about determining the probability that it won't rain tomorrow? \n3. Can you explain what complementary probability is and how it can be used in this situation? \n4. What is the formula for complementary probability? \n5. How do you calculate the probability of an event and its complement? \n6. Can you give another example where you can use complementary probability to find the probability of an event?"
+}

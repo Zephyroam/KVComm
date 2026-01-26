@@ -1,0 +1,7 @@
+{
+    "problem": "Let\n\\[z = \\frac{(-11 + 13i)^3 \\cdot (24 - 7i)^4}{3 + 4i},\\]and let $w = \\frac{\\overline{z}}{z}.$  Compute $|w|.$",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "Since $|\\overline{z}| = |z|$ for any complex number $z,$\n\\[|w| = \\left| \\frac{\\overline{z}}{z} \\right| = \\frac{|\\overline{z}|}{|z|} = \\boxed{1}.\\]",
+    "socratic_questions": "1. What is the definition of a complex number?\n2. How do you multiply two complex numbers together?\n3. What is the meaning of the complex conjugate of a complex number?\n4. How can you simplify the expression for $z$ by using the properties of exponents and the fact that $i^2 = -1$?\n5. Why do we take the conjugate of $z$ to compute the value of $w$?\n6. What is the geometric interpretation of the absolute value of a complex number?\n7. Can you explain why $|w| = 1$ using the definition of $z$ and the properties of the absolute value of complex numbers?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "If $a$ is a constant such that $9x^2 + 24x + a$ is the square of a binomial, then what is $a$?",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "If $9x^2 +24x + a$ is the square of a binomial, then the binomial has the form $3x +b$ for some number $b$, because $(3x)^2 = 9x^2$.  So, we compare $(3x+b)^2$ to $9x^2 + 24x + a$. Expanding $(3x+b)^2$ gives \\[(3x+b)^2 = (3x)^2 + 2(3x)(b) + b^2 = 9x^2 + 6bx + b^2.\\]Equating the linear term of this to the linear term of $9x^2+24x+a$, we have $6bx=24x$, so $b=4$.  Equating the constant term of $9x^2 + 6bx + b^2$ to that of $9x^2 + 24x+a$ gives us $a=b^2 = \\boxed{16}$.",
+    "socratic_questions": "1. How would you determine if the given quadratic expression is the square of a binomial?\n2. What characteristics should the binomial have in order for its square to be equal to the given expression?\n3. Can you recall any methods or techniques that can help you determine if the given expression is a perfect square?\n4. If the given quadratic expression is indeed the square of a binomial, how could you find the value of the unknown constant \"a\"?\n5. Are there any specific patterns or properties that you can identify within the expression that might assist you in finding the value of \"a\"?\n6. Can you think of any other scenarios where you might encounter a quadratic expression that is the square of a binomial? What similarities or differences do you notice compared to the given problem?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "The students at Sherry Curtis School were able to vote for one or more events for their field day. Below are the top three choices. List the names of the choices from most popular to least popular, separated by commas.\n\n\\begin{tabular}{|c|c|c|c|} \\hline\nEvent & Kickball & Picnic & Softball \\\\ \\hline \n& & &\\\\[-1.5ex]\nFraction liking event & $\\frac{11}{30}$ & $\\frac{7}{20}$ & $\\frac{5}{12}$ \\\\[1ex] \\hline\n\\end{tabular}",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "Rewriting the fractions to have a common denominator of $60,$ we have \\begin{align*}\n\\text{Kickball: }&\\frac{22}{60} \\\\\n\\text{Picnic: }&\\frac{21}{60} \\\\\n\\text{Softball: }&\\frac{25}{60}\n\\end{align*} So the order is $\\boxed{\\text{Softball, Kickball, Picnic}}.$",
+    "socratic_questions": "1. What is the purpose of rearranging the fractions to have a common denominator of 60?\n2. How did you determine the new fractions for each event after finding the common denominator?\n3. Can you explain why the event with the highest fraction liking is listed first and the event with the lowest fraction liking is listed last?\n4. Is it possible for two events to have the same fraction liking? If so, how would you determine the order in that case?\n5. What strategies could be used to compare fractions when they have different denominators?\n6. Can you think of any other situations or problems where finding a common denominator is useful?"
+}

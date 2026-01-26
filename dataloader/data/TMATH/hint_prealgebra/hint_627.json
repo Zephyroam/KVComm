@@ -1,0 +1,7 @@
+{
+    "problem": "If Jeff picks one letter randomly from the alphabet, what is the probability that the letter is in the word `PROBABILITY'?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "Eliminating multiple occurrences of the same letter, the word `PROBABILITY' uses $9$ different letters of the alphabet, A, B, I, L, O, P, R, T, and Y. Since there are $26$ letters in the alphabet, the probability that Jeff picks one of the $9$ different letters in `PROBABILITY' is $\\boxed{\\frac{9}{26}}.$",
+    "socratic_questions": "1. Can you list the letters that are used in the word PROBABILITY?\n2. How many letters are there in the alphabet?\n3. Since the word PROBABILITY uses 9 different letters, what is the probability that Jeff will choose one of these letters if he picks one letter randomly out of the alphabet?\n4. Is there any difference in the probability if Jeff picks a letter from a set that includes only the letters used in the word PROBABILITY?\n5. If Jeff has already picked a letter, what is the probability that it is one of the letters used in the word PROBABILITY?\n6. Can you think of any other words that use a similar set of letters? Would the probability be the same or different?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Find the 6-digit repetend in the decimal representation of $\\frac 3{13}.$",
+    "level": "Level 5",
+    "type": "Number Theory",
+    "solution": "We use long division to find that the decimal representation of $\\frac{3}{13}$ is $0.\\overline{230769},$ which has a repeating block of 6 digits. So the repetend is $\\boxed{230769}.$",
+    "socratic_questions": "1. How do we typically convert a fraction into a decimal representation?\n2. What is a repetend? How do we determine the length of the repetend in a decimal representation?\n3. Can you describe the long division algorithm for finding the decimal representation of a fraction?\n4. How can we verify that a decimal representation has a repeating block of digits?\n5. In general, what can we say about the length of the repetend for the decimal representation of $\\frac{1}{n}$ for any positive integer $n$?\n6. Are there any other methods for finding the repetend of a decimal representation?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "What multiple of 15 is closest to 2009?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "An integer is a multiple of 15 if and only if it is a multiple of both 3 and 5.  The multiple of 5 closest to 2009 is 2010, and since $2+0+1+0$ is divisible by 3, $\\boxed{2010}$ is divisible by 15.",
+    "socratic_questions": "1. What is the definition of a multiple of a number?\n2. How can we determine if a number is a multiple of 3 or 5?\n3. Can you think of any other multiples of 15 besides those that are also multiples of 3 and 5?\n4. How would you find the next multiple of 15 after 2009?\n5. Is there a pattern or shortcut we can use to find the multiple of 15 closest to a given number?\n6. If we wanted to find the multiple of 25 closest to 2009, what changes would we need to make to our approach?"
+}

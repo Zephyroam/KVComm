@@ -1,0 +1,7 @@
+{
+    "problem": "For real numbers $t,$ the point\n\\[(x,y) = (\\cos^2 t, \\sin^2 t)\\]is plotted.  All the plotted points lie on what kind of curve?\n\n(A) Line\n(B) Circle\n(C) Parabola\n(D) Ellipse\n(E) Hyperbola\n\nEnter the letter of the correct option.",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "Since $\\cos^2 t + \\sin^2 t = 1,$ all the plotted points lie on the line $x + y = 1.$  The answer is $\\boxed{\\text{(A)}}.$",
+    "socratic_questions": "1. What are the coordinates of the point plotted for a given value of $t$?\n2. What relationship does $\\cos^2 t + \\sin^2 t = 1$ represent?\n3. How is the equation $x + y = 1$ related to the equation $\\cos^2 t + \\sin^2 t = 1$?\n4. Can you describe the shape of the curve represented by the equation $x + y = 1$?\n5. Can you think of any values of $t$ that would make the point lie off the curve?\n6. Is the curve represented by $x + y = 1$ a line, circle, parabola, ellipse, or hyperbola? Why?\n7. What would happen if we changed the equation to $x^2 + y^2 = 1$? How would the graph change?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Find the smallest value of $x$ that satisfies the equation $|3x+7|=26$.",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "We can split the expression $|3x+7|=26$ into two separate cases: $3x+7=26$ and $3x+7=-26$. For the first case, solving for $x$ would give us $x=\\frac{26-7}{3}=\\frac{19}{3}$. For the second case, we would get $x=\\frac{-26-7}{3}=\\frac{-33}{3}=-11$. Therefore, $x=\\frac{19}{3}$ and $x=-11$ both satisfy the equation. Since the problem asks for the smallest value of $x$, our solution is $\\boxed{-11}$.",
+    "socratic_questions": "1. How would you begin solving this equation?\n2. Can you think of multiple methods to solve equations involving absolute value?\n3. If you choose to isolate the absolute value expression by using the definition of absolute value, what would be your first step?\n4. What does the absolute value symbol represent in this equation? How does that affect the possible solutions?\n5. After isolating the expression inside the absolute value, what are the two possible equations that need to be solved separately?\n6. How would you solve each of those equations to find the values of $x$?\n7. What is the significance of the word \"smallest\" in the given question? Does that affect the approach to find the solution?\n8. How would you determine if the solutions obtained are valid for the original equation?\n9. Can you think of any other types of equations where absolute value might be involved and a similar thought process would be needed?"
+}

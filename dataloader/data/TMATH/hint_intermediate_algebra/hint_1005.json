@@ -1,0 +1,7 @@
+{
+    "problem": "Solve\n\\[(x^3 + 3x^2 \\sqrt{2} + 6x + 2 \\sqrt{2}) + (x + \\sqrt{2}) = 0.\\]Enter all the solutions, separated by commas.",
+    "level": "Level 4",
+    "type": "Intermediate Algebra",
+    "solution": "We can write the equation as\n\\[(x + \\sqrt{2})^3 + (x + \\sqrt{2}) = 0.\\]Then\n\\[(x + \\sqrt{2})[(x + \\sqrt{2})^2 + 1] = 0,\\]so $x = -\\sqrt{2}$ or $(x + \\sqrt{2})^2 = -1.$  For the latter equation,\n\\[x + \\sqrt{2} = \\pm i,\\]so $x = -\\sqrt{2} \\pm i.$\n\nThus, the solutions are $\\boxed{-\\sqrt{2}, -\\sqrt{2} + i, -\\sqrt{2} - i}.$",
+    "socratic_questions": "1. What is the given equation and what is the first step you would take to solve it?\n2. How can you rewrite the equation in a form that is easier to work with? What transformation did you perform?\n3. What is the factorization you obtained and how did you factor out the common factor?\n4. What values of $x$ make the first factor zero? How did you arrive at those solutions?\n5. What is the equation for the quadratic term $(x + \\sqrt{2})^2 + 1 = 0$? How did you represent it as a perfect square trinomial?\n6. What are the solutions to the quadratic term equation? How did you solve it using imaginary numbers?"
+}

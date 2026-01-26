@@ -1,0 +1,7 @@
+{
+    "problem": "The line $y = \\frac{3}{2} x - 25$ is parameterized by $(x,y) = (f(t),15t - 7).$  Enter the function $f(t).$",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "Let $y = 15t - 7.$  Then\n\\[15t - 7 = \\frac{3}{2} x - 25.\\]Solving for $x,$ we find $x = \\boxed{10t + 12}.$",
+    "socratic_questions": "1. How is the line $y=\\frac{3}{2}x-25$ parameterized by $(x,y)=(f(t),15t-7)$?\n2. Can you explain why we set $y=15t-7$ in the parameterization of the line?\n3. How did we solve for $x$ in the equation $15t-7=\\frac{3}{2}x-25$?\n4. What is the resulting function of $f(t)$ when solving for $x$ in terms of $t$?\n5. How can we verify that our answer for $f(t)$ is correct?\n6. Are there any alternative parameterizations for the same line? If so, how do they differ and which one might be more convenient to use?"
+}

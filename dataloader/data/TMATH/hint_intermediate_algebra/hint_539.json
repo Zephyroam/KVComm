@@ -1,0 +1,7 @@
+{
+    "problem": "What is  $(-1)^1+(-1)^2+\\cdots+(-1)^{2006}$ ?",
+    "level": "Level 1",
+    "type": "Intermediate Algebra",
+    "solution": "Because $(-1)^k$ equals 1 if $k$ is even and $-1$ if $k$ is odd, the sum can be written as \\[\n(-1+1)+(-1+1)+\\cdots+(-1+1) =0+0+\\cdots+0=\\boxed{0}.\n\\]",
+    "socratic_questions": "1. What is the pattern in the sequence $(-1)^1, (-1)^2, (-1)^3, \\dots, (-1)^{2006}$?\n2. Can you simplify the expression $(-1)^1+(-1)^2+\\cdots+(-1)^{2006}$ using the rules of exponents?\n3. How can the expression $(-1)^1+(-1)^2+\\cdots+(-1)^{2006}$ be rewritten using only addition and subtraction?\n4. What is the value of $(-1+1)+(-1+1)+\\cdots+(-1+1)$? How does this relate to the original expression?\n5. Can you explain why the sum of the sequence is equal to zero? What property or rule supports this conclusion?\n6. Are there any other sequences or patterns that can be solved using similar reasoning or steps?"
+}

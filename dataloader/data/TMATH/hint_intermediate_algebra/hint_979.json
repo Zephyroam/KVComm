@@ -1,0 +1,7 @@
+{
+    "problem": "The equation $x^3 - 9x^2 + 8x +2 = 0$ has three real roots $p$, $q$, $r$.  Find $\\frac{1}{p^2} + \\frac{1}{q^2} + \\frac{1}{r^2}$.",
+    "level": "Level 4",
+    "type": "Intermediate Algebra",
+    "solution": "From Vieta's relations, we have $p+q+r = 9$, $pq+qr+pr = 8$ and $pqr = -2$. So \\begin{align*}\n\\frac{1}{p^2} + \\frac{1}{q^2} + \\frac{1}{r^2} = \\frac{(pq + qr + rp)^2 - 2 (p + q + r)(pqr)}{(pqr)^2} = \\frac{8^2 - 2 \\cdot 9 \\cdot (-2)}{(-2)^2} = \\boxed{25}.\n\\end{align*}",
+    "socratic_questions": "1. How many real roots does the equation $x^3 - 9x^2 + 8x +2 = 0$ have?\n2. Can you explain what Vieta's relations are and how they are used to find the sum and product of the roots?\n3. According to Vieta's relations, what are the values of $p+q+r$, $pq+qr+pr$, and $pqr$ for this equation?\n4. How can we use these values to find $\\frac{1}{p^2} + \\frac{1}{q^2} + \\frac{1}{r^2}$?\n5. Can you calculate $\\frac{1}{p^2} + \\frac{1}{q^2} + \\frac{1}{r^2}$ using the given values and Vieta's relations?\n6. Is there any special reasoning or property that allows us to simplify the expression for $\\frac{1}{p^2} + \\frac{1}{q^2} + \\frac{1}{r^2}$? If so, what is it?\n7. What is the final result for $\\frac{1}{p^2} + \\frac{1}{q^2} + \\frac{1}{r^2}$?"
+}

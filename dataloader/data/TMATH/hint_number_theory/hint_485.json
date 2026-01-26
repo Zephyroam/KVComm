@@ -1,0 +1,7 @@
+{
+    "problem": "Express .$\\overline{28}$ as a common fraction.",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "If $x=.\\overline{28}$, then $100x=28.\\overline{28}$. Notice that we can eliminate the repeating decimal by subtracting $.\\overline{28}$ from $28.\\overline{28}$. We have $100x-x=99x=28$, so $x=\\frac{28}{99}$. The repeating decimal can be expressed as the fraction $\\boxed{\\frac{28}{99}}$.",
+    "socratic_questions": "1. What is a repeating decimal and how is it typically represented or written?\n2. Can you describe how to convert a repeating decimal into a fraction using algebraic manipulation?\n3. Is it possible to convert any repeating decimal into a fraction? Are there any limitations or restrictions?\n4. How would you verify that the fraction obtained from a repeating decimal is in lowest terms?\n5. Can you think of other situations or contexts where converting a repeating decimal to a fraction may be useful or important?\n6. Are there any patterns or properties of repeating decimals that can be generalized or applied to other mathematical concepts?"
+}

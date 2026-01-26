@@ -1,0 +1,7 @@
+{
+    "problem": "Find the curve defined by the equation\n\\[r = 2.\\](A) Line\n(B) Circle\n(C) Parabola\n(D) Ellipse\n(E) Hyperbola\n\nEnter the letter of the correct option.",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "Every point on the graph has a distance of 2 from the origin, so the graph is a circle.\n\n[asy]\nunitsize(2 cm);\n\ndraw(Circle((0,0),1),red);\ndraw((-1.2,0)--(1.2,0));\ndraw((0,-1.2)--(0,1.2));\n\nlabel(\"$r = 2$\", (1.2,0.8), red);\n[/asy]\n\nThe answer is $\\boxed{\\text{(B)}}.$",
+    "socratic_questions": "1. Can you describe the equation given and its significance in terms of distance from the origin?\n2. What geometric shape has the property that every point on its graph has a fixed distance from a given point (in this case, the origin)?\n3. Based on the information given, which shape(s) listed as options could potentially satisfy this property?\n4. What are the defining characteristics of a circle?\n5. How does the given equation match the characteristics of a circle?\n6. What are the other options listed? Can any of those options satisfy the given property?\n7. Can you think of any other equations that could potentially represent a circle-like shape? How would you analyze those equations to determine if they indeed represent a circle?"
+}

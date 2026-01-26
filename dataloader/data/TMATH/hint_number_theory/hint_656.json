@@ -1,0 +1,7 @@
+{
+    "problem": "How many 0's are located to the right of the decimal point and before the first non-zero digit in the terminating decimal representation of $\\frac{1}{2^5\\cdot5^8}$?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "A terminating decimal can be written in the form $\\frac{a}{10^b}$, where $a$ and $b$ are integers. So we try to get a denominator of the form $10^b$: $$\\frac{1}{2^5\\cdot5^8}\\cdot\\frac{2^3}{2^3}=\\frac{2^3}{10^8}=\\frac{8}{10^8}.$$The fraction $\\frac{8}{10^8}$ means that there are 8 digits to the right of the decimal point, the last of which is 8. So there are $\\boxed{7}$ zeroes between the decimal point and the first non-zero digit.",
+    "socratic_questions": "1. What is the general form of a terminating decimal representation?\n2. How can we rewrite the fraction $\\frac{1}{2^5\\cdot5^8}$ to have a denominator in the form $10^b$?\n3. What is the significance of having a denominator of $10^8$ in the rewritten fraction?\n4. How many digits are there to the right of the decimal point in the fraction $\\frac{8}{10^8}$?\n5. What is the last digit to the right of the decimal point in the fraction $\\frac{8}{10^8}$?\n6. How many zeroes are there between the decimal point and the first non-zero digit in the fraction $\\frac{1}{2^5\\cdot5^8}$?"
+}

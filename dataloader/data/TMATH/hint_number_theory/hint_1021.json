@@ -1,0 +1,7 @@
+{
+    "problem": "What is the smallest digit that is never found in the units place of an even number?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "An even number has a units digit of 0, 2, 4, 6, or 8, so the smallest digit not in that list of possible units digits is $\\boxed{1}$.",
+    "socratic_questions": "1. Can you list all the possible digits that could appear in the units place of an even number?\n2. What is the smallest digit that could appear in the units place of an even number?\n3. Is there any digit that can never appear in the units place of an even number? Why or why not?\n4. If a digit can never appear in the units place of an even number, what is the smallest such digit?\n5. How can we prove that the smallest digit that can never appear in the units place of an even number is in fact 1?\n6. Are there any other interesting patterns or properties of digits in the units place of even numbers that we can explore?"
+}

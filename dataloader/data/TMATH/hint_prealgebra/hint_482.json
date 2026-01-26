@@ -1,0 +1,7 @@
+{
+    "problem": "How many positive two-digit integers are multiples of 5 and of 7?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Since 5 and 7 share no factors other than 1, any number that is a multiple of both 5 and 7 must be a multiple of $5\\cdot7=35$. Thus, we want to find how many 2-digit integers are multiples of 35. The only two-digit multiples of 35 are 35 and 70, so our answer is $\\boxed{2}$ integers.",
+    "socratic_questions": "1. Can you explain what it means for a number to be a multiple of another number?\n2. How can we determine if a number is a multiple of 5?\n3. How can we determine if a number is a multiple of 7?\n4. Combining the previous two questions, what kind of number would be a multiple of both 5 and 7?\n5. What is the least common multiple of 5 and 7?\n6. Can you find any two-digit multiples of 35? If so, how many?\n7. How did you identify the multiples of 35?\n8. What is the relationship between multiples of 35 and integers that are multiples of 5 and 7?\n9. Can you generalize your findings to find the number of positive two-digit integers that are multiples of any two given numbers?"
+}

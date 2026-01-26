@@ -1,0 +1,7 @@
+{
+    "problem": "Add $704_{12} + 159_{12}$.  Express your answer in base $12$, using $A$ for $10$ and $B$ for $11$ if necessary.",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "When adding the numbers in base $12$, we start by adding the rightmost digits as we do in normal addition. Since $4 + 9$ yields a residue of $1$ upon division by $12$, we write down a $1$ as the rightmost digit of the sum, and carry-over a $1$. The remaining two digits do not yield and carry-overs, so we can add them as normal. Carrying out this addition, we find that:$$ \\begin{array}{c@{}c@{\\;}c@{}c@{}c@{}c} & & & \\stackrel{}{7} & \\stackrel{1}{0} & \\stackrel{}{4}_{12} \\\\ &+ & & 1 & 5 & 9_{12} \\\\ \\cline{2-6} && & 8 & 6 & 1_{12} \\\\ \\end{array} .$$Thus, our answer is $\\boxed{861_{12}}$.",
+    "socratic_questions": "1. What is the first step in adding numbers in base 12?\n2. How do we handle digits that yield a residue greater than 11 when added together in base 12?\n3. Can we add the remaining digits in the same way we add digits in base 10?\n4. What is the significance of carrying over a digit in base 12 addition?\n5. How do we express the answer in base 12 when the sum contains digits greater than 9?\n6. Can you think of any other examples where you would use similar steps and strategies to add numbers in different bases?"
+}

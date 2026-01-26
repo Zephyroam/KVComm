@@ -1,0 +1,7 @@
+{
+    "problem": "The solution to the inequality\n\\[y = -x^2 + ax + b \\le 0\\]is $(-\\infty,-3] \\cup [5,\\infty).$  Find the vertex of the parabola $y = -x^2 + ax + b.$",
+    "level": "Level 4",
+    "type": "Intermediate Algebra",
+    "solution": "The roots of the quadratic are $-3$ and 5, so\n\\[y = -x^2 + ax + b = -(x + 3)(x - 5) = -x^2 + 2x + 15 = -(x - 1)^2 + 16.\\]Thus, the vertex is $\\boxed{(1,16)}.$",
+    "socratic_questions": "1. Can you describe the meaning of the provided solution to the inequality $y=-x^2+ax+b\\leq0$? \n2. How does finding the vertex of the parabola $y=-x^2+ax+b$ relate to solving the inequality? \n3. Do you know a formula or method to find the vertex of a parabola? \n4. What is the general form of a quadratic equation, and how can it be used to find the vertex? \n5. How is the vertex related to the zeros, or roots, of a quadratic equation? \n6. Can you explain why the vertex of the parabola in this problem is at $(1,16)$? \n7. Can you identify any other key features of the parabola, such as its axis of symmetry or maximum/minimum value? \n8. Are there any other methods or strategies that can be used to solve inequalities involving quadratics? \n9. What happens if the inequality has only one solution, or no real solutions?"
+}

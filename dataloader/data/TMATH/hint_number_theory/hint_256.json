@@ -1,0 +1,7 @@
+{
+    "problem": "Palindromes are numbers that read the same backwards and forwards, like 5665. What is the least possible positive four-digit palindrome that is divisible by 3?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "The smallest four-digit palindromes have $1$ on each end.  $1001$ is not divisible by $3$, nor is $1111$, but $\\boxed{1221}$ is, so it is the smallest possible.",
+    "socratic_questions": "1. What is a palindrome and why is it important in this question?\n2. What is the definition of a four-digit palindrome and how would you construct one?\n3. How can we determine if a number is divisible by 3? \n4. Can you explain the reasoning behind starting with palindromes that have 1 on each end?\n5. How did you determine that the palindromes 1001 and 1111 are not divisible by 3?\n6. How did you determine that 1221 is the smallest four-digit palindrome that is divisible by 3? \n7. Can you think of any other methods or strategies to find the smallest four-digit palindrome divisible by 3?"
+}

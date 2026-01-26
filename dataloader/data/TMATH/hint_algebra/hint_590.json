@@ -1,0 +1,7 @@
+{
+    "problem": "For real numbers $x$, let \\[f(x) = \\left\\{\n\\begin{array}{cl}\nx+2 &\\text{ if }x>3, \\\\\n2x+a &\\text{ if }x\\le 3.\n\\end{array}\n\\right.\\]What must the value of $a$ be to make the piecewise function continuous (which means that its graph can be drawn without lifting your pencil from the paper)?",
+    "level": "Level 5",
+    "type": "Algebra",
+    "solution": "For the function to be continuous, both of the two expressions must have the same value when $x=3$. Therefore, $3+2=2(3)+a$. Solving, we get that $a=\\boxed{-1}$.",
+    "socratic_questions": "1. What does it mean for a function to be continuous?\n2. In which intervals is the function defined differently?\n3. How can we ensure continuity of the function at the point where the intervals change?\n4. What does it mean for a function to be continuous at a specific point?\n5. How can we determine the value of $a$ such that the function is continuous at $x = 3$?\n6. What are the conditions that need to be met for a function to be continuous at a specific point?\n7. What happens to the function when $x$ is greater than $3$?\n8. What happens to the function when $x$ is less than or equal to $3$?\n9. How can we express the condition for continuity mathematically?\n10. Can you write down the equation that represents the continuity of $f(x)$ at $x = 3$?\n11. How can we solve the equation to find the value of $a$?"
+}

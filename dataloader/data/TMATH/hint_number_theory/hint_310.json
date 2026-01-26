@@ -1,0 +1,7 @@
+{
+    "problem": "What is the last digit of the decimal expansion of $\\frac{1}{2^{10}}$?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "Multiply numerator and denominator of $\\dfrac{1}{2^{10}}$ by $5^{10}$ to see that $\\dfrac{1}{2^{10}}$ is equal to $\\frac{5^{10}}{10^{10}}$. This shows that the decimal representation of $\\dfrac{1}{2^{10}}$ is obtained by moving the decimal point ten places to the left in the decimal representation of $5^{10}$. Since $5^{10}$ has a units digit of 5 (as does every positive integer power of 5), we find that the last digit in the decimal expansion of $\\dfrac{1}{2^{10}}$ is $\\boxed{5}$.",
+    "socratic_questions": "1. What do you understand by \"the last digit\" in the decimal expansion of a fraction?\n2. How can we express $\\frac{1}{2^{10}}$ in a different form using the method mentioned in the prompt?\n3. Why did we multiply the numerator and denominator of $\\frac{1}{2^{10}}$ by $5^{10}$? What does this step help us achieve?\n4. By performing the multiplication mentioned, what does $\\frac{1}{2^{10}}$ become in terms of powers of 10 and 5?\n5. What does it mean to move the decimal point ten places to the left in the decimal representation of $5^{10}$?\n6. What is the units digit of $5^{10}$ and why is it the same for every positive integer power of 5?\n7. What does this information tell us about the last digit in the decimal expansion of $\\frac{1}{2^{10}}$?\n8. Based on the above discussion, what is the last digit of the decimal expansion of $\\frac{1}{2^{10}}$?"
+}

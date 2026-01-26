@@ -1,0 +1,7 @@
+{
+    "problem": "The area of this region formed by six congruent squares is 294 square centimeters. What is the perimeter of the region, in centimeters?\n\n[asy]\ndraw((0,0)--(-10,0)--(-10,10)--(0,10)--cycle);\ndraw((0,10)--(0,20)--(-30,20)--(-30,10)--cycle);\ndraw((-10,10)--(-10,20));\ndraw((-20,10)--(-20,20));\ndraw((-20,20)--(-20,30)--(-40,30)--(-40,20)--cycle);\ndraw((-30,20)--(-30,30));\n[/asy]",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "If the area formed by 6 congruent squares is 294, the area formed by one of these squares is $294/6 = 49$. Thus, the side of each square is 7.\n\nThere are 8 horizontal sides and 6 vertical sides in the perimeter, for a total of 14 sides. Thus, the perimeter of this region is $14\\cdot 7 = \\boxed{98}$.",
+    "socratic_questions": "1. Can you describe the first step in finding the perimeter of the region formed by these congruent squares?\n2. How can we determine the area of one of the congruent squares?\n3. What can we say about the side length of each square based on the given area?\n4. How many horizontal sides are there in the perimeter of the region? How about vertical sides?\n5. What is the total number of sides in the perimeter?\n6. How can we calculate the perimeter using the side length and total number of sides?"
+}

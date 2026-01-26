@@ -1,0 +1,7 @@
+{
+    "problem": "Find the value of $x$ such that $\\sqrt{x - 2} = 8$.",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Squaring both sides of the equation $\\sqrt{x - 2} = 8$, we get $x - 2 = 8^2 = 64$, so $x = 64 + 2 = \\boxed{66}$.",
+    "socratic_questions": "1. What is the given equation and what is the variable we are solving for?\n2. What does it mean to square both sides of an equation?\n3. Is squaring both sides of an equation always a valid step? If not, what are some cases where it is not valid?\n4. How did we simplify the left-hand side of the equation after squaring both sides?\n5. What is the value we obtained for x after solving the equation?\n6. Can you check if our solution is reasonable by plugging it back into the original equation?"
+}

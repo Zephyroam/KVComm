@@ -1,0 +1,7 @@
+{
+    "problem": "Real numbers $a$ and $b$ satisfy the equations $3^a=81^{b+2}$ and $125^b=5^{a-3}$.  What is $ab$?",
+    "level": "Level 5",
+    "type": "Algebra",
+    "solution": "The given equations are equivalent, respectively, to \\[\n3^a=3^{4(b+2)}\\quad\\text{and}\\quad 5^{3b}=5^{a-3}.\n\\] Therefore $a=4(b+2)$ and $3b=a-3$.  The solution of this system is $a=-12$ and $b=-5$, so $ab=\\boxed{60}$.",
+    "socratic_questions": "1. Can you simplify the equations and express them using the same base?\n2. What property of exponents allows us to equate the exponents when the bases are equal? How does it apply in this case?\n3. How can we simplify the equations further using the properties of exponents?\n4. Can you find the values of $a$ and $b$ that satisfy the simplified equations?\n5. Once you find the values of $a$ and $b$, how can you determine the value of $ab$?\n6. Are there any restrictions or special cases we need to consider when solving these equations?\n7. Can you think of other similar problems where the same concepts and strategies can be applied?\n8. How can understanding exponent properties and simplifying equations help in solving more complex algebraic problems?\n9. What insights does solving this problem offer about the relationship between exponents and real numbers?\n10. Can you explain the significance of the value of $ab$ in the context of the given equations?"
+}

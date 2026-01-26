@@ -1,0 +1,7 @@
+{
+    "problem": "Carla rotated point $A$ 420 degrees clockwise about point $B$ and it landed at point $C$. Devon rotated the original point $A$ $x$ degrees counterclockwise about point $B$ and it also landed at point $C$. If $x<360$, what is the value of $x$?",
+    "level": "Level 3",
+    "type": "Geometry",
+    "solution": "Carla's rotation was equivalent to one of $60^{\\circ}$ clockwise. To get to the same point by going counter-clockwise, we have to go $360^{\\circ}$ minus Carla's rotation, or $\\boxed{300^{\\circ}}$.",
+    "socratic_questions": "1. Can you describe what point $C$ represents after Carla's rotation of point $A$ 420 degrees clockwise about point $B$?\n2. How would you describe the relationship between the initial point $A$ and point $C$ after Carla's rotation?\n3. If Devon's rotation of the original point $A$ landed on the same point $C$, which direction did Devon rotate the point? \n4. Based on the information given, can you determine the exact angle of Devon's counterclockwise rotation?\n5. What is the relationship between Carla's clockwise rotation and Devon's counterclockwise rotation? \n6. Why is it necessary to subtract Carla's rotation from 360 degrees to find the angle of Devon's rotation?\n7. What is the value of $x$ if Devon's rotation is less than 360 degrees counterclockwise?"
+}

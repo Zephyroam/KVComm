@@ -1,0 +1,7 @@
+{
+    "problem": "How many different prime factors does $20!$ have? (Reminder: If $n$ is a positive integer, then $n!$ stands for the product $1\\cdot 2\\cdot 3\\cdot \\cdots \\cdot (n-1)\\cdot n$.)",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "$20!=20\\cdot19\\cdot18\\cdot...\\cdot3\\cdot2\\cdot1$ is divisible by every prime less than 20. There are $\\boxed{8}$ such primes: 2, 3, 5, 7, 11, 13, 17, 19.",
+    "socratic_questions": "1. What is the definition of a prime factor?\n2. How can we find the prime factors of a number?\n3. What is the prime factorization of 20?\n4. How many prime factors are there in 20! if we only consider primes less than 20?\n5. How do we know that 20! is divisible by every prime less than 20?\n6. Can we apply the same method to find the number of prime factors in other factorials?\n7. What is the significance of knowing the number of prime factors in a factorial?"
+}

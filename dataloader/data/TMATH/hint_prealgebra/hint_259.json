@@ -1,0 +1,7 @@
+{
+    "problem": "A toy store manager received a large order of Mr. Slinkums just in time for the holidays. The manager places $20\\%$ of them on the shelves, leaving the other 120 Mr. Slinkums in storage. How many Mr. Slinkums were in this order?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "If $20\\%$ of the toys were put on the shelves, the $80\\%$ of the toys were left in storage.  Therefore, we are given $80\\% T=120$, where $T$ is the number of toys in the order.  Rewriting $80\\%$ as $\\frac{4}{5}$ and multiplying both sides by $\\frac{5}{4}$, we find that $T=120\\cdot\\frac{5}{4}=30\\cdot 5=\\boxed{150}$.",
+    "socratic_questions": "1. What is the problem presented in this scenario?\n2. How much of the Mr. Slinkums were placed on the shelves by the manager?\n3. What percentage of the toys were left in storage after the manager placed $20\\%$ on the shelves?\n4. Can we express the number of toys in the order using a variable? If so, what would it be?\n5. What equation can we write to represent the given information in the problem?\n6. How did we come up with the equation $80\\% T=120$?\n7. How can we solve for $T$ using the equation $80\\% T=120$?\n8. What is the final answer to the problem?"
+}

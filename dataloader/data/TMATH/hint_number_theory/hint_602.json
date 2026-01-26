@@ -1,0 +1,7 @@
+{
+    "problem": "What is the greatest common divisor of $654321$ and $543210$?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "By the Euclidean Algorithm, \\begin{align*}\\text{gcd}\\,(654321,543210) &= \\text{gcd}\\,(654321-543210,543210) \\\\\n&= \\text{gcd}\\,(111111,543210) \\\\\n&= \\text{gcd}\\,(5 \\cdot 111111 - 543210, 111111) \\\\\n&= \\text{gcd}\\,(12345, 111111) \\\\\n&= \\text{gcd}\\,(12345, 12345 \\cdot 10 - 111111) \\\\\n&= \\text{gcd}\\,(12345, 12339) \\\\\n&= \\text{gcd}\\,(12345-12339, 12339) \\\\\n&= \\text{gcd}\\,(6,12339). \\end{align*}We notice that $3 | 12339$ as $3 | 1+2+3+3+9 = 18$, but $12339$ is odd and thus not divisible by $6$. The answer is $\\boxed{3}$.",
+    "socratic_questions": "1. What is the first step in solving this problem using the Euclidean Algorithm?\n2. Can you explain why we subtracted the numbers in each step of the algorithm?\n3. How did we determine which number to subtract from the other in each step?\n4. What did we do after performing the subtraction?\n5. How did we determine the greatest common divisor in the final step?\n6. Can you think of any other numbers for which you can use the Euclidean Algorithm to find the greatest common divisor?\n7. Is there a more efficient way to find the greatest common divisor of these two numbers? If so, what is it?\n8. How does the Euclidean Algorithm help in finding the greatest common divisor in general?"
+}

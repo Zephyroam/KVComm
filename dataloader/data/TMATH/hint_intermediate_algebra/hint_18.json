@@ -1,0 +1,7 @@
+{
+    "problem": "When a polynomial is divided by $2x^2 - 7x + 18,$ what are the possible degrees of the remainder?  Enter all the possible values, separated by commas.",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "In general, when a polynomial is divided by a polynomial of degree $d,$ then the possible degrees of the remainder are 0, 1, 2, $\\dots,$ $d - 1.$  Therefore, the possible degrees of the remainder here are $\\boxed{0,1}.$",
+    "socratic_questions": "1. Can you describe what the process of dividing a polynomial by another polynomial entails?\n2. What properties of polynomials can we use to determine the degrees of the remainder after division?\n3. Considering the degree of the divisor polynomial in this case is 2, what are the possible degrees for the remainder? \n4. Can you think of any examples where the remainder has a degree of 0? How about a degree of 1? \n5. How can we determine the degree of the remainder after the division is done? \n6. Are there any other scenarios where polynomial division could result in remainder degrees of 0 and 1? "
+}

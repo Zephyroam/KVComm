@@ -1,0 +1,7 @@
+{
+    "problem": "Compute without using a calculator: $8!-7!$",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "$8! - 7! = 8 \\times 7! - 7! = 7!(8 - 1) = 7! \\times 7 = 5040 \\times 7 = \\boxed{35,\\!280}$.",
+    "socratic_questions": "1. What is the definition of factorial?\n2. Can you demonstrate how to calculate 7!?\n3. How can you use the distributive property to simplify 8! - 7!?\n4. What is the significance of 7! in the expression 8! - 7!?\n5. Can you factor out 7! from the expression 8! - 7!?\n6. How can you simplify the expression after factoring out 7!?\n7. What is the final result when you compute 8! - 7! without using a calculator?\n8. Can you think of other examples in which you can use the same simplification methods to simplify expressions involving factorials?"
+}

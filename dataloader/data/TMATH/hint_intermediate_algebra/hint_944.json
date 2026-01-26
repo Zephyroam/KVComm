@@ -1,0 +1,7 @@
+{
+    "problem": "How many times do the graphs of the line $5x + 8y = 10$ and the circle $x^2 + y^2 = 1$ intersect?",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "Solving for $y$ in $5x + 8y = 10,$ we find $y = \\frac{10 - 5x}{8}.$  Substituting into $x^2 + y^2 = 1,$ we get\n\\[x^2 + \\left( \\frac{10 - 5x}{8} \\right)^2 = 1.\\]This simplifies to $89x^2 - 100x + 36 = 0.$  The discriminant of this quadratic is $100^2 - 4 \\cdot 89 \\cdot 36 = -2816.$  Since the discriminant is negative, the quadratic has no real roots.   Therefore, the line and circle intersect at $\\boxed{0}$ points.",
+    "socratic_questions": "1. What is the equation of the line?\n2. What is the equation of the circle?\n3. How can we determine the intersection points between a line and a circle?\n4. How can we represent the line equation in terms of one variable?\n5. What is the value of the discriminant of the resulting quadratic equation?\n6. What does a negative discriminant indicate about the solutions of the quadratic equation?\n7. What is the significance of the fact that the discriminant is negative in this case?\n8. What does it mean for two mathematical objects to intersect?\n9. How many intersection points do the line and the circle have?\n10. Can you explain why the line and the circle have no intersection points based on our calculations?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "What is the degree measure of the supplement of the complement of a 42-degree angle?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "By definition, the complement of an angle $\\alpha$ is $90^\\circ - \\alpha$, and the supplement of an angle $\\alpha$ is $180^\\circ - \\alpha$.\n\nThus, the complement of a 42-degree angle is $90 - 42 = 48$ degrees, and the supplement of a 48-degree angle is $180 - 48 = \\boxed{132}$ degrees.",
+    "socratic_questions": "1. What is the definition of a complement? How is it related to the original angle?\n2. What is the definition of a supplement? How does it relate to the original angle?\n3. Can you explain in your own words what it means for two angles to be complementary?\n4. Can you explain in your own words what it means for two angles to be supplementary?\n5. Using the definitions, can you determine the complement of a 42-degree angle?\n6. Using the definitions, can you determine the supplement of the complement of a 42-degree angle?\n7. Can you find the degree measure of the supplement of the complement of a 42-degree angle?"
+}

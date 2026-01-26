@@ -1,0 +1,7 @@
+{
+    "problem": "Three real numbers $a,b,$ and $c$ satisfy the equations $a+b+c=2$, $ab+ac+bc=-7$ and $abc=-14$.  What is the largest of the three numbers?  Express your answer in simplest radical form.",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "By Vieta's, $a$, $b$, and $c$ are the solutions to the cubic equation  \\[x^3 - 2x^2 - 7x + 14 = 0.\\] We group and factor as follows: \\begin{align*}\nx^3 - 2x^2 - 7x + 14 = 0&=(x^3 - 7x) - (2x^2 - 14)\\\\\n&=x(x^2 - 7) - 2(x^2 - 7)\\\\\n&=(x-2)(x^2 - 7).\n\\end{align*} Thus, the three solutions are $x=2$, $x=\\sqrt{7}$, and $x=-\\sqrt{7}$.  The largest of these numbers is $\\boxed{\\sqrt{7}}$.",
+    "socratic_questions": "1. According to Vieta's formula, what can we infer about the relationship between the three unknowns $a$, $b$, and $c$, and the coefficients of the cubic equation $x^3-2x^2-7x+14=0$? \n2. How does factoring the given cubic equation help us in finding the largest of the three numbers? \n3. After factoring the cubic equation, we find that the roots are $x=2$, $x=\\sqrt{7}$, and $x=-\\sqrt{7}$. How can we determine which of these roots is the largest? \n4. Can we verify that the largest root is indeed greater than the other two roots? If so, how? \n5. Are there any other methods or techniques we could have used to find the largest of the three numbers? If so, what are they and how do they compare to the approach we used here?"
+}

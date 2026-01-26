@@ -1,0 +1,7 @@
+{
+    "problem": "Evaluate $\\left|{-4+\\frac{7}{6}i}\\right|$.",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "We have $\\left|{-4+\\frac{7}{6}i}\\right|=\\frac{1}{6}|{-24+7i}|=\\frac{1}{6}\\sqrt{(-24)^2+7^2}=\\boxed{\\frac{25}{6}}$",
+    "socratic_questions": "1. What is the definition of the absolute value of a complex number?\n2. How can we rewrite the given expression as a complex number inside the absolute value?\n3. What is the relationship between the absolute value and the magnitude of a complex number?\n4. What is the magnitude of the complex number (-4 + 7/6i)?\n5. How do we calculate the magnitude of a complex number using its real and imaginary parts?\n6. What are the real and imaginary parts of the complex number (-4 + 7/6i)?\n7. How can we use the Pythagorean theorem to calculate the magnitude of a complex number?\n8. Can you compute the square of the magnitude of the complex number (-4 + 7/6i)?\n9. Can you calculate the square root of the sum of the squares of the real and imaginary parts of (-4 + 7/6i)?\n10. Can you simplify the expression to find the final value of |{-4+7/6i}|?"
+}

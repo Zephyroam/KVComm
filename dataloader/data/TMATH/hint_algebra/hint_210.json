@@ -1,0 +1,7 @@
+{
+    "problem": "What is the sum of the first ten positive multiples of $13$?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "The first ten positive multiples of 13 are 13, $13 \\cdot 2$, $\\dots$, $13 \\cdot 10$, so we want to find the sum $13 + 13 \\cdot 2 + \\dots + 13 \\cdot 10 = 13 \\cdot (1 + 2 + \\dots + 10)$.\n\nFor all $n$, $1 + 2 + \\dots + n = n(n + 1)/2$, so $13 \\cdot (1 + 2 + \\dots + 10) = 13 \\cdot 10 \\cdot 11/2 = \\boxed{715}$.",
+    "socratic_questions": "1. Can you list the first ten positive multiples of 13?\n2. What pattern do you notice in the multiples of 13?\n3. How can you find the sum of these ten multiples?\n4. Is there a formula or method you can apply to calculate the sum of a given number of multiples?\n5. Can you calculate the sum of the first ten multiples of 13 using the formula/method you mentioned earlier?\n6. Are there any alternative approaches you can think of to find the sum of these multiples?\n7. How does the sum change if we consider a different number of multiples?\n8. Can you generalize a formula or pattern for finding the sum of any number of multiples of 13?"
+}

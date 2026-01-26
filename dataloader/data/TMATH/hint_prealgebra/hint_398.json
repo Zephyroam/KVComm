@@ -1,0 +1,7 @@
+{
+    "problem": "Rounded to 2 decimal places, what is $\\frac{7}{9}$?",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "Calculating, $\\frac{7}{9}=7\\div 9=0.7777\\cdots=0.\\overline{7}$.  Rounded to 2 decimal places, $\\frac{7}{9}$ is $\\boxed{0.78}$.",
+    "socratic_questions": "1. Can you explain the concept of rounding to two decimal places?\n2. How do you convert a fraction into a decimal?\n3. What is the decimal representation of 7 divided by 9?\n4. How would you round the decimal 0.7777... to two decimal places?\n5. Can you explain what the notation 0.78 means when rounded to two decimal places?\n6. Are there any other examples where you would need to round a decimal to two decimal places? Can you provide some examples?"
+}

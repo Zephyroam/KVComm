@@ -1,0 +1,7 @@
+{
+    "problem": "Simplify $(-3-2i)-(1+4i)$.",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "$(-3-2i)-(1+4i)= -3 -2i -1 - 4i= \\boxed{-4-6i}$.",
+    "socratic_questions": "1. What is the first step to simplify the expression $(-3-2i)-(1+4i)$?\n2. Can you explain the different methods available to simplify complex number expressions like this one?\n3. If you choose to distribute the negative sign, how would you apply it to each term inside the parentheses?\n4. Why is it possible to combine the real and imaginary parts separately in this expression?\n5. What is the simplified form of $-3-2i$ and $1+4i$ respectively?\n6. How do you combine the simplified forms of $-3-2i$ and $1+4i$ to get the final answer?\n7. Can you think of other complex number expressions where similar steps and thinking would be useful to simplify them?"
+}

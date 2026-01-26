@@ -1,0 +1,7 @@
+{
+    "problem": "Each letter of the alphabet is assigned a value $(A=1, B=2, C=3, ..., Z=26)$. The product of a four-letter list is the product of the values of its four letters. The product of the list $ADGI$ is $(1)(4)(7)(9) = 252$. What is the only other four-letter list with a product equal to the product of the list $PQRS$? Write the letters of the four-digit list in alphabetical order.",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "The product of the list $PQRS$ is $(16)(17)(18)(19)=(2^4)(17)(2\\cdot3^2)(19)$. Every value must be at most 26, so we cannot change the primes 17 and 19. However, $(2^4)(2\\cdot3^2)=(2^2\\cdot3)(2^3\\cdot3)=(12)(24)$, which represents $LX$. Thus, the four-letter list with a product equal to that of $PQRS$ is $\\boxed{LQSX}$.",
+    "socratic_questions": "1. Can you describe the first step in solving this problem? What information do you need to consider?\n2. What are the possible values of each letter? How can you use these values to calculate the product?\n3. How did you determine the product of the list $ADGI$? What are the values of the letters in this list?\n4. Why must the product of the other four-letter list be equal to the product of $PQRS$? What is the significance of this requirement?\n5. What can you deduce from the prime factorization of the product of $PQRS$? How does this help in finding the other four-letter list?\n6. How did you identify the letters in the four-letter list $\\boxed{LQSX}$? Can you explain the reasoning behind each letter's value?"
+}

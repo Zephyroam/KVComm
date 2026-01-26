@@ -1,0 +1,7 @@
+{
+    "problem": "Compute without using a calculator: $42!/40!$",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "${42!}/{40!} = \\dfrac{42 \\times 41 \\times 40 \\times 39 \\times \\cdots \\times 1}{40 \\times 39 \\times \\cdots \\times 1} = 42 \\times 41 = \\boxed{1,\\!722}$.",
+    "socratic_questions": "1. What is the definition of factorial notation?\n2. How can we simplify a fraction with factorials in the numerator and denominator?\n3. How can we cancel out common factors between the numerator and denominator?\n4. What is the significance of the number 40 in the given expression?\n5. What are some similar problems that can be solved using the same simplification method?\n6. Can you come up with a different approach to solve this problem without using factorials?"
+}

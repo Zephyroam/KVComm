@@ -1,0 +1,7 @@
+{
+    "problem": "Two distinct primes, each greater than 20, are multiplied. What is the least possible product of these two primes?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "The first two distinct primes greater than 20 are 23 and 29. Therefore, the least possible product is $23\\cdot29=\\boxed{667}$.",
+    "socratic_questions": "1. What is the definition of a prime number?\n2. Can you think of any prime numbers greater than 20?\n3. Why are we looking for distinct primes?\n4. What does it mean for two primes to be distinct?\n5. Why are we interested in finding the least possible product of these primes?\n6. How can we find the product of two numbers?\n7. Can you give an example of finding the product of two primes?\n8. How can we determine which two primes to multiply?\n9. What is the significance of the given statement \"each greater than 20\"?\n10. What is the product of the first two distinct primes greater than 20?"
+}

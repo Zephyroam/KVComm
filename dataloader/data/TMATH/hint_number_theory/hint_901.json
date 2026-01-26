@@ -1,0 +1,7 @@
+{
+    "problem": "How many distinct positive factors does 32 have?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "Since 32 is a power of 2, its only factors are the powers of 2 less than or equal to it.  These are 1, 2, 4, 8, 16, and 32, so there are $\\boxed{6}$ positive factors of 32.",
+    "socratic_questions": "1. What is the definition of a positive factor of a number?\n2. Can you list all the factors of 32?\n3. How did you determine that 32 is a power of 2?\n4. Why are the only factors of 32 the powers of 2 less than or equal to it?\n5. How did you come up with the list of factors 1, 2, 4, 8, 16, and 32?\n6. Can you think of any other numbers that are powers of 2, and if so, what are their factors?"
+}

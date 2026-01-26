@@ -1,0 +1,7 @@
+{
+    "problem": "Given that $x - \\frac{1}{x} = i \\sqrt{2},$ find $x^{2187} - \\frac{1}{x^{2187}}.$",
+    "level": "Level 4",
+    "type": "Intermediate Algebra",
+    "solution": "Squaring $x - \\frac{1}{x} = i \\sqrt{2},$ we get\n\\[x^2 - 2 + \\frac{1}{x^2} = -2.\\]Hence, $x^2 + \\frac{1}{x^2} = 0,$ so $x^4 + 1 = 0,$ or $x^4 = -1.$\n\nThen\n\\[x^{2187} = (x^4)^{546} \\cdot x^3 = x^3,\\]so\n\\begin{align*}\nx^{2187} - \\frac{1}{x^{2187}} &= x^3 - \\frac{1}{x^3} \\\\\n&= \\left( x - \\frac{1}{x} \\right) \\left( x^2 + 1 + \\frac{1}{x^2} \\right) \\\\\n&= \\boxed{i \\sqrt{2}}.\n\\end{align*}",
+    "socratic_questions": "1. Can you describe the first step in solving this problem?\n2. How did you determine the equation $(x - \\frac{1}{x}) = i\\sqrt{2}$ and why is it helpful in finding the value of $x^{2187} - \\frac{1}{x^{2187}}$?\n3. What technique did you use to eliminate the complex term $i$ in the equation $(x - \\frac{1}{x}) = i\\sqrt{2}$?\n4. How did squaring the equation help simplify and solve the problem?\n5. How can you express $x^{2187}$ in terms of $x$ using the equation $(x^4 + 1) = 0$?\n6. What is the relationship between $x^{2187}$ and $x^3$? How did you derive that relationship?\n7. How did you determine the final expression $x^{2187} - \\frac{1}{x^{2187}} = i\\sqrt{2}$ and what does it represent in the context of the problem?"
+}

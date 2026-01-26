@@ -1,0 +1,7 @@
+{
+    "problem": "Add $10_7 + 163_7.$ Express your answer in base 7.",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "We can line up the numbers and add just as we do in base 10.  For example, in the second column we get $1+6=7$, which we carry just as in base 10 by placing the digit 0 in the sum and carrying 1 to the next column. We get $$\n\\begin{array}{c@{}c@{}c@{}c}\n& & 1 & 0_7 \\\\\n+ & 1 & 6 & 3_7 \\\\\n\\cline{2-4}\n& 2 & 0 & 3_7, \\\\\n\\end{array}$$so the sum is $\\boxed{203_7}$",
+    "socratic_questions": "1. How would you begin to add the numbers $10_7$ and $163_7$ in base 7? \n2. What are the different steps involved in adding numbers in base 7? \n3. Can you explain the process of carrying in base 7 addition? How is it similar or different from carrying in base 10 addition? \n4. Why do we line up the numbers according to place value when adding in base 7? Is there a specific reason for this method? \n5. Can you describe the process of adding the digits in each column? How do you handle it when the sum exceeds 6? \n6. Are there any other similar operations or computations that you can think of where the concept of carrying or place value is utilized?"
+}

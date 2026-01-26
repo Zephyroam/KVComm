@@ -1,0 +1,7 @@
+{
+    "problem": "Convert the point $(\\rho,\\theta,\\phi) = \\left( 2, \\pi, \\frac{\\pi}{4} \\right)$ in spherical coordinates to rectangular coordinates.",
+    "level": "Level 3",
+    "type": "Precalculus",
+    "solution": "We have that $\\rho = 12,$ $\\theta = \\pi,$ and $\\phi = \\frac{\\pi}{4},$ so\n\\begin{align*}\nx &= \\rho \\sin \\phi \\cos \\theta = 2 \\sin \\frac{\\pi}{4} \\cos \\pi = -\\sqrt{2}, \\\\\ny &= \\rho \\sin \\phi \\sin \\theta = 2 \\sin \\frac{\\pi}{4} \\sin \\pi = 0, \\\\\nz &= \\rho \\cos \\phi = 2 \\cos \\frac{\\pi}{4} = \\sqrt{2}.\n\\end{align*}Therefore, the rectangular coordinates are $\\boxed{(-\\sqrt{2}, 0, \\sqrt{2})}.$",
+    "socratic_questions": "1. What are the given spherical coordinates and what do they represent? \n2. How do we convert spherical coordinates to rectangular coordinates? \n3. What is the formula for $x$ in terms of $\\rho,$ $\\theta,$ and $\\phi?$ \n4. What is the formula for $y$ in terms of $\\rho,$ $\\theta,$ and $\\phi?$ \n5. What is the formula for $z$ in terms of $\\rho,$ $\\theta,$ and $\\phi?$ \n6. How do we apply the formulas to compute the rectangular coordinates for the given spherical coordinates? \n7. What is the final answer in rectangular coordinates? \n8. Can you think of a real-world scenario where understanding spherical and rectangular coordinates could be useful? \n9. How could we check our answer to ensure the conversion was done correctly?"
+}

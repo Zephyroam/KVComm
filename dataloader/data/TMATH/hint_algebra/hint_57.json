@@ -1,0 +1,7 @@
+{
+    "problem": "Each successive term in the sequence $2048, 512, 128, x,\ny, 2, \\frac 12, \\frac 18,...$ is obtained by multiplying the previous term by a constant. What is the value of $x + y$?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "Call the constant $r$. To get from $2$ to $\\frac{1}{2}$, we multiplied by $r$, so $2r = \\frac{1}{2}$, or $r = \\frac{1}{4}$. To get from 128 to $x$, we multiply by $\\frac{1}{4}$, so $x = 128 \\cdot \\frac{1}{4} = 32$. To get from 32 to $y$, we multiply by $\\frac{1}{4}$, so $y = 32 \\cdot \\frac{1}{4} = 8$. Thus, $x + y = 32 + 8 = \\boxed{40}$.",
+    "socratic_questions": "1. Can you identify the pattern in the sequence? \n2. What is the constant that each term is multiplied by to obtain the next term? \n3. Based on the pattern, what is the value of x? \n4. How can we find the value of y using the pattern and the constant? \n5. Can you explain the reasoning behind your answers for x and y? \n6. If we continue the pattern, what would be the next term in the sequence? \n7. How can we use the pattern to find the value of $x+y$?"
+}

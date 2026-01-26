@@ -1,0 +1,7 @@
+{
+    "problem": "Find the smallest positive integer $x$ which is greater than $1$ and relatively prime to $120$ (recall that relatively prime means that the GCD of $x$ and $120$ is $1$)",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "We observe that the prime factorization of $120$ is equal to $2^3 \\cdot 3 \\cdot 5$.  It is a relatively quick matter to test that $2$, $3$, $4$, $5$, and $6$ share a prime factor with $120$, but $\\boxed{7}$ does not.",
+    "socratic_questions": "1. Can you describe what it means for two numbers to be relatively prime?\n2. How can we determine the prime factorization of 120?\n3. Based on the prime factorization of 120, which numbers will share a prime factor with 120? Are there any exceptions?\n4. What is the smallest positive integer greater than 1 that does not share a prime factor with 120?\n5. How can we verify that this number is indeed relatively prime to 120?\n6. Can you think of any other concepts or problems where we may need to find a number that is relatively prime to another number?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Find the remainder when $8735 + 8736 + 8737 + 8738$ is divided by 11.",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "Reducing each number modulo 11 first, we get \\[8735 + 8736 + 8737 + 8738 \\equiv 1 + 2 + 3 + 4 \\equiv \\boxed{10} \\pmod{11}.\\]",
+    "socratic_questions": "1. What is the concept of finding the remainder when dividing a sum of numbers by a certain divisor?\n2. Can you explain what it means to reduce each number modulo 11? Why is it useful in this problem?\n3. How did you calculate the sum of the reduced numbers and get 10 as the result? Can you walk through the steps?\n4. Is there another way to solve this problem without reducing each number modulo 11? If so, what is it and how does it compare to the previous method?\n5. Are there other similar problems that involve finding remainders? Can you provide an example and discuss the similarities and differences in the approach? \n6. Can you generalize the concept of finding remainders and apply it to other mathematical operations besides addition? How?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "A printer prints 17 pages per minute. How many minutes will it take to print 200 pages? Express your answer to the nearest whole number.",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "$\\frac{200 \\text{ pages}}{17 \\text{ pages per minute}} \\approx \\boxed{12}$ minutes.",
+    "socratic_questions": "1. How would you approach solving this problem step by step?\n2. What is the given rate at which the printer prints pages? Can you express it in terms of pages per minute?\n3. What is the quantity you are trying to find in this problem?\n4. How can you use the given rate and the desired quantity to set up a proportion or equation?\n5. What is the appropriate operation to apply in order to solve the equation or proportion?\n6. Can you evaluate the expression $\\frac{200 \\text{ pages}}{17 \\text{ pages per minute}}$ to find the answer? What is the result rounded to the nearest whole number?\n7. Are there any assumptions or limitations in this problem that need to be considered?"
+}

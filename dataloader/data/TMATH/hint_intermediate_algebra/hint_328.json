@@ -1,0 +1,7 @@
+{
+    "problem": "Let \\[g(x) = \\left\\{ \\begin{aligned} 3x+6 & \\quad \\text{ if } x < 0 \\\\ 2x - 13 & \\quad \\text{ if } x \\ge 0 \\end{aligned} \\right.\\]Find all solutions to the equation $g(x) = 3.$",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "Because $g$ is defined piecewise, we take cases. If $x < 0,$ then we have $3x + 6 = 3,$ which gives $x = -1.$ Since $-1 < 0,$ this is a valid solution. If $x \\ge 0,$ then we have $2x - 13 = 3,$ which gives $x = 8.$ Since $8 \\ge 0,$ this is a valid solution.\n\nThus, the solutions to the equation are $x = \\boxed{-1, 8}.$",
+    "socratic_questions": "1. What is the value of $g(x)$ when $x$ is less than 0? And when $x$ is greater than or equal to 0?\n2. Can you explain why we need to consider two separate cases in order to find the solutions to the equation $g(x) = 3$?\n3. Let's start with the case $x < 0.$ How can we rewrite the equation $g(x) = 3$ in this case? \n4. What steps can we take to solve this linear equation $3x + 6 = 3$? Can you show your work?\n5. What value of $x$ did you find as a solution in the case $x < 0$?\n6. Now let's move on to the case $x \\geq 0.$ How can we rewrite the equation $g(x) = 3$ in this case? \n7. What steps can we take to solve this linear equation $2x - 13 = 3$? Can you show your work?\n8. What value of $x$ did you find as a solution in the case $x \\geq 0$?\n9. Are there any other possible solutions to the equation $g(x) = 3$ that we haven't considered yet? How can we be sure?"
+}

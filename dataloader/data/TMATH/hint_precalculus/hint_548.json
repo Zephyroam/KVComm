@@ -1,0 +1,7 @@
+{
+    "problem": "What is the period of $y = \\sin 5x $?",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "The graph of $y = \\sin 5x$ passes through one full period as $5x$ ranges from $0$ to $2\\pi$, which means $x$ ranges from $0$ to $\\boxed{\\frac{2\\pi}{5}}.$\n\nThe graph of $y = \\sin 5x$ is shown below:\n\n[asy]\nimport TrigMacros;\n\nsize(400);\n\nreal g(real x)\n{\n\treturn sin(5*x);\n}\n\ndraw(graph(g,-3*pi,3*pi,n=700,join=operator ..),red);\ntrig_axes(-3*pi,3*pi+.4,-2,2,pi,1);\nlayer();\nrm_trig_labels(-3, 3, 1);\n[/asy]",
+    "socratic_questions": "1. How would you define the sine function?\n2. What are the key features of the graph of the sine function? \n3. How does the value of the coefficient in front of the x affect the graph of a sine function? \n4. How would you describe a full period of a sine function? \n5. How would you go about finding the period of y = sin(5x)? \n6. What is the formula for the period of a sine function? \n7. Can you use the formula for the period of a sine function to verify the answer to the previous question? \n8. How would the graph of y = sin(5x) differ from the graph of y = sin(x)? \n9. Are there any real-world applications of sine functions? If so, what are they?"
+}

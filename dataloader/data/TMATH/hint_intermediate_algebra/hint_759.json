@@ -1,0 +1,7 @@
+{
+    "problem": "A right triangle has legs $a$ and $b$ and hypotenuse $c.$  Find the largest possible value of\n\\[\\frac{a + b}{c}.\\]",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "By QM-AM,\n\\[\\sqrt{\\frac{a^2 + b^2}{2}} \\ge \\frac{a + b}{2}.\\]Since $a^2 + b^2 = c^2,$\n\\[\\frac{c}{\\sqrt{2}} \\ge \\frac{a + b}{2},\\]so\n\\[\\frac{a + b}{c} \\le \\sqrt{2}.\\]Equality occurs when $a = b,$ so the largest possible value is $\\boxed{\\sqrt{2}}.$",
+    "socratic_questions": "1. Can you explain what a right triangle is and how its sides and hypotenuse are related?\n2. What is the objective of this problem? Can you restate it in your own words?\n3. Have you encountered the QM-AM inequality before? If not, can you explain what it means in this context?\n4. Can you identify any assumptions or conditions needed to apply the QM-AM inequality in this problem?\n5. Can you derive the inequality $\\sqrt{\\frac{a^2 + b^2}{2}} \\ge \\frac{a + b}{2}$? What steps did you use?\n6. How does knowing that $a^2 + b^2 = c^2$ help in solving this problem?\n7. Can you justify the statement $\\frac{c}{\\sqrt{2}} \\ge \\frac{a + b}{2}$?\n8. What is the largest possible value for $\\frac{a + b}{c}$ according to the inequality derived?\n9. When does equality occur in the inequality? What does this mean for the right triangle?\n10. Can you think of any other geometric or algebraic strategies that might be useful for finding the largest possible value of $\\frac{a + b}{c}$?"
+}

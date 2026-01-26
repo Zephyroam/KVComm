@@ -1,0 +1,7 @@
+{
+    "problem": "A rectangle has a perimeter of 64 inches and each side has an integer length. How many non-congruent rectangles meet these criteria?",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "Call the height $h$ and the width $w$. We want to find the number of solutions to $2(w+h)=64$ or $w+h=32$. The solutions to this are  \\[\n\\{(1,31),(2,30),\\ldots,(16,16),\\ldots,(31,1)\\}.\n\\] There are 31 solutions to this, but we are double-counting all the rectangles for which $w \\neq h$. There are 30 of these, so the total number of rectangles is $\\frac{30}{2}+1=\\boxed{16}$ rectangles.",
+    "socratic_questions": "1. What is the problem asking us to find?\n2. Can you restate the problem in your own words?\n3. What formula is used to find the perimeter of a rectangle?\n4. How does the formula relate to the given information about the perimeter of the rectangle?\n5. What is the equation that relates the length and width of the rectangle to its perimeter?\n6. How can we use this equation to find the solutions to the problem?\n7. Can there be rectangles with non-integer lengths? Why or why not?\n8. How many solutions to the equation are there?\n9. Why are we double-counting some of the rectangles?\n10. How can we adjust the number of solutions to account for this double-counting?\n11. What is the final answer to the problem and how did we arrive at it?"
+}

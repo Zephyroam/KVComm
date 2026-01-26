@@ -1,0 +1,7 @@
+{
+    "problem": "Given that $a$ is a multiple of $456$, find the greatest common divisor of $3a^3+a^2+4a+57$ and $a$.",
+    "level": "Level 5",
+    "type": "Number Theory",
+    "solution": "We use the Euclidean Algorithm.  \\begin{align*}\n\\text{gcd}\\,(3a^3+a^2+4a+57,a)\n&=\\text{gcd}\\,(3a^3+a^2+4a+57-(3a^2+a+4)a,a)\\\\\n&=\\text{gcd}\\,(57,a).\n\\end{align*}Since $57$ is a divisor of $456$, and $a$ is a multiple of $456$, the greatest common divisor is $\\boxed{57}$.",
+    "socratic_questions": "1. How did we simplify the expression $3a^3+a^2+4a+57-(3a^2+a+4)a$ in order to use the Euclidean Algorithm?\n2. What is the relationship between the greatest common divisor of $3a^3+a^2+4a+57$ and $a$ and the greatest common divisor of $57$ and $a$?\n3. Why did we conclude that the greatest common divisor of $3a^3+a^2+4a+57$ and $a$ is equal to the greatest common divisor of $57$ and $a$?\n4. Can you explain why the greatest common divisor of $57$ and $a$ is equal to $57$ in this case?\n5. If $a$ was not a multiple of $456$, how would that affect our conclusion about the greatest common divisor of $3a^3+a^2+4a+57$ and $a$?\n6. Can you think of any other situations where using the Euclidean Algorithm might be helpful in finding the greatest common divisor of two numbers?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Completely factor the following expression: \\[(6a^3+92a^2-7)-(-7a^3+a^2-7)\\]",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "First, we combine like terms in the expression: \\begin{align*}\n&(6a^3+92a^2-7)-(-7a^3+a^2-7)\\\\\n& \\qquad=6a^3+92a^2-7+7a^3-a^2+7\\\\\n&\\qquad=13a^3+91a^2.\n\\end{align*}We can factor out a $13a^2$ from the expression, to get \\[13a^3+91a^2=\\boxed{13a^2(a+7)}.\\]",
+    "socratic_questions": "1. What is the first step you would take to completely factor the expression \\[(6a^3+92a^2-7)-(-7a^3+a^2-7)\\]?\n2. Can you identify any common factors between the two terms in the expression? If so, how would you factor them out?\n3. If there are no common factors, what other factoring techniques could be used to simplify the expression?\n4. How would you handle the subtraction of the second term (-7a^3+a^2-7)? Can you think of any strategies to simplify this operation?\n5. After simplifying the expression, what would be the resulting factored form? How can you confirm that your factoring is correct?\n6. Are there any other mathematical concepts or problems where factoring plays a crucial role in finding a solution?"
+}

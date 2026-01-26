@@ -1,0 +1,7 @@
+{
+    "problem": "Solve for $x$, where $x>0$ and $5x^2+9x-18=0$. Express your answer as a simplified common fraction.",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "$5x^2+9x-18$ can be written as $(5x-6)(x+3)$. Because $x$ must be positive, the only factor that can be considered is $(5x-6)$. Therefore: \\begin{align*}\n5x-6&=0\\\\\n5x&=6\\\\\nx&=\\boxed{\\frac{6}{5}}\n\\end{align*}",
+    "socratic_questions": "1. Can you describe the first step in solving this equation?\n2. What different methods do you know for solving quadratic equations like this one?\n3. If you choose to use factoring, how would you go about finding the appropriate factors for this equation?\n4. Why is this equation suitable for factoring? What characteristics make it appropriate for this method?\n5. What factors did you find, and how can you verify that your solution is correct using these factors?\n6. Can you think of other types of equations where similar thinking and steps might be used to solve them?"
+}

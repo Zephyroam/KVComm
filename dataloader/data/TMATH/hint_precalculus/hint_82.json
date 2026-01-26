@@ -1,0 +1,7 @@
+{
+    "problem": "When $1 - i \\sqrt{3}$ is converted to the exponential form $re^{i \\theta}$, what is $\\theta$?",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "We see that\n\\[1 - i \\sqrt{3} = 2 \\left( \\frac{1}{2} - \\frac{\\sqrt{3}}{2} i \\right) = 2e^{5 \\pi i/3},\\]so $\\theta = \\boxed{\\frac{5\\pi}{3}}$.",
+    "socratic_questions": "1. Can you explain what converting a complex number to exponential form means?\n2. How would you express the complex number $1-i\\sqrt{3}$ in polar form?\n3. What is the modulus, or absolute value, of this complex number in polar form?\n4. How can you find the argument, or angle in polar form, of this complex number?\n5. Is the argument of $1-i\\sqrt{3}$ unique? If not, what other values could it be?\n6. Why do we use the exponential form or polar form to represent complex numbers? Can you think of any advantages or disadvantages to these forms?\n7. Can you apply the process of converting to polar form to other complex numbers? Can you think of any situations where it might be particularly useful?"
+}

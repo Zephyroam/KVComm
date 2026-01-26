@@ -1,0 +1,7 @@
+{
+    "problem": "If two numbers will be randomly chosen without replacement from $\\{3, 4, 5, 6\\}$, what is the probability that their product will be a multiple of 9? Express your answer as a common fraction.",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "There are $\\binom{4}{2}=6$ possible pairs of numbers that can be chosen. None of these numbers are multiples of 9, so in order for their product to be a multiple of 9, both numbers must be a multiple of 3. The only possible pair that satisfies this is 3 and 6. Thus, the probability is $\\boxed{\\frac{1}{6}}$",
+    "socratic_questions": "1. What does it mean for a number to be a multiple of 9?\n2. How many numbers are in the set $\\{3, 4, 5, 6\\}$?\n3. What does it mean to choose two numbers without replacement?\n4. How many possible pairs of numbers can be chosen from the set $\\{3, 4, 5, 6\\}$?\n5. Are any of the numbers in the set $\\{3, 4, 5, 6\\}$ multiples of 9?\n6. In order for the product of two chosen numbers to be a multiple of 9, what must be true about both numbers?\n7. Which pair of numbers in the set $\\{3, 4, 5, 6\\}$ satisfies the condition in question 6?\n8. What is the probability of choosing the pair of numbers from question 7?\n9. Can the same reasoning be applied to find the probability of the product being a multiple of a different number? If so, how?"
+}

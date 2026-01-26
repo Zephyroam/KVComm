@@ -1,0 +1,7 @@
+{
+    "problem": "Find the slope of the line $3x+5y=20$.",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "We can find the slope and the $y$-coordinate of the $y$-intercept quickly by putting the equation in slope-intercept form.  Solving the equation $3x+5y=20$ for $y$ in terms of $x$ gives $y = -\\frac{3}{5}x +4$.  So, the slope is $\\boxed{-\\frac{3}{5}}$.",
+    "socratic_questions": "1. What is the definition of slope and how does it relate to a line?\n2. How can we determine the slope of a line given its equation in standard form?\n3. Can you identify the coefficients of x and y in the given equation? What are their values?\n4. How can we rearrange the equation to solve for y in terms of x?\n5. Once we have the equation in slope-intercept form, can you identify the slope?\n6. Can you explain what the slope represents in the context of a line?\n7. Is there an alternative method or formula to find the slope of a line given its equation in standard form?\n8. How can we graphically represent the slope of a line on a coordinate plane?\n9. Can you think of any real-life applications where understanding the slope of a line is important?\n10. Are there any connections between the slope and other properties of a line, such as parallel or perpendicular lines?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "How many ways are there to put 4 balls in 3 boxes if the balls are distinguishable and the boxes are distinguishable?",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "There are 3 options (boxes) for each of the 4 balls, so the number of ways is $3^4 = \\boxed{81}$.",
+    "socratic_questions": "1. Can you explain what the problem is asking for?\n2. Is the order in which the balls are placed in the boxes important?\n3. How many ways are there to place the first ball in the boxes? And the second ball?\n4. If we have already placed two balls in the boxes, how many ways are there to place the third ball? Why?\n5. How does the number of ways change when we place the fourth ball in the boxes?\n6. Can you think of other situations where the multiplication rule can be used to count the number of possibilities?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "A standard die is rolled six times. What is the probability that the product of all six rolls is odd? Express your answer as a common fraction.",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "The product of all six rolls is odd if and only if each roll is odd.  Any given roll has an odd result with probability $\\frac{1}{2}$.  The probability of all six rolls being odd is therefore $\\left(\\frac{1}{2}\\right)^6 = \\boxed{\\frac{1}{64}}$.",
+    "socratic_questions": "1. What is the definition of probability?\n2. What is the possible outcome when rolling a standard die?\n3. What is the relationship between the probability of rolling an odd number and the probability of rolling an even number using a standard die?\n4. What is the probability of rolling an odd number on a standard die?\n5. How can we determine the probability of rolling an odd number for multiple rolls?\n6. Can the probability of rolling an odd number for multiple rolls be calculated using the multiplication rule? If so, how?\n7. What is the probability of rolling an odd number on all six rolls of a standard die?\n8. How can we express the probability of rolling odd numbers for all six rolls using a common fraction?\n9. Is there any other way to calculate the probability of rolling odd numbers for all six rolls of a standard die? If so, what is it?"
+}

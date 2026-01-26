@@ -1,0 +1,7 @@
+{
+    "problem": "Given two real numbers $p>1$ and $q>1$ so that $\\frac{1}{p} + \\frac{1}{q} = 1$ and $pq = 4$, what is $q$?",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "Solving $pq = 4$ for $p$ we see that $p = \\frac{4}{q}$. Plugging this into $\\frac{1}{p} + \\frac{1}{q} = 1$ we then get \\[ \\frac{q}{4} + \\frac{1}{q} = 1 \\Rightarrow q^2 - 4q +4 = 0 .\\] Factoring this, we then see that  \\[ (q-2)(q-2) = 0 \\] which means that $q = \\boxed{2}$",
+    "socratic_questions": "1. Can you explain what the equation $\\frac{1}{p} + \\frac{1}{q} = 1$ represents in terms of the relationship between the given numbers $p$ and $q$?\n2. How can we rewrite the equation $\\frac{1}{p} + \\frac{1}{q} = 1$ to isolate $q$ on one side of the equation?\n3. What steps can we take to find a common denominator and simplify the equation $\\frac{1}{p} + \\frac{1}{q} = 1$?\n4. By substituting $pq = 4$ into the equation $\\frac{1}{p} + \\frac{1}{q} = 1$, can we derive a new equation involving only $p$ or $q$? If so, what is that equation?\n5. What approach can we use to solve the derived equation for $q$? Can we rearrange it in a more familiar form?\n6. How can we apply the given condition that $p>1$ and $q>1$ to narrow down the possible values of $q$ in the derived equation?\n7. After finding the possible values of $q$, how can we determine the specific value of $q$ that satisfies both $q>1$ and $pq = 4$?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "How many positive divisors does 6! have?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "$$ 6! = 720 = 2^4 \\cdot 3^2 \\cdot 5^1. $$Using this prime factorization, we find the number of positive divisors of $6!$: $$ t(6!) = (4 + 1)(2 + 1)(1 + 1) = \\boxed{30}. $$",
+    "socratic_questions": "1. Can you explain what a divisor is and give an example of a divisor of a number?\n2. What is the prime factorization of 6! and why is it helpful in finding the number of its positive divisors?\n3. How do we use the prime factorization of 6! to find its total number of positive divisors?\n4. Can you explain the role of the exponents of each prime factor in finding the number of positive divisors of 6!?\n5. Can you generalize the formula for finding the number of positive divisors of any factorial, say n!, using its prime factorization?\n6. How would the approach for finding the number of positive divisors differ if we were asked to find the number of its odd divisors only?"
+}

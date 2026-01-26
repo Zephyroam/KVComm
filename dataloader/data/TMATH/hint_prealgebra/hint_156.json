@@ -1,0 +1,7 @@
+{
+    "problem": "How many possible distinct arrangements are there of the letters in the word DOG?",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "We could list them: DOG, DGO, ODG, OGD, GDO, GOD.  Or we could have noticed that we have 3 ways to pick the first letter, 2 ways left to pick the second, and 1 way to pick the third, for a total of $3\\cdot2\\cdot 1 = \\boxed{6}$ ways.",
+    "socratic_questions": "1. How would you describe the first step in finding the number of distinct arrangements of the letters in the word DOG?\n2. Are there any different methods you know of to find the number of distinct arrangements for a word like DOG?\n3. If we choose to list all the arrangements, how would we go about doing it? Can you show me an example?\n4. Instead of listing, is there a systematic way we can determine the number of arrangements? If so, what is the process and how does it apply to the word DOG?\n5. Can you explain the reasoning behind the approach of picking the letters one by one? Why do we multiply the number of choices at each step?\n6. Can you think of other words or scenarios where a similar approach can be used to find the number of distinct arrangements?"
+}

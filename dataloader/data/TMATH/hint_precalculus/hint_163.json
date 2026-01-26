@@ -1,0 +1,7 @@
+{
+    "problem": "Find the inverse of the matrix\n\\[\\begin{pmatrix} 9 & 18 \\\\ -6 & -12 \\end{pmatrix}.\\]If the inverse does not exist, then enter the zero matrix.",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "Since the determinant is $(9)(-12) - (18)(-6) = 0,$ the inverse does not exist, so the answer is the zero matrix $\\boxed{\\begin{pmatrix} 0 & 0 \\\\ 0 & 0 \\end{pmatrix}}.$",
+    "socratic_questions": "1. What is a matrix, and how do you represent a matrix in mathematics?\n2. Can you explain what is meant by the inverse of a matrix?\n3. What is the formula for finding the inverse of a 2x2 matrix, and how does it work?\n4. Using the given matrix, can you calculate the determinant? What does the determinant tell us about the matrix?\n5. Based on the determinant, does the given matrix have an inverse? Why or why not?\n6. If the inverse does not exist, what is the solution to the problem? Can you explain why?\n7. Can you think of an example of a matrix that does have an inverse? How would you go about finding the inverse for that matrix?"
+}

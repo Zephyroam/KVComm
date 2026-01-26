@@ -1,0 +1,7 @@
+{
+    "problem": "Set $B = \\{55, 57, 58, 59, 61\\}.$  Which number in set B has the smallest prime factor?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "The smallest prime is 2, which is a factor of every even number.  Because $\\boxed{58}$ is the only even number, it has the smallest prime factor.",
+    "socratic_questions": "1. Can you identify the smallest prime factor of the numbers in set B?\n2. How can you determine if a number is prime or composite? Can you apply that process to the numbers in set B?\n3. What is the relationship between even numbers and their prime factors? How does that relate to finding the smallest prime factor in set B?\n4. Can you analyze each number in set B and identify the prime factors of each? Which number has the smallest prime factor?\n5. Is there any specific method or strategy you can use to find the smallest prime factor of a given number?\n6. Can you think of any other sets or collections of numbers where finding the smallest prime factor would be a relevant question or problem to explore?"
+}

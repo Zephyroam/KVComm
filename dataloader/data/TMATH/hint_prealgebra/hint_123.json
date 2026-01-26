@@ -1,0 +1,7 @@
+{
+    "problem": "What is the measure of an angle, in degrees, if its supplement is six times its complement?",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "Call the angle measure $x$. We are given that $180^{\\circ}-x=6(90^{\\circ}-x)$. This expands to $180^{\\circ}-x=540^{\\circ}-6x$ or $5x=360^{\\circ}$ and $x=\\boxed{72^{\\circ}}$.",
+    "socratic_questions": "1. What does it mean for two angles to be supplements of each other? And what about complements?\n2. Can you explain why the measure of the angle's supplement is $180^\\circ - x$ and its complement is $90^\\circ - x$?\n3. How did we come up with the equation $180^\\circ - x = 6(90^\\circ - x)$?\n4. What is the reasoning behind expanding and rearranging the equation to $5x = 360^\\circ$?\n5. How did we solve the equation $5x = 360^\\circ$ to find the value of $x$?\n6. Can you think of any other angle problems where we could apply similar thinking and steps?"
+}

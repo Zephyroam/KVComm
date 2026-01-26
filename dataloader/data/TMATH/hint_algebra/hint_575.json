@@ -1,0 +1,7 @@
+{
+    "problem": "What is the domain of the function $$u(x) = \\frac{1}{\\sqrt x}~?$$ Express your answer in interval notation.",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "For $u(x)$ to be defined, $\\sqrt x$ must be defined and nonzero. This is true for $x$ in the domain $\\boxed{(0,\\infty)}$.",
+    "socratic_questions": "1. What is the definition of the function u(x) = 1/\u221ax? How would you describe its behavior?\n2. What restrictions or conditions exist for the domain of the function? Can x be any real number, or are there limitations on its value?\n3. Can x be equal to zero in this function? Why or why not?\n4. What is the importance of the square root (\u221a) in the function? How does it affect the potential values for x?\n5. How would you mathematically express the domain of the function u(x) = 1/\u221ax in interval notation? Can you provide a specific interval(s) that represents the domain?\n6. Can you think of any other functions where the square root is involved and similar considerations for the domain need to be made? How would the domain differ in those cases?"
+}

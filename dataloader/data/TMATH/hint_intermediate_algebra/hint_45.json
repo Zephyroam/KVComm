@@ -1,0 +1,7 @@
+{
+    "problem": "What is the value of $\\log_{10}{4}+2\\log_{10}{5}+3\\log_{10}{2}+6\\log_{10}{5}+\\log_{10}{8}$?",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "We use the two identities $a\\log_b{x}=\\log_b{x^a}$ and $\\log_b{x}+\\log_b{y}=\\log_b{xy}$. The given expression becomes \\begin{align*}\n\\log_{10}{4}+2\\log_{10}{5}+3\\log_{10}{2}+6\\log_{10}{5}+\\log_{10}{8}&=\\log_{10}{2^2}+\\log_{10}{5^2}+\\log_{10}{2^3}+\\log_{10}{5^6}+\\log_{10}{2^3} \\\\\n&=\\log_{10}{(2^2 \\cdot 5^2 \\cdot 2^3 \\cdot 5^6 \\cdot 2^3)}\\\\\n&=\\log_{10}{(2^8 \\cdot 5^8)} \\\\\n&=\\log_{10}{10^8} \\\\\n&=\\boxed{8}.\n\\end{align*}",
+    "socratic_questions": "1. What is the definition of logarithm and how does it relate to exponentiation?\n2. How does the identity $a\\log_b{x}=\\log_b{x^a}$ apply to the given expression?\n3. How can we simplify the expression by applying the above identity to each term individually?\n4. How does the identity $\\log_b{x}+\\log_b{y}=\\log_b{xy}$ help us simplify the expression further?\n5. Can we rearrange the terms in the expression using the properties of logarithms?\n6. How can we rewrite the expression as a single logarithm using the properties previously discussed?\n7. What values do the bases and exponents take on in the simplified expression?\n8. How can we evaluate $\\log_{10}{10^8}$ using the definition of logarithms?\n9. What is the final value of the given expression?"
+}

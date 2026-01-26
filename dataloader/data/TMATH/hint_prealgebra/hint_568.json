@@ -1,0 +1,7 @@
+{
+    "problem": "The value of $\\sqrt{73}$ is between two positive, consecutive integers. What is the product of these two integers?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Since $73$ is between $64=8^{2}$ and $81=9^{2}$, we know that $\\sqrt{73}$ is between $8$ and $9.$ Our answer is $8\\cdot9=\\boxed{72}.$",
+    "socratic_questions": "1. Can you explain the concept of finding the square root of a number?\n2. How can we determine whether a number is between two consecutive integers?\n3. What is the significance of the two consecutive integers in this context?\n4. How did you determine that $\\sqrt{73}$ is between 8 and 9?\n5. Can you think of any other examples where we might need to find the square root of a number between two consecutive integers?\n6. How does finding the product of the two consecutive integer values help us understand the relationship to $\\sqrt{73}$ in this problem?"
+}

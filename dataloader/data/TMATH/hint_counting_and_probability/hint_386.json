@@ -1,0 +1,7 @@
+{
+    "problem": "How many ways are there to arrange the letters of the word $\\text{BA}_1\\text{N}_1\\text{A}_2\\text{N}_2\\text{A}_3$, in which the three A's and the two N's are considered different?",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "This is counting the number of ways that six distinct objects can be put in order, so there are $6! = \\boxed{720}$ different arrangements.",
+    "socratic_questions": "1. What is the first step in solving this problem? Can you explain the basic concept of counting permutations?\n2. Are there any restrictions or special considerations we need to keep in mind when arranging the letters of the word? If so, what are they?\n3. How many total letters are there in the word? How does that relate to the number of arrangements we are trying to find?\n4. With the given letters, how many options are there for choosing the position of the first letter? How many options are there for choosing the position of the second letter? Can you generalize this pattern?\n5. Since some letters are repeated (A and N), how does that affect our counting process? How many options are there for choosing the position of each repeated letter?\n6. Once all the positions for the letters are chosen, what is the final step to find the total number of arrangements? Can you explain the reasoning behind it?\n7. Can you think of any similar counting problems where we might encounter the same thought process and steps?"
+}

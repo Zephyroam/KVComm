@@ -1,0 +1,7 @@
+{
+    "problem": "Jose invested $\\$50,\\!000$ for $2$ years at an annual interest rate of $4$ percent compounded yearly. Patricia invested $\\$50,\\!000$ for the same period of time, at the same interest rate, but the interest was compounded quarterly. To the nearest dollar, how much more money did Patricia's investment earn than that of Jose?",
+    "level": "Level 5",
+    "type": "Algebra",
+    "solution": "After two years, at a four percent annual interest rate, the Jose's investment will have grown to $50000 \\cdot 1.04^2 = 54080$.  Patricia has the same annual interest rate, but compounded quarterly, so each quarter (or each period of three months), her investment is compounded at the rate of $4/4 = 1$ percent.  In two years, there are eight quarters, so Patricia's investment will have grown to $50000 \\cdot 1.01^8 = 54143$, to the nearest dollar.  The difference is then $54143 - 54080 = \\boxed{63}$.",
+    "socratic_questions": "1. Can you describe the first step in solving this problem? \n2. What is the formula for calculating compound interest? \n3. How can we calculate the interest earned by Jose's investment? \n4. How can we calculate the interest earned by Patricia's investment? \n5. How is the compounding frequency different between Jose and Patricia's investments? \n6. How can we find the total amount of money earned by each investment after 2 years? \n7. What is the difference between Patricia's total amount and Jose's total amount of money earned? \n8. How can we round the difference to the nearest dollar?"
+}

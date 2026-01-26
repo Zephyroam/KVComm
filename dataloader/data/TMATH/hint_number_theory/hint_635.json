@@ -1,0 +1,7 @@
+{
+    "problem": "How many unordered pairs of prime numbers have a sum of 40?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "We must check whether or not the difference between 40 and each of the prime numbers less than 20 (2, 3, 5, 7, 11, 13, 17, 19) is prime. We find that only $40-3=37$, $40-11=29$, and $40-17=23$ are prime. Thus, $\\boxed{3}$ pairs of prime numbers have a sum of 40.",
+    "socratic_questions": "1. Can you explain what an unordered pair of prime numbers means in this problem?\n2. How might we determine which prime numbers we need to check in order to find pairs that add up to 40?\n3. Why do we only need to check prime numbers less than 20 in this problem?\n4. What is the significance of checking whether the difference between 40 and a prime number is also prime?\n5. How many pairs of prime numbers did we find that add up to 40?\n6. Can you think of any other problems in number theory that might involve similar thinking and techniques?"
+}

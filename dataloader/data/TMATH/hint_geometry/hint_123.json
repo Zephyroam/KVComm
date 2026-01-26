@@ -1,0 +1,7 @@
+{
+    "problem": "Khali has to shovel snow off the sidewalk in front of his house. The sidewalk is 20 feet long and 2 feet wide. If the snow is $\\frac{1}{2}$ foot deep, how many cubic feet of snow does Khali have to shovel off the sidewalk?",
+    "level": "Level 1",
+    "type": "Geometry",
+    "solution": "The snow on Khalil's sidewalk is in the shape of a rectangular prism whose dimensions are 20 feet by 2 feet by $\\frac{1}{2}$ feet.  The volume of such a rectangular prism is $(20\\text{ ft.})(2\\text{ ft.})\\left(\\frac{1}{2}\\text{ ft.}\\right)=\\boxed{20}$ cubic feet.",
+    "socratic_questions": "1. What is the shape of the snow on Khalil's sidewalk?\n2. How can we describe the shape of the snow in terms of geometry?\n3. What are the dimensions of the rectangular prism representing the snow on the sidewalk?\n4. What is the formula to find the volume of a rectangular prism?\n5. Can you calculate the volume of the snow on Khalil's sidewalk using the given dimensions?\n6. Why is it necessary to calculate the volume of the snow?\n7. How many cubic feet of snow does Khali have to shovel off the sidewalk?\n8. How can we visualize the amount of snow that needs to be shoveled off?"
+}

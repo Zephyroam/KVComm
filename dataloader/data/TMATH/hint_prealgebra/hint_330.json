@@ -1,0 +1,7 @@
+{
+    "problem": "A convex pentagon has interior angles with measures $x+1$, $2x$, $3x$, $4x$, and $5x-1$ degrees.  What is the measure of the largest angle?",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "The sum of the interior angles of this pentagon is $(5-2)\\cdot180=540$ degrees. Thus, we have the equation $540=(x+1)+2x+3x+4x+(5x-1)\\Rightarrow 540 = 15x \\Rightarrow x=36$. The largest angle has measure $5x-1$, or $5\\cdot36-1=\\boxed{179}$ degrees.",
+    "socratic_questions": "1. How can we determine the sum of the interior angles of the pentagon?\n2. What does the equation $540=(x+1)+2x+3x+4x+(5x-1)$ represent in the context of this problem?\n3. How did we solve the equation $540=15x$ to find the value of $x$?\n4. What is the measure of the largest angle in terms of $x$?\n5. How did we find the measure of the largest angle using the value of $x$?\n6. Can we generalize the process of finding the largest angle in a convex polygon based on this example?"
+}

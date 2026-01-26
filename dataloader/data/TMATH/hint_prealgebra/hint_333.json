@@ -1,0 +1,7 @@
+{
+    "problem": "Simplify $\\sqrt{7\\cdot 2}\\cdot \\sqrt{2^3\\cdot 7^3}$.",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "We have:\n\n$\\sqrt{7\\cdot 2}\\cdot \\sqrt{2^3\\cdot 7^3}=\\sqrt{2^4\\cdot 7^4}=\\sqrt{14^4}=14^2=\\boxed{196}$.",
+    "socratic_questions": "1. What is the first step you would take to simplify the expression $\\sqrt{7\\cdot 2}\\cdot \\sqrt{2^3\\cdot 7^3}$?\n2. Can you explain why the radical expressions can be simplified using the multiplication property of radicals?\n3. How does the expression $\\sqrt{7\\cdot 2}\\cdot \\sqrt{2^3\\cdot 7^3}$ simplify to $\\sqrt{14^4}$?\n4. Can you identify the property of exponents that allows you to simplify $\\sqrt{2^3\\cdot 7^3}$ to $14^2$?\n5. What is the final result when simplifying $\\sqrt{7\\cdot 2}\\cdot \\sqrt{2^3\\cdot 7^3}$?\n6. Can you think of any other expressions where the same simplification technique can be applied?"
+}

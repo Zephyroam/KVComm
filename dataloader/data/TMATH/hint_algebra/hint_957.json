@@ -1,0 +1,7 @@
+{
+    "problem": "The Bank of Springfield's Super High Yield savings account compounds annually at a rate of one percent.  If Lisa invests 1000 dollars in one of these accounts, then how much interest will she earn after five years?  (Give your answer to the nearest dollar.)",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "At an annual interest rate of one percent, after five years, Lisa's investment will grow to $1000 \\cdot 1.01^5 = 1051$ dollars, to the nearest dollar.  Therefore, she earns $1051 - 1000 = \\boxed{51}$ dollars in interest.",
+    "socratic_questions": "1. What does it mean for an account to compound annually?\n2. Can you explain how compound interest works in general?\n3. How can we calculate the interest earned in one year using the given interest rate and initial investment?\n4. If the interest is compounded annually, what happens to the investment after the first year?\n5. After two years, how does the interest earned in the first year affect the total amount?\n6. Continuing from the previous question, can you explain how the interest is compounded over five years?\n7. How can we calculate the interest earned after five years based on the initial investment and the interest rate mentioned?\n8. Can you round the final amount of interest earned to the nearest dollar?\n9. What other factors might need to be considered when depositing the initial investment into the savings account?\n10. Are there any limitations or drawbacks to using compound interest in this scenario?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Let $T$ be a positive integer whose only digits are 0s and 1s. If $X = T \\div 12$ and $X$ is an integer, what is the smallest possible value of $X$?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "Since $T$ is divisible by 12, it must be divisible by both 3 and 4.  Hence, the sum of its digits is divisible by 3 and its last two digits are divisible by 4.  By inspection, we see that $T$ must end in 00 and therefore the smallest such $T$ is 11100.  Calculating, $X = \\boxed{925}$.",
+    "socratic_questions": "1. Can you describe the first step in solving this problem?\n2. What is the significance of $T$ being divisible by 12 in this problem?\n3. How can we determine if a number is divisible by 3 or 4?\n4. Why does $T$ need to end in 00 in order to be divisible by 4?\n5. Are there any other numbers that satisfy the conditions of being divisible by 12 and only consisting of 0s and 1s?\n6. Can you think of any other number theory problems where divisibility plays a crucial role? How would you approach solving them?"
+}

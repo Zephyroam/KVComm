@@ -1,0 +1,7 @@
+{
+    "problem": "What is the diameter in centimeters of a circle whose area is $100\\pi \\text{cm}^2$?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "The area is $100\\pi=\\pi r^2$, so $r=10$. The diameter is $2r=\\boxed{20}$ centimeters.",
+    "socratic_questions": "1. How do we find the diameter of a circle given its area?\n2. What is the formula for calculating the area of a circle?\n3. How can we use the formula to solve for the radius of the circle?\n4. Once we have the radius, how can we calculate the diameter?\n5. Are there other ways to find the diameter of a circle given its area?\n6. Can you think of any practical applications where knowing how to find the diameter of a circle would be useful?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "A rectangular box has a volume of $4320$ cubic inches and a surface area of $1704$ square inches. The sum of the lengths of its $12$ edges is $208$ inches. What would be the volume of the box, in cubic inches, if its length, width and height were each increased by one inch?",
+    "level": "Level 5",
+    "type": "Algebra",
+    "solution": "We label the length $l$, the width $w$, and the height $h$. We are given that $l \\cdot w \\cdot h =4320$, thus we have that $2lw+2wh+2hl = 1704$ and $lw+wh+hl = 852.$ Also, $4l+4w+4h=208,$ so $l+w+h=52$.\n\nWe want to find what the volume will be if we increase all of the sides by an inch. So we have, \\begin{align*}\n(l+1)(w+1)(h+1)&=lwh+lh+wh+lw+w+l+h+1\\\\\n&=4320+852+52+1\\\\\n&=\\boxed{5225 \\text{ cubic inches}}.\n\\end{align*}",
+    "socratic_questions": "1. Can you describe the first step to solve this problem?\n2. How would you approach finding the volume of the box based on the given information?\n3. If you were to represent the dimensions of the box algebraically, what variables would you use?\n4. Can you find an equation that relates the volume, surface area, and sum of the lengths of the edges of the box? \n5. How would you use the equation to solve for the dimensions of the box?\n6. If the length, width, and height of the box were each increased by one inch, how would it impact the volume equation?\n7. What steps would you take to find the new volume of the box after increasing the dimensions?"
+}

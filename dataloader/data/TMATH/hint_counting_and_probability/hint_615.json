@@ -1,0 +1,7 @@
+{
+    "problem": "How many even three digit numbers are there such that the sum of the  tens and units digits is 10?",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "There are nine possible digits that the hundreds digit could be. However, there are only four possible endings for the number: 46, 64, 28, and 82. Thus, there are $9 \\cdot 4 = \\boxed{36}$ such numbers.",
+    "socratic_questions": "1. What is the first step in approaching this problem?\n2. Can you explain why there are only four possible endings for the number in question?\n3. How did you arrive at the conclusion that there are nine possible digits for the hundreds digit?\n4. What is the significance of the sum of the tens and units digits being 10 in this problem?\n5. Are there any other criteria for the three digit numbers in question aside from their being even and satisfying the given sum condition?\n6. Can you think of any real-life scenarios where the ability to count and calculate probability would be useful?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Abe, Bobby, Charles, Devin and Edwin are the participants in a race. How many different 1st-2nd-3rd place outcomes are possible if there are no ties? Two different outcomes to include are Bobby-Devin-Edwin and Devin-Bobby-Edwin.",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "There are $5$ possibilities for the first place finisher.  After first place is determined, there are $4$ remaining possibilities for the second place finisher.  Finally, there are $3$ possibilities for third place once the first two are determined.  Thus there are $5\\cdot4\\cdot3=\\boxed{60}$ 1st-2nd-3rd place outcomes.",
+    "socratic_questions": "1. Can you describe the first step in determining the number of different 1st-2nd-3rd place outcomes in this race situation?\n2. How many possibilities are there for the first place finisher?\n3. After the first place is determined, how many possibilities are there for the second place finisher?\n4. Once the first two places are determined, how many possibilities are there for the third place finisher?\n5. How can we find the total number of different 1st-2nd-3rd place outcomes by combining the possibilities for each place?\n6. Are there any other ways to approach this problem and come up with the same result?\n7. What assumptions are we making about the race, such as no ties or equal chance for each participant? How do these assumptions affect our calculations?\n8. Can you think of any other similar situations where we need to count the number of possible outcomes in a certain order?"
+}

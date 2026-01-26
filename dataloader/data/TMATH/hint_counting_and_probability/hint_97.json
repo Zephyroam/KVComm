@@ -1,0 +1,7 @@
+{
+    "problem": "Molly flips a fair coin five times, and she is very surprised to flip a head each time. What is the probability she will flip a tail on her next flip of the coin? Express your answer as a common fraction.",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "This problem refers to the property of coins and other trial-independent probability devices that we refer to as not having memory. In other words, the coin cannot respond in any way to how it landed on the previous 5 flips. It is still equally likely to be heads or tails on its next flip, so the probability is $\\boxed{\\frac{1}{2}}$.",
+    "socratic_questions": "1. Can you explain the concept of a fair coin? \n2. How many possible outcomes are there when flipping a fair coin? \n3. How might we calculate the probability of flipping a certain outcome (e.g. heads) on a fair coin? \n4. What does it mean for a trial to be independent? \n5. Can you explain the concept of \"memoryless\" or trial-independent probability devices? \n6. How does the concept of memorylessness apply to the probability of flipping a tail on the next flip of a fair coin after flipping heads 5 times in a row? \n7. Can you calculate the probability of flipping a tail on the next flip of a coin given that the previous 5 flips were heads? \n8. Can you provide another example of a trial-independent probability device? \n9. What are some real-world applications of probability and counting in everyday life? \n10. How might we use probability and counting to solve more complex problems?"
+}

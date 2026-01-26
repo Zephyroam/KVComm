@@ -1,0 +1,7 @@
+{
+    "problem": "Three cards are dealt at random from a standard deck of 52 cards.  What is the probability that the first card is a Jack, the second card is a Queen, and the third card is a King? Assuming the dealing is done without replacement.",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "The probability is $\\dfrac{4}{52} \\times \\dfrac{4}{51} \\times \\dfrac{4}{50} = \\boxed{\\frac{8}{16575}}$.",
+    "socratic_questions": "1. What is the definition of probability, and how does it relate to this problem?\n2. How many total cards are in a standard deck, and how many of them are face cards?\n3. What do we mean by \"dealing without replacement,\" and how does that impact the probability of drawing certain cards?\n4. What is the probability of drawing a Jack on the first card, and how did you arrive at that answer?\n5. What is the probability of drawing a Queen on the second card, given that a Jack was already drawn on the first card?\n6. What is the probability of drawing a King on the third card, given that a Jack and a Queen were already drawn?\n7. How do we calculate the overall probability of drawing a Jack, Queen, and King in that specific order?\n8. Are there any alternative methods we could use to solve this problem, and how would they differ from the approach we used?"
+}

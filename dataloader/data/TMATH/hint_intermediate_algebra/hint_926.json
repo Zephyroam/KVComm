@@ -1,0 +1,7 @@
+{
+    "problem": "Find the positive real value of $t$ that satisfies $|t+2i\\sqrt{3}| |6-4i| = 26$.",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "Calculate the magnitudes. $$|t+2i\\sqrt{3}| |6-4i| = \\sqrt{t^2+12} \\cdot \\sqrt{36+16} = \\sqrt{t^2+12} \\cdot \\sqrt{52} = \\sqrt{t^2+12} \\cdot 2\\sqrt{13}$$Set this equal to $26$. $$\\sqrt{t^2+12} \\cdot 2\\sqrt{13} = 26$$Solve for $t$. $$\\sqrt{t^2+12} \\cdot \\sqrt{13} = 13$$$$\\sqrt{t^2+12} = \\sqrt{13}$$We need the positive value, so $t = \\boxed{1}$.",
+    "socratic_questions": "1. Can you explain what the equation is asking us to find?\n2. What do the magnitudes of complex numbers represent in this problem?\n3. What steps can we take to simplify the equation?\n4. How can we eliminate the square roots in the equation?\n5. What properties of square roots can we use to solve for t?\n6. Can we verify our solution by substituting it back into the original equation?"
+}

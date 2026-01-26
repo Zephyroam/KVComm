@@ -1,0 +1,7 @@
+{
+    "problem": "A triangle has three different integer side lengths and a perimeter of 20 units. What is the maximum length of any one side?",
+    "level": "Level 2",
+    "type": "Geometry",
+    "solution": "A triangle with sides of 9,8 and 3 will satisfy these conditions.  This will have longest side of 9.  If the longest side has length 10, then the sum of the remaining two sides $x+y$ must be greater than 10 by the triangle inequality.  However, this cannot be since this will equal 10, and thus, the maximum length of one side is $\\boxed{9}$.",
+    "socratic_questions": "1. What is the definition of a triangle? \n2. Can you identify the different types of triangles? \n3. How do we calculate the perimeter of a triangle? \n4. Can you write an equation using the given information about the triangle's sides? \n5. What is the Triangle Inequality Theorem and what does it tell us about the relationship between a triangle's sides? \n6. Using the Triangle Inequality Theorem, can you determine the range of possible lengths for each side of the triangle? \n7. Given the perimeter of 20 units, what are the possible combinations of side lengths for the triangle? \n8. How can we determine the maximum length of any one side using the given information about the triangle's sides and perimeter? \n9. Can you think of any real-life applications or scenarios where knowledge of triangle properties and formulas would be useful?"
+}

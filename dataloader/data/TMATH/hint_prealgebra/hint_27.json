@@ -1,0 +1,7 @@
+{
+    "problem": "What is the least three-digit positive integer that has 2, 5 and 7 as factors?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Since 2, 5, 7 are pairwise relatively prime (meaning that no two of them share a prime factor), we must find the least three-digit positive integer that is divisible by $2\\cdot5\\cdot7=70$. That integer is $70\\cdot2=\\boxed{140}$.",
+    "socratic_questions": "1. Can you restate the problem in your own words? \n2. What does it mean to say that 2, 5, and 7 are pairwise relatively prime? \n3. Why do we need to find the least three-digit positive integer that is divisible by 2, 5, and 7? \n4. Can you think of any other examples where it is necessary to find the least common multiple of some given numbers? \n5. How did we use the fact that 2, 5, and 7 are pairwise relatively prime to find the solution? \n6. Is 140 the only possible solution to this problem? Why or why not?"
+}

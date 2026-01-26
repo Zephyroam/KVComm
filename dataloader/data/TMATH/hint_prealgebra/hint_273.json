@@ -1,0 +1,7 @@
+{
+    "problem": "For how many two-digit prime numbers is the sum of its digits 8?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "The possibilities for the two digits are 0 and 8, 1 and 7, 2 and 6, 3 and 5, and 4 and 4. Of these, a prime number could only be made from the 1 and 7 or the 3 and 5. 17, 71, and 53 are prime, but 35 is not. Thus, there are $\\boxed{3}$ such two-digit prime numbers.",
+    "socratic_questions": "1. How would you describe the problem statement in your own words?\n2. What are the possible sums of the digits for a two-digit number to be 8?\n3. Can you list all the possible combinations of two-digit numbers with these digit sums?\n4. Why do we only consider prime numbers made from the combinations 1 and 7 or 3 and 5?\n5. How did you determine whether each combination resulted in a prime number or not?\n6. Can you think of any other ways to approach this problem?\n7. Are there any patterns or observations you made while solving this problem?\n8. Can you generalize this problem to find the number of two-digit prime numbers with a sum of digits equal to a different value?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Compute the number of degrees in the smallest positive angle $x$ such that\n\\[8 \\sin x \\cos^5 x - 8 \\sin^5 x \\cos x = 1.\\]",
+    "level": "Level 3",
+    "type": "Precalculus",
+    "solution": "Using the double angle formula, we can write\n\\begin{align*}\n8 \\sin x \\cos^5 x - 8 \\sin^5 x \\cos x &= 8 \\sin x \\cos x (\\cos^4 x - \\sin^4 x) \\\\\n&= 8 \\sin x \\cos x (\\cos^2 x + \\sin^2 x)(\\cos^2 x - \\sin^2 x) \\\\\n&= 4 \\sin 2x \\cos 2x \\\\\n&= 2 \\sin 4x,\n\\end{align*}so $\\sin 4x = \\frac{1}{2}.$  Since $\\sin 30^\\circ = \\frac{1}{2},$ the smallest such $x$ is $\\boxed{7.5^\\circ}.$",
+    "socratic_questions": "1. Can you describe the first step in solving this equation?\n2. What properties or identities could we possibly use to simplify the equation?\n3. What are the possible values for $\\sin 4x$ when it equals $\\frac{1}{2}$?\n4. How can we express the equation in terms of $\\sin 4x$?\n5. How can we find the smallest positive angle $x$ that satisfies $\\sin 4x = \\frac{1}{2}$?\n6. Can you think of any other trigonometric equations that might require similar types of thinking or steps to solve?"
+}

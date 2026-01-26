@@ -1,0 +1,7 @@
+{
+    "problem": "Evaluate $i^{11} + i^{111}$.",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "The powers of $i$ repeat every four powers: $i^1=i$, $i^2=-1$, $i^3=-i$, $i^4=1$, $i^5=i$, $i^6=-1$ and so on. So to determine $i^n$, where $n$ is an integer, we only need to find the remainder of $n$ when it is divided by 4. The remainder of both 11 and 111 when divided by 4 is 3, so $i^{11} + i^{111} = i^3 + i^3 = -i + (-i) = \\boxed{-2i}$.",
+    "socratic_questions": "1. What is the value of $i$ in algebraic terms?\n2. What is the definition of $i^{11}$? And $i^{111}$?\n3. How do we evaluate $i^{11}$? Can you explain the steps involved?\n4. Can you simplify $i^{111}$ by using any patterns or properties of exponents?\n5. What is the simplified form of $i^{111}$?\n6. How can we combine $i^{11}$ and $i^{111}$ to find the final result?\n7. Can you evaluate the expression $i^{11} + i^{111}$ using the simplified forms of $i^{11}$ and $i^{111}$?\n8. What is the final result of $i^{11} + i^{111}$?"
+}

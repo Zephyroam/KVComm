@@ -1,0 +1,7 @@
+{
+    "problem": "Find the smallest positive integer $n$ such that\n\\[\\begin{pmatrix} \\frac{1}{2} & \\frac{\\sqrt{3}}{2} \\\\ -\\frac{\\sqrt{3}}{2} & \\frac{1}{2} \\end{pmatrix}^n = \\mathbf{I}.\\]",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "Note that\n\\[\\begin{pmatrix} \\frac{1}{2} & \\frac{\\sqrt{3}}{2} \\\\ -\\frac{\\sqrt{3}}{2} & \\frac{1}{2} \\end{pmatrix} = \\begin{pmatrix} \\cos 300^\\circ & -\\sin 300^\\circ \\\\ \\sin 300^\\circ & \\cos 300^\\circ \\end{pmatrix},\\]which is the matrix corresponding to rotating about the origin by an angle of $300^\\circ$ counter-clockwise.  Thus, we seek the smallest positive integer $n$ such that $300^\\circ \\cdot n$ is a multiple of $360^\\circ.$  The smallest such $n$ is $\\boxed{6}.$",
+    "socratic_questions": "1. Can you describe what the given matrix represents geometrically?\n2. What is the relationship between the given matrix and rotating about the origin?\n3. What does it mean for the given matrix to be equal to the identity matrix?\n4. How can we write the given matrix in terms of trigonometric functions?\n5. If we rotate by $300^\\circ$ six times, what will be the total angle of rotation?\n6. Why is it the smallest positive integer $n$ that satisfies the equation?"
+}

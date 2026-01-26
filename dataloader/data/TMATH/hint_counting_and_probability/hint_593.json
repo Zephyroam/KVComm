@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\dbinom{14}{11}$.",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "\\begin{align*}\n\\dbinom{14}{11} &= \\dbinom{14}{3} \\\\\n&= \\dfrac{14!}{11!3!} \\\\\n&= \\dfrac{14\\times 13\\times 12}{3\\times 2\\times 1} \\\\\n&= 14 \\times 13 \\times \\dfrac{12}{3\\times 2\\times 1} \\\\\n&= 14\\times 13\\times 2 \\\\\n&= \\boxed{364}.\n\\end{align*}",
+    "socratic_questions": "1. Can you define what a combination is? \n2. How does a combination differ from a permutation? \n3. Can you explain what the numbers in the expression $\\dbinom{14}{11}$ represent? \n4. How do you calculate the value of $\\dbinom{14}{11}$? \n5. Can you use the factorial notation to express $\\dbinom{14}{11}$? \n6. How can you simplify the expression $\\dfrac{14!}{11!3!}$? \n7. In what situations might we use combinations in real-life problems? \n8. How can we apply combinations to problems involving probability? \n9. Can you think of a scenario where permutations would be more appropriate than combinations? \n10. How does the order of elements affect the calculation of permutations and combinations?"
+}

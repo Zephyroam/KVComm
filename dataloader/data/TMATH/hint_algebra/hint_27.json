@@ -1,0 +1,7 @@
+{
+    "problem": "Evaluate $\\log_8 2$.",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "We have $8=2^3$ or $8^{\\frac13}=2$, so $\\log_8 2=\\boxed{\\frac{1}{3}}$",
+    "socratic_questions": "1. What is the definition of a logarithm?\n2. How does the base of a logarithm affect its value?\n3. How does the exponent in a logarithm relate to the value being logged?\n4. Can you express $\\log_8 2$ as a different logarithm with a more familiar base?\n5. What is the relationship between the logarithm and exponential functions?\n6. How can we use properties of logarithms to evaluate $\\log_8 2$ without a calculator?\n7. Can you generalize the process of evaluating logarithms to other bases and values?\n8. What is the significance of the result $\\log_8 2$ in the context of exponential growth or decay?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Kyle knows that $4 = 2^{5r+1}$. What is the value of $r$? Express your answer as a common fraction.",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "Replacing the $4$ with $2^2$ we have $2^2 = 2^{5r+1}$, so $2=5r+1$.  Solve for $r$ to get $r=\\boxed{\\frac{1}{5}}$",
+    "socratic_questions": "1. How would you approach this problem and what is the first step you would take?\n2. What do you know about exponential notation and how can it be used to solve this equation?\n3. Can you identify any patterns or properties of exponents that could help simplify the equation?\n4. What does it mean for two expressions with exponents to be equal? How does that knowledge apply to this equation?\n5. How can you rewrite the equation in a way that isolates $r$ on one side?\n6. What steps can you take to solve for $r$ after isolating it? Are there any simplifications or algebraic manipulations you can perform?\n7. How can you use the concept of logarithms to solve this equation?\n8. Can you think of any other strategies or approaches that could be used to solve similar equations involving exponents?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "One US dollar is the equivalent of 7 Namibian dollars.  One US dollar is also the equivalent of 6 Chinese yuan. If a painting costs 105 Namibian dollars, how much would it cost in Chinese yuan?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "Since 7 Namibian dollars ($\\text{N}\\$$) is equal to 1 US dollar (USD), 105 Namibian dollars is equal to $\\text{N}\\$105\\left(\\dfrac{1\\;\\text{USD}}{\\text{N}\\$7}\\right) = 15\\;\\text{USD}$. Since 1 US dollar (USD) is equal to 6 Chinese yuan (CNY), 105 Namibian dollars is equal to 15 US dollars is equal to $15\\;\\text{USD}\\left(\\dfrac{6\\;\\text{CNY}}{1\\;\\text{USD}}\\right) = \\boxed{90}\\;\\text{yuan}$.",
+    "socratic_questions": "1. Can you explain how you would approach converting 105 Namibian dollars to Chinese yuan?\n2. What is the relationship between Namibian dollars, US dollars, and Chinese yuan in this problem?\n3. How can you use the information given about the exchange rates to find the cost of the painting in Chinese yuan?\n4. Why did we convert Namibian dollars to US dollars first? Is there another way we could have approached the problem?\n5. Can you think of any potential errors that could occur when converting currencies? How could you avoid those errors?\n6. Is there a general strategy or method you could use to convert currencies in other similar situations?"
+}

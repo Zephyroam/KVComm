@@ -1,0 +1,7 @@
+{
+    "problem": "Is\n\\[f(x) = \\frac{5^x - 1}{5^x + 1}\\]an even function, odd function, or neither?\n\nEnter \"odd\", \"even\", or \"neither\".",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "We have that\n\\begin{align*}\nf(-x) &= \\frac{5^{-x} - 1}{5^{-x} + 1} \\\\\n&= \\frac{1 - 5^x}{1 + 5^x} \\\\\n&= -\\frac{5^x - 1}{5^x + 1} \\\\\n&= -f(x),\n\\end{align*}so $f(x)$ is an $\\boxed{\\text{odd}}$ function.",
+    "socratic_questions": "1. What is your understanding of what it means for a function to be even or odd?\n2. Can you explain how to determine whether a function is even or odd using algebra? \n3. Can you substitute $-x$ into the function $f(x)$ and simplify the expression? \n4. What does it mean for a function to be odd? \n5. Can you compare the expression for $f(x)$ and $f(-x)$ to determine whether the function is even, odd, or neither? \n6. How does the symmetry of the graph of a function relate to whether the function is even or odd? \n7. Can you think of any other functions where you could determine whether they are even or odd using similar methods?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "The sum of the digits of the year 2004 is 6. What is the first year after 2000 for which the sum of the digits is 12?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "To find the first year after $2000$ for which the sum of the digits is $12$, take the greatest possible units digit, $9$. $2+9=11$, so take $1$ as the tens digit and $0$ as the hundreds digit. The answer is therefore $\\boxed{2019}$.",
+    "socratic_questions": "1. What is the given information in this problem?\n2. What are we trying to find in this problem?\n3. How can we break down the given year, 2004, into its individual digits?\n4. What is the sum of the digits of the year 2004?\n5. What is the sum of the digits of the year 2019? How did you calculate it?\n6. What is the relationship between the sum of the digits and the value of a number?\n7. How can we determine the first year after 2000 for which the sum of the digits is 12?\n8. Why did we take the greatest possible units digit, 9?\n9. How did we determine the tens and hundreds digits for the year after 2000?\n10. How did we verify that the sum of the digits for the year 2019 is indeed 12?"
+}

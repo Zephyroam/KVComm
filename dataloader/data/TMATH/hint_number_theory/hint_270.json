@@ -1,0 +1,7 @@
+{
+    "problem": "How many positive perfect square integers are factors of the product $\\left(2^{10}\\right)\\left(3^{12}\\right)\\left(5^{15}\\right)$?",
+    "level": "Level 5",
+    "type": "Number Theory",
+    "solution": "There are six possible square powers of two that can divide the given number: $2^0$, $2^2$, $2^4$, $2^6$, $2^8$, and $2^{10}$. Similarly, there are seven possible square powers of three that can divide the given number, and eight possible square powers of five that can divide the given number. Therefore, there are $6 \\times 7 \\times 8 = \\boxed{336}$ positive perfect square integers that can divide $\\left(2^{10}\\right)\\left(3^{12}\\right)\\left(5^{15}\\right)$.",
+    "socratic_questions": "1. What does it mean for a number to be a perfect square?\n2. How can we find the factors of a given number?\n3. What is the relationship between perfect squares and factors?\n4. Can you identify the prime factorization of $2^{10} \\cdot 3^{12} \\cdot 5^{15}$?\n5. How can we determine which prime factors have an even exponent in the given number?\n6. Why are only the even exponents of prime factors relevant for finding perfect square factors?\n7. How many different combinations of even exponents can be formed from the given exponents?\n8. Can you calculate the number of perfect square factors using the combinations of even exponents?"
+}

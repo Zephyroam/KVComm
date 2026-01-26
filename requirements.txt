@@ -1,0 +1,13 @@
+datasets
+transformers==4.53.3 # Must be 4.53.3, model definition changed in 4.54.0
+tqdm
+wandb
+accelerate
+evaluate
+spacy
+lm_eval==0.4.9
+blobfile
+tiktoken
+contractions
+rouge
+fuzzywuzzy

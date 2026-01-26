@@ -1,0 +1,7 @@
+{
+    "problem": "A fair 6-sided die is rolled.  What is the probability that the number rolled is a divisor of 6?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "There are 4 divisors of 6, namely $1,2,3,6$.  So the answer is $\\dfrac46=\\boxed{\\dfrac23}$.",
+    "socratic_questions": "1. What is a divisor? Can you give an example?\n2. Can you list all the possible outcomes when rolling a fair 6-sided die?\n3. Of the outcomes, how many are divisors of 6?\n4. How did you come up with the number of divisors of 6?\n5. What is the probability of rolling a divisor of 6?\n6. Can the same approach be used to find the probability of rolling a divisor of any other number? If so, how?"
+}

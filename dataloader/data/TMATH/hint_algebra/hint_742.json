@@ -1,0 +1,7 @@
+{
+    "problem": "The points $(x, y)$ represented in this table lie on a straight line. The point $(28, t)$ lies on the same line. What is the value of $t?$ \\begin{tabular}{c|c}\n$x$ & $y$ \\\\ \\hline\n1 & 7 \\\\\n3 & 13 \\\\\n5 & 19 \\\\\n\\end{tabular}",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "Looking at the table, we see that increasing $x$ by two results in an increase in $y$ of $6.$ Thus for every increase in $x$ of $1,$ $y$ increases by $3.$ If $x = 1$ gives $y = 7,$ then $x = 28 = 1 + 27$ gives $y = 7 + 27\\cdot 3 = \\boxed{88}.$",
+    "socratic_questions": "1. How can we determine if the points in the table lie on a straight line?\n2. Can you explain what it means for a set of points to lie on the same line?\n3. What observations can we make about the relationship between the values of $x$ and $y$ in the table?\n4. How can we find the slope of the line connecting any two points in the table?\n5. Can you calculate the slope between any two points in the table using the given data?\n6. If (28, t) lies on the same line, what can we conclude about the relationship between the values of 28 and t?\n7. How can we determine the value of t using the information we have about the slope and the point (28, t)?"
+}

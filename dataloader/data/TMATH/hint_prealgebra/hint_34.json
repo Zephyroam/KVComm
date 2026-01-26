@@ -1,0 +1,7 @@
+{
+    "problem": "What is the largest divisor of 342 that is also a factor of 285?",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "The factors of 342 are 1, 2, 3, 6, 9, 18, 19, 38, 57, 114, 171, and 342. The factors of 285 are 1, 3, 5, 15, 19, 57, 95, and 285. By comparing the two lists, we can see that the numbers that are factors of both 342 and 285 are 1, 3, 19, and 57. So, the largest divisor of both 342 and 285 is $\\boxed{57}$.",
+    "socratic_questions": "1. What does it mean to be a divisor of a number? \n2. Can you explain what it means for a number to be a factor of another number? \n3. What are the factors of 342 and 285? \n4. How can we find the common factors of two numbers? \n5. What strategies can you use to determine the largest common factor of two numbers? \n6. How did you decide that 57 is the largest common divisor of 342 and 285? \n7. Can you think of any other numbers that could be common factors for 342 and 285? \n8. Is there any other mathematical concept or problem that relates to finding common factors?"
+}

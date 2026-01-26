@@ -1,0 +1,7 @@
+{
+    "problem": "What is the $87^{\\mathrm{th}}$ odd positive integer?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Every odd positive integer can be expressed in the form $2x - 1$, where $x$ is a positive integer greater than or equal to $1$. When $x = 1$, the formula yields the first odd positive integer, $1$. When $x = 2$, the formula gives the second odd positive integer, $3$. Thus, the $87$th odd positive integer will be $2 \\cdot 87 - 1 = \\boxed{173}$.",
+    "socratic_questions": "1. What is the formula for expressing every odd positive integer?\n2. How does the formula work? Can you explain the logic behind it?\n3. Can you explain why we subtract 1 from the formula $2x - 1$ to get the odd positive integer?\n4. How do we find the $87$th odd positive integer using the formula?\n5. Can you find the value of $x$ that corresponds to the $87$th odd positive integer using the formula?\n6. How can we use the formula to find any odd positive integer?"
+}

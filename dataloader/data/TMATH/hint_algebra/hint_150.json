@@ -1,0 +1,7 @@
+{
+    "problem": "Luke wants to fence a square piece of land of at least 400 square feet. What should the side of the square be if he wants to use the least amount of fencing?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "The area of the land would be $s^2$, where $s$ is the length of the side. Since it has to be at least 400 square feet, we get $s^2\\geq 400$. Therefore, we get that $s \\le -20 \\text{ or } s \\ge 20$. Since the dimensions can't be negative, the least value of $s$ would be $\\boxed{20}$.",
+    "socratic_questions": "1. Can you explain why Luke wants to fence a square piece of land?\n2. What is the relationship between the area of the square and the length of its sides?\n3. What is the minimum area that Luke wants the square land to have?\n4. Can you find a formula that relates the area of a square to the length of its sides?\n5. How can we minimize the amount of fencing needed for the square land?\n6. Is there a connection between the length of the sides and the amount of fencing required?\n7. Can you find the minimum side length for the square land using algebraic methods?\n8. How can you verify that this solution indeed minimizes the amount of fencing required?\n9. Can you think of other scenarios where optimizing a particular attribute involves similar algebraic reasoning and steps?"
+}

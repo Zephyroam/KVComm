@@ -1,0 +1,7 @@
+{
+    "problem": "Evaluate $i^6+i^{16}+i^{-26}$.",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "We have $i^6 = i^4\\cdot i^2 = 1\\cdot (-1) = -1$.  We also have $i^{16} = (i^4)^4 = 1^4 =1$, and $i^{-26} = 1/i^{26} = 1/(i^{24}\\cdot i^2) = 1/[1\\cdot (-1)] = -1$. So, adding these three results gives $i^6 + i^{16} + i^{-26} = -1+1-1 = \\boxed{-1}$.",
+    "socratic_questions": "1. What is the definition of $i$ in algebra?\n2. Can you simplify each term separately in the expression?\n3. How does $i$ behave when raised to different powers? Are there any patterns?\n4. Can you relate $i^6$ to $i^2$ and simplify it further?\n5. How can you simplify $i^{16}$ using the pattern you observed earlier?\n6. What can you do with $i^{-26}$ to make it easier to evaluate?\n7. How can you combine the simplified terms to find the final result?\n8. Are there any general rules or properties of exponents that can be applied here?\n9. Can you substitute a numerical value for $i$ to check your answer?"
+}

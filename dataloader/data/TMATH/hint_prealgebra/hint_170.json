@@ -1,0 +1,7 @@
+{
+    "problem": "What is the least positive three-digit multiple of 7?",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "We notice that 77 is a multiple of 7.  We can skip-count from here: \\[77,84,91,98,105,\\ldots.\\] The least three-digit multiple of 7 is $\\boxed{105}$.",
+    "socratic_questions": "1. How did you determine that 77 is a multiple of 7?\n2. Can you explain the process of skip-counting from 77 onwards to find the least three-digit multiple of 7?\n3. Is there a pattern or rule that can help us determine the multiples of 7?\n4. Are there any other methods or strategies that can be used to find the least three-digit multiple of 7?\n5. How can we verify that 105 is indeed the least three-digit multiple of 7?\n6. Are there any other similar problems or situations where similar thinking and steps can be applied?"
+}

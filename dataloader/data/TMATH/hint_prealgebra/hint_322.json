@@ -1,0 +1,7 @@
+{
+    "problem": "What is the remainder when 1,493,824 is divided by 4?",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "To check if a number is divisible by 4, we only need to check if its last two digits are divisible by 4. In this case, the last two digits of 1,493,824 are 24, which is divisible by 4. Thus, the remainder is $\\boxed{0}$.",
+    "socratic_questions": "1. Can you explain why we only need to check the last two digits to determine if a number is divisible by 4?\n2. How can we determine if a two-digit number is divisible by 4?\n3. How does this concept apply to the number 1,493,824? What are its last two digits?\n4. Based on the previous question, can you determine if 1,493,824 is divisible by 4? If yes, what is the remainder?\n5. Can you think of any other numbers where we can use a similar approach to determine if they are divisible by 4?\n6. What strategies or methods could we use to check if a number is divisible by a different divisor?"
+}

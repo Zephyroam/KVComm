@@ -1,0 +1,7 @@
+{
+    "problem": "What is the sum of all the positive divisors of 91?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "The prime factorization of $91$ is $7 \\cdot 13$. It follows that the sum of the divisors of $91$ is equal to $(1 + 7)(1 + 13)$, as each factor of $91$ is represented when the product is expanded. It follows that the answer is equal to $(1 + 7)(1 + 13) = (8)(14)$, or $\\boxed{112}$.",
+    "socratic_questions": "1. What is a divisor of a number, and how do we find the divisors of 91?\n2. Can we list all of the divisors of 91, and if so, what is their sum?\n3. Is there a faster or more efficient method than listing all divisors to find the sum, and if so, how does it work?\n4. What is the prime factorization of 91, and how does it help us find the sum of its divisors?\n5. Why does adding 1 to each prime factor and multiplying those sums give us the sum of the divisors of 91?\n6. Can we use this same method to find the sum of the divisors of other numbers, and if so, what are some examples?"
+}

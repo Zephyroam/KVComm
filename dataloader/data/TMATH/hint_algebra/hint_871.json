@@ -1,0 +1,7 @@
+{
+    "problem": "Ramanujan and Hardy played a game where they both picked a complex number. If the product of their numbers was $32-8i$, and Hardy picked $5+3i$, what number did Ramanujan pick?",
+    "level": "Level 5",
+    "type": "Algebra",
+    "solution": "Let Hardy's number be $h$ and Ramanujan's be $r$. We have the equations: \\begin{align*}\nrh&=32-8i,\\\\\nh&=5+3i.\n\\end{align*} Thus, \\[r=\\frac{32-8i}{5+3i}.\\] Multiplying top and bottom by the conjugate of $5+3i$, we have \\[r=\\frac{(32-8i)(5-3i)}{34}\\] or  \\[r=\\frac{136-136i}{34}=\\boxed{4-4i}\\]",
+    "socratic_questions": "1. Can you describe the first step you would take in solving this problem?\n2. What methods do you know for finding the product of complex numbers?\n3. If you were to use the distributive property to multiply two complex numbers, how would you do it?\n4. How can you use the given information about the product and Hardy's number to solve for Ramanujan's number?\n5. What steps can you take to isolate Ramanujan's number and solve for it?\n6. Can you think of any similar problems where you would need to use similar thinking and steps to find a missing complex number?"
+}

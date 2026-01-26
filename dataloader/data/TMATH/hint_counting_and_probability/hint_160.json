@@ -1,0 +1,7 @@
+{
+    "problem": "What is the smallest three-digit number in Pascal's triangle?",
+    "level": "Level 4",
+    "type": "Counting & Probability",
+    "solution": "Every positive integer appears in Pascal's triangle!  The number 100 appears in the row that starts 1, 100.  So, the answer is $\\boxed{100}$.  Tricky, tricky!",
+    "socratic_questions": "1. Can you explain what is Pascal's triangle?\n2. How is Pascal's triangle generated?\n3. What is the relationship between the entries in Pascal's triangle and binomial coefficients?\n4. Is there any pattern or symmetry in Pascal's triangle? Can you describe it?\n5. How can you determine the row in which a specific number appears in Pascal's triangle?\n6. What is the significance of every positive integer appearing in Pascal's triangle?\n7. How does the property that every positive integer appears in Pascal's triangle relate to counting and probability problems? Can you provide an example?\n8. How can Pascal's triangle be used to calculate probabilities? Can you provide an example?"
+}

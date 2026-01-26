@@ -1,0 +1,7 @@
+{
+    "problem": "There are five unmarked envelopes on a table, each with a letter for a different person.  If the mail is randomly distributed to these five people, with each person getting one letter, what is the probability that exactly four people get the right letter?",
+    "level": "Level 4",
+    "type": "Counting & Probability",
+    "solution": "If 4 people get the right letter, then there is only one letter left, and only one person left.  So, the last person will get the right letter, too.  Therefore, it is impossible for exactly four people to get the right letter.  So, the probability is $\\boxed{0}$.",
+    "socratic_questions": "1. Can you explain what the problem is asking for in your own words?\n2. How many different ways can the letters be distributed to the five people? \n3. How many ways are there for exactly four people to get the right letter?\n4. How did you arrive at your answer in the previous question?\n5. Can you explain why it is impossible for exactly four people to get the right letter? \n6. What is the probability that three people get the right letter? \n7. Can you think of a real-life scenario where understanding probability would be important? \n8. How might you approach a problem where multiple letters can be distributed to the same person? \n9. Can you describe any shortcuts or tricks you know for solving probability problems like this one? \n10. How might this concept of probability come up in fields beyond mathematics, such as finance or science?"
+}

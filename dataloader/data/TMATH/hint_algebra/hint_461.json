@@ -1,0 +1,7 @@
+{
+    "problem": "What is the greater of the solutions to the equation $x^2 + 15x -54=0$?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "We can find the roots of this equation by factoring the quadratic as $(x + 18)(x - 3) = 0$. This gives us the solutions $x = -18$ or $x = 3$. We want the greater solution, so our answer is $\\boxed{3}$.",
+    "socratic_questions": "1. Can you describe the first step to solve this equation?\n2. What different methods do you know to solve equations like this one?\n3. If you choose to factorize, how would you find the suitable factors?\n4. Why can this equation be factorized? Are there any characteristics that make it suitable for this method?\n5. What are the factors you found, and how can they verify that your solution is correct?\n6. Can you think of other types of equations where similar thinking and steps may be required?"
+}

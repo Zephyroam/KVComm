@@ -1,0 +1,7 @@
+{
+    "problem": "What is the total volume in cubic feet of three boxes if each box is a cube with edge length 4 feet?",
+    "level": "Level 1",
+    "type": "Geometry",
+    "solution": "Each box has volume $4^3=64$ cubic feet. Thus, three boxes have volume $64\\cdot3=\\boxed{192}$ cubic feet.",
+    "socratic_questions": "1. What is the definition of volume?\n2. How is the volume of a cube calculated?\n3. In this problem, what is the edge length of each box and what unit is used to measure it?\n4. How many boxes are given in the problem?\n5. What is the formula to calculate the total volume of the boxes?\n6. Based on the given information, what is the total volume of the three boxes?\n7. Can this formula be applied to calculate the total volume of other objects made up of cubes? \n8. Are there any limitations to using this formula?"
+}

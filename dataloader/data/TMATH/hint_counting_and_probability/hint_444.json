@@ -1,0 +1,7 @@
+{
+    "problem": "I won a trip for four to the Super Bowl.  I can bring three of my friends.  I have 8 friends.  In how many ways can I form my Super Bowl party?",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "Order does not matter, so it is a combination. Choosing $3$ out of $8$ is $\\binom{8}{3}=\\boxed{56}.$",
+    "socratic_questions": "1. Can you explain what it means for the order not to matter in this context?\n2. How many friends do you have in total? What does this number represent?\n3. What does it mean to \"form a Super Bowl party\" in this scenario?\n4. If you can bring three friends, how many friends will not be included in the party?\n5. How many different combinations of three friends can you choose from a total of eight friends?\n6. What formula or concept can you use to calculate the number of combinations? Can you explain why it applies in this case?\n7. Can you calculate the number of ways to form your Super Bowl party using the combination formula?\n8. Can you think of any other situations or problems where the combination formula could be applied?\n9. What are some factors that might affect the number of possible combinations in similar scenarios?"
+}

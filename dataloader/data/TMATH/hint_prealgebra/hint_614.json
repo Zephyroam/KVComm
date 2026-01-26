@@ -1,0 +1,7 @@
+{
+    "problem": "What is the greatest common factor of all two-digit palindromes?  (Note: A palindrome is a number that reads the same forwards as backwards.)",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "Palindromes are numbers whose digits read from left to right and from right to left result in the same number. All two-digit palindromes (11, 22,...99) can be factored into 11 and a number between 1 and 9. The only factor that all of them share is $\\boxed{11}$, so that is our answer.",
+    "socratic_questions": "1. Can you define what a palindrome is in terms of numbers?\n2. How can we factor all two-digit palindromes, and what factors do they have in common?\n3. What is the process for finding the greatest common factor of a set of numbers?\n4. How does the fact that the two-digit palindromes can be factored affect the process of finding their greatest common factor?\n5. Is 11 the only factor that all two-digit palindromes share? If so, why? If not, what other factors do they share and why are they not the greatest common factor? \n6. Can we apply the same method of finding the greatest common factor to other sets of numbers? If so, can you provide some examples?"
+}

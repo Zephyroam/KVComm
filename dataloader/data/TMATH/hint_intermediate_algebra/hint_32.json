@@ -1,0 +1,7 @@
+{
+    "problem": "Find all real solutions to $x^4+(2-x)^4=34$.  Enter all the solutions, separated by commas.",
+    "level": "Level 4",
+    "type": "Intermediate Algebra",
+    "solution": "Let $y = x - 1.$  Then $x = y + 1,$ and\n\\[(y + 1)^4 + (-y + 1)^4 = 34.\\]Expanding, we get $2y^4 + 12y^2 - 32 = 0.$  This factors as $2(y^2 - 2)(y^2 + 8) = 0,$ so $y = \\pm \\sqrt{2}.$  Thus, the solutions in $x$ are $\\boxed{1 + \\sqrt{2}, 1 - \\sqrt{2}}.$",
+    "socratic_questions": "1. What is the first step you would take to solve the equation $x^4 + (2 - x)^4 = 34$?\n2. What methods do you know for solving equations involving powers of variables?\n3. If you substitute $y = x - 1,$ how would the equation change?\n4. What is the reasoning behind this substitution? How does it help simplify the equation?\n5. Can you explain how to factor $2y^4 + 12y^2 - 32$?\n6. What are the roots of the factored equation, and how do they relate to the solutions for $x$?\n7. Can you think of other types of equations that could be solved by a similar process of substitution and factoring?"
+}

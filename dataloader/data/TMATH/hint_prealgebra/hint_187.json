@@ -1,0 +1,7 @@
+{
+    "problem": "The larger of two consecutive odd integers is three times the smaller.  What is their sum?",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "Let the smaller of the integers be $x$.  Then the larger is $x + 2$. So $x + 2 = 3x$, from which $x = 1$.  Thus the two integers are 1 and 3, and their sum is $\\boxed{4}$.",
+    "socratic_questions": "1. Can you describe the problem in your own words?\n2. What does it mean for two integers to be consecutive and odd?\n3. Let's use algebra to represent the problem. If x is the smaller integer, what would be the expression for the larger integer?\n4. The problem states that the larger integer is three times the smaller one. Can you write an equation using this information?\n5. How can we solve for x in the equation we found in the previous question? \n6. Once we find x, how can we find the two consecutive odd integers?\n7. What is the sum of the two integers we found, and does it match the answer in the problem statement? \n8. Can you think of other algebraic problems that involve consecutive integers, and how are they similar or different from the problem we just solved?"
+}

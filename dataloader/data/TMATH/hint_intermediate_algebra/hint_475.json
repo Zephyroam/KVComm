@@ -1,0 +1,7 @@
+{
+    "problem": "Let $a,$ $b,$ $c$ be the roots of the cubic $x^3 + 3x^2 + 5x + 7 = 0.$  Given that $P(x)$ is a cubic polynomial such that $P(a) = b + c,$ $P(b) = a + c,$ $P(c) = a + b,$ and $P(a + b + c) = -16,$ find $P(x).$",
+    "level": "Level 5",
+    "type": "Intermediate Algebra",
+    "solution": "By Vieta's formulas, $a + b + c = -3,$ so $P(-3) = -16.$\n\nLet $Q(x) = P(x) + x + 3.$  Then\n\\begin{align*}\nQ(a) &= b + c + a + 3 = 0, \\\\\nQ(b) &= a + c + b + 3 = 0, \\\\\nQ(c) &= a + b + c + 3 = 0, \\\\\nQ(-3) &= P(-3) - 3 + 3 = -16.\n\\end{align*}Hence, $Q(x) = k(x - a)(x - b)(x - c) = k(x^3 + 3x^2 + 5x + 7)$ for some constant $k.$  Setting $x = -3,$ we get\n\\[-16 = -8k,\\]so $k = 2.$  Then $Q(x) = 2(x^3 + 3x^2 + 5x + 7),$ so\n\\[P(x) = Q(x) - x - 3 = 2(x^3 + 3x^2 + 5x + 7) - x - 3 = \\boxed{2x^3 + 6x^2 + 9x + 11}.\\]",
+    "socratic_questions": "1. What is the relationship between the roots $a,$ $b,$ and $c$ of the cubic equation $x^3 + 3x^2 + 5x + 7 = 0$ and the values of $P(a),$ $P(b),$ and $P(c)$?\n2. How can we determine the value of $P(-3)$ based on the given information?\n3. Why do we define $Q(x) = P(x) + x + 3$? What does this manipulation allow us to do?\n4. What can we conclude about the roots of $Q(x)$ based on the values of $Q(a),$ $Q(b),$ $Q(c),$ and $Q(-3)$?\n5. How can we find the constant $k$ in $Q(x) = k(x^3 + 3x^2 + 5x + 7)$?\n6. What is the relationship between $P(x)$ and $Q(x)$?\n7. How can we find $P(x)$ from $Q(x)$?\n8. What is the final expression for $P(x)$ based on our calculations?"
+}

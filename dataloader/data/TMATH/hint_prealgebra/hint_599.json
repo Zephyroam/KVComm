@@ -1,0 +1,7 @@
+{
+    "problem": "What is the least positive whole number divisible by four different prime numbers?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "We take the four smallest primes: 2, 3, 5, 7. Their least common multiple is simply their product, so the least whole number divisible by four different primes is  $2\\cdot3\\cdot5\\cdot7=\\boxed{210}$.",
+    "socratic_questions": "1. Can you explain what it means for a number to be divisible by another number?\n2. Why do we need to find the least common multiple of four different prime numbers in this problem?\n3. Can you list the four smallest prime numbers?\n4. How can we find the least common multiple of these four prime numbers?\n5. Can you describe the process of finding the least common multiple of two numbers?\n6. How can we apply that process to find the least common multiple of more than two numbers?\n7. What is the product of the four prime numbers?\n8. Can you explain why their product is the least whole number divisible by the four primes?\n9. How does the concept of least common multiple relate to finding the least whole number divisible by multiple primes?\n10. Can you come up with a similar problem where we need to find the least whole number divisible by a different set of prime numbers?"
+}

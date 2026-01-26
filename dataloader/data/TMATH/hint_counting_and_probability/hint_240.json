@@ -1,0 +1,7 @@
+{
+    "problem": "What is the coefficient of $x^3$ in the expansion of $$(x+2\\sqrt3)^7?$$",
+    "level": "Level 4",
+    "type": "Counting & Probability",
+    "solution": "By the binomial theorem, this term is $$\\binom73x^3(2\\sqrt3)^4=35x^3\\cdot144=\\boxed{5040}x^3.$$",
+    "socratic_questions": "1. What is the Binomial Theorem and how does it apply in this context?\n2. Can you explain the term \"binomial coefficient\" and its role in the expansion?\n3. How does the exponent in the binomial affect the number of terms in the expansion?\n4. Could you simplify the given expression using the Binomial Theorem before identifying the coefficient of $x^3$?\n5. Can you identify the pattern followed by the coefficients in the expansion? If so, how does it relate to the binomial coefficients?\n6. Are there any specific terms in the expansion that you can ignore when finding the coefficient of $x^3$?\n7. What is the significance of $x^3$ in the term you are searching for?\n8. How does the exponent of $2\\sqrt{3}$ in the term contribute to the final calculation?\n9. Can you generalize the process used to find the coefficient of $x^3$ to other expansions with different exponents and variables?\n10. Can you think of any real-life applications or situations where understanding this concept could be useful?"
+}

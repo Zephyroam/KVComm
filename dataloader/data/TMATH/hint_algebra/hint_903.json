@@ -1,0 +1,7 @@
+{
+    "problem": "What is the sum of the two solutions to the equation $54-15x-x^2=0$?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "If the two solutions are $r$ and $s$, then the left-hand side of the equation may be factored as $-(x-r)(x-s)$. When multiplied out, this expression takes the form $-x^2+(r+s)x-rs$.  Therefore, $r+s$ is the coefficient of $x$ in the equation, namely $\\boxed{-15}$.",
+    "socratic_questions": "1. Can you describe the first step you would take to solve this equation?\n2. In solving this equation, do you know any specific methods or techniques that can be used?\n3. If you were to factorize the equation, how would you determine the appropriate factors to use?\n4. What characteristics of this equation make it suitable for factoring? Why can we factorize it?\n5. What are the factors you found, and how do they verify that your solutions are correct?\n6. Can you think of other types of equations where similar thinking and steps would be applied in solving them?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "$\\triangle ABC\\sim\\triangle DBE$, $BC=20\\text{ cm}.$ How many centimeters long is $DE$? Express your answer as a decimal to the nearest tenth. [asy]\ndraw((0,0)--(20,0)--(20,12)--cycle);\ndraw((13,0)--(13,7.8));\nlabel(\"$B$\",(0,0),SW);\nlabel(\"$E$\",(13,0),S);\nlabel(\"$D$\",(13,7.8),NW);\nlabel(\"$A$\",(20,12),NE);\nlabel(\"$C$\",(20,0),SE);\nlabel(\"13\",(6.5,0),S);\nlabel(\"12\",(20,6),E);\n[/asy]",
+    "level": "Level 2",
+    "type": "Geometry",
+    "solution": "From our similarity, we have that: \\begin{align*}\n\\frac{DE}{AC} &= \\frac{BE}{BC} \\\\\nDE &= \\frac{BE \\cdot AC}{BC}\\\\\n&= \\frac{13\\text{ cm} \\cdot 12\\text{ cm}}{20\\text{ cm}} = \\boxed{7.8}\\text{ cm}.\n\\end{align*}",
+    "socratic_questions": "1. What do we know about the triangles ABC and DBE? How can we describe their relationship?\n2. How can we use the similarity of the triangles to find the length of DE?\n3. What does the equation $\\frac{DE}{AC} = \\frac{BE}{BC}$ represent? How does it help us find the length of DE?\n4. Can we simplify the equation $\\frac{DE}{AC} = \\frac{BE}{BC}$ further? What steps do we need to take in order to isolate DE?\n5. What is the ratio between BE and BC? How can we use this ratio to find the length of DE?\n6. Are there any other similar triangles in which we can use a similar approach to find a missing length? Can you think of an example and explain the process?"
+}

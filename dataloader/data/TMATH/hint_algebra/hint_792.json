@@ -1,0 +1,7 @@
+{
+    "problem": "Evaluate $x^3 + x^2 + x + 1$ when $x = 3$.",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "We see that the expression is equal to $3^3 + 3^2 + 3 + 1 = 27 + 9 + 3 + 1 = \\boxed{40}$.",
+    "socratic_questions": "1. How would you describe the general process of evaluating an algebraic expression when substituting a specific value for the variable?\n2. Can you identify any key steps or strategies for evaluating an expression like $x^3 + x^2 + x + 1$ when given a specific value for $x$?\n3. If we substitute $x = 3$ into the expression, what would be the first computation step?\n4. How would you handle the exponentiation of $x$ in the expression when given a specific value for $x$?\n5. What is the value of $x^3$ when $x = 3$? How about $x^2$, $x$, and the constant term $1$?\n6. Considering the expression $x^3 + x^2 + x + 1$, what would be the result if $x$ had a negative value instead?\n7. Are there any other similar algebraic expressions that you can think of where you could apply similar steps to evaluate them when given a specific value for $x$?"
+}

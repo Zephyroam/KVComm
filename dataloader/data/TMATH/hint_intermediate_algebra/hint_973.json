@@ -1,0 +1,7 @@
+{
+    "problem": "Given that $x - \\frac{1}{x} = 4$, what is $x^3 - \\frac{1}{x^3}$?",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "We notice that $x^3 - \\frac{1}{x^3}$ is a difference of cubes. We can therefore factor it and rearrange the terms to get:  \\begin{align*}\nx^3 - \\frac{1}{x^3} & = \\left(x - \\frac{1}{x}\\right)\\cdot\\left(x^2 + x\\left(\\frac{1}{x}\\right) + \\frac{1}{x^2}\\right) \\\\\n& = \\left(x - \\frac{1}{x}\\right)\\cdot\\left(\\left(x^2 - 2x\\left(\\frac{1}{x}\\right) + \\frac{1}{x^2}\\right) + 3x\\left(\\frac{1}{x}\\right)\\right) \\\\\n& = \\left(x - \\frac{1}{x}\\right)\\cdot\\left(\\left(x - \\frac{1}{x}\\right)^2+3\\right).\n\\end{align*}Since $x - \\frac{1}{x} = 4$, we have that $x^3 - \\frac{1}{x^3}=4\\cdot(4^2+3) = 4 \\cdot 19 = \\boxed{76}.$",
+    "socratic_questions": "1. How can we rewrite the expression $x^3 - \\frac{1}{x^3}$ in terms of $x - \\frac{1}{x}$? \n2. What is the factorization of $x^2 + x\\left(\\frac{1}{x}\\right) + \\frac{1}{x^2}$? \n3. How can we simplify $\\left(x^2 - 2x\\left(\\frac{1}{x}\\right) + \\frac{1}{x^2}\\right)$? \n4. How can we use the difference of cubes formula to find the factorization of $x^3 - \\frac{1}{x^3}$? \n5. How can we verify that $\\left(x - \\frac{1}{x}\\right)\\cdot\\left(\\left(x - \\frac{1}{x}\\right)^2+3\\right)$ is the correct factorization? \n6. Can we use a similar approach to find the factorization of other expressions that involve a difference of cubes?"
+}

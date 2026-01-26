@@ -1,0 +1,7 @@
+{
+    "problem": "A piece of cheese is located at $(12,10)$ in a coordinate plane.  A mouse is at $(4,-2)$ and is running  up  the line $y=-5x+18$.  At the point $(a,b)$ the mouse starts getting farther from the cheese rather than closer to it. What is $a + b$?",
+    "level": "Level 5",
+    "type": "Algebra",
+    "solution": "The  point $(a,b)$ is the foot of the perpendicular from $(12,10)$ to the line $y=-5x+18$.  The perpendicular has slope $\\frac{1}{5}$, so its equation is \\[\ny=10+\\frac{1}{5}(x-12)=\\frac{1}{5}x+\\frac{38}{5}.\n\\]The $x$-coordinate at the foot of the perpendicular satisfies the equation \\[\n\\frac{1}{5}x+\\frac{38}{5}=-5x+18,\n\\]so $x=2$ and $y=-5\\cdot2+18=8$. Thus $(a,b) = (2,8)$, and $a+b = \\boxed{10}$.",
+    "socratic_questions": "1. Can you describe the initial position of the mouse and the cheese in relation to the coordinate plane?\n2. What direction is the mouse running in according to the equation $y = -5x + 18$?\n3. At what point does the mouse start getting farther from the cheese rather than closer to it?\n4. How can we determine if the mouse is getting farther from the cheese or closer to it at a given point?\n5. What are the coordinates of the point where the mouse starts getting farther from the cheese?\n6. How can we calculate the sum of the x and y coordinates at that point?"
+}

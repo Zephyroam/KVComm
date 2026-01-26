@@ -1,0 +1,7 @@
+{
+    "problem": "What is the smallest base-10 integer that can be represented as $AA_5$ and $BB_7$, where $A$ and $B$ are valid digits in their respective bases?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "We can rewrite $AA_5$ and $BB_7$ to get \\begin{align*}\n5A+A&=7B+B\\quad\\Rightarrow\\\\\n6A&=8B\\quad\\Rightarrow\\\\\n3A&=4B.\n\\end{align*}We can see that the smallest possible values for $A$ and $B$ are $A=4$ and $B=3$. So the integer can be expressed as $44_5=33_7=\\boxed{24_{10}}$.",
+    "socratic_questions": "1. How can we represent numbers in different bases, such as base-5 and base-7?\n2. Can you explain what \"$AA_5$\" and \"$BB_7$\" mean in terms of their respective bases?\n3. What is the relationship between \"$AA_5$\" and \"$BB_7$\" according to the given problem?\n4. How can we rewrite \"$AA_5$\" and \"$BB_7$\" to relate the values of $A$ and $B$?\n5. What can we determine about the relationship between $A$ and $B$ from the equation $3A = 4B$?\n6. How can we find the smallest possible values for $A$ and $B$ that satisfy the equation?\n7. How do the values of $A$ and $B$ correspond to the digits in base-5 and base-7 systems?\n8. What does the expression \"$44_5=33_7=24_{10}$\" mean in terms of the original problem?"
+}

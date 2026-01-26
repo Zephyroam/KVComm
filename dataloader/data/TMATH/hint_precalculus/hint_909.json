@@ -1,0 +1,7 @@
+{
+    "problem": "Find\n\\[\\sin \\left( \\sin^{-1} \\frac{3}{5} + \\tan^{-1} 2 \\right).\\]",
+    "level": "Level 3",
+    "type": "Precalculus",
+    "solution": "Let $a = \\sin^{-1} \\frac{3}{5}$ and $b = \\tan^{-1} 2.$  Then $\\sin a = \\frac{3}{5}$ and $\\tan b = 2.$  With the usual technique of constructing right triangles, we can find that $\\cos a = \\frac{4}{5},$ $\\cos b = \\frac{1}{\\sqrt{5}},$ and $\\sin b = \\frac{2}{\\sqrt{5}}.$  Therefore, from the angle addition formula,\n\\begin{align*}\n\\sin (a + b) &= \\sin a \\cos b + \\cos a \\sin b \\\\\n&= \\frac{3}{5} \\cdot \\frac{1}{\\sqrt{5}} + \\frac{4}{5} \\cdot \\frac{2}{\\sqrt{5}} \\\\\n&= \\frac{11}{5 \\sqrt{5}} \\\\\n&= \\boxed{\\frac{11 \\sqrt{5}}{25}}.\n\\end{align*}",
+    "socratic_questions": "1. What is the value of $a$ in the equation $a = \\sin^{-1} \\frac{3}{5}$?\n2. What is the value of $b$ in the equation $b = \\tan^{-1} 2$?\n3. Can you express $\\sin a$ in terms of a simplified fraction?\n4. Can you express $\\cos a$ in terms of a simplified fraction?\n5. Can you express $\\sin b$ in terms of a simplified fraction?\n6. Can you express $\\cos b$ in terms of a simplified fraction?\n7. What is the value of $\\sin (a + b)$?\n8. Can you apply the angle addition formula to find $\\sin (a + b)$?\n9. How can you express $\\sin (a + b)$ in terms of $\\sin a$, $\\cos a$, $\\sin b$, and $\\cos b$?\n10. What is the final simplified result of $\\sin (a + b)$?"
+}

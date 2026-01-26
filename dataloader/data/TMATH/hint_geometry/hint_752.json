@@ -1,0 +1,7 @@
+{
+    "problem": "Triangle $ABC$ with vertices of $A(6,2)$, $B(2,5)$, and $C(2,2)$ is reflected over the x-axis to triangle $A'B'C'$. This triangle is reflected over the y-axis to triangle $A''B''C''$. What are the coordinates of point $C''$?",
+    "level": "Level 2",
+    "type": "Geometry",
+    "solution": "A reflection over the $x$-axis negates the $y$-coordinate, while a reflection over the $y$-axis negates the $x$-coordinate. So reflecting $C$ over the $x$-axis and the $y$-axis means we negate both coordinates to get $\\boxed{(-2, -2)}$ as the coordinates of point $C''$.",
+    "socratic_questions": "1. Can you describe the process of reflecting a point over the x-axis and how it affects its coordinates?\n2. What is the result of negating the y-coordinate of point $C$ when reflecting it over the x-axis?\n3. What happens to the x-coordinate of point $C$ when it is reflected over the y-axis?\n4. Can you explain why reflecting a point over the x-axis negates its y-coordinate?\n5. How does reflecting a point over the y-axis affect its x-coordinate?\n6. What are the coordinates of point $C''$ after reflecting point $C$ over both the x-axis and the y-axis? How did you arrive at that answer?\n7. Are there any other operations or transformations you can think of that would affect the coordinates of a point in a similar way?"
+}

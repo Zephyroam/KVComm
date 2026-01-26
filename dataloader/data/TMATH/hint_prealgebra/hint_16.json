@@ -1,0 +1,7 @@
+{
+    "problem": "Four consecutive positive prime numbers have a sum that is divisible by three. What is the smallest possible value of this sum?",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "The smallest set of such prime numbers is $5,7,11,13$, making a sum of $\\boxed{36}$.",
+    "socratic_questions": "1. Can you state the definition of a prime number and explain why only positive prime numbers are considered in this problem?\n2. How can we determine if a number is divisible by three? Can you give an example? \n3. Based on the given information, what do we know about the sum of the four consecutive positive prime numbers? \n4. How can we use the fact that the sum is divisible by three to determine the possible values of the smallest prime in the set? \n5. Can you list out all the possible sets of four consecutive positive prime numbers that satisfy the given condition? \n6. How can we determine the smallest sum among all the possible sets? \n7. Can you think of other similar problems that involve consecutive prime numbers or divisibility patterns?"
+}

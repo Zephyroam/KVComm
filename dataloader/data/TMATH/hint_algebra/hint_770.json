@@ -1,0 +1,7 @@
+{
+    "problem": "Alex has 12 friends and 63 coins. What is the minimum number of additional coins he needs so that he can give each friend at least one coin and no two friends receive the same number of coins?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "Alex wants to minimize the number of coins he gives to his friends without giving any two of them the same number of coins. The minimum number of coins he can give to a friend is 1. He then gives 2 coins to another friend, then 3 to another, then 4, and so on, until the last friend receives 12. The total number of coins Alex has given away is $1+2+3+\\cdots+12 = \\frac{12 \\cdot 13}{2}=78$.  Thus, Alex needs $78-63=\\boxed{15}$ more coins.",
+    "socratic_questions": "1. Can you describe the problem in your own words?\n2. What is the initial step you would take to solve this problem?\n3. Are there any specific strategies or methods that you think could be useful in solving this problem?\n4. How can you ensure that each friend receives at least one coin?\n5. What is the maximum number of coins that Alex can give to any single friend?\n6. How can you distribute the remaining coins to ensure that no two friends receive the same number of coins?\n7. Is there only one possible solution to this problem? Why or why not?\n8. Can you think of any similar problems that involve distributing a certain quantity amongst a group of individuals?"
+}

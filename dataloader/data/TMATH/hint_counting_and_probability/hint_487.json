@@ -1,0 +1,7 @@
+{
+    "problem": "In how many ways can 5 people be seated around a round table?  (Two seatings are considered the same if one is a rotation of the other.)",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "There are $5!$ ways to place the people around the table, but this counts each valid arrangement 5 times (once for each rotation of the same arrangement).  The answer is $\\dfrac{5!}{5} = 4! = \\boxed{24}$.",
+    "socratic_questions": "1. What is the definition of a round table in terms of seating arrangements?\n2. Is there any difference between a circular table and a round table when discussing seating arrangements? If so, what is the difference?\n3. How many total arrangements are there for 5 people to sit around a round table?\n4. Is it possible to directly use the formula for permutations to calculate the number of seating arrangements for a round table with n number of people? If not, why not?\n5. Can you explain why each valid arrangement is counted 5 times using the formula for permutations?\n6. How did you arrive at the formula $\\frac{5!}{5}$ to calculate the number of unique seating arrangements for 5 people around a round table?\n7. If the round table had 6 seats instead of 5, how many unique seating arrangements would there be? Can you explain how you arrived at your answer? \n8. How could you calculate the number of unique seating arrangements for a round table with n number of seats?"
+}

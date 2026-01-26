@@ -1,0 +1,7 @@
+{
+    "problem": "A stick 5 cm long, a stick 9 cm long, and a third stick $n$ cm long form a triangle. What is the sum of all possible whole number values of $n$?",
+    "level": "Level 3",
+    "type": "Geometry",
+    "solution": "Using the Triangle Inequality, we see that $n > 4$ and $n < 14,$ so $n$ can be any integer from $5$ to $13,$ inclusive. The sum can be calculated in several ways, but regardless, $5 + 6 + 7 + 8 + 9 + 10 + 11 + 12 + 13 = \\boxed{81}.$",
+    "socratic_questions": "1. Can you explain what the Triangle Inequality is? \n2. How does the Triangle Inequality apply to this particular problem? \n3. Based on the Triangle Inequality, what can we say about the possible values of n? \n4. How would you calculate the sum of all possible whole number values of n? \n5. Are there any other methods you can think of to calculate the sum of all possible values of n? \n6. Can you think of any other problems or situations where the Triangle Inequality could be used to solve them?"
+}

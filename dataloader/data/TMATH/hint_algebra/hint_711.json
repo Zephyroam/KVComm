@@ -1,0 +1,7 @@
+{
+    "problem": "Given that $2x + y = 4$ and $x + 2y = 5$, find $5x^2 + 8xy + 5y^2$.",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "We can solve for $x$ and $y$, then plug them in to get our answer. However, there is a nicer method. Note that \\begin{align*}\n5x^2 + 8xy + 5y^2 &= (4x^2 + 4xy + y^2) + (x^2 + 4xy + 4y^2) \\\\\n&= (2x + y)^2 + (x + 2y)^2 = 4^2 + 5^2 = \\boxed{41}.\n\\end{align*}.",
+    "socratic_questions": "1. Can you identify any key information or patterns in the given equations?\n2. What is the relationship between the coefficients of x and y in the two equations?\n3. Is there a method you can think of that would allow you to eliminate one of the variables and solve for the other?\n4. How can you eliminate one variable in the given equations to make solving for the other easier?\n5. After eliminating one variable, what will the resulting equation look like?\n6. What steps can you take to solve the resulting equation?\n7. Can you substitute the value(s) you found back into the original equations to check if they satisfy them?\n8. How can you use the values you found to evaluate the expression $5x^2 + 8xy + 5y^2$?\n9. Can you simplify the expression any further?\n10. Are there any other relationships or patterns you notice between the given equations and the expression $5x^2 + 8xy + 5y^2$?"
+}

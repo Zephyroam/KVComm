@@ -1,0 +1,7 @@
+{
+    "problem": "Find the least positive integer $x$ that satisfies $x+4609 \\equiv 2104 \\pmod{12}$.",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "Subtract 4609 from both sides of the congruence to obtain $x\\equiv -2505\\pmod{12}$. By dividing 2505 by 12, we find that the least integer $k$ for which $-2505+12k>0$ is $k=209$. Adding $12\\cdot 209$ to $-2505$, we find that $x\\equiv 3\\pmod{12}$. Thus $\\boxed{3}$ is the least integer satisfying the given congruence.",
+    "socratic_questions": "1. What does it mean for two integers to be congruent modulo a given integer?\n2. How can we rewrite the given congruence in a simplified form?\n3. What is the significance of finding the least positive integer that satisfies the given congruence?\n4. How can we use modular arithmetic to efficiently find the value of $x$ that satisfies the congruence?\n5. Are there any alternative methods we can use to solve the congruence, and if so, how do they compare to the modular arithmetic approach?\n6. Can you think of any real-world applications where modular arithmetic and congruences might be useful?"
+}

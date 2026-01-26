@@ -1,0 +1,7 @@
+{
+    "problem": "What is the smallest prime factor of 1821?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "1821 is clearly not even, so 2 is not a factor. We find that 3 is a factor, since the sum of the digits of 1821 is $1 + 8 + 2 + 1 = 12$, which is divisible by 3. Since we want the smallest prime factor, we are done; our answer is $\\boxed{3}$.",
+    "socratic_questions": "1. What is the first step you should take when trying to find the smallest prime factor of a number?\n2. How do you determine whether a number is even or odd?\n3. If a number is not even, how can you test if it is divisible by 3?\n4. Can you provide examples of other divisibility rules for determining if a number is divisible by 4, 5, 6, etc.?\n5. How can you determine if a factor of a number is prime or composite?\n6. Can you give an example of using prime factorization to solve a larger problem or find multiple factors of a number?"
+}

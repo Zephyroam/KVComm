@@ -1,0 +1,7 @@
+{
+    "problem": "Bao was given $\\$1,\\!000$ for his birthday. He decided to invest the money in a bank account that earns $10\\%$ interest, compounded annually. In dollars, how much total interest will Bao have earned 3 years later?",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "Each year, the amount of money in the account is multiplied by 1.1.  Therefore, after 3 years the amount of money is $1000(1.1)^3=11^3=1331$ dollars.  The interest earned is $1331-1000=\\boxed{331}$ dollars.",
+    "socratic_questions": "1. Can you explain what it means for interest to be compounded annually?\n2. How would you calculate the interest earned after one year?\n3. What formula can we use to calculate the amount of money after t years, given the initial principal amount, interest rate, and compounding period?\n4. Using the given information, what is the initial principal amount in this case?\n5. What is the interest rate, and how do we express it in decimal form?\n6. How can we use the formula mentioned earlier to calculate the amount of money after 3 years?\n7. Based on the formula, what would be the total amount of money Bao will have after 3 years?\n8. To find the total interest earned, what needs to be subtracted from the total amount of money after 3 years?\n9. Using the formula for compound interest, how can we calculate the interest earned in this case?\n10. What is the final value of the interest, in dollars, that Bao will have earned after 3 years?"
+}

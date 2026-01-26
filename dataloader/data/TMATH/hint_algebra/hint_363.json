@@ -1,0 +1,7 @@
+{
+    "problem": "Solve  \\[\\frac{3x^2+2x+1}{x-1}=3x+1\\]for $x$.",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "Cross-multiplication gives  \\[3x^2+2x+1=(x-1)(3x+1)=3x^2-2x-1.\\]Therefore \\[4x=-2\\]and $x=\\boxed{-\\frac{1}2}$.",
+    "socratic_questions": "1. Can you explain what the first step in solving this equation might be?\n2. Are you familiar with any methods that can be used to solve equations like this one? If so, what are they?\n3. If you choose to multiply both sides of the equation by \\(x-1\\), what would be the purpose of doing so?\n4. Why does multiplying both sides by \\(x-1\\) help in simplifying the equation? What does it allow you to eliminate or combine?\n5. After multiplying both sides by \\(x-1\\), what does the equation simplify to? How does this relate to the original equation?\n6. Can you identify any potential additional steps or strategies that may be helpful in solving similar equations?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "In triangle $VWX$ shown, $VX = \\sqrt{13}$ and $VW = 3$. What is $\\tan V$?\n\n[asy]\npair V,W,X;\nW = (0,0);\nV = (0,3);\nX = (2,0);\ndraw(V--W--X--V);\ndraw(rightanglemark(V,W,X,7));\nlabel(\"$W$\",W,SW);\nlabel(\"$V$\",V,NW);\nlabel(\"$X$\",X,SE);\nlabel(\"$3$\",(V+W)/2,NW);\nlabel(\"$\\sqrt{13}$\",(V+X)/2,NE);\n[/asy]",
+    "level": "Level 2",
+    "type": "Geometry",
+    "solution": "Because $\\triangle VWX$ is a right triangle, $\\tan V = \\frac{WX}{VW}$.\n\nBy the Pythagorean Theorem, $$WX = \\sqrt{VX^2 - WX^2} = \\sqrt{13 - 9} = \\sqrt{4} = 2.$$Then $\\tan V = \\boxed{\\frac{2}{3}}$.",
+    "socratic_questions": "1. What type of triangle is triangle VWX? \n2. What is the relationship between the tangent of angle V and the side opposite angle V? \n3. How can we find the length of side WX? \n4. What theorem can we use to find the length of side WX in terms of VX and VW? \n5. What is the formula for the Pythagorean Theorem? \n6. How can we apply the Pythagorean Theorem to triangle VWX to find the length of side WX? \n7. What is the value of WX? \n8. Can we simplify the value of WX? \n9. How can we find the tangent of angle V using the lengths of WX and VW? \n10. What is the final value of tan V in triangle VWX?"
+}

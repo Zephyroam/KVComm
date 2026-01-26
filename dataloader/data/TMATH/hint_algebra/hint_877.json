@@ -1,0 +1,7 @@
+{
+    "problem": "If $f(x)$ and $g(x)$ are polynomials such that $f(x) + g(x) = -2 + x,$ then what is $g(x)$ if $f(x) = x^3 - 2x - 2$?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "We substitute $f(x) = x^3 - 2x - 2$ into $f(x) + g(x) = -2 + x$ to find that $(x^3 - 2x - 2) + g(x) = -2 + x.$ Then, $g(x) = -2 + x - (x^3 - 2x - 2).$ Distributing, we find $g(x) = -2 + x - x^3 + 2x + 2 = \\boxed{-x^3 + 3x}.$",
+    "socratic_questions": "1. What does it mean for two polynomials to be added together?\n2. How can we determine the sum of two polynomials when given their sum?\n3. What is the given sum of the polynomials $f(x)$ and $g(x)$?\n4. How can we extract the polynomial $g(x)$ from the given sum $-2 + x$?\n5. What steps can we take to isolate $g(x)$ in the given equation $f(x) + g(x) = -2 + x$?\n6. Can you identify any patterns or relationships between the coefficients of $f(x)$ and $g(x)$ that would help find a solution?\n7. How does the given equation relate to the concept of polynomial addition and solving for an unknown polynomial?\n8. Can you think of any other scenarios or equations where similar reasoning and steps might be applicable?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "What is the sum of the positive integer divisors of 23?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "23 is prime, so its only positive divisors are 1 and 23. Thus the sum of the positive divisors of 23 is $1+23=\\boxed{24}$.",
+    "socratic_questions": "1. How do you define a positive integer divisor?\n2. Can a prime number have more than two positive integer divisors?\n3. Why does the fact that 23 is a prime number limit its positive integer divisors?\n4. How do you find the sum of positive integer divisors? \n5. Is it possible for a number to have a sum of positive integer divisors greater than itself? \n6. How does the sum of positive integer divisors relate to the prime factorization of a number?"
+}

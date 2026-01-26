@@ -1,0 +1,7 @@
+{
+    "problem": "John has five children.  What is the probability that at least half of them are girls? (We can assume a boy is equally likely to be born as is a girl, and vice-versa.)",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "In all cases, at least half of John's kids will be boys or at least half will be girls.  Furthermore, since John has an odd number of children, these conditions are mutually exclusive--that is, they are never true at the same time.  Since a boy is equally likely to be born as is a girl, our answer is therefore $\\boxed{\\frac{1}{2}}$.",
+    "socratic_questions": "1. Can you restate the problem in your own words? \n2. How many total outcomes are possible when John has five children? \n3. How many outcomes would result in at least half of the children being girls? \n4. How can we calculate the probability of an event occurring? \n5. What is the probability that exactly half of John's children are girls? \n6. How does the fact that John has an odd number of children affect the probability? \n7. Can you explain why the conditions of having at least half boys or at least half girls are mutually exclusive? \n8. How does the fact that a boy is equally likely to be born as a girl impact the probability? \n9. Can you explain why the answer to the problem is $\\boxed{\\frac{1}{2}}$?"
+}

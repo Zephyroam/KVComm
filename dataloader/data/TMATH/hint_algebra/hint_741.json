@@ -1,0 +1,7 @@
+{
+    "problem": "If $f (x) = x^2 - 1$, what is the value of $f (-1)$?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "We have $f(-1) = (-1)^2 - 1 = 1-1 = \\boxed{0}$.",
+    "socratic_questions": "1. How would you describe the function f(x) in terms of its equation? \n2. What does the notation f(-1) represent in this context? \n3. How can you evaluate f(-1) using the given function equation? \n4. Can you substitute the value -1 into the equation of f(x) and simplify it further? \n5. What steps would you take to calculate the value of f(-1)? \n6. What is the final result of f(-1) and what does it signify in relation to the function f(x)?"
+}

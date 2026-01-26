@@ -1,0 +1,7 @@
+{
+    "problem": "Find the distance between the vertices of the hyperbola\n\\[\\frac{x^2}{99} - \\frac{y^2}{36} = 1.\\]",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "We read that $a^2 = 99,$ so $a = \\sqrt{99} = 3 \\sqrt{11}.$  Therefore, the distance between the vertices is $2a = \\boxed{6 \\sqrt{11}}.$",
+    "socratic_questions": "1. Can you describe the concept of a hyperbola and its standard equation?\n2. How are the vertices of a hyperbola related to its standard equation?\n3. In the given equation, how can we identify the values of a and b?\n4. What is the significance of the value of a in relation to the hyperbola's distance between the vertices?\n5. Using the given equation, what is the value of a, and how can we calculate the distance between the vertices?\n6. Are there any other methods to find the distance between the vertices of a hyperbola? If so, what are they?"
+}

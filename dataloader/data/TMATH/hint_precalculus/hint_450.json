@@ -1,0 +1,7 @@
+{
+    "problem": "Evaluate $(2-w)(2-w^2)\\cdots(2-w^{10})$ where $w=e^{2\\pi i/11}.$",
+    "level": "Level 5",
+    "type": "Precalculus",
+    "solution": "We know that the roots of $x^{10}+x^9 + \\cdots + x + 1$ are the eleventh roots of unity except $1.$ These are $e^{2 k \\pi i / 11},$ $k = 1,$ $2,$ $\\ldots,$ $10,$ which are just $\\omega,$ $\\omega^2,$ $\\ldots,$ $\\omega^{10}.$ Therefore, we must have\n$$(x-\\omega)(x-\\omega^2)\\cdots(x-\\omega^{10}) = x^{10} + x^9 + \\cdots + x + 1.$$Therefore,\n$$\n(2-w)(2-w^2)\\cdots(2-w^{10}) = 2^{10} + 2^9 + \\cdots + 2 + 1 = \\boxed{2047}.\n$$",
+    "socratic_questions": "1. What is the given expression and what does it represent?\n2. What is the significance of $w=e^{2\\pi i/11}$ in this expression?\n3. How does the expression $(2-w)(2-w^2)\\cdots(2-w^{10})$ relate to the roots of $x^{10}+x^9 + \\cdots + x + 1$?\n4. Can we simplify the expression further? If so, how?\n5. How can we interpret the final result of $2047$?\n6. Can you think of any other similar problems or concepts where this line of reasoning might be useful?"
+}

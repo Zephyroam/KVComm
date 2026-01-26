@@ -1,0 +1,7 @@
+{
+    "problem": "My school's math club has 6 boys and 8 girls.  I need to select a team to send to the state math competition.  We want 6 people on the team.  In how many ways can I select the team without restrictions?",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "With no restrictions, we are merely picking 6 students out of 14.  This is $\\binom{14}{6} = \\boxed{3003}$.",
+    "socratic_questions": "1. What is the definition of \"combinations\" in counting and probability?\n2. How many students are there total in the school's math club?\n3. What is the difference between a combination and a permutation?\n4. If we were to choose a team of 6 with one boy and five girls, how many ways could this be done?\n5. Can you explain why the order in which we choose the students doesn't matter in this problem?\n6. If we added a restriction that two particular boys must be on the team, how would this change the answer?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "If $x^2 = y - 3$ and $x = -5$, then what is the value of $y$?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Substituting $-5$ for $x$ in the first equation, we have $(-5)^2 = y-3$.  So $25=y-3$. Adding $3$ to both sides, $y=\\boxed{28}$.",
+    "socratic_questions": "1. What is the given equation and what are we trying to find?\n2. Can you explain the concept of substitution and how it applies to this problem?\n3. Why do we substitute $-5$ for $x$ in the equation $x^2 = y - 3$?\n4. What is the resulting equation after substitution?\n5. How did we isolate and solve for $y$ in the substituted equation?\n6. Can you explain the significance of adding $3$ to both sides of the equation?\n7. What is the final value of $y$? How did you arrive at that value?\n8. Can you think of any similar problems where substitution might be used?"
+}

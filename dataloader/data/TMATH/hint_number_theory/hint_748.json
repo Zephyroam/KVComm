@@ -1,0 +1,7 @@
+{
+    "problem": "The fraction $\\frac{a}{a+27}$, where $a$ is a positive integer, equals $0.865$.  What is the value of $a$?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "We can rewrite $0.865$ as $\\frac{865}{10^3}$, set it equal to the fraction, and solve for $a$: \\begin{align*}\n\\frac{a}{a+27}&=\\frac{865}{10^3}\\quad\\Rightarrow\\quad \\\\\n10^3a&=865a+865\\cdot27\\quad\\Rightarrow\\\\\n(10^3-865)a&=865\\cdot27\\quad\\Rightarrow\\\\\n135a&=865\\cdot27\\quad\\Rightarrow\\\\\na&=\\frac{865\\cdot27}{135} \\\\\n&=\\frac{865\\cdot27}{5\\cdot27}=\\frac{865}{5}=\\boxed{173}.\n\\end{align*}",
+    "socratic_questions": "1. How did we rewrite $0.865$ in terms of fractions and what is the significance of doing so?\n2. What is the equation we need to solve to find the value of $a$? \n3. How did we obtain the expression $10^3a=865a+865\\cdot27$? \n4. Can you explain why we chose to subtract $865a$ from both sides of the equation?\n5. How did we simplify the equation to solve for $a$? \n6. Are there any restrictions on the possible values of $a$? If so, what are they and why do they exist? \n7. Can you think of any other problems that can be solved using similar techniques?"
+}

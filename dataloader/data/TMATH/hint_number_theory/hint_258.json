@@ -1,0 +1,7 @@
+{
+    "problem": "Let $f(n)$ return the number of distinct ordered pairs of positive integers $(a, b)$ such that for each ordered pair, $a^2 + b^2 = n$. Note that when $a \\neq b$, $(a, b)$ and $(b, a)$ are distinct. What is the smallest positive integer $n$ for which $f(n) = 3$?",
+    "level": "Level 5",
+    "type": "Number Theory",
+    "solution": "If $f(n) = 3$, this implies that $n = 2m^2$ for some positive integer $m$ since the only time $f(n)$ can be odd is when there is an ordered pair $(m, m)$ that cannot be reversed. We start testing values of $m$. The values $m = 1$, $m=2$, $m=3$, and $m=4$ do not give $f(n)=3$. However, when $m=5$, we get $50 = 5^2 + 5^2 = 1^2 + 7^2 = 7^2 + 1^2$. Therefore, the smallest integer $n$ for which $f(n)=3$ is $\\boxed{50}$.",
+    "socratic_questions": "1. Can you explain what the function $f(n)$ represents in this problem?\n2. How do we know that $n$ must be equal to $2m^2$ for some positive integer $m$ when $f(n)=3$? \n3. Why do we need to consider the case when $a \\neq b$ as distinct ordered pairs?\n4. Can you explain why we only need to test values of $m$ to find the smallest $n$ that satisfies $f(n)=3$?\n5. For each tested value of $m$, how can we determine if $f(n)=3$?\n6. Can you explain why we start testing values of $m$ from $m=1$ and continue until we find the smallest $n$?\n7. Are there any alternative approaches or methods that we can use to find the smallest $n$ without testing values of $m$? \n8. Can you think of any other situations or problems where similar reasoning and steps might be used?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "If $a$ and $b$ are integers such that $x^2 - x - 1$ is a factor of $ax^3 + bx^2 + 1,$ find $b.$",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "If $x^2 - x - 1$ is a factor of $ax^3 + bx^2 + 1,$ then the other factor must be linear, where the coefficient of $x$ is $a,$ and the constant coefficient is $-1.$  Thus\n\\[(x^2 - x - 1)(ax - 1) = ax^3 + bx^2 + 1.\\]Expanding, we get\n\\[ax^3 - (a + 1) x^2 + (1 - a) x + 1 = ax^3 + bx^2 + 1.\\]Matching coefficients, we get\n\\begin{align*}\n-(a + 1) &= b, \\\\\n1 - a &= 0.\n\\end{align*}Hence, $a = 1.$  Then $b = -(a + 1) = \\boxed{-2}.$",
+    "socratic_questions": "1. How can we determine the other factor of the polynomial $ax^3 + bx^2 + 1$ when we know that $x^2 - x - 1$ is a factor?\n2. What does it mean for two polynomials to be factors of each other?\n3. What can we say about the coefficients of the other factor based on the given information?\n4. How can we expand the product $(x^2 - x - 1)(ax - 1)$ and match it to $ax^3 + bx^2 + 1$?\n5. What do we get when we match the coefficients of like terms?\n6. What values do we find for $a$ and $b$ based on the matched coefficients?\n7. How does the value of $a$ affect the value of $b$?\n8. Can we generalize this method for finding the coefficients of other factors of a polynomial?"
+}

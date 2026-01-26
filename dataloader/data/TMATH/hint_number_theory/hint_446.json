@@ -1,0 +1,7 @@
+{
+    "problem": "The base three number $12012_3$ is equal to which base ten number?",
+    "level": "Level 1",
+    "type": "Number Theory",
+    "solution": "$12012_3=1\\cdot3^4+2\\cdot3^3+0\\cdot3^2+1\\cdot3^1+2\\cdot3^0=81+54+3+2=\\boxed{140}$.",
+    "socratic_questions": "1. Can you describe the steps you would take to convert the base three number $12012_3$ to base ten?\n2. How would you determine the value of each digit in the base three number when converting it to base ten?\n3. What does each exponent in the base three number represent?\n4. Why do we multiply each digit by the corresponding power of three when converting to base ten?\n5. How would you verify that the conversion of $12012_3$ to base ten is correct?\n6. Can you think of any similar conversions from different bases to base ten and the steps involved in those conversions?"
+}

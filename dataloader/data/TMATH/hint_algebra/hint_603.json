@@ -1,0 +1,7 @@
+{
+    "problem": "Two lines have the same non-zero $y$-intercept. The first line has a slope of 10 and an $x$-intercept of $(s, 0)$. The second line has a slope of 6 and an $x$-intercept of $(t, 0)$. What is the ratio of $s $ to $t$? Express your answer as a common fraction.",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "The equation of the first line is $y = 10 x + b$ where $b$ is the $y$-intercept of the two lines.  Since $(s, 0)$ lies on the line, we can plug this into the line's equation to get $0 = 10s + b\\Rightarrow s = -\\frac b{10}$.  Similarly, the second line has equation  $y = 6 x + b$.  Plugging $(t, 0)$ into this equation gives $0 = 6t + b \\Rightarrow t = - \\frac b6$.  Thus $\\frac st = -\\frac b{10} \\cdot - \\frac 6b = \\boxed{\\frac 35}$.",
+    "socratic_questions": "1. What is the definition of a $y$-intercept?\n2. How can we determine the equation of a line given its slope and $y$-intercept?\n3. Can you write down the equation of the first line in terms of $s$?\n4. What is the definition of an $x$-intercept?\n5. How can we find the $x$-intercept of the first line?\n6. Can you write down the equation of the second line in terms of $t$?\n7. What is the relationship between the $x$-intercept and the slope of a line?\n8. How can we find the $x$-intercept of the second line given its slope?\n9. What are the conditions for two lines to have the same $y$-intercept?\n10. How can we find the ratio of $s$ to $t$ using the given information?"
+}

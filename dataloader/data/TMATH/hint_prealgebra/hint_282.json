@@ -1,0 +1,7 @@
+{
+    "problem": "Suppose that $x$ is a positive multiple of $3$. If $x$ cubed is less than $1000$, what is the greatest possible value of $x$?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Ten cubed is 1000, so we know that $x$ must be less than $10$. Because $9$ is the greatest multiple of $3$ that is less than $10$, $\\boxed{9}$ is the greatest possible value of $x$.",
+    "socratic_questions": "1. What is the given condition for $x$ in the problem?\n2. What does it mean for $x$ to be a positive multiple of 3?\n3. How can we express $x$ in terms of $3$?\n4. What is the expression for $x$ cubed in terms of $3$?\n5. How can we use the given condition to form an inequality involving $x$ cubed?\n6. Why is it important that $x$ is positive in this problem?\n7. What is the highest perfect cube below 1000?\n8. How can we use this fact to find the greatest possible value of $x$?\n9. Why is it sufficient to only consider multiples of 3 as possibilities for $x$?\n10. Can you think of other similar problems involving inequalities and multiple criteria?"
+}

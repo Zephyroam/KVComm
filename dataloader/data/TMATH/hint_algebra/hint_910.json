@@ -1,0 +1,7 @@
+{
+    "problem": "A quadratic equation $ax^2 - 2ax + b = 0$ has two real solutions. What is the average of these two solutions?",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "By Vieta's formulas, the sum of the roots is\n\\[\\frac{2a}{a} = 2,\\]so their average is $\\boxed{1}.$",
+    "socratic_questions": "1. What are the possible values of a and b for the given quadratic equation?\n2. Why does the equation have two real solutions? Can you explain this based on the discriminant?\n3. How can we find the solutions to this quadratic equation using the quadratic formula?\n4. Can you simplify the quadratic formula and identify the coefficients involved?\n5. How can we find the average of the two solutions? Can you explain the logic behind this calculation?\n6. Is there any significance or interpretation of the average of the solutions in the context of the quadratic equation?"
+}

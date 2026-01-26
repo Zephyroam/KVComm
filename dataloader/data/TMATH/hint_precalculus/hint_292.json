@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\arcsin (-1).$  Express your answer in radians.",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "Since $\\sin \\left( -\\frac{\\pi}{2} \\right) = -1,$ $\\arcsin (-1) = \\boxed{-\\frac{\\pi}{2}}.$",
+    "socratic_questions": "1. What does $\\arcsin (-1)$ represent geometrically?\n2. What is the range of values for $\\arcsin x$?\n3. What is the definition of $\\arcsin x$?\n4. What is the relationship between $\\sin x$ and $\\arcsin x$?\n5. Can you recall any special values of $\\sin x$ and their corresponding $\\arcsin x$ values?\n6. How does the negative input of $-1$ affect the angle in the unit circle?\n7. Can you explain why $\\arcsin (-1) = -\\frac{\\pi}{2}$ in terms of the unit circle?\n8. Are there any other angles with a sine value of $-1$? How are they related to $-\\frac{\\pi}{2}$?\n9. How does the answer change if we express it in degrees instead of radians?\n10. Can you think of any other trigonometric functions or inverse trigonometric functions that may have similar reasoning or relationships?"
+}

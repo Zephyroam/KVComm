@@ -1,0 +1,7 @@
+{
+    "problem": "When $\\sqrt[3]{2700}$ is simplified, the result is $a\\sqrt[3]{b}$, where $a$ and $b$ are positive integers and $b$ is as small as possible.  What is $a+b$?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "We have $$\\sqrt[3]{2700} = \\sqrt[3]{27}\\times \\sqrt[3]{100} = \\sqrt[3]{3^3}\\times \\sqrt[3]{100} = 3\\sqrt[3]{100}.$$  Since the prime factorization of 100 is $2^2\\cdot5^2$, we cannot simplify $\\sqrt[3]{100}$ any further.  Therefore, we have $a+b = \\boxed{103}$.",
+    "socratic_questions": "1. What is the concept of simplifying a radical expression, specifically a cube root?\n2. How does one simplify a cube root with a perfect cube inside, such as $\\sqrt[3]{2700}$?\n3. Can you identify any factors of 2700 that are perfect cubes?\n4. What is the smallest perfect cube that can be extracted from 2700?\n5. How can you express the simplified form of $\\sqrt[3]{2700}$ using a radical and an integer coefficient?\n6. What are the values of $a$ and $b$ in the simplified form $a\\sqrt[3]{b}$ for $\\sqrt[3]{2700}$?\n7. How can you verify that the simplified form $a\\sqrt[3]{b}$ is correct for $\\sqrt[3]{2700}$?\n8. What is the sum of the positive integers $a$ and $b$ in the simplified form $a\\sqrt[3]{b}$ for $\\sqrt[3]{2700}$?"
+}

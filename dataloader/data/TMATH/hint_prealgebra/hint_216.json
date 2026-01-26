@@ -1,0 +1,7 @@
+{
+    "problem": "Convex hexagon $ABCDEF$ has exactly two distinct side lengths. Side $AB$ measures 5 units, and side $BC$ measures 6 units. The perimeter of hexagon $ABCDEF$ is 34 units. How many sides of hexagon $ABCDEF$ have measure 6 units?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "If all sides measured $6$ units, the total perimeter would be $36$.  But this is $2$ too many units, so we must change two of these sides to $5$ units.  Thus $\\boxed{4}$ sides measure $6$ units.",
+    "socratic_questions": "1. Can you describe the given problem and identify the key information provided?\n2. How would you represent the lengths of the sides of the hexagon mathematically?\n3. What is the formula to calculate the perimeter of a polygon?\n4. If all sides of the hexagon measured 6 units, what would the perimeter be?\n5. Why is the perimeter given as 34 units instead of 36 units?\n6. How many sides of the hexagon need to be changed from 6 units to 5 units to account for the difference in perimeter?\n7. How did you determine that 2 sides need to be changed to 5 units?\n8. How many sides of the hexagon have a length of 6 units?"
+}

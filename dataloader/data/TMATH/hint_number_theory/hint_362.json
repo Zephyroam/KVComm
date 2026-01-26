@@ -1,0 +1,7 @@
+{
+    "problem": "The operation $\\star$ is defined as $a \\star b = a^2 \\div b$. For how many integer values of $x$ will the value of $10 \\star x$ be a positive integer?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "If $10 \\star x = n$ a positive integer, then $10^2 = 100 = nx$. In other words, $x$ must be a positive integer divisor of 100. Since 100 factors as $100 = 2^2 \\cdot 5^2$, its exponents tell us that it has $(2+1)(2+1) = \\boxed{9}$ positive divisors.",
+    "socratic_questions": "1. Can you explain how the operation $a \\star b = a^2 \\div b$ works?\n2. What is the definition of a positive integer? How does it relate to the problem at hand?\n3. If we let $n$ represent the positive integer value of $10 \\star x$, what does the equation $10^2 = 100 = nx$ imply about the relationship between $n$ and $x$?\n4. How can we determine the possible values of $x$ that make $10 \\star x$ a positive integer?\n5. How can we find all the positive integer divisors of 100?\n6. Can you describe any patterns or characteristics you notice in the positive integer divisors of 100?\n7. Do you see any restrictions on $x$ based on the definition of the operation $a \\star b$? Can $x$ be any positive integer divisor of 100?\n8. What are the different values of $x$ that make $10 \\star x$ a positive integer?\n9. Can you summarize the number of integer values of $x$ that satisfy the condition?"
+}

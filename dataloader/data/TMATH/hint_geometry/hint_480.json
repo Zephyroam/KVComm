@@ -1,0 +1,7 @@
+{
+    "problem": "A pyramid with volume 40 cubic inches has a rectangular base. If the length of the base is doubled, the width tripled and the height increased by $50\\%$, what is the volume of the new pyramid, in cubic inches?",
+    "level": "Level 4",
+    "type": "Geometry",
+    "solution": "Since the volume of a pyramid is linear in each of length, width, and height (in particular, $V = \\frac{1}{3} lwh$), multiplying any of these dimensions by a scalar multiplies the volume by the same scalar.  So the new volume is $2\\cdot 3\\cdot 1.50 = 9$ times the old one, or $\\boxed{360}$ cubic inches.",
+    "socratic_questions": "1. What is the formula for the volume of a pyramid?\n2. How does changing the dimensions of the base impact the volume of the pyramid?\n3. If the length of the base is doubled, what happens to the volume of the pyramid? Why?\n4. If the width of the base is tripled, what happens to the volume of the pyramid? Why?\n5. If the height of the pyramid is increased by $50\\%$, what happens to the volume of the pyramid? Why?\n6. How can we calculate the new volume of the pyramid using the information given?\n7. Can you identify a pattern or relationship between the changes in dimensions and the resulting changes in volume?\n8. Is there a general rule we can derive for calculating the new volume of a pyramid when the dimensions are multiplied by certain factors?\n9. Can you think of any other scenarios or shapes where similar thinking and steps would be useful for finding the new volume?"
+}

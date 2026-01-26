@@ -1,0 +1,7 @@
+{
+    "problem": "Simplify $5(3-i)+3i(5-i)$.",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "$5(3-i) + 3i(5-i) = 15-5i + 15i - 3i^2 = 15 +10i -3(-1) = \\boxed{18+10i}$.",
+    "socratic_questions": "1. Can you simplify each term in the expression separately first? \n2. How can you multiply a complex number by a real number? \n3. What does it mean to multiply two complex numbers together? \n4. Can you simplify the expression by distributing and combining like terms? \n5. Can you combine the real and imaginary parts separately? \n6. How can you simplify the imaginary unit, $i$, raised to different powers? \n7. What is the final simplified expression after combining all terms?"
+}

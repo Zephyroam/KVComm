@@ -1,0 +1,7 @@
+{
+    "problem": "Evaluate $\\log_7\\sqrt7$.",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "We have $7^\\frac12=\\sqrt7$, so $\\log_7 \\sqrt7 = \\boxed{\\frac12}$.",
+    "socratic_questions": "1. What is the definition of the logarithm of a number?\n2. How can we rewrite $\\sqrt{7}$ in exponential form?\n3. Which exponent should we raise 7 to in order to get $\\sqrt{7}$?\n4. What is the base of the logarithm in this problem, and what is the argument?\n5. According to the logarithmic properties, what happens when the base and the argument are the same?\n6. Can you simplify the expression $\\log_7\\sqrt7$ now?\n7. What value do you obtain after simplifying the expression?"
+}

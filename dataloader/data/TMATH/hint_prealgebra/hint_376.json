@@ -1,0 +1,7 @@
+{
+    "problem": "How many digits does the smallest repeating block in the decimal expansion of $\\frac{5}{7}$ contain?",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "We use long division to find that the decimal representation of $\\frac{5}{7}$ is $0.\\overline{714285}$, which is a repeating block of $\\boxed{6}$ digits.",
+    "socratic_questions": "1. What is the decimal representation of the fraction $\\frac{5}{7}$?\n2. How can we find the smallest repeating block in a decimal expansion using long division?\n3. Can you explain the process of long division and how it helps us find the repeating block?\n4. Why does the decimal expansion of $\\frac{5}{7}$ have a repeating block? What is the significance?\n5. How did you determine that the smallest repeating block in the decimal expansion of $\\frac{5}{7}$ has 6 digits?\n6. Are there any other fractions where the decimal expansion has a repeating block? How can we identify the length of the repeating block in those cases?"
+}

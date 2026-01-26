@@ -1,0 +1,7 @@
+{
+    "problem": "Find $\\sin \\frac{11 \\pi}{3}.$",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "Converting to degrees,\n\\[\\frac{11 \\pi}{3} = \\frac{180^\\circ}{\\pi} \\cdot \\frac{11 \\pi}{3} = 660^\\circ.\\]The sine function has period $360^\\circ,$ $\\sin 660^\\circ = \\sin (660^\\circ - 2 \\cdot 360^\\circ) = \\sin (-60^\\circ) = -\\sin 60^\\circ = \\boxed{-\\frac{\\sqrt{3}}{2}}.$",
+    "socratic_questions": "1. Firstly, can you remind me how the sine function is defined? What is its relationship to the unit circle?\n2. How can we express $\\frac{11\\pi}{3}$ in degrees? What does this representation tell us about the angle we're dealing with?\n3. Since the sine function has a period of $360^\\circ$, what other angle(s) with the same sine value can we consider that is smaller than $660^\\circ$?\n4. What is the sine of $-60^\\circ$? How does this relate to the sine of $60^\\circ$?\n5. Can you recall the value of $\\sin 60^\\circ$? How does this help us determine the value of $\\sin \\frac{11\\pi}{3}$?\n6. Are there any other types of angles or trigonometric functions that could be approached in a similar way as we did here? Can you think of any specific examples?"
+}

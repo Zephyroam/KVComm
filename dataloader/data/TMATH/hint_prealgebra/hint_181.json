@@ -1,0 +1,7 @@
+{
+    "problem": "Point $C$ is the midpoint of $\\overline{AB}$, point $D$ is the midpoint of $\\overline{AC}$, point $E$ is the midpoint of $\\overline{AD}$, and point $F$ is the midpoint of $\\overline{AE}$. If $AF=3$, what is the number of units in the length of $\\overline{AB}$?",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "Drawing a figure allows us to see that $3=AF=\\frac{AE}{2}=\\frac{AD}{4}=\\frac{AC}{8}=\\frac{AB}{16}\\implies AB=\\boxed{48}$.\n\n[asy]\npair A,B,C,D,E,F;\n\nA = (0,0);\nB = (1,0);\nC = B/2;\nD=C/2;\nE = D/2;\nF=E/2;\ndraw(A--B);\ndot(A);\ndot(B);\ndot(C);\ndot(D);\ndot(E);\ndot(F);\nlabel(\"$A$\",A,S);\nlabel(\"$B$\",B,S);\nlabel(\"$C$\",C,S);\nlabel(\"$D$\",D,S);\nlabel(\"$E$\",E,S);\nlabel(\"$F$\",F,S);\n[/asy]",
+    "socratic_questions": "1. What is the relationship between point C and points A and B?\n2. How can we determine the length of segment AD?\n3. How does point D relate to points A and C?\n4. What is the significance of point E being the midpoint of segment AD?\n5. What does point F being the midpoint of segment AE tell us about the lengths of segments AF and AE?\n6. How can we use the information given to find the length of segment AB?\n7. Is there a pattern or rule that we can apply to find the length of segment AB?\n8. Can we generalize the relationship between the lengths of segment AF and segment AB?"
+}

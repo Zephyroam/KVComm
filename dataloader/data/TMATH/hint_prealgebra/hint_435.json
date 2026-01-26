@@ -1,0 +1,7 @@
+{
+    "problem": "A square has two diagonals, and a convex pentagon has five diagonals.  How many diagonals does a convex decagon have?",
+    "level": "Level 5",
+    "type": "Prealgebra",
+    "solution": "A convex $n$-gon has $\\frac{n(n-3)}{2}$ diagonals. Thus, a convex decagon has $\\frac{10\\cdot 7}{2} = \\boxed{35}$ diagonals.",
+    "socratic_questions": "1. Can you explain what a diagonal is in terms of geometry?\n2. How would you define a convex polygon?\n3. Do you know the formula for finding the number of diagonals in a convex polygon? If not, how could you approach figuring it out?\n4. Based on the formula, how many diagonals would you expect a convex decagon to have?\n5. Can you explain the steps you would take to apply the formula to find the number of diagonals in a convex decagon?\n6. Are there any other geometric shapes or polygons that you think might follow a similar pattern in terms of the number of diagonals?"
+}

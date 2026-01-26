@@ -1,0 +1,7 @@
+{
+    "problem": "There are 5 blue chips and 3 yellow chips in a bag. One chip is drawn from the bag. That chip is placed back into the bag. A second chip is then drawn. What is the probability that the two selected chips are of different colors? Express your answer as a common fraction.",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "If we draw a blue chip and then a yellow chip, or if we draw a yellow chip and then a blue chip, then our draws will be different colors. So, the probability is $\\frac{5}{8} \\cdot \\frac{3}{8} + \\frac{3}{8} \\cdot \\frac{5}{8} = 2 \\cdot \\frac{15}{64} = \\boxed{\\frac{15}{32}}$.",
+    "socratic_questions": "1. What is the total number of chips in the bag?\n2. How many blue chips are there in the bag?\n3. How many yellow chips are there in the bag?\n4. If you draw one chip from the bag and then put it back, how does this affect the total number of chips in the bag?\n5. What is the probability of drawing a blue chip on the first draw?\n6. What is the probability of drawing a yellow chip on the second draw?\n7. Why do we add the probabilities of drawing a blue chip first and then a yellow chip, and the probability of drawing a yellow chip first and then a blue chip?\n8. How can we express the probability of drawing chips of different colors as a fraction?\n9. What is the final probability when we calculate it using the given fractions?\n10. Can you think of other scenarios where a similar approach can be used to calculate the probability?"
+}

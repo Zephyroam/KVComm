@@ -1,0 +1,7 @@
+{
+    "problem": "When flipping a fair coin, what is the probability that the first two flips are both heads? Express your answer as a common fraction.",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "The probability that any single flip comes up heads is $1/2$. Since the flips are independent, the probability that the first two flips are both heads is $1/2\\cdot1/2=\\boxed{\\frac{1}{4}}$.",
+    "socratic_questions": "1. What is the definition of probability? \n2. What is a fair coin and how does it relate to probability? \n3. How do we calculate the probability of multiple independent events occurring in a row, such as flipping two heads in a row? \n4. Can you explain why the probability of flipping a head on any given flip is always 1/2? \n5. How does the concept of independent events play a role in calculating the probability of flipping two heads in a row? \n6. Can you think of other scenarios in everyday life where the concept of probability and independent events are relevant?"
+}

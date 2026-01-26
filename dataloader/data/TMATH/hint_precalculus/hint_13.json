@@ -1,0 +1,7 @@
+{
+    "problem": "Compute\n\\[\\begin{vmatrix} 7 & 3 \\\\ -1 & 2 \\end{vmatrix}.\\]",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "We have that\n\\[\\begin{vmatrix} 7 & 3 \\\\ -1 & 2 \\end{vmatrix} = (7)(2) - (3)(-1) = \\boxed{17}.\\]",
+    "socratic_questions": "1. What is the definition of a determinant? \n2. How do you find the determinant of a 2x2 matrix? \n3. Can you describe the steps involved in finding the determinant of this specific matrix (7, 3; -1, 2)? \n4. What is the importance or significance of finding the determinant of a matrix? \n5. Can you think of other applications where finding determinants may be useful? \n6. What would happen if we swapped the entries in the first column of the matrix? Would the determinant change?"
+}

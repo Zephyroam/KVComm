@@ -1,0 +1,7 @@
+{
+    "problem": "What is the remainder when $99^{36}$ is divided by 100?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "Noticing that $99=100-1$ we see that \\[99\\equiv-1\\pmod{100}.\\] Therefore  \\[99^{36}\\equiv(-1)^{36}\\equiv1\\pmod{100}.\\] The remainder when $99^{36}$ is divided by 100 is $\\boxed{1}$.",
+    "socratic_questions": "1. Can you explain the concept of modulo arithmetic and its relevance to this problem?\n2. How did you notice the relationship between 99 and 100-1? Can you explain why this observation is useful in finding the remainder?\n3. Why does $99^{36} \\equiv (-1)^{36} \\equiv 1 \\pmod{100}$ hold true? What is the significance of raising $-1$ to an even power?\n4. Are there any other numbers you could have used instead of 99 to find the remainder when divided by 100?\n5. Is there a general rule or formula that can be applied to find the remainder when any number is raised to a power and divided by another number?\n6. Can you think of a similar problem or situation where modulo arithmetic can be applied to find a remainder?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "What is the probability that the square root of a randomly selected two-digit whole number is less than eight? Express your answer as a common fraction.",
+    "level": "Level 4",
+    "type": "Counting & Probability",
+    "solution": "There are 90 choices for a two-digit positive integer. Of these, all of the integers $n<64$ satisfy $\\sqrt{n} < 8$. So, $n$ can be chosen from the set $\\{ 10, 11, 12, \\ldots , 63\\}$ which has 54 members. So the probability is $\\frac{54}{90} = \\boxed{\\frac{3}{5}}$.",
+    "socratic_questions": "1. What does it mean for the square root of a number to be less than eight?\n2. How can we determine the total number of choices for a two-digit positive integer?\n3. Can you explain why all the integers less than 64 satisfy the condition $\\sqrt{n} < 8$?\n4. How did we find the set of integers from 10 to 63 that satisfy $\\sqrt{n} < 8$?\n5. What is the reasoning behind dividing the number of satisfactory integers by the total number of choices to calculate probability?\n6. Can you think of any alternative methods to solve this probability problem?\n7. What other concepts or topics might involve similar thinking and steps as we discussed here?\n8. How can we generalize this approach to solve probability problems with different conditions?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "When a number is divided by 7, the remainder is 2. What is the remainder when three times the number minus 7 is divided by 7?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "If our number is $n$, then $n \\equiv 2 \\pmod 7$.  This tells us that  \\[3n - 7 = n + n + n - 7 \\equiv 6 - 0 \\pmod 7.\\]The remainder is $\\boxed{6}$ when the number is divided by $7.$",
+    "socratic_questions": "1. Can you rephrase the problem in your own words?\n2. What does it mean for a number to have a remainder of 2 when divided by 7? \n3. How can we express this information mathematically? \n4. In the given problem, what is the expression for \"three times the number minus 7\"?\n5. How can we express this expression as congruent to a modulus of 7?\n6. What does it mean for two numbers to be congruent modulo 7?\n7. If we know the congruence of $n$ modulo 7, what can we say about the congruence of $3n-7$ modulo 7?\n8. How can we determine the remainder when a number is divided by 7 given its congruence modulo 7?\n9. Based on what we've discussed, what is the remainder when three times the number minus 7 is divided by 7?"
+}

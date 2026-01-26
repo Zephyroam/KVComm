@@ -1,0 +1,7 @@
+{
+    "problem": "What is $\\sqrt[4]{16} \\cdot \\sqrt[3]{8} \\cdot \\sqrt{4}$ expressed as a positive integer?",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "All three factors equal to 2, so the product is $2\\cdot2\\cdot2=\\boxed{8}$.",
+    "socratic_questions": "1. Can you describe the first step in simplifying the expression $\\sqrt[4]{16} \\cdot \\sqrt[3]{8} \\cdot \\sqrt{4}$?\n2. What is the relationship between exponents and radicals? How can this relationship help us simplify the expression?\n3. How would you simplify each individual radical term, $\\sqrt[4]{16}$, $\\sqrt[3]{8}$, and $\\sqrt{4}$?\n4. Can you simplify each radical term further by expressing them as powers of their respective bases?\n5. Once each term is simplified, how can the exponents be combined to find the final result?\n6. Can you express the final simplified expression as a single radical or rational number?\n7. Can you explain why the exponent in the simplified expression is a positive integer?\n8. Can you think of any other expressions involving radicals where a similar approach can be used to simplify them?\n9. How does understanding the relationship between radicals and exponents help build a deeper understanding of algebraic concepts?"
+}

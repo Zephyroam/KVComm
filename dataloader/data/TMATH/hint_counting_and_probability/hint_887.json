@@ -1,0 +1,7 @@
+{
+    "problem": "If $x$ is a positive integer, what is the value of $x$ for the equation $(x!-(x-3)!) \\div 23 = 1$?",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "We have $x!-(x-3)! = 23$. Since $4!=24$, the number $23$ strongly suggests us to try $x=4$, and indeed, $4!-(4-3)! = 4!-1! = 24-1=23$, so $x=\\boxed{4}$ is the answer.",
+    "socratic_questions": "1. What is the definition of a factorial and how is it calculated for a positive integer?\n2. Given the equation $(x!-(x-3)!)\\div 23=1$, what is the significance of the number 23?\n3. Why does the equation suggest trying $x=4$ as a possible solution? \n4. How can we verify that $x=4$ is indeed a solution to the equation?\n5. Are there any other possible solutions to the equation? If so, how can we find them?\n6. Can we generalize the solution to this particular equation to other equations involving factorials and unknown variables?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Compute the unique positive integer $n$ such that\n\\[2 \\cdot 2^2 + 3 \\cdot 2^3 + 4 \\cdot 2^4 + \\dots + n \\cdot 2^n = 2^{n + 10}.\\]",
+    "level": "Level 5",
+    "type": "Intermediate Algebra",
+    "solution": "Let\n\\[S = 2 \\cdot 2^2 + 3 \\cdot 2^3 + 4 \\cdot 2^4 + \\dots + n \\cdot 2^n.\\]Then\n\\[2S = 2 \\cdot 2^3 + 3 \\cdot 2^4 + 4 \\cdot 2^5 + \\dots + n \\cdot 2^{n + 1}.\\]Subtracting these equations, we get\n\\begin{align*}\nS &= (2 \\cdot 2^3 + 3 \\cdot 2^4 + 4 \\cdot 2^5 + \\dots + n \\cdot 2^{n + 1}) - (2 \\cdot 2^2 + 3 \\cdot 2^3 + 4 \\cdot 2^4 + \\dots + n \\cdot 2^n) \\\\\n&= -2 \\cdot 2^2 - 2^3 - 2^4 - \\dots - 2^n + n \\cdot 2^{n + 1} \\\\\n&= -8 - 2^3 (1 + 2 + 2^2 + \\dots + 2^{n - 3}) + n \\cdot 2^{n + 1} \\\\\n&= -8 - 2^3 (2^{n - 2} - 1) + n \\cdot 2^{n + 1} \\\\\n&= -8 - 2^{n + 1} + 8 + n \\cdot 2^{n + 1} \\\\\n&= (n - 1) 2^{n + 1}.\n\\end{align*}Hence, $(n - 1) 2^{n + 1} = 2^{n + 10},$ so $n - 1 = 2^9 = 512,$ from which $n = \\boxed{513}.$",
+    "socratic_questions": "1. What is the definition of $S$? \n2. Why is it helpful to compute $2S$? \n3. What is the purpose of subtracting the equation for $S$ from $2S$? \n4. Can you explain each step of subtracting the equations and simplifying? \n5. How did we end up with $(n-1)2^{n+1}$ at the end of the simplification? \n6. How can we use this expression to solve for $n$? \n7. What is the final answer for $n$ and how do you know it is unique? \n8. Can you think of any other problems where the sum of a finite series can be expressed in terms of a power of 2?"
+}

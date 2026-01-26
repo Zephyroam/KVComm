@@ -1,0 +1,7 @@
+{
+    "problem": "The polynomial equation \\[x^3 + bx + c = 0,\\]where $b$ and $c$ are rational numbers, has $3-\\sqrt{7}$ as a root. It also has an integer root. What is it?",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "Because the coefficients of the polynomial are rational, the radical conjugate of $3-\\sqrt{7}$, which is $3+\\sqrt{7}$, must also be a root of the polynomial. By Vieta's formulas, the sum of the roots of this polynomial is $0$; since $(3-\\sqrt{7}) + (3+\\sqrt{7}) = 6,$ the third, integer root must be $0 - 6 = \\boxed{-6}.$",
+    "socratic_questions": "1. Can you describe the first step you would take to solve this equation?\n2. How does the fact that the coefficients of the polynomial are rational numbers help us find the other root?\n3. What is the relationship between the given root and its radical conjugate?\n4. How can we use Vieta's formulas to find the sum of the roots of this polynomial?\n5. Using the sum of the roots, how can we determine the value of the third, integer root?\n6. Can you think of any other equations where finding the radical conjugate is helpful in finding the other roots?\n7. How does finding the other root help us find the third, integer root?"
+}

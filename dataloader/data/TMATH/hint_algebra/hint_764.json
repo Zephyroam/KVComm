@@ -1,0 +1,7 @@
+{
+    "problem": "What is the remainder when the sum of the first 102 counting numbers is divided by 5250?  (The first counting number is 1.)",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "For all $n$, $1 + 2 + \\dots + n = n(n + 1)/2$, so $1 + 2 + \\dots + 102 = 102 \\cdot 103/2 = 5253$.  The remainder when 5253 is divided by 5250 is $\\boxed{3}$.",
+    "socratic_questions": "1. Can you explain what we mean by the \"remainder\" when one number is divided by another?\n2. How can we find the sum of the first 102 counting numbers?\n3. Can you think of any techniques or formulas that can help us calculate this sum quickly?\n4. What does it mean to divide a number by 5250?\n5. Can you recall any rules or properties of remainders that might be useful in this problem?\n6. What steps can we take to find the remainder when dividing the sum of the first 102 counting numbers by 5250?\n7. Is there any way to simplify the process or make it more efficient?\n8. How can we verify if our answer for the remainder is correct?\n9. Are there any other similar problems that involve finding remainders in division? Can you think of any potential strategies or steps that might be applicable in those problems as well?"
+}

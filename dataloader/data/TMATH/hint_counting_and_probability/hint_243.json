@@ -1,0 +1,7 @@
+{
+    "problem": "James has 7 apples. 4 of them are red, and 3 of them are green. If he chooses 2 apples at random, what is the probability that both the apples he chooses are green?",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "There are $\\binom{7}{2}=21$ total ways for James to choose 2 apples from 7, but only $\\binom{3}{2}=3$ ways for him to choose 2 green apples. So, the probability that he chooses 2 green apples is $\\frac{3}{21}=\\boxed{\\frac{1}{7}}$.",
+    "socratic_questions": "1. What is the basic definition of probability? \n2. How do we calculate probability in a situation with equally likely outcomes? \n3. In this specific scenario, what are the possible outcomes when James selects 2 apples? \n4. How many total outcomes are there when James selects 2 apples from 7 apples? \n5. How many ways are there for James to select 2 green apples from 3 green apples? \n6. How can we use the answers to question 4 and question 5 to calculate the probability that James selects 2 green apples? \n7. What is the final answer for the probability that both apples James chooses are green? \n8. Can you think of a similar probability problem where we would need to use the combination formula to calculate the total number of outcomes?"
+}

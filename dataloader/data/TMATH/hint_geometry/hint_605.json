@@ -1,0 +1,7 @@
+{
+    "problem": "A regular polygon has exterior angles each measuring 15 degrees. How many sides does the polygon have?",
+    "level": "Level 2",
+    "type": "Geometry",
+    "solution": "The measure of each exterior angle in a regular $n$-gon is $360/n$ degrees.  Setting this expression equal to 15, we find $n=\\boxed{24}$.",
+    "socratic_questions": "1. Can you define what a regular polygon is?\n2. How can we find the measure of an exterior angle in a regular polygon?\n3. If we use this formula to find the exterior angle in the given polygon, what value do we get?\n4. How can we use this measure to determine how many sides the polygon has?\n5. Are there any other methods we can use to find the number of sides in a regular polygon?\n6. Can we generalize this formula to find the number of sides in a regular polygon with a different measure for the exterior angle?"
+}

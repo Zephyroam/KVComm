@@ -1,0 +1,7 @@
+{
+    "problem": "2 distinct vertices of an octagon are chosen at random.  What is the probability that they are adjacent?",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "After we choose the first vertex, there are 7 ways to choose the second.  There are only 2 of these that are adjacent to the first vertex, so the probability the two vertices are adjacent is $\\boxed{\\frac{2}{7}}$.",
+    "socratic_questions": "1. Can you describe the problem statement in your own words? What are we trying to find the probability of?\n2. What is an octagon? How many vertices does it have?\n3. When we choose the first vertex, how many options do we have for the second vertex?\n4. How many of these options would result in adjacent vertices? Can you list them?\n5. What does it mean for two vertices to be adjacent? How do we determine if two vertices are adjacent in an octagon?\n6. Based on our previous discussions, how would you calculate the probability of choosing two adjacent vertices?\n7. If there are 2 adjacent vertices out of 7 possible options, what is the probability that the two vertices are adjacent?\n8. Can you generalize this concept? What if we have a different number of vertices or a different shape?\n9. Are there any other similar probability problems you can think of that might use a similar thought process and steps?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Compute: $5^2-3(4)+3^2$.",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "We have $5^2-3(4) + 3^2 =25 - 3(4) + 9 = 25 - 12 + 9 = 13+9 = \\boxed{22}$.",
+    "socratic_questions": "1. What is the first step in solving this expression?\n2. Can you simplify the expression within the parentheses before performing any other calculations? Why or why not?\n3. How do you simplify the expression within the parentheses?\n4. After simplifying the expression within the parentheses, what is the next step?\n5. What is the final step in computing the expression? \n6. Can you think of any other expressions that require similar steps and reasoning to solve?"
+}

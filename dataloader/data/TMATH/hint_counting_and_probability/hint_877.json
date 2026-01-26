@@ -1,0 +1,7 @@
+{
+    "problem": "Four distinct points, $A$, $B$, $C$, and $D$, are to be selected from $1996$ points evenly spaced around a circle. All quadruples are equally likely to be chosen. What is the probability that the chord $\\overline{AB}$ intersects the chord $\\overline{CD}$?",
+    "level": "Level 5",
+    "type": "Counting & Probability",
+    "solution": "Because all quadruples are equally likely, we need only examine the six clockwise orderings of the points: \\[ACBD, ADBC, ABCD, ADCB, ABDC, \\text{ and } ACDB.\\] Only the first two of these equally likely orderings satisfy the intersection condition, so the probability is $2/6=\\boxed{\\frac{1}{3}}$.",
+    "socratic_questions": "1. Can you describe how to select four distinct points from a total of 1996 equally spaced points around a circle?\n2. How many different clockwise orderings of the selected points are there?\n3. What does it mean for the chord AB to intersect the chord CD? Can you explain it in your own words?\n4. Out of the six possible clockwise orderings, how many satisfy the intersection condition?\n5. Why do only certain orderings satisfy the intersection condition? Can you identify any patterns or observations?\n6. What is the probability that a randomly selected quadruple of points satisfies the intersection condition? Explain how you arrived at your answer."
+}

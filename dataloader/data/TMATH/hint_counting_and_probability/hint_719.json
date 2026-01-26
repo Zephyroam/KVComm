@@ -1,0 +1,7 @@
+{
+    "problem": "How many different four-digit numbers can be formed by arranging the four digits in 2004?",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "To form a four-digit number using 2, 0, 0 and 4, the digit in the thousands place must be 2 or 4. There are three places available for the remaining nonzero digit, whether it is 4 or 2. So the final answer is $\\boxed{6}$.",
+    "socratic_questions": "1. How many digits are there in the number 2004?\n2. How many choices do we have for the digit in the thousands place?\n3. How many choices do we have for the remaining digits?\n4. Why do we multiply the number of choices for each digit?\n5. What are the possible arrangements of the digits 2, 0, 0, and 4?\n6. Can we have repetition of the digits in a four-digit number? Why or why not?\n7. How did you determine that the answer is 6?\n8. Can you think of any other examples where we can apply the same reasoning as in this problem?"
+}

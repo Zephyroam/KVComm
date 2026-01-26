@@ -1,0 +1,7 @@
+{
+    "problem": "The surface area of a particular sphere is $324\\pi\\text{ cm}^2$. What is the volume, in cubic centimeters, of the sphere? Express your answer in terms of $\\pi$.",
+    "level": "Level 3",
+    "type": "Geometry",
+    "solution": "Let the sphere have radius $r$.  A sphere with radius $r$ has surface area $4\\pi r^2$, so we have \\[324\\pi = 4\\pi r^2.\\]  Solving for $r$ and keeping the positive value yields $r^2=81$, so $r = 9$.  Hence the volume of the sphere is \\[\\frac{4}{3}\\pi(9^3)=81\\cdot 3\\cdot 4 \\pi = \\boxed{972\\pi}.\\]",
+    "socratic_questions": "1. What is the surface area of the sphere being described?\n2. What is the relationship between the surface area and radius of a sphere?\n3. How can we relate the given surface area to the formula for the surface area of a sphere?\n4. What equation can we set up to solve for the radius of the sphere?\n5. How can we solve the equation to find the value of the radius?\n6. What is the value of the radius obtained from solving the equation?\n7. What formula can we use to find the volume of a sphere?\n8. How can we substitute the value of the radius into the volume formula to find the volume of the sphere?\n9. What is the final expression for the volume of the sphere, in terms of $\\pi$?"
+}

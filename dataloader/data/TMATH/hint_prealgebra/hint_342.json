@@ -1,0 +1,7 @@
+{
+    "problem": "What is the greatest common divisor of 128, 144 and 480?",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "$128=2^7$ and $144=12^2=2^4 \\cdot 3^2,$ so the greatest common divisor of the three numbers is at most $2^4=16$. In fact, $480$ is divisible by $16,$ so $\\boxed{16}$ is the greatest common divisor of the three numbers.",
+    "socratic_questions": "1. Can you explain what a divisor is?\n2. How do we find the greatest common divisor of two numbers?\n3. Based on the given information, what can we conclude about the prime factorization of 128 and 144?\n4. How do we use prime factorization to find the greatest common divisor of multiple numbers?\n5. Why do we only need to consider the prime factors that are common to all the numbers when finding the greatest common divisor?\n6. Can you describe the process of finding the greatest common divisor of 128, 144, and 480 using their prime factorizations?\n7. Are there any other methods we can use to find the greatest common divisor of three numbers? If so, how do they compare to using prime factorization?"
+}

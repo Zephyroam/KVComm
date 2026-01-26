@@ -1,0 +1,7 @@
+{
+    "problem": "Let $m$ and $n$ satisfy $mn=4$ and $m+n=5$. What is $|m-n|$?",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "We have two equations and two variables, so it's possible to solve for $m$ and $n$ directly and then calculate $|m-n|$ to get our answer. However, doing so is messy, so we look for an alternative approach. We square the second equation to get $(m+n)^2 = m^2 + 2mn + n^2 = 25$. Since $mn=4$, we can subtract $4mn = 16$ to get $$m^2 -2mn +n^2 = 9\\Longrightarrow (m-n)^2=9$$ This implies that $m-n =\\pm3$, so $|m-n|=\\boxed{3}$.",
+    "socratic_questions": "1. Can you explain the information given in the problem in your own words?\n2. What are the possible values of m and n that satisfy the given conditions?\n3. How can you find the value of |m-n| using the given equations?\n4. Can you think of any strategies or methods to simplify the problem?\n5. How does the product mn = 4 relate to the sum m+n = 5?\n6. Is there any relationship between |m-n| and the values of m and n? If so, what is it?\n7. Can you come up with any other equations that involve the absolute value of the difference between two variables m and n?\n8. How does understanding this problem help you in solving similar problems in the future?"
+}

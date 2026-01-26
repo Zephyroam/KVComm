@@ -1,0 +1,7 @@
+{
+    "problem": "In the expansion of $(x+1)^{42}$, what is the coefficient of the $x^2$ term?",
+    "level": "Level 4",
+    "type": "Counting & Probability",
+    "solution": "The coefficient of $x^k$ in $(x+1)^{42}$ is $\\binom{42}{k}\\times 1^{42-k} = \\binom{42}{k}$. Therefore, the answer is $\\binom{42}{2} = \\frac{42 \\times 41}{2} = 21 \\times 41 = \\boxed{861}$.",
+    "socratic_questions": "1. Can you explain what an expansion is in the context of algebra?\n2. What is the formula for expanding $(x+1)^{42}$?\n3. According to the formula, what does each term in the expansion represent?\n4. To find the coefficient of the $x^2$ term, which term(s) in the expansion do we need to consider?\n5. How do you calculate the coefficient of a specific term in the expansion using the formula?\n6. Applying the formula, what is the coefficient for the $x^2$ term in $(x+1)^{42}$?\n7. Can you simplify and calculate the value of $\\binom{42}{2}$?"
+}

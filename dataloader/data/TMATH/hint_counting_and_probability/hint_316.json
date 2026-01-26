@@ -1,0 +1,7 @@
+{
+    "problem": "Determine the number of ways to arrange the letters of the word TOOT.",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "First we count the arrangements if all the letters are unique, which is $4!$. Then since the T's and the O's are not unique, we divide by $2!$ twice for the arrangements of T's and the arrangement of O's, for an answer of $\\dfrac{4!}{2! \\times 2!} = \\boxed{6}$.",
+    "socratic_questions": "1. Can you explain the concept of arranging letters in a word? \n2. How would you approach counting the arrangements if all the letters were unique? \n3. Why do we divide the total number of arrangements by $2!$ twice for the arrangements of T's and O's? \n4. What is the significance of the factorials in the division? \n5. Can you think of any other situations where we would need to divide by a factorial in counting arrangements? \n6. How would you modify your approach if there were more repeated letters in the word?"
+}

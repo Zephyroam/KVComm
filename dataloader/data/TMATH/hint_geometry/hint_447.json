@@ -1,0 +1,7 @@
+{
+    "problem": "The image of the point with coordinates $(-3,-1)$ under the reflection across the line $y=mx+b$ is the point with coordinates $(5,3)$.  Find $m+b$.",
+    "level": "Level 4",
+    "type": "Geometry",
+    "solution": "The line of reflection is the perpendicular bisector of the segment connecting the point with its image under the reflection.  The slope of the segment is $\\frac{3-(-1)}{5-(-3)}=\\frac{1}{2}$.  Since the line of reflection is perpendicular, its slope, $m$, equals $-2$.  By the midpoint formula, the coordinates of the midpoint of the segment is $\\left(\\frac{5-3}2,\\frac{3-1}2\\right)=(1,1)$.   Since the line of reflection goes through this point, we have $1=(-2)(1)+b$, and so $b=3$.  Thus $m+b=\\boxed{1}.$",
+    "socratic_questions": "1. What is the definition of reflection across a line?\n2. How can we determine the equation of the line of reflection given the coordinates of a point and its image?\n3. What is the relationship between the slope of the line of reflection and the slope of the line connecting the point and its image under the reflection?\n4. How do we use the midpoint formula to help find the equation of the line of reflection?\n5. How do we use the perpendicularity of the line of reflection to the line connecting the point and its image to find its equation?\n6. How can we use the equation of the line of reflection to find other reflected points?"
+}

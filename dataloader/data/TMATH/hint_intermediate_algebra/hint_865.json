@@ -1,0 +1,7 @@
+{
+    "problem": "Is\n\\[f(x) = \\frac{1}{2^x - 1} + \\frac{1}{2}\\]an even function, odd function, or neither?\n\nEnter \"odd\", \"even\", or \"neither\".",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "We have that\n\\begin{align*}\nf(-x) &= \\frac{1}{2^{-x} - 1} + \\frac{1}{2} \\\\\n&= \\frac{2^x}{1 - 2^x} + \\frac{1}{2} \\\\\n&= \\frac{1 - (1 - 2^x)}{1 - 2^x} + \\frac{1}{2} \\\\\n&= \\frac{1}{1 - 2^x} - 1 + \\frac{1}{2} \\\\\n&= \\frac{1}{1 - 2^x} - \\frac{1}{2} \\\\\n&= -\\frac{1}{2^x - 1} - \\frac{1}{2} \\\\\n&= -f(x),\n\\end{align*}so $f(x)$ is an $\\boxed{\\text{odd}}$ function.",
+    "socratic_questions": "1. Can you explain what an even function is?\n2. Can you explain what an odd function is?\n3. How can you determine whether a function is even or odd?\n4. Can you rewrite the given function with $-x$ substituted for $x$?\n5. How can you use the substitution to determine whether the function is even or odd?\n6. What is the result of the substitution?\n7. Can you determine whether the function is even or odd based on the result of the substitution?\n8. What is the final conclusion about whether the function is even, odd, or neither?\n9. Can you provide an example of a function that is neither even nor odd?"
+}

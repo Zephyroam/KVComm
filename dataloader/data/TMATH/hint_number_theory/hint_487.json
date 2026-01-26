@@ -1,0 +1,7 @@
+{
+    "problem": "If $4x\\equiv 8\\pmod{20}$ and $3x\\equiv 16\\pmod{20}$, then what is the remainder when $x^2$ is divided by $20$?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "We have \\begin{align*}\nx &\\equiv 4x - 3x \\\\\n&\\equiv 8-16 \\\\\n&\\equiv -8\\quad\\pmod{20}.\n\\end{align*}Therefore, $$x^2\\equiv (-8)^2 = 64\\equiv \\boxed{4}\\pmod{20}.$$",
+    "socratic_questions": "1. What is modular arithmetic and why is it useful in number theory? \n2. How do we solve linear congruences like $4x\\equiv 8\\pmod{20}$ and $3x\\equiv 16\\pmod{20}$? \n3. If $x$ satisfies both of the congruences in question 2, what can we say about $x$ modulo 20? \n4. How do we find the remainder when $x^2$ is divided by 20, given the information above? \n5. Are there any other methods or shortcuts to solve the problem of finding remainders of squares modulo a certain number? \n6. Can you think of other examples where modular arithmetic and solving linear congruences can be useful in number theory?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "An investment of $\\$$10,000 is made in a government bond that will pay 6$\\%$ interest compounded annually. At the end of five years, what is the total number of dollars in this investment? Express your answer to the nearest whole number.",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "After five years, at a six percent annual interest rate, the investment will have grown to $10000 \\cdot 1.06^5 = \\boxed{13382}$, to the nearest dollar.",
+    "socratic_questions": "1. How would you approach calculating the total number of dollars in the investment after five years?\n2. What is compound interest and how does it work in this scenario?\n3. Can you explain the formula used to calculate compound interest?\n4. How would you apply the formula to find the total amount in the investment after five years?\n5. Are there any other factors or variables that need to be considered in this calculation?\n6. If the interest rate was compounded semi-annually instead of annually, would the final amount be different? How would you adjust the calculation?"
+}

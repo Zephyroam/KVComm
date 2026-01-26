@@ -1,0 +1,7 @@
+{
+    "problem": "If $C=\\frac{5}{9}(F-32)$, what is $F$ when $C=20$?",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "We have $20 = \\frac59(F-32)$.  Multiplying both sides by 9 to get rid of the fraction gives  \\[9\\cdot 20 = 9\\cdot \\frac59 (F-32),\\] so $180 = 5(F-32)$.  We could distribute on the right-hand side, but it's a bit faster to divide both sides by 5, giving $36 = F-32$.  Adding 32 to both sides gives $F = \\boxed{68}$.",
+    "socratic_questions": "1. What is the given equation representing? Can you interpret the meaning of the variables C and F?\n2. Can you explain the steps you would take to solve the equation? What is the first step?\n3. Why did we multiply both sides of the equation by 9? What was the purpose of doing that?\n4. How did we simplify the equation after multiplying by 9? Can you explain the steps involved?\n5. What did we do to isolate the variable F? Why did we choose that method?\n6. How did we arrive at the final answer of F = 68? Can you explain the reasoning behind it?\n7. Can you think of other situations or equations where the same logical steps and techniques might be relevant?"
+}

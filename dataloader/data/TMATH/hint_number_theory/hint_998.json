@@ -1,0 +1,7 @@
+{
+    "problem": "What is the remainder when $1 + 2 + 3 + 4 + \\dots + 9 + 10$ is  divided by 8?",
+    "level": "Level 1",
+    "type": "Number Theory",
+    "solution": "Notice that we can pair many of these terms: \\[1+7=2+6=3+5=8,\\]so the remainder we want is the same as the remainder when $4+9+10$ is divided by 8.  We also see that this is the remainder when  \\[4+1+2=7\\]is divided by 8, so the answer is $\\boxed{7}$.",
+    "socratic_questions": "1. Can you explain how we can pair the terms in the given expression?\n2. How does pairing the terms help us find the remainder when the expression is divided by 8?\n3. Why do we focus on the remainder when only the terms 4, 9, and 10 are added together?\n4. Can you explain the reasoning behind grouping the terms as 4, 1, and 2 while finding the remainder?\n5. How does finding the remainder of 7 when dividing 4 + 1 + 2 by 8 give us the answer to the original problem?\n6. Can you think of other problems or scenarios where this kind of approach or thinking might be useful?"
+}

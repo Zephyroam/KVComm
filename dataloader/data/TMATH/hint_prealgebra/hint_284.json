@@ -1,0 +1,7 @@
+{
+    "problem": "Simplify $\\sqrt{25000}$.",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "We have:\n\n$\\sqrt{25000}=\\sqrt{2500\\cdot 10}=\\boxed{50\\sqrt{10}}$.",
+    "socratic_questions": "1. Can you explain what the square root symbol means? \n2. How can we simplify radicals? \n3. Can you identify any perfect squares within the number inside the square root in this problem? \n4. Why did we choose to break up 25000 into 2500 and 10? \n5. How did we simplify $\\sqrt{2500}$? \n6. What is the final simplified form of $\\sqrt{25000}$, and how do we know it is simplified? \n7. Can you think of other numbers that could be simplified using this method? \n8. How could we check our answer to make sure it is correct?"
+}

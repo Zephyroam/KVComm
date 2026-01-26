@@ -1,0 +1,7 @@
+{
+    "problem": "Compute\n\\[\\begin{vmatrix} 2 & 0 & -1 \\\\ 7 & 4 & -3 \\\\ 2 & 2 & 5 \\end{vmatrix}.\\]",
+    "level": "Level 3",
+    "type": "Precalculus",
+    "solution": "We can expand the determinant as follows:\n\\begin{align*}\n\\begin{vmatrix} 2 & 0 & -1 \\\\ 7 & 4 & -3 \\\\ 2 & 2 & 5 \\end{vmatrix} &= 2 \\begin{vmatrix} 4 & -3 \\\\ 2 & 5 \\end{vmatrix} + (-1) \\begin{vmatrix} 7 & 4 \\\\ 2 & 2 \\end{vmatrix} \\\\\n&= 2((4)(5) - (-3)(2)) - ((7)(2) - (4)(2)) \\\\\n&= \\boxed{46}.\n\\end{align*}",
+    "socratic_questions": "1. What is the initial step to compute the determinant in this case?\n2. Can you explain the process of expanding the determinant using cofactor expansion?\n3. What are the steps involved in calculating the determinants of 2x2 matrices?\n4. How did you decide which elements to choose for expanding the determinant?\n5. Why did you choose to expand the determinant using the second row?\n6. Can you think of any other methods or techniques for computing determinants?\n7. How does the value of the determinant relate to the properties of the matrix?\n8. What would happen if you changed the order of the rows or columns in the given matrix?\n9. Can you explain the geometric interpretation of the determinant in this context?"
+}

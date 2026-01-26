@@ -1,0 +1,7 @@
+{
+    "problem": "What is the largest base-4 number that has four digits?  Express your answer in base 10.",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "The largest base-4 number that has four digits is $3333_4$, which is equal to $3 \\cdot 4^3 + 3 \\cdot 4^2 + 3 \\cdot 4 + 3 = \\boxed{255}$.",
+    "socratic_questions": "1. Can you define what a base-4 number is? \n2. How many digits can a base-4 number have? \n3. What is the highest digit in base-4? \n4. How do you convert a base-4 number to base-10? \n5. Can you explain how you arrived at the answer of  $3333_4$ for the largest base-4 number with four digits? \n6. Is it possible to have a base-4 number with five digits? If so, what is the largest possible base-4 number with five digits? \n7. How does the concept of base-n numbers generalize to other number systems?"
+}

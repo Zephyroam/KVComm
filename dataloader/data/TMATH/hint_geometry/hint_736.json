@@ -1,0 +1,7 @@
+{
+    "problem": "In triangle $\\triangle JKL$ shown, $\\tan K = \\frac{3}{2}$. What is $KL$?\n\n[asy]\npair J,K,L;\nL = (0,0);\nJ = (0,3);\nK = (2,3);\ndraw(L--J--K--L);\ndraw(rightanglemark(L,J,K,7));\nlabel(\"$L$\",L,SW);\nlabel(\"$J$\",J,NW);\nlabel(\"$K$\",K,NE);\nlabel(\"$2$\",(J+K)/2,N);\n[/asy]",
+    "level": "Level 2",
+    "type": "Geometry",
+    "solution": "Because $\\triangle JKL$ is a right triangle, $\\tan K = \\frac{JL}{JK}$. So $\\tan K = \\frac{3}{2} = \\frac{JL}{2}$. Then $JL = 3$.\n\nBy the Pythagorean Theorem, $KL = \\sqrt{JL^2 + JK^2} = \\sqrt{3^2 + 2^2} = \\boxed{\\sqrt{13}}$.",
+    "socratic_questions": "1. What is the definition of the tangent of an angle in a right triangle?\n2. How can we use the given information that $\\tan K = \\frac{3}{2}$ to determine the length of side $JL$?\n3. What is the Pythagorean theorem and how can we apply it in this triangle to find the length of side $KL$?\n4. What are the values of $JL$ and $JK$ that we substitute into the Pythagorean theorem formula?\n5. What is the step-by-step process of calculating the length of side $KL$ using the Pythagorean theorem?\n6. Can we use any other trigonometric ratios, such as sine or cosine, to solve for the length of side $KL$? Why or why not?\n7. Can you think of any other similar triangles or right triangles where we can use the same methods to find missing side lengths?"
+}

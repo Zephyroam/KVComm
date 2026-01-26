@@ -1,0 +1,7 @@
+{
+    "problem": "When the binary number $100101110010_2$ is divided by 4, what is the remainder (give your answer in base 10)?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "The binary number $b_k b_{k - 1} \\dots b_2 b_1 b_0$ is equal to $2^k b_k + 2^{k - 1} b_{k - 1} + \\dots + 4b_2 + 2b_1 + b_0$, so when this number is divided by 4, the remainder is $2b_1 + b_0$.  Hence, when the number $100101110010_2$ is divided by 4, the remainder is $2 \\cdot 1 + 0 = \\boxed{2}$.",
+    "socratic_questions": "1. Can you explain what is meant by a binary number? \n2. How can we convert a binary number to a decimal number, and vice versa? \n3. Can you describe the process for dividing a binary number by 4? \n4. How do we determine the remainder when a binary number is divided by 4? \n5. Why does the formula $2b_1 + b_0$ give us the remainder when the binary number $100101110010_2$ is divided by 4? \n6. Are there any other properties of binary numbers that can be useful when solving problems in number theory?"
+}

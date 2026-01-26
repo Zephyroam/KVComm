@@ -1,0 +1,7 @@
+{
+    "problem": "Compute\n\\[\\frac{(1 + 17) \\left( 1 + \\dfrac{17}{2} \\right) \\left( 1 + \\dfrac{17}{3} \\right) \\dotsm \\left( 1 + \\dfrac{17}{19} \\right)}{(1 + 19) \\left( 1 + \\dfrac{19}{2} \\right) \\left( 1 + \\dfrac{19}{3} \\right) \\dotsm \\left( 1 + \\dfrac{19}{17} \\right)}.\\]",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "We have that\n\\begin{align*}\n\\frac{(1 + 17) \\left( 1 + \\dfrac{17}{2} \\right) \\left( 1 + \\dfrac{17}{3} \\right) \\dotsm \\left( 1 + \\dfrac{17}{19} \\right)}{(1 + 19) \\left( 1 + \\dfrac{19}{2} \\right) \\left( 1 + \\dfrac{19}{3} \\right) \\dotsm \\left( 1 + \\dfrac{19}{17} \\right)} &= \\frac{\\dfrac{18}{1} \\cdot \\dfrac{19}{2} \\cdot \\dfrac{20}{3} \\dotsm \\dfrac{36}{19}}{\\dfrac{20}{1} \\cdot \\dfrac{21}{2} \\cdot \\dfrac{22}{3} \\dotsm \\dfrac{36}{17}} \\\\\n&= \\frac{\\dfrac{36!/17!}{19!}}{\\dfrac{36!/19!}{17!}} \\\\\n&= \\boxed{1}.\n\\end{align*}",
+    "socratic_questions": "1. Can you describe the given expression and what it represents in simpler terms?\n2. How can we simplify the given expression in order to make it more manageable?\n3. What patterns or relationships can you observe in the numerator and denominator of the expression?\n4. Is there any cancellation or simplification that can be done with the terms in the expression?\n5. Can you explain why the numerator and denominator ultimately cancel out and result in 1 as the final answer?\n6. Can you think of any other similar expressions or scenarios where cancellation or simplification occurs?"
+}

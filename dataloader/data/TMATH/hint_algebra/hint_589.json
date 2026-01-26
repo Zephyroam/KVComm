@@ -1,0 +1,7 @@
+{
+    "problem": "If $a + 4b = 33$ and $6a + 3b = 51$, what is the value of $a + b$?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "Since the problem asks for $a+b$, we look for a way to isolate $a+b$ from the given equations.\n\n\nNotice that $a + 6a = 7a$ and $4b + 3b = 7b$. This gives us the key to isolating $a + b$. We simply add the two equations together:  \\begin{align*}\n7a + 7b &= 84 \\\\\n7(a + b) &= 84 \\\\\na + b &= \\frac{84}{7} \\\\\na + b &= \\boxed{12}\n\\end{align*}",
+    "socratic_questions": "1. Can you describe the first step involved in solving this problem?\n2. What are the different methods you know for solving a system of equations?\n3. If you choose to use the substitution method, how would you proceed in finding the values of 'a' and 'b'?\n4. Why is the substitution method suitable for solving this system of equations? What characteristics make it a good choice?\n5. What values did you find for 'a' and 'b', and how did you verify that your solution is correct?\n6. Can you think of other types of problems where a similar approach and steps might be useful?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Let $x_1,$ $x_2,$ $\\dots,$ $x_n$ be nonnegative real numbers such that $x_1 + x_2 + \\dots + x_n = 1$ and\n\\[x_1^2 + x_2^2 + \\dots + x_n^2 \\le \\frac{1}{100}.\\]Find the smallest possible value of $n.$",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "By QM-AM,\n\\[\\sqrt{\\frac{x_1^2 + x_2^2 + \\dots + x_n^2}{n}} \\ge \\frac{x_1 + x_2 + \\dots + x_n}{n}.\\]Then\n\\[\\frac{1}{n} \\le \\sqrt{\\frac{x_1^2 + x_2^2 + \\dots + x_n^2}{n}} \\le \\sqrt{\\frac{1}{100n}}.\\]Hence,\n\\[\\frac{1}{n^2} \\le \\frac{1}{100n},\\]and $n \\ge 100.$\n\nFor $n = 100,$ we can take $x_i = \\frac{1}{100}$ for all $i,$ so the smallest such $n$ is $\\boxed{100}.$",
+    "socratic_questions": "1. What is the given information in the problem?\n2. What inequality does the given information imply?\n3. Can you explain what the QM-AM inequality states?\n4. How does applying the QM-AM inequality help us in this problem?\n5. What is the resulting inequality after applying the QM-AM inequality?\n6. How can we use this resulting inequality to find a lower bound on the value of n?\n7. Can you explain why the inequality $\\frac{1}{n^2} \\le \\frac{1}{100n}$ holds?\n8. What is the minimum value of n that satisfies this inequality?\n9. Can you find a set of nonnegative real numbers that satisfy the given conditions for this minimum value of n?\n10. Is it possible to find a smaller value of n that satisfies the given conditions? Why or why not?"
+}

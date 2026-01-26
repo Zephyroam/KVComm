@@ -1,0 +1,7 @@
+{
+    "problem": "What is the greatest possible sum of two consecutive integers whose product is less than 400?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "Let the two integers be $n$ and $n + 1,$ so $n(n + 1) < 400.$  Then the largest possible value of $n$ will be close to the square root of 400, which is $\\sqrt{400} = 20.$  For $n = 19,$ $n(n + 1) = 19 \\cdot 20 = 380,$ and for $n = 20,$ $n(n + 1) = 20 \\cdot 21 = 420,$ so the largest possible sum of two consecutive integers whose product is less than 400 is $19 + 20 = \\boxed{39}.$",
+    "socratic_questions": "1. What are the key components of this problem? \n2. Can you express the problem in mathematical terms? \n3. How would you approach finding consecutive integers with a product less than 400? \n4. What strategies could be used to determine the sum of two consecutive integers? \n5. How can you use inequalities to solve this problem? \n6. Can you identify any patterns or relationships between the product and sum of consecutive integers? \n7. What is the significance of the limitation \"less than 400\" in this problem? \n8. Can you think of any similar math problems that require a similar kind of thinking and approach?"
+}

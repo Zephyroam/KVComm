@@ -1,0 +1,7 @@
+{
+    "problem": "In how many ways can George choose two out of seven colors to paint his room?",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "George can choose 2 colors in $\\binom{7}{2}=\\boxed{21}$ ways.",
+    "socratic_questions": "1. What is the problem asking us to do?\n2. Can you explain what we mean by \"choosing\" colors?\n3. How many colors are available for George to choose from in this scenario?\n4. Can you explain why we are choosing two colors out of the seven available?\n5. How many ways are there for George to choose his first color?\n6. After George chooses his first color, how many options does he have left for the second color?\n7. Can you explain why we multiply the number of choices for the first and second colors to find the total number of combinations?\n8. Are there any restrictions or conditions given in the problem that we need to consider?\n9. Can you think of any real-life scenarios in which the concept of choosing combinations is relevant or useful?"
+}

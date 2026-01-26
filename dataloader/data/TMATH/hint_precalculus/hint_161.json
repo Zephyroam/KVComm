@@ -1,0 +1,7 @@
+{
+    "problem": "Compute\n\\[\n\\begin{vmatrix} \\cos 1 & \\cos 2 & \\cos 3 \\\\ \\cos 4 & \\cos 5 & \\cos 6 \\\\ \\cos 7 & \\cos 8 & \\cos 9 \\end{vmatrix}\n.\\]All the angles are in radians.",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "The entries in each row are $\\cos n,$ $\\cos (n + 1),$ and $\\cos (n + 2)$ for some integer $n.$  From the angle addition formula,\n\\[\\cos n + \\cos (n + 2) = 2 \\cos (n + 1) \\cos 1.\\]Then\n\\[\\cos (n + 2) = 2 \\cos 1 \\cos (n + 1) - \\cos n.\\]Thus, we can obtain the third column of the matrix by multiplying the second column by $2 \\cos 1,$ and subtracting the first column.  In other words, the third column is a linear combination of the first two columns.  Therefore, the determinant is $\\boxed{0}.$",
+    "socratic_questions": "1. Can you explain what the determinant of a matrix represents?\n2. How can we compute the determinant of this specific matrix?\n3. Why did we use the angle addition formula to relate the entries in each row?\n4. How does the angle addition formula help us simplify the matrix entries?\n5. Why did we focus on the third column of the matrix?\n6. Can you explain why the third column is a linear combination of the first two columns?\n7. How does the fact that the third column is a linear combination of the first two columns affect the determinant?\n8. Can you explain why the determinant of the given matrix is 0?"
+}

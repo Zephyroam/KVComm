@@ -1,0 +1,7 @@
+{
+    "problem": "The probability that Asha will lose a game is $\\frac{4}{9}$. If it is impossible to tie, what is the probability that Asha will win the game? Express your answer as a common fraction.",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "Since the sum of the probabilities of all possible events is equal to 1, the probability that Asha loses is $1-(4/9)=\\boxed{\\frac{5}{9}}$.",
+    "socratic_questions": "1. What does the given probability of Asha losing the game tell us about her chances of winning?\n2. If the sum of the probabilities of all possible events is equal to 1, what does that mean for the probability of Asha winning the game?\n3. How did we use the fact that it is impossible to tie in order to calculate the probability of Asha winning?\n4. Is it possible for the probability of Asha winning to be greater than the probability of her losing? Why or why not?\n5. Are there other factors that could affect Asha's chances of winning or losing the game that are not given in the problem? If so, how might those factors change the probability calculations?"
+}

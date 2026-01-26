@@ -1,0 +1,7 @@
+{
+    "problem": "The nonzero roots of the equation $x^2 + 6x + k = 0$ are in the ratio $2:1$. What is the value of $k$?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "By Vieta's formulas, the sum of the roots is $-6.$  Since they are in the ratio $2:1,$ the roots are $-4$ and $-2.$  Then $k$ is their product, namely $(-4)(-2) = \\boxed{8}.$",
+    "socratic_questions": "1. Can you describe the first step in solving this equation?\n2. How can we determine the ratio of the roots based on the equation?\n3. If the roots are in a 2:1 ratio, what can we say about the sum and product of the roots?\n4. How can we use the sum and product of the roots to find the value of k?\n5. What values would the roots of the equation take if the ratio is 2:1?\n6. How can we express the sum and product of the roots in terms of k?\n7. What condition must the sum and product of the roots satisfy in order for the ratio to be 2:1?\n8. How can we use this condition to find the value of k?\n9. Can you think of any similar equations where the roots are in a specific ratio? How would you approach solving those equations?\n10. What other algebraic techniques could be used to solve this equation if the ratio of the roots were different?"
+}

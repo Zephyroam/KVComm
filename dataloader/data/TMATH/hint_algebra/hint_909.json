@@ -1,0 +1,7 @@
+{
+    "problem": "Moving along a particular line in the Cartesian plane, when the $x$-value increases by 3 units, the $y$-value increases by 7 units. When the $x$-value increases by 9 units, by how many units will the $y$-value increase?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "If increasing the $x$ value by 3 units increases the $y$ value by 7, then increasing the $x$ value by $3\\cdot3=9$ units will increase the $y$ value by $7\\cdot3=\\boxed{21}$ units.",
+    "socratic_questions": "1. Can you describe the relationship between the changes in $x$ and $y$ values as you move along the line in the Cartesian plane?\n2. If the $x$-value increase is 3 units, what is the corresponding increase in the $y$-value? How did you determine this?\n3. When the $x$-value increases by 9 units, can you predict how much the $y$-value will increase? What reasoning or strategy can you use to figure this out?\n4. Is there a pattern or rule that relates the changes in $x$ and $y$ values that you can apply in this scenario?\n5. Can you generalize this rule for any given line in the Cartesian plane? How would you express it mathematically?\n6. Can you think of any other scenarios or examples where a similar relationship between $x$ and $y$ values can be applied? How would you approach solving those problems using the same line of thinking?"
+}

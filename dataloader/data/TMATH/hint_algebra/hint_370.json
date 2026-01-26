@@ -1,0 +1,7 @@
+{
+    "problem": "What is the value of $x$ in the equation $\\frac{1}{x} + \\frac{2}{x} \\div \\frac{4}{x} = 0.75$?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "Turning the division sign into multiplication and simplifying, we have  \\begin{align*}\n\\frac{1}{x}+\\frac{2}{x}\\cdot\\frac{x}{4}&=.75 \\\\\n\\Rightarrow \\frac{1}{x}+\\frac{1}{2}&=.75\\\\\n\\Rightarrow \\frac{1}{x}&=.25\\\\\n\\Rightarrow x&=\\boxed{4}.\n\\end{align*}",
+    "socratic_questions": "1. Can you simplify the equation by combining the fractions?\n2. What is the first step you would take to eliminate the fractions?\n3. How would you handle the division of fractions in this equation?\n4. Once the fractions are eliminated, what does the equation look like?\n5. How would you solve for x in this equation?\n6. Are there any restrictions or conditions on the variable x in this equation?\n7. Can you explain the significance of the constant value 0.75 in this equation?\n8. Can you think of any other equations where the process of eliminating fractions is necessary?"
+}

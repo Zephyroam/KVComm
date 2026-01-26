@@ -1,0 +1,7 @@
+{
+    "problem": "If $\\mathbf{a}$ and $\\mathbf{b}$ are vectors such that $\\|\\mathbf{a}\\| = 7$ and $\\|\\mathbf{b}\\| = 11$, then find all possible values of $\\mathbf{a} \\cdot \\mathbf{b}$.\n\nSubmit your answer in interval notation.",
+    "level": "Level 3",
+    "type": "Precalculus",
+    "solution": "We know that $\\mathbf{a}\\cdot\\mathbf{b}=\\|\\mathbf{a}\\|\\cdot\\|\\mathbf{b}\\|\\cdot\\cos \\theta =7\\cdot 11\\cdot\\cos \\theta$, where $\\theta$ is the angle between $\\mathbf{a}$ and $\\mathbf{b}$. The range of values of $\\cos \\theta$ is $[-1,1]$, so the range of values of $\\mathbf{a}\\cdot\\mathbf{b}$ is $\\boxed{[-77,77]}$.",
+    "socratic_questions": "1. Can you explain what the dot product of two vectors represents?\n2. How can we express the dot product geometrically in terms of the magnitudes and angle between the vectors?\n3. Given that the magnitudes of vector $\\mathbf{a}$ and $\\mathbf{b}$ are 7 and 11 respectively, what is the maximum value the dot product can have?\n4. What is the minimum value the dot product can have?\n5. In what scenario(s) would the dot product be equal to its maximum value?\n6. What about the scenario(s) where the dot product would be equal to its minimum value?\n7. Can you think of any other situations where the dot product would fall within a specific range?\n8. How does the angle between the vectors affect the dot product?\n9. How would the dot product change if the magnitudes of the vectors were different?\n10. How does the dot product relate to the concept of orthogonality between vectors?"
+}

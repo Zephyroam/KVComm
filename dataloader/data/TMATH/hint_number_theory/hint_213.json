@@ -1,0 +1,7 @@
+{
+    "problem": "Let $n$ be a  positive integer and $a$ be an integer such that $a$ is its own inverse modulo $n$. What is the remainder when $a^2$ is divided by $n$?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "Since $a$ is its own inverse modulo $n$, $a\\equiv a^{-1}\\pmod n$. Then \\[a^2\\equiv a\\cdot a\\equiv a\\cdot a^{-1}\\equiv \\boxed{1}\\pmod n.\\]",
+    "socratic_questions": "1. Can you explain what it means for $a$ to be its own inverse modulo $n$?\n2. How can we express the condition $a \\equiv a^{-1} \\pmod n$ algebraically?\n3. If $a^2 \\equiv 1 \\pmod n$, what can we say about the remainder when $a^2$ is divided by $n$?\n4. How does the fact that $a$ is its own inverse modulo $n$ help us simplify the expression $a \\cdot a^{-1}$?\n5. Can you think of any examples where a number is its own inverse modulo a specific modulus? How does this property relate to the remainder when squaring the number modulo the modulus?\n6. Are there any other properties or theorems in number theory that might be useful in solving this problem?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "What percent of the positive integers less than or equal to $100$ have no remainders when divided by $5?$",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "The only numbers that leave no remainder when divided by $5$ are those that are divisible by $5$. Starting from $1,$ every five integers is divisible by $5: 5,10,15,\\ldots$ This continues even until the last group of five numbers $96$ through $100$ where $100$ is divisible by $5$. Therefore, since we have a whole number of groups of five and every group has exactly one element that is divisible by $5$, $1/5 = \\boxed{20}$ percent of the integers less than $100$ have no remainders when divided by $5$.",
+    "socratic_questions": "1. Can you describe the first step to solve this problem? \n2. How many different methods do you know to solve this kind of problem? \n3. If you choose to use the method of division, how would you proceed to find the numbers that are divisible by 5? \n4. Why can you determine the numbers that are divisible by 5? What characteristics make them suitable for this method? \n5. What are the numbers that are divisible by 5 that you found, and how do these numbers verify that your solution is correct? \n6. Can you think of any other types of problems where similar thinking and steps might be utilized to solve them? "
+}

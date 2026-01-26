@@ -1,0 +1,7 @@
+{
+    "problem": "Cory has $3$ apples, $2$ oranges and $2$ bananas. If Cory eats one piece of his fruit per day for a week and the pieces of fruit within each category are indistinguishable, in how many orders can Cory eat the fruit? One such order is $AAAOOBB.$",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "There are a total of $7$ fruits, so there are $7!$ ways to arrange them. However, since the fruits in each category are indistinguishable, we must divide out the repeats: $$\\frac{7!}{3!2!2!}=7\\times6\\times5=\\boxed{210}.$$",
+    "socratic_questions": "1. What is the total number of fruits that Cory has?\n2. How many days will Cory eat fruit?\n3. What does it mean for the pieces within each category to be indistinguishable?\n4. If all the fruits were distinct, how many ways could Cory eat them?\n5. Why do we need to divide by the factorial of the number of repeat fruits in each category?\n6. Can you explain the concept of factorial and why it is used here?\n7. Why do we multiply the factorial values instead of adding them?\n8. Are there any other restrictions or conditions that we need to consider in this problem?\n9. Can you think of a similar situation where we need to use the concept of factorial and combinations?\n10. How does the number of ways Cory can eat the fruit change if he has a different number of fruits in each category?"
+}

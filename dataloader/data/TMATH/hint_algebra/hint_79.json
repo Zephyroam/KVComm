@@ -1,0 +1,7 @@
+{
+    "problem": "Express $(5-4i)-2(3+6i)$ as a complex number.",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "$(5-4i)-2(3+6i) = 5-4i -6 -12i = \\boxed{-1-16i}$.",
+    "socratic_questions": "1. What is the first step you would take to express $(5-4i)-2(3+6i)$ as a complex number?\n2. Can you explain the concept of complex numbers and how they are added or subtracted?\n3. How would you distribute the -2 to simplify the expression $(5-4i)-2(3+6i)$?\n4. After distributing the -2, what are the simplified terms in the expression?\n5. How would you combine like terms to simplify the expression further?\n6. What is the final result when you combine the simplified terms in $(5-4i)-2(3+6i)$?\n7. Can you explain why the expression $(5-4i)-2(3+6i)$ represents a complex number?\n8. Are there any other ways to represent or write the complex number obtained from this expression?"
+}

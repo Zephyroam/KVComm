@@ -1,0 +1,7 @@
+{
+    "problem": "The expression $x^2 - 16x + 60$ can be written in the form $(x - a)(x - b)$, where $a$ and $b$ are both nonnegative integers and $a > b$. What is the value of $3b - a$?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "Factoring, we have $x^2 - 16x + 60 = (x - 10)(x - 6)$ Therefore, $a = 10$ and $b = 6,$ and $3b - a = 18 - 10 = \\boxed{8}.$",
+    "socratic_questions": "1. How can we begin to rewrite the expression $x^2 - 16x + 60$ in the form $(x - a)(x - b)$?\n2. What properties of the expression can we use to determine the values of $a$ and $b$?\n3. Can we factor out any common factors from the expression? If so, what are they?\n4. How can we use the factored form to determine the values of $a$ and $b$?\n5. How can we find the value of $3b - a$ using the values of $a$ and $b$ that we found?\n6. Can we check if our values of $a$ and $b$ satisfy the conditions $a > b$ and if they are nonnegative integers?\n7. Are there any alternative ways to factorize the expression that may yield different values of $a$ and $b$?\n8. Can you think of any other algebraic expressions where a similar approach can be used to find the value of an expression involving variables?"
+}

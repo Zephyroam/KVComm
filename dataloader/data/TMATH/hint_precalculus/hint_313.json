@@ -1,0 +1,7 @@
+{
+    "problem": "Find $\\tan \\frac{9 \\pi}{4}.$",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "Converting to degrees,\n\\[\\frac{9 \\pi}{4} = \\frac{180^\\circ}{\\pi} \\cdot \\frac{9 \\pi}{4} = 405^\\circ.\\]Since the tangent function has period $360^\\circ,$ $\\tan 405^\\circ = \\tan (405^\\circ - 360^\\circ) = \\tan 45^\\circ = \\boxed{1}.$",
+    "socratic_questions": "1. What is the definition of tangents in a right triangle?\n2. How does the value of the tangent function change as the angle in the triangle increases?\n3. What is meant by the period of a trigonometric function?\n4. How do we convert radians to degrees?\n5. What is the angle measure in degrees of $\\frac{9\\pi}{4}$?\n6. How can we use the periodicity of the tangent function to find the value of $\\tan\\frac{9\\pi}{4}$?\n7. Can you explain why $\\tan 405^\\circ = \\tan (405^\\circ - 360^\\circ) = \\tan 45^\\circ$?\n8. Are there other angles with the same tangent value as $\\frac{9\\pi}{4}$? If so, can you give an example?"
+}

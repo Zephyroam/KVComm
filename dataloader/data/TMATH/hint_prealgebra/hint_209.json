@@ -1,0 +1,7 @@
+{
+    "problem": "I have a bag with only red, blue, and green marbles.  The ratio of red marbles to blue marbles to green marbles is $1:5:3$.  There are 27 green marbles in the bag.  How many marbles are there  in the bag?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Since the ratio of red to blue to green marbles is $1:5:3$, the ratio of green marbles to the total number of marbles is $3/(1+5+3) = 3/9=1/3$.  Since the green marbles are one-third of the total, and there are 27 green marbles, there must be $3\\cdot 27 = \\boxed{81}$ total marbles.",
+    "socratic_questions": "1. Can you explain what is meant by the ratio of the red, blue, and green marbles in the bag?\n2. How can we determine the ratio of the green marbles to the total number of marbles in the bag?\n3. Why do we multiply the ratio of the green marbles to the total number by the actual number of green marbles to find the total number of marbles?\n4. Would the total number of marbles change if we had a different number of green marbles? Why or why not?\n5. Can you think of another situation where we might use ratios and proportions to solve a problem like this?"
+}

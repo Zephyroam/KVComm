@@ -1,0 +1,7 @@
+{
+    "problem": "Find $\\begin{pmatrix} -5 \\\\ 1 \\\\ -4 \\end{pmatrix} + \\begin{pmatrix} 0 \\\\ 8 \\\\ -4 \\end{pmatrix}.$",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "We have that\n\\[\\begin{pmatrix} -5 \\\\ 1 \\\\ -4 \\end{pmatrix} + \\begin{pmatrix} 0 \\\\ 8 \\\\ -4 \\end{pmatrix} = \\boxed{\\begin{pmatrix} -5 \\\\ 9 \\\\ -8 \\end{pmatrix}}.\\]",
+    "socratic_questions": "1. Can you describe the first step to add these two vectors together?\n2. What are the different methods or techniques you know for adding vectors?\n3. If you choose the component-wise method, how would you add the corresponding components of the two vectors?\n4. Why do you think vector addition is done component-wise? What properties of vectors make this method appropriate?\n5. What is the result of adding the corresponding components of these two vectors? How does it validate your solution?\n6. Can you think of other types of vector operations or calculations where similar thinking and steps might be involved?"
+}

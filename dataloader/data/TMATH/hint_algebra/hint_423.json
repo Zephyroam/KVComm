@@ -1,0 +1,7 @@
+{
+    "problem": "Simplify $(576)^\\frac{1}{4}(216)^\\frac{1}{2}$.",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "Simplify the two factors first.  Factor $2^4$ from $576$ to get $36$, and since $36=6^2$, the fourth root of $576$ is $(2^\\frac44)(6^\\frac24)=2\\sqrt{6}$.  Because $6^2$ evenly divides $216$, the square root of $216$ is $(6^\\frac22)(6^\\frac12)=6\\sqrt{6}$.  Multiply those two quantities together to obtain $\\boxed{72}$ as an answer.",
+    "socratic_questions": "1. What is the first step to simplify the expression $(576)^\\frac{1}{4}(216)^\\frac{1}{2}$?\n2. Can you explain the concept of a fractional exponent and how it relates to simplifying expressions?\n3. What is the prime factorization of 576 and 216? How does this information help simplify the expression?\n4. What does it mean to raise a number to the power of $\\frac{1}{4}$?\n5. How do you simplify $(576)^\\frac{1}{4}$? What is the result?\n6. Can you simplify $(216)^\\frac{1}{2}$? What is the result?\n7. After simplifying both terms, what is the simplified value of the expression $(576)^\\frac{1}{4}(216)^\\frac{1}{2}$?\n8. Can you think of other expressions that involve fractional exponents and require similar steps to simplify?"
+}

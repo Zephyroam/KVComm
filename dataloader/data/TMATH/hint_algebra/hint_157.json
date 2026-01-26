@@ -1,0 +1,7 @@
+{
+    "problem": "If $Q = 5+2i$, $E = i$, and $D = 5-2i$, find $Q\\cdot E \\cdot D$.",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "\\begin{align*}\nQED &= (5+2i)(i)(5-2i)\\\\\n&=i(25-(2i)^2)\\\\\n&=i(25+4)\\\\\n&=\\boxed{29i}.\n\\end{align*}",
+    "socratic_questions": "1. Can you explain what the complex numbers Q, E, and D represent in this equation?\n2. What does the \u00d7 symbol represent in the expression Q \u00b7 E \u00b7 D?\n3. Can you describe what the multiplication of complex numbers entails? \n4. How do we multiply two complex numbers with real and imaginary parts like Q and E?\n5. Can you perform the multiplication step-by-step, showing the calculation for Q \u00b7 E? \n6. Following the previous step, can you perform the multiplication of the result by D?\n7. After performing the multiplication, what is the final result for Q \u00b7 E \u00b7 D?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Suppose $\\sin N = \\frac{2}{3}$ in the diagram below.  What is $LN$?\n\n\n\n[asy]\npair L,M,N;\nM = (0,0);\nN = (17.89,0);\nL = (0,16);\ndraw(L--M--N--L);\ndraw(rightanglemark(L,M,N,18));\nlabel(\"$M$\",M,SW);\nlabel(\"$N$\",N,SE);\nlabel(\"$L$\",L,NE);\nlabel(\"$16$\",L/2,W);\n[/asy]",
+    "level": "Level 1",
+    "type": "Geometry",
+    "solution": "Since $\\sin N = \\frac{2}{3}$ and $\\sin N = \\frac{LM}{LN}=\\frac{16}{LN}$, we have $\\frac{16}{LN} = \\frac{2}{3}$, so $LN = \\frac{16}{\\frac{2}{3}} = \\boxed{24}$.",
+    "socratic_questions": "1. Can you describe the relationship between $\\sin N$, $LM$, and $LN$ in the diagram?\n2. How can we find the value of $LN$ using the given information about $\\sin N$?\n3. What does it mean for $\\sin N$ to be equal to $\\frac{2}{3}$? How does this relate to the triangle in the diagram?\n4. How can we use the relationship between $\\sin N$, $LM$, and $LN$ to find the value of $LN$?\n5. What is $\\frac{LM}{LN}$ equal to? How can we use this to solve for $LN$?\n6. Can you explain why $\\frac{16}{LN} = \\frac{2}{3}$? What property or rule allows us to set up this equation?\n7. What is the value of $LN$? How did you calculate it using the given equation?\n8. Can you think of any other trigonometric relationships that could be used to solve for lengths or angles in similar diagrams?"
+}

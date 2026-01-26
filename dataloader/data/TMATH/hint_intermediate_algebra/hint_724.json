@@ -1,0 +1,7 @@
+{
+    "problem": "Find the quotient when $x^5 + 7$ is divided by $x + 1.$",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "We can perform long division.  We can also write\n\\begin{align*}\n\\frac{x^5 + 7}{x + 1} &= \\frac{(x^5 + 1) + 6}{x + 1} \\\\\n&= \\frac{x^5 + 1}{x + 1} + \\frac{6}{x + 1} \\\\\n&= x^4 - x^3 + x^2 - x + 1 + \\frac{6}{x - 1}.\n\\end{align*}Thus, the quotient is $\\boxed{x^4 - x^3 + x^2 - x + 1}.$",
+    "socratic_questions": "1. What is the problem asking us to do?\n2. What are some possible methods we can use to find the quotient?\n3. Can we use synthetic division to find the quotient? Why or why not?\n4. What is long division? How does it work?\n5. What is the degree of the numerator and the denominator in this problem? Why is this important?\n6. How did we get from the original expression to the expression involving the factorization $x^5+1=(x^4-x^3+x^2-x+1)(x+1)$?\n7. Is it possible for there to be a remainder in this division? Why or why not?\n8. Can we simplify the result any further? If so, how?"
+}

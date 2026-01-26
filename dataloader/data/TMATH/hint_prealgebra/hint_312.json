@@ -1,0 +1,7 @@
+{
+    "problem": "The equations $2x+7=3$ and $bx-10=-2$ have the same solution $x$. What is the value of $b$?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "Since $2x+7=3$ we have $x=-2$. Hence $$-2 = bx - 10 = -2b-10, \\quad \\text{so} \\quad 2b = -8, \\ \\text{and } \\boxed{b = -4}.$$",
+    "socratic_questions": "1. Can you explain the first step to solve the equation $2x+7=3$? \n2. Are there different methods you know to solve such equations? What are they?\n3. If we use the method of substitution, how can we find the value of $x$ in the equation $bx-10=-2$?\n4. Why do the equations $2x+7=3$ and $bx-10=-2$ have the same solution? What characteristics make them suitable for this method?\n5. What is the value of $x$ in the equation $2x+7=3$? How does this value help us find the value of $b$?\n6. Can you think of other equations where we might use similar thinking and steps to solve them?"
+}

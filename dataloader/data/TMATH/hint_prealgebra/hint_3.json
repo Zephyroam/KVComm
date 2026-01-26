@@ -1,0 +1,7 @@
+{
+    "problem": "Mary wants to buy one large pizza, one medium pizza, and three drinks. The drinks cost $p$ dollars each, the medium pizza costs two times as much as one drink, and the large pizza costs three times as much as one drink. If Mary started with $30$ dollars, how much money would she have left after making all of her purchases?  Give your answer as an expression of $p$.",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "Let's first look at how much total money Mary spent. Since drinks cost $p$ dollars, and she bought $3$ of them, she spent $3p$ dollars on drinks. One drink costs $p$ dollars, so a medium pizza costs $2p$ dollars and a large pizza costs $3p$ dollars. Therefore, in total, Mary spent \\[3p+2p+3p=8p\\] dollars.\n\nNow, Mary had $30$ dollars to begin with, and she spent $8p$ dollars, so she has \\[\\boxed{30-8p}\\] dollars left.",
+    "socratic_questions": "1. What is the total cost of the drinks Mary bought?\n2. How much does a medium pizza cost? How much does a large pizza cost?\n3. Can we find the total cost of the pizzas by adding the costs of each size?\n4. How can we express the total amount Mary spent in terms of $p$?\n5. If Mary started with $30$ dollars, what is the expression for the amount she has left after making her purchases?\n6. Can we simplify the expression for the amount Mary has left?\n7. What happens to the amount Mary has left if the cost of the drinks ($p$) increases? What if it decreases?\n8. What other questions could we ask to further explore this problem?"
+}

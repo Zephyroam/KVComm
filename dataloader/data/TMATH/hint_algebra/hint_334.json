@@ -1,0 +1,7 @@
+{
+    "problem": "Given that $a > 0$, if $f(g(a)) = 8$, where $f(x) = x^2 + 8$ and $g(x) = x^2 - 4$, what is the value of $a$?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "First, we solve for $b = g(a)$.\n\n\\begin{align*}\nf(g(a)) &= 8 \\\\\nf(b) &= 8 \\\\\nb^2 + 8 &= 8 \\\\\nb^2 &= 0 \\\\\n\\end{align*}\n\nTherefore, $b = g(a) = 0.$ Now, we solve for $a$ using $g(a) = a^2 - 4 = 0.$ From this, $a = \\pm 2.$ Since we are given that $a > 0$, our answer is $a = \\boxed{2}.$",
+    "socratic_questions": "1. Can you explain what the function composition $f(g(a))$ means in this context?\n2. How can we find the value of $f(g(a))$ when $f(x) = x^2 + 8$ and $g(x) = x^2 - 4$?\n3. What steps can we take to simplify the expression $f(g(a))$?\n4. Once we simplify $f(g(a))$, how can we solve the equation $f(g(a)) = 8$?\n5. Can you determine the value of $a$ that satisfies the equation $f(g(a)) = 8$? How did you arrive at that value?\n6. Are there any other methods or strategies that could be used to solve this equation? How would they be different?\n7. If we change the functions $f(x)$ and $g(x)$, will the steps to solve the equation $f(g(a)) = 8$ be the same or different? Explain.\n8. Can you think of any real-world situations where understanding function composition and solving equations like this could be useful?"
+}

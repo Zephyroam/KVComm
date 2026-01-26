@@ -1,0 +1,7 @@
+{
+    "problem": "Let $P(n)$ and $S(n)$ denote the product and the sum, respectively, of the digits of the integer $n$. For example, $P(23) = 6$ and $S(23) = 5$. Suppose $N$ is a two-digit number such that $N = P(N) +\nS(N)$. What is the units digit of $N$?",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "Suppose $N=10a+b$. Then $10a+b=ab+(a+b)$. It follows that $9a=ab$, which implies that $b=9$, since $a \\neq 0$. So the units digit of $N$ is $\\boxed{9}$.",
+    "socratic_questions": "1. Can you describe the problem statement in your own words?\n2. How would you represent the product and sum of the digits of a number mathematically?\n3. What do we know about the two-digit number N? How can we represent it algebraically?\n4. In order to find the units digit of N, what equations can we set up using the given information?\n5. How can we solve the equation N = P(N) + S(N) algebraically?\n6. Can you propose any strategies or approaches to simplify the equation and find the units digit?\n7. What are the possible values for the units digit of N based on the given equation?\n8. Are there any restrictions on the values of the units digit of N? Why or why not?\n9. Can you think of any similar problems where algebraic expressions are used to represent digits in numbers?\n10. How can we verify our solution and ensure that the units digit is correct?"
+}

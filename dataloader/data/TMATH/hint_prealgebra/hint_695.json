@@ -1,0 +1,7 @@
+{
+    "problem": "The average age of five children is 6 years old. Each child is a different age and there is a difference of two years in the ages of any two consecutive children. In years, how old is the oldest child?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "Because the ages form an arithmetic progression (an evenly spaced sequence) with an odd number of terms, the median age is the same as the average age.  Therefore, the age of the third child is $6$, the second child is $8$ years old, and the first child is $\\boxed{10}$ years old.",
+    "socratic_questions": "1. How many children are there in total?\n2. Is the age of each child different from the others?\n3. Are the ages of the children in an arithmetic progression or evenly spaced sequence?\n4. Is the age difference between any two consecutive children two years? \n5. What is the average age of the five children?\n6. What can you say about the median age of the children? \n7. Based on the information given, what is the age of the third child? \n8. If the second child is 8 years old, what does that tell you about the age of the first child? \n9. What is the age difference between the first and second child?\n10. How can you determine the age of the oldest child based on the information given?"
+}

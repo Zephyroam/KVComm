@@ -1,0 +1,7 @@
+{
+    "problem": "What is the least positive integer that is divisible by three distinct primes?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "We use the fact that a number which is divisible by three primes must be divisible by their product -- this comes from the Fundamental Theorem of Arithmetic. Since we are looking for the least positive integer, we look at the three smallest primes: 2, 3, and 5. Multiplying these yields $2 \\times 3 \\times 5 = \\boxed{30}$, which is the least positive integer divisible by three distinct primes.",
+    "socratic_questions": "1. Can you explain what it means for a number to be divisible by a prime?\n2. What is the Fundamental Theorem of Arithmetic and how does it relate to our problem of finding the least positive integer divisible by three distinct primes?\n3. Why did we select the three smallest primes of 2, 3, and 5 in our problem?\n4. How did we determine that multiplying these three primes yields the least positive integer that is divisible by three primes?\n5. Is it possible to have a number that is divisible by more than three primes? If so, how would we approach finding the least positive integer in that case?\n6. Can you think of any other related concepts in Number Theory that could be explored using the Socratic questioning method?"
+}

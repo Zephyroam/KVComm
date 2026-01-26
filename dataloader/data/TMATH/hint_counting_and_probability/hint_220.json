@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\dbinom{505}{505}$.",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "$\\dbinom{505}{505}=\\dbinom{505}{0}=\\boxed{1}.$",
+    "socratic_questions": "1. What does the symbol $\\dbinom{n}{k}$ represent?\n2. How do you calculate $\\dbinom{n}{k}$?\n3. What is the value of $\\dbinom{n}{0}$ and why?\n4. Can you provide an example of how to apply $\\dbinom{n}{k}$ in a real-world scenario?\n5. What is the relationship between $\\dbinom{n}{k}$ and permutations?\n6. What is the difference between combinations with replacement and without replacement?\n7. How would you calculate the probability of selecting a certain number of items from a larger set without replacement using combinations? \n8. How do you use combinations to find the total number of possible outcomes for a multiple-choice test with a specific number of questions and answer choices? \n9. Can you think of any other math or science concepts that involve combinations or permutations?"
+}

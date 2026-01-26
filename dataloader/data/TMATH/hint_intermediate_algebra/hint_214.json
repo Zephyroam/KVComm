@@ -1,0 +1,7 @@
+{
+    "problem": "The sum of the terms in an infinite geometric series is 15, and the sum of their squares is 45.  Find the first term.",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "Let $a$ be the first term, and let $r$ be the common ratio.  Then\n\\begin{align*}\n\\frac{a}{1 - r} &= 15, \\\\\n\\frac{a^2}{1 - r^2} &= 45.\n\\end{align*}From the first equation, $a = 15(1 - r).$  Substituting into the second equation, we get\n\\[\\frac{225 (1 - r)^2}{1 - r^2} = 45.\\]The denominator factors as $(1 + r)(1 - r),$ so the equation simplifies to\n\\[\\frac{5 (1 - r)}{1 + r} = 1.\\]Then $5 - 5r = 1 + r,$ so $r = \\frac{2}{3}.$  Then $a = 15 \\left( 1 - \\frac{2}{3} \\right) = \\boxed{5}.$",
+    "socratic_questions": "1. Can you describe the first step in solving this problem? \n2. What do you already know about infinite geometric series? \n3. How can we represent the sum of an infinite geometric series using variables? \n4. How can we represent the sum of the squares of an infinite geometric series using variables? \n5. What happens when we substitute the variables into the given equations? \n6. Can you explain how we arrived at the equation $\\frac{225(1 - r)^2}{1 - r^2} = 45$? \n7. How can we simplify this equation using factorization? \n8. Can you walk me through the steps of simplifying and solving the equation $\\frac{5(1 - r)}{1 + r} = 1$? \n9. What is the value of $r$ that we found? \n10. Finally, what is the value of the first term in the infinite geometric series?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Our school's girls volleyball team has 14 players, including a set of 3 triplets: Alicia, Amanda, and Anna.  In how many ways can we choose 6 starters if exactly one of the triplets is in the starting lineup?",
+    "level": "Level 4",
+    "type": "Counting & Probability",
+    "solution": "If exactly one of the triplets is in the lineup, we have 3 choices for which triplet to put in the starting lineup, and then 11 people to choose from for the remaining 5 spots.  So the answer is $3 \\times \\binom{11}{5} = 3 \\times 462 = \\boxed{1386}$.",
+    "socratic_questions": "1. What is the problem asking you to find?\n2. How many players are on the girls volleyball team, and how many of them are triplets?\n3. What does it mean for exactly one of the triplets to be in the starting lineup?\n4. How many choices do we have for which triplet to put in the starting lineup?\n5. How many players are left to choose from after we select the triplet for the starting lineup?\n6. What is the formula for calculating combinations, and how does it apply in this problem?\n7. Can you explain why we multiply the number of choices for the triplet and the number of choices for the remaining players? \n8. How did we arrive at the final answer of 1386?\n9. Can you think of a similar problem involving selecting a group with certain conditions, and how would you approach solving it?\n10. How might the answer change if we were allowed to have any combination of the triplets in the starting lineup rather than just one?"
+}

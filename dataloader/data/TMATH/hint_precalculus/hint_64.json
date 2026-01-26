@@ -1,0 +1,7 @@
+{
+    "problem": "Find the matrix that corresponds to a dilation centered at the origin with scale factor $-3.$",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "The dilation centered at the origin with scale factor $-3$ takes $\\begin{pmatrix} 1 \\\\ 0 \\end{pmatrix}$ to $\\begin{pmatrix} -3 \\\\ 0 \\end{pmatrix},$ and $\\begin{pmatrix} 0 \\\\ 1 \\end{pmatrix}$ to $\\begin{pmatrix} 0 \\\\ -3 \\end{pmatrix},$ so the matrix is\n\\[\\boxed{\\begin{pmatrix} -3 & 0 \\\\ 0 & -3 \\end{pmatrix}}.\\]",
+    "socratic_questions": "1. What does it mean for a matrix to correspond to a dilation centered at the origin?\n2. What is the scale factor for this specific dilation?\n3. How does the position of the origin affect the matrix that corresponds to the dilation?\n4. What are the coordinates of the point $\\begin{pmatrix} 1 \\\\ 0 \\end{pmatrix}$ after the dilation?\n5. What are the coordinates of the point $\\begin{pmatrix} 0 \\\\ 1 \\end{pmatrix}$ after the dilation?\n6. How can we use these coordinates to determine the matrix for the dilation?\n7. Can you explain why the diagonal entries of the matrix are both $-3$?\n8. Can you explain why the off-diagonal entries of the matrix are both $0$?\n9. Can you think of any other scenarios where we can use similar reasoning to find the matrix for a dilation?\n10. How does this matrix for the dilation relate to the concept of linear transformations?"
+}

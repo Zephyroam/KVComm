@@ -1,0 +1,7 @@
+{
+    "problem": "Max bought a new dirt bike and paid $10\\%$ of the cost upfront, which was $\\$150$. What was the price of the bike?",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "If $10\\%$ of the price of the dirt bike was $\\$150$, then $100\\%$ of the price must have been ten times the amount that Max paid upfront. Therefore, the price of the bike must have been $10 \\times \\$150=\\boxed{\\$ 1500}$.",
+    "socratic_questions": "1. How would you describe the first step in solving this problem?\n2. What is the relationship between the upfront payment and the total cost of the bike?\n3. How would you represent the total cost of the bike in algebraic terms?\n4. If the upfront payment is 10% of the cost, what operation could you use to find the total cost?\n5. How would you set up an equation to represent the relationship between the upfront payment and the total cost?\n6. What is the variable in this equation, and what does it represent?\n7. How would you solve the equation to find the value of the variable?\n8. Can you propose any other real-life situations where similar thinking and steps might be used?\n9. How would you verify that the solution you found is correct?\n10. What other mathematical concepts or skills might be useful in solving this problem?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "What is the smallest positive integer that ends in 9 and is divisible by 7?",
+    "level": "Level 1",
+    "type": "Number Theory",
+    "solution": "We can start from 9 and keeping adding 10 until we reach an integer divisible by 7. It turns out that 9, 19, 29, and 39 are all not divisible by 7, but 49 is divisible by 7. Therefore, $\\boxed{49}$ is the smallest integer that ends in a 9 and is divisible by 7.",
+    "socratic_questions": "1. Can you describe the problem in your own words? What are we being asked to find?\n2. How would you approach finding a positive integer that ends in 9 and is divisible by 7? Can you think of any initial steps?\n3. What does it mean for a number to be divisible by 7? Can you think of any properties or characteristics that numbers divisible by 7 might have?\n4. Let's start with 9 and keep adding 10 until we find a number that is divisible by 7. Can you try this method and see if you can find a number that meets the criteria?\n5. What did you find? Is there a number that ends in 9 and is divisible by 7 among the numbers you tried?\n6. If the numbers you tried so far didn't work, what other integers could you try that end in 9? Can you think of a pattern or rule that could help you find the smallest integer that meets the given conditions?\n7. Can you think of any other problem scenarios where a similar approach of trying different integers and looking for a specific property might be useful?"
+}

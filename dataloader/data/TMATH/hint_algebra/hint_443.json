@@ -1,0 +1,7 @@
+{
+    "problem": "What is the range of the function $$r(x) = \\frac{1}{(1-x)^2}~?$$ Express your answer in interval notation.",
+    "level": "Level 5",
+    "type": "Algebra",
+    "solution": "Every real number can be expressed in the form $1-x$ for some real $x$. Thus, as $x$ runs through the real numbers, $(1-x)^2$ runs through all nonnegative values, and its reciprocal (which is $r(x)$) runs through all positive values. The range of $r(x)$ is $\\boxed{(0,\\infty)}$.",
+    "socratic_questions": "1. What does the term \"range\" mean in the context of functions?\n2. How can we determine the range of a function algebraically?\n3. Looking at the function $r(x) = \\frac{1}{(1-x)^2}$, what restrictions or limitations are there on the input values of $x$?\n4. Considering the denominator $(1-x)^2$, what does this expression tell us about the possible values of $x$ in the function?\n5. Can you identify any values of $x$ that would make the function undefined? What would happen to the function at those points?\n6. Given the restrictions on $x$, what does this tell us about the range of the function?\n7. How can we express the range of the function in interval notation?\n8. Are there any specific intervals or values that should be excluded from the range based on the function's behavior?"
+}

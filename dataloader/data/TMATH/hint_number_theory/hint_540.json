@@ -1,0 +1,7 @@
+{
+    "problem": "What is the smallest positive integer $n$ such that $17n \\equiv 1234 \\pmod{7}?$",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "First, we simplify $1234 \\pmod{7}$ to $1234 \\equiv 2 \\pmod{7}$. Therefore, we have $$17n \\equiv 2 \\pmod{7}$$This means that $17n$ can be written in the form $7a+2$, where $a$ is an integer. So we have $17n=7a+2$.\n\nWe want to find the smallest $a$ such that $\\frac{7a+2}{17}=n$ is an integer. By trying values for $a$, we find that the smallest integer $a$ which satisfies the equation is $7$. Therefore, the least value for $n$ is $\\frac{51}{17}=\\boxed{3}$.",
+    "socratic_questions": "1. What is the given modular equation we want to solve?\n2. How can we simplify $1234 \\pmod{7}$ and what is the result?\n3. In the equation $17n \\equiv 2 \\pmod{7}$, what is the form of $17n$ on the right side of the congruence?\n4. By expressing $17n$ as $7a+2$, what are we looking to find?\n5. Are there any restrictions or conditions on the value of $a$ in the equation $17n = 7a+2$?\n6. How can we determine the smallest whole number value of $a$ that satisfies the equation?\n7. What is the corresponding value of $n$ when $a=7$ in the equation $17n = 7a+2$?\n8. Can we simplify the value of $n$ in any way?\n9. Based on our calculations, what is the smallest positive integer $n$ that satisfies $17n \\equiv 1234 \\pmod{7}$?"
+}

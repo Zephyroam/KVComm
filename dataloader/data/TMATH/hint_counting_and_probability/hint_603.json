@@ -1,0 +1,7 @@
+{
+    "problem": "How many four-digit positive integers are multiples of 3?",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "The first four-digit multiple of 3 is 1002, which is $3\\times 334$.  The last is 9999, which is $3\\times 3333$.  From 334 to 3333, inclusive, there are $3333-334+1 = 3000$ positive integers.  So, there are $\\boxed{3000}$ positive integers that are multiples of 3.  Notice that this happens to equal $9000/3$.  Is this a coincidence?  (Beware of always using this reasoning!  What if we asked for the number of multiples of 7?)",
+    "socratic_questions": "1. What is the first four-digit multiple of 3?\n2. What is the last four-digit multiple of 3?\n3. How would you find the number of positive integers between these two multiples, inclusive?\n4. Why is it necessary to add 1 to the difference between the two multiples?\n5. Can you explain why the number of positive integers between the first and last multiples of 3 is equal to the difference between the two multiples plus 1?\n6. Is it a coincidence that the number of four-digit multiples of 3 is equal to 9000 divided by 3? Can you think of a scenario where this reasoning might not work?\n7. If we were looking for the number of multiples of a different number, say 7, would dividing by that number give us the correct answer?"
+}

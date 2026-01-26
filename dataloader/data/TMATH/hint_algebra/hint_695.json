@@ -1,0 +1,7 @@
+{
+    "problem": "Simplify $\\frac{1}{1+\\sqrt{2}}\\cdot\\frac{1}{1-\\sqrt{2}}$.",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "Multiplying the numerators simply yields $1$. Multiplying the denominators gives $1+\\sqrt{2} - \\sqrt{2} -2 = 1 - 2 = -1$. So, the answer is $\\frac{1}{-1} = \\boxed{-1}$.",
+    "socratic_questions": "1. What is the first step you would take to simplify the expression $\\frac{1}{1+\\sqrt{2}}\\cdot\\frac{1}{1-\\sqrt{2}}$?\n2. Can you think of any different methods or approaches to simplify this expression?\n3. What is the significance of the denominator $1+\\sqrt{2}$ and $1-\\sqrt{2}$ in this expression? How does it affect the overall simplification process?\n4. If we multiply the expression $\\frac{1}{1+\\sqrt{2}}\\cdot\\frac{1}{1-\\sqrt{2}}$ by a certain expression, how could it potentially help us simplify the overall expression?\n5. Is there a way to rewrite the denominator $1+\\sqrt{2}$ and $1-\\sqrt{2}$ in a different form that might make the simplification process easier?\n6. How would you verify the correctness of your simplified expression? Is there any intuition or logical reasoning you can use to support your answer?"
+}

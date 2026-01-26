@@ -1,0 +1,7 @@
+{
+    "problem": "If the least common multiple of $A$ and $B$ is $120$, and the ratio of $A$ to $B$ is $3:4$, then what is their greatest common divisor?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "Since the ratio of $A$ to $B$ is $3:4$, there is an integer $k$ for which $A=3k$ and $B=4k$. Moveover, $k$ is the greatest common divisor of $A$ and $B$, since 3 and 4 are relatively prime. Recalling the identity $\\mathop{\\text{lcm}}[A,B]\\cdot\\gcd(A,B)=AB$, we find that $120k=(3k)(4k),$ which implies $k=120/12=\\boxed{10}$.",
+    "socratic_questions": "1. What is the definition of the least common multiple (LCM) of two integers?\n2. How can we express the ratio of $A$ to $B$ as a fraction? What does this fraction imply?\n3. What can we say about the greatest common divisor (GCD) of $A$ and $B$ if their ratio is known?\n4. How can we express $A$ and $B$ in terms of their greatest common divisor $k$ if their ratio is known to be $3:4$?\n5. Why is $k$ the greatest common divisor of $A$ and $B$ if their ratio is $3:4$?\n6. How can we use the given information about the LCM of $A$ and $B$ to solve for the value of $k$?\n7. What is the equation that relates the LCM and the GCD of two integers? How can we use it to solve the problem?\n8. Why is it important to reduce the fraction $A/B$ to lowest terms in this problem?\n9. Can you think of other examples where the GCD and LCM of two integers are used in problem solving?"
+}

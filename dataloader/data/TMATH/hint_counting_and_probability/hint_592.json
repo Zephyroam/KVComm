@@ -1,0 +1,7 @@
+{
+    "problem": "Harry, Ron and Neville are having a race on their broomsticks.  If there are no ties, in how many different possible orders can they finish?",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "There are 3 ways to choose who finishes first.  For each possibility, there are 2 ways to choose who comes in second, and the remaining person comes in last.  That gives us $3\\cdot 2 \\cdot 1 = \\boxed{6}$ possible orders.",
+    "socratic_questions": "1. How many players are participating in the race?\n2. Are the players required to finish in a specific order, or can they finish in any order?\n3. Can there be ties in this race, or is it specified that there are no ties?\n4. If there are no ties, what is the total number of possible orders in which the players can finish?\n5. Why is there a factor of 3 in the calculation for possible orders?\n6. Why is there a factor of 2 for each possibility of choosing who comes in second?\n7. How did we determine that there is only 1 possibility for the remaining person's position?\n8. Can you explain why the formula to calculate possible orders is $3 \\cdot 2 \\cdot 1$?\n9. Is it possible for the number of players or any other factor to change the total number of possible orders? If so, how?"
+}

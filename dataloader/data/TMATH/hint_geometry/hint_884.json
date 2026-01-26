@@ -1,0 +1,7 @@
+{
+    "problem": "In right triangle $ABC$ with $\\angle A = 90^\\circ$, we have $AB =16$ and $BC = 24$.  Find $\\sin A$.",
+    "level": "Level 3",
+    "type": "Geometry",
+    "solution": "Since $\\angle A = 90^\\circ$, we have $\\sin A = \\sin 90^\\circ= \\boxed{1}$.",
+    "socratic_questions": "1. How would you define a right triangle?\n2. What is the relationship between the angles in a right triangle?\n3. What is the definition of $\\sin A$ in a right triangle?\n4. How can we determine the value of $\\sin A$ in this specific right triangle given the side lengths?\n5. Can you explain why $\\sin A = \\sin 90^\\circ = 1$ in this case?\n6. Are there any other ways to find the value of $\\sin A$ in a right triangle? If so, how would you approach it?"
+}

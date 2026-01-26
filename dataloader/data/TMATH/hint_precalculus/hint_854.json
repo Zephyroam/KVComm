@@ -1,0 +1,7 @@
+{
+    "problem": "Find $\\cot 45^\\circ.$",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "We have that $\\cot 45^\\circ = \\frac{1}{\\tan 45^\\circ} = \\boxed{1}.$",
+    "socratic_questions": "1. Can you explain what $\\cot 45^\\circ$ represents in terms of trigonometry?\n2. How would you define tangent and reciprocal functions in trigonometry?\n3. What is the relationship between $\\cot 45^\\circ$ and $\\tan 45^\\circ$?\n4. Are there any trigonometric identities that relate cotangent and tangent?\n5. Using the identities, why can we express $\\cot 45^\\circ$ as the reciprocal of $\\tan 45^\\circ$?\n6. Can you explain why the value of $\\cot 45^\\circ$ is equal to 1?"
+}

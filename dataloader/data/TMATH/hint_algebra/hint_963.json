@@ -1,0 +1,7 @@
+{
+    "problem": "Solve for $n$, if $9^n\\cdot9^n\\cdot9^n\\cdot9^n=81^4$.",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "The equation, $9^n\\cdot9^n\\cdot9^n\\cdot9^n=81^4$, can be written as $9^{4n}=81^4$. We also know that $81=9^2$, so we can rewrite the equation as $9^{4n}=9^{2(4)}$.  Solving for $n$, gives $n=\\boxed{2}$.",
+    "socratic_questions": "1. Can you describe the first step in solving this equation?\n2. What different methods do you know that can be used to solve equations like this?\n3. If you choose to take the logarithm of both sides, how would you determine the base of the logarithm?\n4. Why is it possible to simplify the left side of the equation by combining the exponents?\n5. What is the value of the base that you found? How does it validate your solution?\n6. Can you think of other equations where a similar approach and steps may be used to solve them?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Let $z$ be a complex number such that $|z| = 13.$  Find $z \\times \\overline{z}.$",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "In general,\n\\[z \\overline{z} = |z|^2\\]for all complex numbers $z.$\n\nSo, if $|z| = 13,$ then $z \\overline{z} = 13^2 = \\boxed{169}.$",
+    "socratic_questions": "1. What is a complex number and how is it represented?\n2. What is the absolute value (modulus) of a complex number and how is it calculated?\n3. How is the conjugate of a complex number defined and what is its significance?\n4. How can we use the conjugate to calculate the product of a complex number with its conjugate?\n5. How does the formula for $z \\overline{z}$ relate to the absolute value of a complex number?\n6. If $|z| = 5,$ what is the value of $z \\overline{z}$? How did you arrive at your answer?\n7. How can we interpret the value of $z \\overline{z}$ geometrically on an Argand diagram?"
+}

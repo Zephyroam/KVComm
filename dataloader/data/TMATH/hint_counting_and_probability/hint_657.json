@@ -1,0 +1,7 @@
+{
+    "problem": "John has 12 marbles of different colors, including one red, one green, and one blue marble. In how many ways can he choose 4 marbles, if exactly one of the chosen marbles is red, green, or blue?",
+    "level": "Level 5",
+    "type": "Counting & Probability",
+    "solution": "There are 3 ways for John to decide which of the red, green, and blue marbles to choose. After he has chosen one of them, he must choose 3 marbles from the other 9. There are $\\binom{9}{3}=84$ ways for him to do this. The total number of valid ways for John to choose four marbles is $3\\cdot 84=\\boxed{252}$.",
+    "socratic_questions": "1. How many marbles does John have in total?\n2. How many marbles does John need to choose?\n3. How many different ways can John choose 4 marbles, without any restrictions?\n4. How many different ways can John choose 3 marbles from the 9 remaining marbles?\n5. How many ways can John choose exactly one of the red, green, or blue marbles?\n6. How can we combine the results from questions 4 and 5 to determine the total number of valid ways for John to choose the marbles?"
+}

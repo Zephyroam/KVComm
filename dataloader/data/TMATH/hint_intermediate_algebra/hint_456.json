@@ -1,0 +1,7 @@
+{
+    "problem": "Let $a$ and $b$ be positive real numbers such that each of the equations $x^2 + ax + 2b = 0$ and $x^2 + 2bx + a = 0$ has real roots.  Find the smallest possible value of $a + b.$",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "Since both quadratics have real roots, we must have $a^2 \\ge 8b$ and $4b^2 \\ge 4a,$ or $b^2 \\ge a.$  Then\n\\[b^4 \\ge a^2 \\ge 8b.\\]Since $b > 0,$ it follows that $b^3 \\ge 8,$ so $b \\ge 2.$  Then $a^2 \\ge 16,$ so $a \\ge 4.$\n\nIf $a = 4$ and $b = 2,$ then both discriminants are nonnegative, so the smallest possible value of $a + b$ is $\\boxed{6}.$",
+    "socratic_questions": "1. Can you describe the first step to solve each quadratic equation in terms of real roots?\n2. Are there any restrictions on the values of $a$ and $b$ in order for both equations to have real roots?\n3. How can we derive the inequalities $a^2 \\ge 8b$ and $4b^2 \\ge 4a$?\n4. What does it mean for $b^2$ to be greater than or equal to $a$? How does this relate to the discriminant?\n5. What happens if $b^2$ is less than $a$ in terms of the discriminant?\n6. How can we find the smallest possible value of $a + b$ based on the derived inequalities and restrictions?"
+}

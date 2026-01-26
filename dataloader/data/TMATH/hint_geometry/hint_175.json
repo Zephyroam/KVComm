@@ -1,0 +1,7 @@
+{
+    "problem": "Triangle $ABC$ has sides of length 5, 12 and 13 units, and triangle $DEF$ has sides of length 8, 15 and 17 units. What is the ratio of the area of triangle $ABC$ to the area of triangle $DEF$? Express your answer as a common fraction.",
+    "level": "Level 2",
+    "type": "Geometry",
+    "solution": "Triangles $ABC$ and $DEF$ are both right, since their sides form Pythagorean triples. It follows that the desired ratio is $\\dfrac{(5\\cdot 12)/2}{(8\\cdot 15)/2} = \\boxed{\\dfrac{1}{2}}$.",
+    "socratic_questions": "1. Can you describe the Pythagorean triples that form the sides of triangle $ABC$ and triangle $DEF$? \n2. What is the relationship between the length of the sides of a right triangle and its area? \n3. Can you use the Pythagorean theorem to verify that triangle $ABC$ and triangle $DEF$ are indeed right triangles? \n4. How can we calculate the area of a triangle given the lengths of its sides? \n5. Is it necessary to use the same method to calculate the areas of both triangles, or are there different methods that can be used? \n6. How can we simplify the calculation of the ratio of the areas of triangle $ABC$ and triangle $DEF$? \n7. Is this ratio affected by the size or shape of the triangles, or is it solely determined by the ratio of their side lengths?"
+}

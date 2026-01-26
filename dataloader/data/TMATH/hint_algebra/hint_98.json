@@ -1,0 +1,7 @@
+{
+    "problem": "For how many values of $x$ is the expression $\\frac{x^2-9}{(x^2+2x-3)(x-3)}$ undefined?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "The expression is undefined when the denominator of the fraction is equal to zero, so we are looking for values of $x$ that satisfy $(x^2+2x-3)(x-3)=0$. This polynomial factors further as $(x-1)(x+3)(x-3)=0$, giving us the solutions $x=1$, $x=-3$ and $x=3$. Therefore, there are $\\boxed{3}$ values of $x$ for which the expression is undefined.",
+    "socratic_questions": "1. What is the definition of an undefined expression in algebra? \n2. In the given expression, what can cause the expression to be undefined? \n3. Which values of x would make the denominator of the expression equal to zero? \n4. What are the factors of the denominator and what values of x would make each factor equal to zero? \n5. How many values of x would make the expression undefined based on the factors of the denominator? \n6. Can you solve each factor equation to find the values of x that make the expression undefined? \n7. Are there any values of x that satisfy multiple factor equations? \n8. How can we determine the total number of values of x for which the expression is undefined?"
+}

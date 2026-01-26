@@ -1,0 +1,7 @@
+{
+    "problem": "The length of the median to the hypotenuse of an isosceles, right triangle is $10$ units.  What is the length of a leg of the triangle, in units? Express your answer in simplest radical form.",
+    "level": "Level 4",
+    "type": "Geometry",
+    "solution": "The length of the median to the hypotenuse is half the length of the hypotenuse, so the hypotenuse is $10\\cdot2=20$ units long. Since the right triangle is isosceles, the length of a leg is $20/\\sqrt{2}=\\boxed{10\\sqrt{2}}$ units.",
+    "socratic_questions": "1. What is the definition of an isosceles, right triangle? \n2. How is the median of a triangle defined? \n3. What is the relationship between the median to the hypotenuse and the hypotenuse itself in an isosceles, right triangle? \n4. Given that the length of the median to the hypotenuse is 10 units, what does this tell us about the length of the hypotenuse? \n5. Can we determine the length of the remaining sides of the triangle based on this information? If so, how? \n6. How can we express the length of a leg in terms of the length of the hypotenuse? \n7. What is the formula for the length of a median in a right triangle in terms of the lengths of the sides? \n8. How do we simplify the expression for the length of the leg in simplest radical form? \n9. Can you explain why the length of the leg is expressed as $10\\sqrt{2}$?"
+}

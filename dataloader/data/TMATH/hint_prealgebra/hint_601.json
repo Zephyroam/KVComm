@@ -1,0 +1,7 @@
+{
+    "problem": "How many two-digit positive integers have at least one 7 as a digit?",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "There are 10 two-digit numbers with a 7 as their 10's digit, and 9 two-digit numbers with 7 as their units digit. Because 77 satisfies both of these properties, the answer is $10+9-1 = \\boxed{18}$.",
+    "socratic_questions": "1. What does it mean for a two-digit number to have at least one 7 as a digit?\n2. Can you identify any patterns or characteristics of two-digit numbers with at least one 7 as a digit?\n3. How many two-digit numbers have a 7 as the tens digit? Can you list them?\n4. How many two-digit numbers have a 7 as the units digit? Can you list them?\n5. Are there any two-digit numbers that have both a 7 as the tens digit and a 7 as the units digit? If so, how many?\n6. How do we count the unique two-digit numbers with at least one 7 as a digit? What mathematical operation(s) can we use?\n7. Can you explain the reasoning behind the formula $10+9-1$ used to calculate the answer?\n8. Are there any other cases where we can use a similar approach to count the number of two-digit numbers with specific digit properties?\n9. How can we apply this concept to solving other types of counting problems involving digits?"
+}

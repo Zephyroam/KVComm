@@ -1,0 +1,7 @@
+{
+    "problem": "Find $\\tan \\left( -\\frac{3 \\pi}{4} \\right).$",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "Converting to degrees,\n\\[-\\frac{3 \\pi}{4} = \\frac{180^\\circ}{\\pi} \\cdot \\left( -\\frac{3 \\pi}{4} \\right) = -135^\\circ.\\]Since the tangent function has period $180^\\circ,$ $\\tan (-135^\\circ) = \\tan (-135^\\circ + 180^\\circ) = \\tan 45^\\circ = \\boxed{1}.$",
+    "socratic_questions": "1. What is the definition of the tangent function?\n2. How does the tangent function relate to the sine and cosine functions?\n3. Can you determine the reference angle for an angle of -135 degrees?\n4. How does the value of the tangent function change for angles in the third quadrant?\n5. Can you express -135 degrees in terms of a positive angle within the unit circle?\n6. What is the value of the tangent function for an angle of 45 degrees?\n7. How does the value of the tangent function justify your solution for $\\tan \\left( -\\frac{3 \\pi}{4} \\right)$ as 1?"
+}

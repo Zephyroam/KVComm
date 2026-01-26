@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $3 \\begin{pmatrix} 2 \\\\ -8 \\end{pmatrix} - 2 \\begin{pmatrix} 1 \\\\ -7 \\end{pmatrix}$.",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "We see that\n\\[3 \\begin{pmatrix} 2 \\\\ -8 \\end{pmatrix} - 2 \\begin{pmatrix} 1 \\\\ -7 \\end{pmatrix} = \\begin{pmatrix} 6 \\\\ -24 \\end{pmatrix} - \\begin{pmatrix} 2 \\\\ -14 \\end{pmatrix} = \\boxed{\\begin{pmatrix} 4 \\\\ -10 \\end{pmatrix}}.\\]",
+    "socratic_questions": "1. What is the operation being performed in the given expression?\n2. What does it mean to multiply a scalar by a vector?\n3. Can you explain why we multiply each component of the vector by the scalar in this case?\n4. Can you demonstrate how you would carry out the scalar multiplication (3 times the vector and 2 times the vector separately)?\n5. How would you combine the resultant vectors obtained from step 4?\n6. Can you describe what property or rule of vector addition is used in combining the resultant vectors?\n7. What do you notice about the components of the final result vector?\n8. Can you generalize the process to compute scalar multiplication for any given vectors?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "In triangle $ABC$, $AB = 16$, $AC = 24$, $BC = 19$, and $AD$ is an angle bisector.  Find the ratio of the area of triangle $ABD$ to the area of triangle $ACD$.  (Express your answer as a fraction in lowest terms.)",
+    "level": "Level 4",
+    "type": "Geometry",
+    "solution": "The ratio of the area of triangle $ABD$ to the area of triangle $ACD$ is $BD/CD$.  By the angle bisector theorem, $BD/CD = AB/AC = 16/24 = \\boxed{\\frac{2}{3}}$.",
+    "socratic_questions": "1. What is the angle bisector theorem in geometry and how does it relate to the given problem?\n2. Can you explain how the length ratios of the sides of triangle $ABC$ are related to the ratios of the areas of triangles $ABD$ and $ACD$?\n3. What information do we need to determine the lengths $BD$ and $CD$?\n4. How can we use the angle bisector theorem to find the ratio $BD/CD$?\n5. What would be the ratio of the lengths $BD/CD$ if triangle $ABC$ was an isosceles triangle?\n6. Can you think of any other geometric theorems or concepts that could help us find the ratio of the areas in this problem?\n7. How can we ensure that the ratio of the areas is expressed in lowest terms?\n8. Can you extend this problem to explore the relationship between the angle bisector and the areas of other triangles?"
+}

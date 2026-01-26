@@ -1,0 +1,7 @@
+{
+    "problem": "If $\\det \\mathbf{A} = 5,$ then find $\\det (\\mathbf{A^3}).$",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "We have that $\\det (\\mathbf{A}^3) = (\\det \\mathbf{A})^3 = \\boxed{125}.$",
+    "socratic_questions": "1. What is the definition of the determinant of a matrix? \n2. How does raising a matrix to the power of 3 affect its determinant? \n3. Can you explain why the determinant of A raised to the power of 3 is the cube of the determinant of A? \n4. If the determinant of A is 5, what value does this give us for the determinant of A^3? \n5. Can you provide an example to illustrate the property of determinants when it comes to raising a matrix to a power? \n6. Are there any other properties or rules related to determinants that could be useful in solving similar problems?"
+}

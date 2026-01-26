@@ -1,0 +1,7 @@
+{
+    "problem": "Let $a,$ $b,$ and $t$ be real numbers such that $a + b = t.$  Find, in terms of $t,$ the minimum value of $a^2 + b^2.$",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "By QM-AM,\n\\[\\sqrt{\\frac{a^2 + b^2}{2}} \\ge \\frac{a + b}{2} = \\frac{t}{2}.\\]Then\n\\[\\frac{a^2 + b^2}{2} \\ge \\frac{t^2}{4},\\]so $a^2 + b^2 \\ge \\frac{t^2}{2}.$\n\nEquality occurs when $a = b = \\frac{t}{2},$ so the minimum value of $a^2 + b^2$ is $\\boxed{\\frac{t^2}{2}}.$",
+    "socratic_questions": "1. Can you explain the concept of QM-AM and how it is used in this problem?\n2. How does the QM-AM inequality help in finding the minimum value of $a^2 + b^2$?\n3. Can you explain the steps taken to derive the inequality $\\frac{a^2 + b^2}{2} \\ge \\frac{t^2}{4}$?\n4. How is the minimum value of $a^2 + b^2$ determined from the derived inequality?\n5. Can you explain the conditions for equality in the QM-AM inequality and how they are applied in this problem?\n6. Are there any alternative methods that could be used to find the minimum value of $a^2 + b^2$? How do they compare to the QM-AM method?\n7. Can you think of any other mathematical problems where the QM-AM inequality could be applied?"
+}

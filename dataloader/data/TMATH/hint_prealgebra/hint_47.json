@@ -1,0 +1,7 @@
+{
+    "problem": "In the diagram, $l\\|k$. What is the number of degrees in $\\angle SRQ$? [asy]\ndraw((-.4,-.4)--(2,2)--(2,-.4));\ndraw((-.5,0)--(3,0),Arrows);\ndraw((-.5,1)--(3,1),Arrows);\ndraw((1.9,0)--(1.9,.1)--(2,.1));\nlabel(\"$S$\",(1,1),NNW);\nlabel(\"$R$\",(2,2),N);\nlabel(\"$Q$\",(2,1),NE);\nlabel(\"$l$\",(3,1),E);\nlabel(\"$k$\",(3,0),E);\nlabel(\"$130^{\\circ}$\",(1,1),SSE);\n[/asy]",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Since line $RQ$ is perpendicular to line $k$, and $l\\parallel k$, line $RQ$ is perpendicular to $l$ as well.  Therefore, $\\angle RQS = 90^\\circ$.  We also have $\\angle RSQ = 180^\\circ - 130^\\circ = 50^\\circ$.  The angles of $\\triangle RSQ$ add to $180^\\circ$, so $\\angle SRQ = 180^\\circ - \\angle RSQ - \\angle RQS = 180^\\circ - 50^\\circ - 90^\\circ = \\boxed{40^\\circ}$.",
+    "socratic_questions": "1. What is the relationship between lines $l$ and $k$?\n2. How does the fact that line $RQ$ is perpendicular to line $k$ affect the angle $\\angle SRQ$?\n3. If line $RQ$ is perpendicular to both lines $l$ and $k$, what can we conclude about angle $\\angle RQS$?\n4. How can we determine the measure of angle $\\angle RSQ$?\n  a. What is the measure of angle $\\angle QSR$?\n  b. What do we know about the angles in a triangle?\n5. How can we use the information about angles $\\angle RQS$ and $\\angle RSQ$ to find the measure of angle $\\angle SRQ$?\n6. Can you think of any other scenarios where lines intersect and we can use similar reasoning to find angle measurements?"
+}

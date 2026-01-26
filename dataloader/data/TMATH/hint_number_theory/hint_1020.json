@@ -1,0 +1,7 @@
+{
+    "problem": "Suppose $a$ is an integer such that $0 \\le a \\le 14$, and $235935623_{74}-a$ is a multiple of $15$. What is $a$?",
+    "level": "Level 5",
+    "type": "Number Theory",
+    "solution": "Note that $235935623_{74}=3+2(74)+6(74)^2+5(74)^3+3(74)^4+9(74)^5+5(74)^6$ $+3(74)^7+2(74)^8$. But $74 \\equiv -1 \\mod{15}$, so this is just $3-2+6-5+3-9+5-3+2=0 \\mod{15}$, so $a=\\boxed{0}$.",
+    "socratic_questions": "1. What is the given problem asking you to find?\n2. How is the number $235935623_{74}$ expressed in base 10? \n3. What is the significance of $a$ being between 0 and 14?\n4. What does it mean for a number to be a multiple of 15?\n5. How does the fact that $74 \\equiv -1 \\mod{15}$ help simplify the expression of $235935623_{74}$ in base 10?\n6. Can you explain why the sum of the base 10 digits of $235935623_{74}$ is congruent to 0 mod 15? \n7. Why is $a=\\boxed{0}$ the only possible value for this problem? \n8. Can this method of converting between different bases be applied to other problems in number theory?"
+}

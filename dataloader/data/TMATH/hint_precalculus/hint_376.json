@@ -1,0 +1,7 @@
+{
+    "problem": "Convert $\\sqrt{2} e^{11 \\pi i/4}$ to rectangular form.",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "We have that $\\sqrt{2} e^{11 \\pi i/4} = \\sqrt{2} \\cos \\frac{11 \\pi}{4} + i \\sqrt{2} \\sin \\frac{11 \\pi}{4} = \\boxed{-1 + i}$.",
+    "socratic_questions": "1. What is the given expression in polar form?\n2. How can we convert a complex number in polar form to rectangular form?\n3. What is the cosine and sine of $11 \\pi/4$?\n4. What is the formula for converting a complex number in polar form to rectangular form?\n5. Can you show the step-by-step process of converting $\\sqrt{2} e^{11 \\pi i/4}$ to rectangular form?\n6. Are there any other methods to convert a complex number from polar form to rectangular form?\n7. Can you explain the significance of the argument and modulus in polar form of a complex number?"
+}

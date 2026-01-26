@@ -1,0 +1,7 @@
+{
+    "problem": "Let $A$ be the product of the divisors of $42$. How many distinct prime factors does $A$ have?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "The divisors of 42 are 1, 2, 3, 6, 7, 14, 21, and 42. They can be paired off into four pairs in such a way that the product of each pair is 42:  \\begin{align*}\n\\{1&,42\\}, \\\\\n\\{2&, 21\\},\\\\\n\\{3&, 14\\}, \\text{and}\\\\\n\\{6&, 7\\}.\n\\end{align*}Thus $A=42^4=(2\\cdot3\\cdot7)^4=2^4\\cdot3^4\\cdot7^4$ has $\\boxed{3}$ prime divisors.",
+    "socratic_questions": "1. What is the question asking for? Can you rephrase the problem in your own words?\n2. How can we calculate the product of divisors of 42?\n3. What are the divisors of 42? Can you list them?\n4. How can we pair the divisors of 42 to find four pairs with a product of 42?\n5. Can you express $A$, the product of the divisors, using prime factorization? What is the prime factorization of 42?\n6. How many distinct prime factors does $A$ contain? Can you determine the number of prime factors based on the prime factorization of 42?\n7. Can you explain why the product of divisors has a prime factorization different from 42?\n8. Are there any other numbers or problems that you can think of where pairing divisors and finding their product might lead to a similar approach or thought process?"
+}

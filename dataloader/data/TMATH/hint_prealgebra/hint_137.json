@@ -1,0 +1,7 @@
+{
+    "problem": "What is the greatest common factor of 30, 90 and 75?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "We factor the numbers: \\[30=2\\cdot3\\cdot5, \\quad 90=2\\cdot3^2\\cdot5, \\quad 75=3\\cdot5^2.\\]  Taking the highest factor that occurs in all of the numbers, we have that the GCF is $3\\cdot5=\\boxed{15}$.",
+    "socratic_questions": "1. Can you describe the first step in finding the GCF of these numbers?\n2. Are there any common factors that you notice immediately between these numbers?\n3. How can we determine if a number is a factor of another number? Can we test this for the given numbers?\n4. After factoring each number, what factors do you observe? Are there any similarities or differences?\n5. Why do we choose the highest factor that occurs in all of the numbers to be the GCF?\n6. How can we use prime factorization to find the GCF in this case?\n7. Can you think of any other numbers that might have a similar process for finding the GCF using prime factorization?\n8. What role does multiplication play in finding the GCF of these numbers?\n9. Is there a limit to how many numbers we can find the GCF for? Does the same process apply for larger sets of numbers?\n10. How does finding the GCF help us in simplifying fractions?"
+}

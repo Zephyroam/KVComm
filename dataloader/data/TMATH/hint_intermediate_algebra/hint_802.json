@@ -1,0 +1,7 @@
+{
+    "problem": "Is the function $f(x) = \\lfloor x \\rfloor + \\frac{1}{2}$ even, odd, or neither?\n\nEnter \"odd\", \"even\", or \"neither\".",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "Since $f \\left( \\frac{1}{2} \\right) = \\left\\lfloor \\frac{1}{2} \\right\\rfloor + \\frac{1}{2} = \\frac{1}{2}$ and $f \\left( -\\frac{1}{2} \\right) = \\left\\lfloor -\\frac{1}{2} \\right\\rfloor + \\frac{1}{2} = -\\frac{1}{2},$ so if $f$ is either even or odd, it must be odd.\n\nBut $f(0) = \\lfloor 0 \\rfloor + \\frac{1}{2}.$  Every odd function $f(x)$ satisfies $f(0) = 0,$ so $f(x)$ is $\\boxed{\\text{neither}}.$",
+    "socratic_questions": "1. Can you explain what the function $f(x) = \\lfloor x \\rfloor + \\frac{1}{2}$ means? \n2. What is the domain and range of $f(x)$? \n3. Let's consider $f(x)$ for some integer values of $x$, such as $x=1$ and $x=-2$. What are the corresponding values of $f(x)$? \n4. Is $f(x)$ an even function, odd function, or neither? \n5. How did you determine the symmetry of $f(x)$? \n6. What is the significance of the value $f(0)$ for determining whether $f(x)$ is even, odd, or neither? \n7. Can you provide an example of an odd function? An even function? \n8. Based on your understanding of even and odd functions, is it possible for a function to be both even and odd? \n9. Why is $f(x)$ neither even nor odd?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "An assortment of 200 pencils is sold through a catalog for $\\$19.90$. Shipping is an additional $\\$6.95$. Including the charges for both the pencils and the shipping, what is the average cost, in cents, for each pencil? Express your answer rounded to the nearest whole number.",
+    "level": "Level 5",
+    "type": "Prealgebra",
+    "solution": "The average cost per pencil is equal to the total cost divided by the number of pencils. The total cost is $19.90+6.95=26.85$ dollars, or 2685 cents, and there are 200 pencils. Thus, the average cost is $\\frac{2685}{200}\\approx\\boxed{13}$ cents.",
+    "socratic_questions": "1. Can you define the term \"average cost per pencil\"? \n2. What is the formula for finding the average cost per pencil? \n3. What is the total cost of the pencils and shipping combined? \n4. How many pencils are included in the assortment? \n5. Using the formula, can you calculate the average cost per pencil? \n6. Why is it important to express the answer as a whole number rounded to the nearest cent? \n7. Can you think of other scenarios where finding the average cost per item could be useful? \n8. How does the inclusion of shipping charges affect the average cost per pencil?"
+}

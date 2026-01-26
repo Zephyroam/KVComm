@@ -1,0 +1,7 @@
+{
+    "problem": "What is the remainder when $2007$ is divided by $81$?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "Dividing using long division, we find that $2007=81\\cdot24 + 63$, so the remainder is $\\boxed{63}$.",
+    "socratic_questions": "1. Can you explain the concept of remainders and how they relate to division?\n2. How does long division work and what steps are involved in using it to solve this problem?\n3. Are there any shortcuts or tricks that can be used to solve this problem without using long division?\n4. How does the value of the divisor affect the remainder in this problem?\n5. Can you think of other examples where finding remainders is important or useful in mathematics?\n6. How might knowing the remainder in this problem help in solving related problems involving division and remainders?"
+}

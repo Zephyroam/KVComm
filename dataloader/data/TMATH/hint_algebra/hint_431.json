@@ -1,0 +1,7 @@
+{
+    "problem": "If $x \\cdot (x+y) = x^2 + 8$, what is the value of $xy$?",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "Distributing the $x$ on the left-hand side gives $x^2 + xy = x^2 + 8$. Thus, $xy = \\boxed{8}$.",
+    "socratic_questions": "1. Can you explain what the equation states and what needs to be determined?\n2. How would you begin simplifying the equation to find the value of $xy$?\n3. What are the possible approaches or methods you can use to solve the equation?\n4. If we expand and simplify the left side of the equation, what would it look like? Is there anything we can simplify further?\n5. What can you deduce from comparing the simplified left side of the equation with the right side?\n6. Can you think of any values for $x$ and $y$ that simultaneously satisfy the equation $x \\cdot (x+y) = x^2 + 8$? What can you conclude from this?\n7. What would happen if $x = 0$ or $y = 0$? How would these values affect the equation and the value of $xy$?\n8. Are there any restrictions on the values of $x$ and $y$? If so, what are they and how do they impact the problem?\n9. Can you think of any other equations or scenarios where a similar approach can be used to find the value of a specific expression or variable?\n10. How does understanding this problem help you grasp the concept of algebraic equations better?"
+}

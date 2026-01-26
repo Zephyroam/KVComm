@@ -1,0 +1,7 @@
+{
+    "problem": "Write $4.3+3.88$ as a decimal.",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "We can perform this addition concisely in columns, though we have to \"carry\" a digit to the leftmost column because $3+8=11,$ which is greater than $10:$ \\[\n\\begin{array}{@{}c@{\\;}c@{}c@{}c@{}c}\n& 1 & & \\\\\n& 4. & 3 & \\\\\n+ & 3. & 8 & 8\n\\\\ \\cline{1-4}\n& 8. & 1 & 8 \\\\\n\\end{array}\n\\] The answer is $\\boxed{8.18}$.",
+    "socratic_questions": "1. How can we express $4.3 + 3.88$ as a decimal?\n2. What is the significance of \"carrying\" a digit to the leftmost column in this addition?\n3. Can you explain the process of adding the numbers in columns step by step?\n4. Why do we need to \"carry\" a digit in this addition? What happens if we don't?\n5. Can you think of any other examples where we would need to \"carry\" a digit in addition?\n6. How would you verify that the decimal representation we obtained is indeed correct for $4.3 + 3.88$? Are there any checks or methods we can use?"
+}

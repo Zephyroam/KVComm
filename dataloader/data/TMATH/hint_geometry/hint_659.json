@@ -1,0 +1,7 @@
+{
+    "problem": "Parallelogram $ABCD$ with $A(2,5)$, $B(4,9)$, $C(6,5)$, and $D(4,1)$ is reflected across the $x$-axis to $A'B'C'D'$ and then $A'B'C'D'$ is reflected across the line $y=x+1$ to $A''B''C''D''$. This is done such that $D'$ is the image of $D$, and $D''$ is the image of $D'$. What is the ordered pair of $D''$ in the coordinate plane?",
+    "level": "Level 5",
+    "type": "Geometry",
+    "solution": "Reflecting a point across the $x$-axis multiplies its $y$-coordinate by $-1$.  Therefore, $D'=(4,-1)$.  To reflect $D'$ across the line $y=x+1$, we first translate both the line and the point down one unit so that the equation of the translated line is $y=x$ and the coordinates of the translated point are $(4,-2)$.  To reflect across $y=x$, we switch the $x$-coordinate and $y$-coordinate to obtain $(-2,4)$.  Translating this point one unit up, we find that $D''=\\boxed{(-2,5)}$.",
+    "socratic_questions": "1. Can you describe what a parallelogram is? \n2. How do we find the coordinates of a point on the coordinate plane? \n3. How do we reflect a point across the $x$-axis? \n4. What is the equation of the line $y=x+1$ and how do we translate it to $y=x$? \n5. Can you explain the process of reflecting a point across a line? \n6. How do we apply the process of reflection to the parallelogram $ABCD$ to find $D''$? \n7. Can you check your method for finding $D''$ to ensure it is correct? \n8. How does understanding reflections and translations relate to the larger concept of geometry?"
+}

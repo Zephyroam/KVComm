@@ -1,0 +1,7 @@
+{
+    "problem": "Suppose we flip four coins simultaneously: a penny, a nickel, a dime, and a quarter.  What is the probability that at least 15 cents worth of coins come up heads?",
+    "level": "Level 5",
+    "type": "Counting & Probability",
+    "solution": "There are $2^4=16$ possible outcomes, since each of the 4 coins can land 2 different ways (heads or tails). If the quarter is heads, there are 8 possibilities, since each of the other three coins may come up heads or tails.  If the quarter is tails, then the nickel and dime must be heads, so there are 2 possibilities, since the penny can be heads or tails.  So there are $8+2 = 10$ successful outcomes, and the probability of success is $\\dfrac{10}{16} = \\boxed{\\dfrac{5}{8}}$.",
+    "socratic_questions": "1. What is the problem we are trying to solve?\n2. How many possible outcomes are there when flipping four coins simultaneously?\n3. If we want to calculate the probability of getting at least 15 cents worth of coins coming up heads, what are the successful outcomes?\n4. What is the difference between a successful outcome and an unsuccessful outcome in this scenario?\n5. How do we calculate the probability of success in this scenario?\n6. Is the probability of success higher or lower than 50%? Why?\n7. Can we change the problem to calculate the probability of getting exactly 15 cents worth of coins coming up heads? How would the approach change?"
+}

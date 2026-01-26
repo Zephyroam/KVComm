@@ -1,0 +1,7 @@
+{
+    "problem": "A super ball is dropped from 100 feet and rebounds half the distance it falls each time it bounces. How many feet will the ball have traveled when it hits the ground the fourth time?",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "The ball traveled $100+50+25+12.5 = 187.5$ feet on its four descents. The ball also traveled $50+25+12.5 = 87.5$ feet on its three ascents. Thus, the ball traveled $187.5+87.5 = \\boxed{275}$ feet total.",
+    "socratic_questions": "1. Can you describe the initial step in solving this problem? What information do you think we need to start?\n2. How would you approach finding the distance traveled by the ball on its first bounce? What formula or concept might be applicable here?\n3. If the ball rebounds half the distance it falls each time, what can we say about the distance it travels on the second bounce? Can you derive a relationship or formula for it?\n4. Based on the pattern we identified, how would you determine the distance traveled on the third bounce? Can we generalize this pattern to find the distance on any bounce?\n5. What observations or patterns can you identify in the distances covered by the ball on each bounce? Can you express this in a mathematical equation or sequence?\n6. Given that the question asks for the distance traveled when the ball hits the ground for the fourth time, what can we infer about the heights of the bounces? How would you use this information to find the total distance traveled?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "In how many ways can a president and a 2-person committee be chosen from a group of 8 people (where the order in which we choose the 2 people doesn't matter)?  (The president cannot be on the committee.)",
+    "level": "Level 5",
+    "type": "Prealgebra",
+    "solution": "We have to first choose a president, and then we have to choose 2 people, but the order in which we choose the people doesn't matter. So first there are 8 ways to choose the president. Then there are 7 ways to choose the first person, and 6 ways to choose second person.  However, we have overcounted, since choosing person A first and person B second will give us the same committee as choosing person B first and person A second.  Each committee is counted twice in our original $7 \\times 6$ count, so we must divide by 2 to correct for this overcount, giving us $8\\times(7 \\times 6)/2 = \\boxed{168}$ ways to choose a president and a 2-person committee from 8 people.",
+    "socratic_questions": "1. Can you describe the first step in solving this problem?\n2. How many ways can we choose a president from a group of 8 people?\n3. After selecting the president, how many choices do we have for the first person on the committee?\n4. What about the second person on the committee? How many choices are there?\n5. Why do we need to divide by 2 at the end? What does this correct for?\n6. Can you think of any other scenarios where we might need to adjust for overcounting in a similar way?\n7. What is the final answer to the problem?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Express as a common fraction: $0.\\overline5+0.\\overline1-0.\\overline3$",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "In general, to express the number $0.\\overline{n}$ as a fraction, we call it $x$ and subtract it from $10x$: $$\\begin{array}{r r c r@{}l}\n&10x &=& n&.nnnnn\\ldots \\\\\n- &x &=& 0&.nnnnn\\ldots \\\\\n\\hline\n&9x &=& n &\n\\end{array}$$ This shows that $0.\\overline{n} = \\frac{n}{9}$.\n\nHence, our original problem reduces to computing $\\frac 59 + \\frac 19 - \\frac 39 = \\frac 39 = \\boxed{\\frac 13}$.",
+    "socratic_questions": "1. What is the general method for expressing a repeating decimal as a fraction?\n2. How can we apply this method to the given expression: $0.\\overline{5} + 0.\\overline{1} - 0.\\overline{3}$?\n3. What is the value of $0.\\overline{5}$ in fraction form?\n4. What is the value of $0.\\overline{1}$ in fraction form?\n5. What is the value of $0.\\overline{3}$ in fraction form?\n6. How can we simplify the expression $\\frac{5}{9} + \\frac{1}{9} - \\frac{3}{9}$?\n7. What is the final result of expressing $0.\\overline{5} + 0.\\overline{1} - 0.\\overline{3}$ as a common fraction?"
+}

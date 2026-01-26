@@ -1,0 +1,7 @@
+{
+    "problem": "Find the average value of $0$, $2z$, $4z$, $8z$, and $16z$.",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "To find the mean of these $5$ values, we must add them and then divide by $5$.  Thus we get that the answer is $\\frac{0+2z+4z+8z+16z}{5}=\\frac{30z}{5} = \\boxed{6z}$.",
+    "socratic_questions": "1. Why do we need to find the average value of these numbers?\n2. Can you explain step by step how we can find the mean of these values?\n3. What is the sum of the numbers 0, 2z, 4z, 8z, and 16z?\n4. Why do we divide the sum of these numbers by 5 to find the average?\n5. Can you simplify the expression $\\frac{30z}{5}$?\n6. How did you come up with the final answer of 6z for the average value? Can you justify your answer?"
+}

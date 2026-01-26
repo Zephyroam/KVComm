@@ -1,0 +1,7 @@
+{
+    "problem": "A round pizza is $\\frac13$ of an inch thick and has a diameter of 12 inches. It is cut into 12 congruent pieces. What is the number of cubic inches in the volume of one piece? Express your answer in terms of $\\pi$.",
+    "level": "Level 3",
+    "type": "Geometry",
+    "solution": "The entire pizza has radius 6 inches and volume $\\pi (6^2)(1/3) = 12\\pi$ cubic inches.  One slice has 1/12th this volume, or $\\boxed{\\pi}$ cubic inches.",
+    "socratic_questions": "1. Can you describe the first step to find the volume of one slice of the pizza?\n2. How would you calculate the volume of the entire pizza?\n3. What does it mean for the pizza to be cut into congruent pieces?\n4. What is the formula for the volume of a cone?\n5. How can we express the volume of one slice in terms of \u03c0?\n6. Can you explain why one slice has 1/12th the volume of the whole pizza?\n7. Can you think of any other scenarios where we might need to find the volume of a slice or part of a whole object?"
+}

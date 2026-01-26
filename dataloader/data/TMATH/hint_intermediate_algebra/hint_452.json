@@ -1,0 +1,7 @@
+{
+    "problem": "Calculate the product $\\left(\\frac{3}{6}\\right)\\left(\\frac{6}{9}\\right)\\left(\\frac{9}{12}\\right)\\cdots\\left(\\frac{2001}{2004}\\right)$. Express your answer as a common fraction.",
+    "level": "Level 1",
+    "type": "Intermediate Algebra",
+    "solution": "First, we can reduce each fraction, to get\n\\[\\frac{1}{2} \\cdot \\frac{2}{3} \\cdot \\frac{3}{4} \\dotsm \\frac{667}{668}.\\]This simplifies to $\\boxed{\\frac{1}{668}}.$",
+    "socratic_questions": "1. What is the first step we should take to solve this problem?\n2. Can we simplify the fractions in the product? If so, how?\n3. How can we simplify the product so that we only deal with integers?\n4. What is the pattern we observe in the numerators and denominators of the fractions?\n5. How can we use this pattern to simplify the product?\n6. Do we need to worry about the sign of the product? Why or why not?\n7. Can you think of any other problems where we might need to simplify a product of fractions in a similar way?"
+}

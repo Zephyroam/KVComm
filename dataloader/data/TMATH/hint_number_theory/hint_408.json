@@ -1,0 +1,7 @@
+{
+    "problem": "Find the integer $n$, $0 \\le n \\le 9$, that satisfies \\[n \\equiv -2187 \\pmod{10}.\\]",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "Since $-2187 \\equiv 3 \\pmod{10}$, the integer $n$ we seek is $n = \\boxed{3}$.",
+    "socratic_questions": "1. What is the definition of \"mod\" in number theory?\n2. How does the statement \"n \u2261 -2187 (mod 10)\" relate to the concept of modular arithmetic?\n3. What does the notation \"\u2261\" mean in modular arithmetic?\n4. Can you give an example of another problem where modular arithmetic can be applied?\n5. How would you solve this problem if the mod were a different number besides 10?\n6. How does the fact that the solution must be an integer within the range of 0 to 9 affect the solution process in this problem?\n7. What is the significance of finding the integer solution in this problem?"
+}

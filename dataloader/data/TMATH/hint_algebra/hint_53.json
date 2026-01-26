@@ -1,0 +1,7 @@
+{
+    "problem": "The teacher asks Bill to calculate $a-b-c$, but Bill mistakenly calculates $a-(b-c)$ and gets an answer of 11. If the correct answer was 3, what is the value of $a-b$?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "Instead of calculating $a - b - c$, Bill calculated $a - b + c$.  Therefore, the value of $a - b$ is simply the average of the two, making for $\\frac{11+3}{2} = \\boxed{7}$.",
+    "socratic_questions": "1. Can you identify the operation required to calculate $a-b-c$?\n2. How would you differentiate between the two calculations, $a-(b-c)$ and $(a-b)-c$?\n3. What could be the possible reasons for Bill's mistake in his calculation?\n4. How does Bill's incorrect answer of 11 relate to the correct answer of 3?\n5. Given that $a-(b-c)$ is equal to 11, can you express this equation using $a-b$ instead of $a-(b-c)$?\n6. Based on the information provided, can you determine the value of $a-b$? If so, what is it?"
+}

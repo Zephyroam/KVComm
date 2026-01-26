@@ -1,0 +1,7 @@
+{
+    "problem": "Jenna collects stamps.  She puts the same number of stamps on each page and then inserts each page into one of her two stamp books.  One of her stamp books has a total of 840 stamps.  The other has 1008.  What is the largest number of stamps that Jenna could be putting on each page?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "The number of stamps Jenna puts on each page must divide the number of stamps she puts into each book, so the largest possible number of stamps she puts on each page is gcd$(840, 1008) = \\boxed{168}$.",
+    "socratic_questions": "1. Can you explain what is meant by \"gcd$(840, 1008)$\"? \n2. How do we know that the number of stamps Jenna puts on each page must divide the number of stamps she puts into each book? \n3. Why is finding the greatest common divisor important in solving this problem? \n4. Can you think of any other situations where finding the greatest common divisor might be useful in solving a problem? \n5. Is it possible for Jenna to put more than 168 stamps on each page and still satisfy the conditions given in the problem? Why or why not? \n6. If Jenna had 3 stamp books instead of 2, how would that change the problem?"
+}

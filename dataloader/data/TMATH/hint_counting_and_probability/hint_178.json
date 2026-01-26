@@ -1,0 +1,7 @@
+{
+    "problem": "Compute without using a calculator: $9!/8!$",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "${9!}/{8!} = \\dfrac{9 \\times 8 \\times 7 \\times 6 \\times \\cdots \\times 1}{8 \\times 7 \\times 6 \\times \\cdots \\times 1} = \\boxed{9}$.",
+    "socratic_questions": "1. How would you describe the given expression in words?\n2. What does the notation \"!\" represent in this context?\n3. Can you simplify the expression further? If so, how?\n4. How does the factorial function work? Can you explain it?\n5. What happens when we cancel out the common terms in the numerator and denominator?\n6. Can you identify any patterns or relationships in the expression that might simplify the calculation?\n7. What does the simplified expression $9$ represent in the context of the problem?"
+}

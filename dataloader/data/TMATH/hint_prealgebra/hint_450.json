@@ -1,0 +1,7 @@
+{
+    "problem": "Simplify: $\\sqrt{50} + \\sqrt{18}$ . Express your answer in simplest radical form.",
+    "level": "Level 5",
+    "type": "Prealgebra",
+    "solution": "Prime factorizing 50, we find that $\\sqrt{50}=\\sqrt{2\\cdot5^2}=\\sqrt{2}\\sqrt{5^2}=5\\sqrt{2}$.  Similarly, $\\sqrt{18}=\\sqrt{2}\\sqrt{9}=3\\sqrt{2}$.  Five square roots of 2 plus 3 square roots of 2 is $\\boxed{8\\sqrt{2}}$.",
+    "socratic_questions": "1. What is the first step in simplifying $\\sqrt{50} + \\sqrt{18}$? \n2. How can prime factorization be used to simplify radical expressions? \n3. Can we simplify $\\sqrt{50}$ and $\\sqrt{18}$ further? If so, how? \n4. How do we add two radical expressions with different radicands? \n5. What is the simplified form of $\\sqrt{50} + \\sqrt{18}$? \n6. Can we simplify the result further? If not, why? \n7. Can you think of another example where prime factorization can be used to simplify a radical expression?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "How many numbers are in the following list: $$-4, -1, 2, 5,\\ldots, 32$$",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Note that the numbers increase by 3 each time.  Hence we increase by 3 a total of $\\frac{32 - (-4)}{3} = 12$ times.  But then there must be $12 + 1 = \\boxed{13}$ numbers, since we need to also include the first number on the list.",
+    "socratic_questions": "1. Can you identify the pattern in the given list of numbers?\n2. What is the common difference between each number in the list?\n3. How can we determine the number of times the common difference is added to the first number in order to reach the last number?\n4. Can you calculate the total number of times the common difference is added to the first number?\n5. How should we adjust the total number of times to account for including the first number in the list?\n6. What is the number of numbers in the given list, based on your calculations?"
+}

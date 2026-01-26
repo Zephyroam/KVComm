@@ -1,0 +1,7 @@
+{
+    "problem": "Simplify the following expression in $x$: \\[2x+8x^2+9-(4-2x-8x^2).\\] Express your answer in the form $ax^2 +bx+c$, where $a$, $b$, and $c$ are numbers.",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "The given expression can be rewritten as $2x+8x^2+9-4+2x+8x^2$. Combining like terms, this last expression is equal to $(2x+2x)+(8x^2+8x^2)+(9-4)=\\boxed{16x^2+4x+5}$.",
+    "socratic_questions": "1. What is the first step to simplify this expression?\n2. Can you identify like terms in this expression? How would you combine them?\n3. What operation should be performed inside the parentheses?\n4. After simplifying inside the parentheses, what does the expression become?\n5. How do you combine the like terms in the expression now?\n6. What is the final form of the simplified expression in the given form $ax^2 + bx + c$?"
+}

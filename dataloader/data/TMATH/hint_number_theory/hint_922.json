@@ -1,0 +1,7 @@
+{
+    "problem": "What is the ones digit of $7^{35}$ when written as an integer?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "Let's find the cycle of ones digits of $7^n$, starting with $n=1$ : $7, 9, 3, 1, 7, 9, 3, 1,\\ldots$ . The cycle of ones digits of $7^{n}$ is 4 digits long: 7, 9, 3, 1. Thus, to find the ones digit of $7^n$ for any positive $n$, we must find the remainder, $R$, when $n$ is divided by 4 ($R=1$ corresponds to the ones digit 7, $R=2$ corresponds to the ones digit 9, etc.) Since $35\\div4=8R3$, the ones digit of $7^{35}$ is $\\boxed{3}$.",
+    "socratic_questions": "1. Can you describe the pattern of ones digits for increasing powers of 7? What do you notice?\n2. How could you represent the cycle of ones digits using mathematical notation?\n3. Why does the cycle of ones digits repeat every 4 powers of 7? Can you explain the mathematical reasoning behind this pattern?\n4. How can you use the remainder when dividing 35 by 4 to determine the ones digit of $7^{35}$? What relationship does this have with the cycle of ones digits?\n5. What does $35 \\div 4$ equal? How does this help you find the remainder, and subsequently, the ones digit of $7^{35}$?\n6. Can you think of any other numbers or scenarios where finding the ones digit involves a similar pattern or method of thinking?"
+}

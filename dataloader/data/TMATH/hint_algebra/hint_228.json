@@ -1,0 +1,7 @@
+{
+    "problem": "If $a+b = 6$ and $a - b = 2$, what is the value of $a^2 - b^2$?",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "Notice that $(a+b) \\cdot (a-b) = a^2 + ab - ab - b^2$, which simplifies to $a^2 - b^2$. Substitute $6$ for $a+b$ and $2$ for $a-b$ to find that $a^2 - b^2 = 6 \\cdot 2 = \\boxed{12}$.",
+    "socratic_questions": "1. What is the first step you would take in solving this problem?\n2. Can you think of any other methods that could be used to solve this problem, apart from the given equations?\n3. If you were to use the method of substitution, how would you proceed in finding the values of \"a\" and \"b\"?\n4. Why is it possible to use the method of substitution in this problem? What characteristics of the equations make it suitable?\n5. Once you find the values of \"a\" and \"b,\" how would you calculate the value of $a^2 - b^2$?\n6. Can you think of any other similar problems that could be solved using similar thinking and steps?"
+}

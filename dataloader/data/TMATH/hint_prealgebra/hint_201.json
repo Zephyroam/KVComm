@@ -1,0 +1,7 @@
+{
+    "problem": "If only one quarter of the earth's surface is not covered by bodies of water, and only one half of that exposed land area is inhabitable for humans (because of poles, deserts, etc.), what fraction of the earth's surface can humans live on?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "One half of one quarter of the earth is $\\frac{1}{2}\\times\\frac{1}{4}=\\boxed{\\frac{1}{8}}$.",
+    "socratic_questions": "1. What is the given information about the earth's surface and bodies of water?\n2. How can we calculate the fraction of the earth's surface that is not covered by bodies of water?\n3. How can we find the fraction of the exposed land area that is habitable for humans?\n4. How do we calculate the fraction of the earth's surface that humans can live on?\n5. Can you simplify the fraction obtained in the previous question? If so, what is the simplified fraction?\n6. Are there any assumptions made in this calculation? If so, what are they and how might they affect the accuracy of the result?\n7. Can you think of any other factors or conditions that could affect the fraction of the earth's surface habitable for humans?\n8. Is there any additional information needed to accurately determine the fraction of the earth's surface humans can live on?"
+}

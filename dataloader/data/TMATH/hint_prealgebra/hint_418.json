@@ -1,0 +1,7 @@
+{
+    "problem": "Find the product of the greatest common divisor and the least common multiple of $18$ and $42.$",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "First we find the prime factorization of each number: $$18=2\\times 9=2\\times 3\\times 3=2\\times 3^2$$ and $$42=2\\times 21=2\\times 3\\times 7.$$ The common factors are $2$ and $3,$ so $\\gcd(18,42) = 2\\times 3=6.$\n\nThe least common multiple is formed by multiplying together the highest powers of all primes occurring in the factorization of either $18$ or $42:$ $$\\text{lcm}(18,42) = 2\\times 3^2\\times 7 = 2\\times 9\\times 7 = 2\\times 63 = 126.$$ Thus, the product of the $\\gcd$ and the $\\text{lcm}$ is $6\\times 126=\\boxed{756}.$\n\n(You can check that this product is equal to the product of the original two numbers, $18$ and $42$. Is that just a coincidence?)",
+    "socratic_questions": "1. What is the greatest common divisor (GCD) of 18 and 42?\n2. Can you determine the prime factorizations of 18 and 42?\n3. What are the common prime factors between 18 and 42?\n4. How can we compute the least common multiple (LCM) using the prime factorizations?\n5. What is the LCM of 18 and 42?\n6. How do we find the product of the GCD and the LCM?\n7. What is the product of the GCD and the LCM of 18 and 42?\n8. Can you verify if the product of the GCD and the LCM is equal to the product of the original numbers, 18 and 42? Is this just a coincidence?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "The decimal expansion of $8/11$ is a repeating decimal. What is the least number of digits in a repeating block of 8/11?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "Multiply numerator and denominator of 8/11 by 9 to get 72/99.  The decimal form of 72/99 is $0.\\overline{72}$, and it has a repeating block of length $\\boxed{2}$.",
+    "socratic_questions": "1. Can you define what a repeating decimal is? How is it different from a terminating decimal?\n2. What methods or strategies can we use to convert a fraction into a decimal representation?\n3. Why would multiplying the numerator and denominator of 8/11 by 9 be a helpful step in converting it to a decimal?\n4. How did we determine that the decimal form of 72/99 is $0.\\overline{72}$?\n5. What is the significance of the repeating block in a decimal representation?\n6. How can we determine the least number of digits in the repeating block of 8/11?\n7. Can you think of any other fractions where a similar approach could be used to find the repeating block length in their decimal representation?"
+}

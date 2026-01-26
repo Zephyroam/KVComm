@@ -1,0 +1,7 @@
+{
+    "problem": "What is the remainder when 369,963 is divided by 6?",
+    "level": "Level 1",
+    "type": "Number Theory",
+    "solution": "If a number is divisible by 6, it must be divisible by 2 and 3. Clearly, 369,963 is not divisible by 2. However, it is divisible by 3. Thus, the remainder after dividing by 6 is an odd, non-negative multiple of 3 that is less than 6. The only number such number is $\\boxed{3}$.",
+    "socratic_questions": "1. Can you explain what it means for a number to be divisible by 6?\n2. Why is it important to determine if a number is divisible by 2 and 3 in order to know if it is divisible by 6?\n3. How can we check if a number is divisible by 2 or 3?\n4. Is 369,963 divisible by 2? If not, why?\n5. Is 369,963 divisible by 3? If so, what is the result of the division?\n6. If a number is divisible by 6, what can we say about the remainder when dividing by 6?\n7. Can you explain why the remainder after dividing 369,963 by 6 must be an odd, non-negative multiple of 3?\n8. What are the possible remainders when dividing by 6?\n9. Given the above information, what is the remainder when 369,963 is divided by 6?"
+}

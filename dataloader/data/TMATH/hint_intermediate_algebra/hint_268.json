@@ -1,0 +1,7 @@
+{
+    "problem": "Let $a,$ $b,$ $c,$ $d,$ $e,$ $f,$ $g,$ and $h$ be real numbers such that $abcd = 4$ and $efgh = 9.$  Find the minimum value of\n\\[(ae)^2 + (bf)^2 + (cg)^2 + (dh)^2.\\]",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "By AM-GM,\n\\begin{align*}\n(ae)^2 + (bf)^2 + (cg)^2 + (dh)^2 &\\ge 4 \\sqrt[4]{(ae)^2 (bf)^2 (cg)^2 (dh)^2} \\\\\n&= 4 \\sqrt[4]{(abcdefgh)^2} \\\\\n&= 24.\n\\end{align*}Equality occurs when $(ae)^2 = (bf)^2 = (cg)^2 = (dh)^2,$ $abcd = 4,$ and $efgh = 9.$  For example, we can take $a = b = c = d = \\sqrt{2}$ and $e = f = g = h = \\sqrt{3}.$  Hence, the minimum value is $\\boxed{24}.$",
+    "socratic_questions": "1. What is the given information in the problem?\n2. How can we represent the expression $(ae)^2 + (bf)^2 + (cg)^2 + (dh)^2$ using the given variables?\n3. Are there any restrictions or relationships between the variables based on the given conditions?\n4. What strategy can we use to find the minimum value of the expression?\n5. Why did we choose to use the AM-GM inequality?\n6. How does the AM-GM inequality help us simplify and find the minimum value?\n7. Can you explain the steps involved in using the AM-GM inequality in this problem?\n8. What values of the variables would make the expression minimum?\n9. How can we determine whether these values satisfy the given conditions of $abcd = 4$ and $efgh = 9$?\n10. What is the minimum value of the expression and how did we find it?\n11. Can you think of any other similar problems where the same reasoning and steps might be useful?"
+}

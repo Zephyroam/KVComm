@@ -1,0 +1,7 @@
+{
+    "problem": "What is the tenth positive integer that is both odd and a multiple of 3?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "The first odd multiple of 3 is 3. The next is 9, then 15, 21, adding 6 each time. The $n$th odd multiple of 3 is $6n-3$; the 10th odd multiple of 3 is therefore $60-3=\\boxed{57}$.",
+    "socratic_questions": "1. What is the definition of an odd number?\n2. What is the definition of a multiple of 3?\n3. Can you list the first few odd multiples of 3 and the pattern you notice in their values?\n4. Can you write an algebraic expression for the $n$th odd multiple of 3?\n5. What is the 10th odd multiple of 3 using the expression you derived earlier?\n6. Can you explain why the 10th odd multiple of 3 is also an odd number?\n7. Can you explain why the 10th odd multiple of 3 is also a multiple of 3?\n8. How does the concept of odd multiples of 3 relate to the solution of the given problem?\n9. Can you think of any other problem involving odd multiples of 3, and how would you approach it?"
+}

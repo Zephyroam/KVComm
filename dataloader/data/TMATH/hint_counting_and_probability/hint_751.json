@@ -1,0 +1,7 @@
+{
+    "problem": "A fair 6-sided die is rolled once. If I roll $n$, then I win $6-n$ dollars. What is the expected value of my win, in dollars?",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "Each number from 1 to 6 has probability $\\dfrac{1}{6}$ of being rolled, so the expected value is \\begin{align*}\n\\frac{1}{6}(6-1)&+\\frac{1}{6}(6-2)+\\frac{1}{6}(6-3)+\\frac{1}{6}(6-4)+\\frac{1}{6}(6-5)+\\frac{1}{6}(6-6) \\\\\n&= \\frac{1}{6}(5+4+3+2+1+0)=\\frac{15}{6}\\\\\n&=\\$\\boxed{2.50}.\n\\end{align*}",
+    "socratic_questions": "1. What is the context of this problem? What are the given variables and what is the goal of the problem?\n2. How many sides does the die have? What is the probability of each number being rolled?\n3. How is the win amount for each roll of the die calculated? Can you provide an example calculation for one roll?\n4. What is the definition of expected value? How is it calculated in this problem?\n5. Can you explain why the expected value is a useful concept in this problem? \n6. Are there any other methods to calculate the expected value? How would they compare to the method used in this problem? \n7. If the win amount for each roll was modified, how would that affect the expected value? Can you provide an example scenario? \n8. How would you modify this problem - for example, changing the number of sides on the die or the win amount - to create a similar but slightly different problem? How would the solution approach differ in that case?"
+}

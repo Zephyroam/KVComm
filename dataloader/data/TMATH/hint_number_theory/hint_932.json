@@ -1,0 +1,7 @@
+{
+    "problem": "What is the smallest positive integer $n$ such that $531n \\equiv 1067n \\pmod{24}?$",
+    "level": "Level 5",
+    "type": "Number Theory",
+    "solution": "Recall that, by definition,  $531n \\equiv 1067n \\pmod{24}$ means that $531n-1067n$ is divisible by 24. In other words,  $$\\frac{1067n-531n}{24} = \\frac{536n}{24}=\\frac{67n}{3}$$must be an integer. Since $67$ and $3$ are relatively prime, $n$ must be a multiple of $3$, the smallest of which is $\\boxed{3}$.",
+    "socratic_questions": "1. Can you explain what is meant by $531n \\equiv 1067n \\pmod{24}$ in Number Theory?\n2. What is the definition of being \"divisible by\" in general? How does the definition apply to the current problem?\n3. How can we simplify the expression $531n-1067n$ to make it easier to work with?\n4. To find the smallest positive integer $n$ that satisfies the equation, what property do we need to use about the prime factorizations of $67$ and $3$?\n5. Why is it necessary for $n$ to be a multiple of $3$ in order to satisfy the given congruence?\n6. Could there be other integers that satisfy this congruence? How can we prove that the value of $n$ we found is the smallest one?"
+}

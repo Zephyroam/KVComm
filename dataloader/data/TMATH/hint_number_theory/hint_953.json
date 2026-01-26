@@ -1,0 +1,7 @@
+{
+    "problem": "Let $a_n = \\frac{10^n-1}{9}$. Define $d_n$ to be the greatest common divisor of $a_n$ and $a_{n+1}$. What is the maximum possible value that $d_n$ can take on?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "From the Euclidean Algorithm,\n\\[\n\\gcd(a_{n}, a_{n+1}) = \\gcd(a_n, a_{n+1} - 10a_n).\n\\]We compute $a_{n+1} - 10a_n = \\frac{10^{n+1}-1}{9} - \\frac{10^{n+1}-10}{9} = 1$. Therefore, $a_{n+1}$ and $a_n$ share no common factors and $d_n$ is always $\\boxed{1}$.",
+    "socratic_questions": "1. Can you explain the definition of $a_n$ in your own words? What does it represent and how is it calculated?\n2. According to the Euclidean Algorithm, how can we calculate $d_n$, the greatest common divisor of $a_n$ and $a_{n+1}$?\n3. Using the definition of $a_n$, can you simplify the expression $a_{n+1} - 10a_n$ and explain why it equals 1?\n4. What does it mean when $a_{n+1}$ and $a_n$ have no common factors? How does this relate to the value of $d_n$?\n5. Can you provide an example of $a_n$ and $a_{n+1}$ for a specific value of $n$ and calculate their greatest common divisor? Does the result align with our previous observations?\n6. Are there any other properties or characteristics of the $a_n$ sequence that could help explain why $d_n$ is always equal to 1?"
+}

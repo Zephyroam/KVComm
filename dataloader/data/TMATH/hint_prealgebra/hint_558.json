@@ -1,0 +1,7 @@
+{
+    "problem": "If $a$ is the smallest positive two-digit multiple of $3$, and $b$ is the smallest positive three-digit multiple of $4$, then find $a+b$.",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Dividing 10 by 3 gives a quotient of 3 and a remainder of 1. Therefore, $3 \\cdot 3$ is the largest one-digit multiple of 3, and $3 \\cdot 4$ is the least positive two-digit multiple of 3. This calculation shows that $a=12$.\n\nDividing 100 by 4 gives a quotient of 25 and no remainder. Therefore, $4 \\cdot 25$ is the least positive three-digit multiple of 4, and $b=100$.\n\nCombining these results gives $a+b = 12+100 = \\boxed{112}$.",
+    "socratic_questions": "1. What is the value of $a$ if it is the smallest positive two-digit multiple of 3?\n2. How did you find the value of $a$? Can you explain the steps involved?\n3. Why is $3 \\cdot 4$ the least positive two-digit multiple of 3? Can you explain the reasoning behind it?\n4. What is the value of $b$ if it is the smallest positive three-digit multiple of 4?\n5. How did you find the value of $b$? Can you explain the steps involved?\n6. Why is $4 \\cdot 25$ the least positive three-digit multiple of 4? Can you explain the reasoning behind it?\n7. What is the sum of $a$ and $b$? Can you show the calculation involved?\n8. Can you generalize the method used to find $a$ and $b$ to find the smallest positive multiples of different numbers? How would you adjust the method?"
+}

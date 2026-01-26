@@ -1,0 +1,7 @@
+{
+    "problem": "Each pack of hot dogs contains 10 hot dogs (no buns), but each pack of hot dog buns contains 8 buns.  Phil buys a number of these packs for a barbecue.  After the barbecue, Phil finds that he has 4 hot dogs left over.  What is the SECOND smallest number of packs of hot dogs he could have bought?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "Let $n$ be the number of packs of hot dogs that Phil bought.  Then $10n \\equiv 4 \\pmod{8}$, which reduces to $2n \\equiv 4 \\pmod{8}$.  This congruence tells us that $2n = 8k + 4$ for some integer $k$, or $n = 4k + 2$.  The second smallest positive integer of this form is $\\boxed{6}$.",
+    "socratic_questions": "1. What is the problem asking us to solve?\n2. How many hot dogs come in each pack? How many buns come in each pack?\n3. What information do we have about the number of hot dogs and buns that Phil bought?\n4. How can we use modular arithmetic to represent the information we have about the hot dogs and buns?\n5. What is the congruence we get from using modular arithmetic to represent the information we have?\n6. How can we solve the congruence to find the value of n?\n7. What is the meaning of the solution for n in the context of the problem?\n8. Why do we need to find the second smallest value of n?\n9. How can we check that the solution we found is correct?\n10. Can this method of using modular arithmetic be applied to other similar problems involving ratios and remainders?"
+}

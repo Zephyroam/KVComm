@@ -1,0 +1,7 @@
+{
+    "problem": "To take quizzes, each of 30 students in a class is paired with another student. If the pairing is done randomly, what is the probability that Margo is paired with her best friend, Irma? Express your answer as a common fraction.",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "Among the 29 equally likely possibilities for Margo's partner, Irma is one of them.  Therefore, the probability that Margo's partner is Irma is $\\boxed{\\frac{1}{29}}$.",
+    "socratic_questions": "1. What is the definition of probability?\n2. What does it mean to say that the pairing of students is done randomly?\n3. How many total possibilities are there for who Margo could be paired with?\n4. Why is it mentioned that there are 29 equally likely possibilities for Margo's partner?\n5. In how many of the total possibilities is Margo paired with her best friend, Irma?\n6. What is the relationship between the number of favorable outcomes and the number of total outcomes in calculating probability?\n7. How do we express the probability of an event as a fraction?\n8. Can you simplify the fraction expression for the probability of Margo being paired with Irma?\n9. Is the probability of Margo being paired with Irma a high or low probability? Can you provide any reasoning to support your answer?\n10. If the pairing was not done randomly, how might that affect the probability of Margo being paired with Irma?"
+}

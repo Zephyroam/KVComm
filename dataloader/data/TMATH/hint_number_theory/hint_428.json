@@ -1,0 +1,7 @@
+{
+    "problem": "When the two-digit integer $MM$, with equal digits, is multiplied by the one-digit integer $M$, the result is the three-digit integer $NPM$. What is the greatest possible value of $NPM$?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "$M=1$, $5$, or $6$ since no other digits have the property that the units digit of $M\\times M$ is $M$. Therefore, the greatest possible value of $MM\\times M=NPM$ is $66\\times6=\\boxed{396}$.",
+    "socratic_questions": "1. Can you explain what is happening in this problem? \n2. Why do we have to consider two-digit numbers with equal digits multiplied by a one-digit number? \n3. How can we determine the value of the three-digit number NPM? \n4. Why is it mentioned that M can only be 1, 5, or 6? What is the significance of the units digit of M \u00d7 M? \n5. How do we find the greatest possible value of NPM in this problem? \n6. What is the reasoning behind multiplying 66 by 6 to obtain the greatest possible value?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Find $\\log_{10} 40 +\\log_{10} 25$.",
+    "level": "Level 1",
+    "type": "Intermediate Algebra",
+    "solution": "Using $\\log x+\\log y=\\log xy,$ we get that $\\log_{10} 40+\\log_{10} 25=\\log_{10}(40\\cdot 25)=\\log 1000.$ That means we want $x$ where $10^x=1000,$ which means $x=3.$ Therefore, $\\log_{10} 40+\\log_{10} 25=\\boxed{3}.$",
+    "socratic_questions": "1. Can you describe the first step in solving this problem using the given logarithm property $\\log x+\\log y=\\log xy$?\n2. What does it mean when we rewrite $\\log_{10} 40+\\log_{10} 25$ as $\\log_{10}(40\\cdot 25)$? How does this help us simplify the expression?\n3. How can we rewrite $40 \\cdot 25$ as a power of 10? What does that tell us about the value of $\\log_{10}(40\\cdot 25)$?\n4. What value of $x$ satisfies the equation $10^x = 1000$? How does this value relate to the expression $\\log_{10} 40+\\log_{10} 25$?\n5. Can you explain why the expression $\\log_{10} 40+\\log_{10} 25$ simplifies to $\\log_{10}(40 \\cdot 25) = \\log 1000$?\n6. What does $\\log 1000$ equal? How does this final value relate to the original expression $\\log_{10} 40+\\log_{10} 25$?"
+}

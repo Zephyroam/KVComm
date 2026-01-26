@@ -1,0 +1,7 @@
+{
+    "problem": "What is the sum of the whole-number factors of 24?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "The sum of the whole-number factors of 24 is $1+24+2+12+3+8+4+6=\\boxed{60}$.",
+    "socratic_questions": "1. Can you define what we mean by \"whole-number factors\"?\n2. Can you list all of the factors of 24?\n3. How can you determine which of these factors are whole numbers?\n4. How can you find the sum of these whole-number factors?\n5. Are there any patterns or shortcuts you can use to make this calculation easier?\n6. Can you think of any other numbers for which you could use this same process to find the sum of the whole-number factors?"
+}

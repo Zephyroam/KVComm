@@ -1,0 +1,7 @@
+{
+    "problem": "What is the least common multiple of 14 and 21?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "$14=2\\cdot7$ and $21=3\\cdot7$, so the LCM of 14 and 21 is $2\\cdot3\\cdot7=\\boxed{42}$.",
+    "socratic_questions": "1. Can you explain what is meant by \"least common multiple\"?\n2. How can we find the prime factorization of each number? \n3. How can we use the prime factorization to identify the shared factors between 14 and 21? \n4. How can we identify the greatest shared factor between 14 and 21? \n5. How can we use this greatest shared factor to find the LCM? \n6. Can you apply this method to find the LCM of other pairs of numbers? \n7. How does finding the LCM help us in solving problems related to fractions or ratios?"
+}

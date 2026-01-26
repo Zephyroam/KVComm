@@ -1,0 +1,7 @@
+{
+    "problem": "If $A\\ \\clubsuit\\ B$ is defined as $A\\ \\clubsuit\\ B = 3A + 2B + 5$, what is the value of $A$ for which $A\\ \\clubsuit\\ 4 = 58$?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "From the definition of $A\\; \\clubsuit \\;B$, we can rewrite the equation as:\n\n\\begin{align*}\nA\\;\\clubsuit \\;4=3A+2(4)+5&=58\\\\\n\\Rightarrow\\qquad 3A+13&=58\\\\\n\\Rightarrow\\qquad 3A&=45\\\\\n\\Rightarrow\\qquad A&=15\n\\end{align*}The final value of $A$ is $\\boxed{15}$.",
+    "socratic_questions": "1. Can you explain the meaning of the notation \"$A\\ \\clubsuit\\ B = 3A + 2B + 5$\" in your own words?\n2. How would you solve the equation \"$A\\ \\clubsuit\\ 4 = 58$\" to find the value of $A$? What is your first step?\n3. Are there any alternative methods you could use to solve this equation? If so, what are they?\n4. If you choose to solve it by substitution, how would you set up the equation? What would be your substitution?\n5. Why does the given equation use the \"$\\clubsuit$\" notation instead of the usual equal sign? What does this emphasize or represent?\n6. How would you isolate the variable $A$ in the equation \"$3A + 2B + 5 = 58$\" in order to solve for its value? What steps would you take?\n7. Can you explain what the value of $A$ represents in the context of this problem?\n8. Are there any other equations or scenarios where you could apply similar thinking and steps to find a solution?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "How many prime numbers are between 20 and 30?",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "Checking the primes 2, 3, and 5 as potential divisors, we see that there are $\\boxed{2}$ prime numbers between 20 and 30: 23 and 29.",
+    "socratic_questions": "1. What is a prime number, and how is it related to divisibility?\n2. Can you list all the prime numbers less than or equal to 30?\n3. How can we determine whether a number is prime or composite?\n4. What are the potential divisors we need to check when determining the primality of a number?\n5. How do we use checking primes such as 2, 3, and 5 to find all the prime numbers between 20 and 30?\n6. Are there any other methods we can use to find prime numbers in a given range?\n7. Can you think of any real-world applications for prime numbers, or situations where knowing the primes in a given range might be useful?"
+}

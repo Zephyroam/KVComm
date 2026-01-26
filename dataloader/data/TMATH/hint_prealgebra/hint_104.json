@@ -1,0 +1,7 @@
+{
+    "problem": "What is $\\left(\\frac{7}{8}\\right)^3 \\cdot \\left(\\frac{7}{8}\\right)^{-3}$?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "By definition, if $a$ is nonzero, then $a^{-3}$ is the reciprocal of $a^3$.  So, $\\left(\\frac78\\right)^3$ and $\\left(\\frac78\\right)^{-3}$ are reciprocals.  Therefore, their product is $\\boxed{1}$.",
+    "socratic_questions": "1. According to the definition, what is the reciprocal of $\\left(\\frac{7}{8}\\right)^3$?\n2. How does the reciprocal of $\\left(\\frac{7}{8}\\right)^3$ relate to $\\left(\\frac{7}{8}\\right)^{-3}$?\n3. What do we know about the product of reciprocals?\n4. Can you simplify the calculation $\\left(\\frac{7}{8}\\right)^3 \\cdot \\left(\\frac{7}{8}\\right)^{-3}$ based on the information we have so far?\n5. What is the final result of $\\left(\\frac{7}{8}\\right)^3 \\cdot \\left(\\frac{7}{8}\\right)^{-3}$?"
+}

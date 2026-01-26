@@ -1,0 +1,7 @@
+{
+    "problem": "What is the greatest product obtainable from two integers whose sum is 1998?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "Let the two integers be $x$ and $1998-x$. The product which needs to be maximized is $1998x-x^2$. Completing the square results in $-(x-999)^2+999^2$. Since $-(x-999)^2\\le 0$, the expression is maximized when $x=999$, which results in a value of $999^2=\\boxed{998001}$.",
+    "socratic_questions": "1. Can you rephrase the problem in your own words? \n2. What is the relationship between the product of two integers and their sum? \n3. Can you think of any strategies that might help us find the greatest product? \n4. How would you go about finding two integers whose sum is 1998? \n5. What would happen to the product if the sum of the two integers is increased or decreased? \n6. Can you recall any similar problems we have solved before? How did we approach them? \n7. How would you verify that the product you find is indeed the greatest possible? \n8. Can you think of any extensions or variations of this problem that could further challenge your thinking? \n9. How does this problem relate to any real-life situations or applications you can think of? \n10. How does exploring this problem help develop your critical thinking skills and mathematical reasoning?"
+}

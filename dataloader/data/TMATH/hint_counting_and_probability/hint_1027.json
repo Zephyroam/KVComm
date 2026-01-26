@@ -1,0 +1,7 @@
+{
+    "problem": "How many 9 step paths are there from $E$ to $G$ which pass through $F$?[asy]size(4cm,4cm);int w=6;int h=5;int i;pen p=fontsize(9);for (i=0; i<h; ++i){draw((0,i) -- (w-1,i));}for (i=0; i<w; ++i){draw((i, 0)--(i,h-1));}label(\"G\", (w-1,0), SE, p);label(\"E\", (0,h-1), NW, p);label(\"F\", (3,3), NE, p);[/asy]",
+    "level": "Level 4",
+    "type": "Counting & Probability",
+    "solution": "From $E$ to $F$, it is 3 steps to the right and 1 step down, for a total of $\\dbinom{4}{1} = \\dfrac{4}{1} = 4$ different paths.  From $F$ to $G$, it is 2 steps to the right and 3 steps down, for a total of $\\dbinom{5}{2} = \\dfrac{5 \\times 4}{2 \\times 1} = 10$ different paths.  So there are $4 \\times 10 = \\boxed{40}$ paths from $E$ to $G$ that pass through $F$.",
+    "socratic_questions": "1. What is the problem asking us to find? \n2. How many steps are there from $E$ to $F$? How many steps are there from $F$ to $G$? \n3. How many different paths are there from $E$ to $F$? How did you arrive at this answer? \n4. How many different paths are there from $F$ to $G$? How did you arrive at this answer? \n5. How can you combine the number of paths from $E$ to $F$ and from $F$ to $G$ to get the total number of paths from $E$ to $G$ that pass through $F$? \n6. Can you think of a general formula to calculate the number of paths from one point to another on an $n \\times m$ grid? \n7. What if we were asked to find the number of paths from $E$ to $G$ that do not pass through $F$? How could we approach this problem?"
+}

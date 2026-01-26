@@ -1,0 +1,7 @@
+{
+    "problem": "The product of a number $M$ and six less than $M$ is $-5$. What is the sum of all possible values of $M$?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "Converting the given information to equational form, we find $M(M-6) = -5$.  Rearranging, $M^2 - 6M + 5 = 0$.  Using Vieta's equations for sum and product of roots, we find that the sum of the solutions to this equations is $-(-6) = \\boxed{6}$.",
+    "socratic_questions": "1. Can you rewrite the problem in algebraic notation, using an appropriate variable to represent the unknown number?\n2. What does it mean for the product of a number and six less than that number to be negative five? Can you express it as an equation?\n3. How can we represent \"six less than $M$\" mathematically? What expression would you write for it?\n4. How would you write the equation representing the given problem using algebraic notation and the expression for \"six less than $M$\"?\n5. What are the possible values of $M$ that satisfy the equation? How would you find them?\n6. Can you solve the equation to find the individual values of $M$? What steps would you take to do so?\n7. What does it mean when we're asked to find the sum of all possible values of $M$? How can we find that sum using the solutions we found earlier?\n8. Can you generalize this problem to other similar scenarios? Are there any patterns or observations you can make that might help in solving related equations?"
+}

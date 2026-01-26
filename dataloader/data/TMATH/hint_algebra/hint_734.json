@@ -1,0 +1,7 @@
+{
+    "problem": "If $g(x) = x^2$ and $f(x) = 2x - 1$, what is the value of $f(g(2))$?",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "\\[\nf(g(2))=f\\left(2^2\\right)=f(4)=2\\cdot4-1=\\boxed{7}\n\\]",
+    "socratic_questions": "1. What does the notation $f(g(2))$ represent in this context? \n2. How can we find the value of $g(2)$? What does this yield?\n3. How can we find the value of $f(g(2))$ using the given functions? \n4. Can we simplify the expression $f(g(2))$ by applying the function $f(x)$ to the result of $g(2)$? If so, what does that give us?\n5. Can we further simplify the expression $f(g(2))$ by substituting the value of $g(2)$ into the function $f(x)$? \n6. What is the final value of $f(g(2))$ after evaluating the expression using the given functions?"
+}

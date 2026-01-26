@@ -1,0 +1,7 @@
+{
+    "problem": "What is the value of $9^3 + 3(9^2) + 3(9) + 1$?",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "The given expression is the expansion of $(9+1)^3$.  In general, the cube of $(x+y)^3$ is \\[(x+y)^3=1x^3+3x^2y+3xy^2+1y^3.\\]   The first and last terms in the given expression are cubes and the middle two terms both have coefficient 3, giving us a clue that this is a cube of a binomial and can be written in the form \\[(x+y)^3\\]In this case, $x=9$ and $y=1$, so our answer is\\[(9+1)^3\\ = 10^3 = \\boxed{1000}\\]",
+    "socratic_questions": "1. What is the given expression equal to?\n2. Can you identify any patterns or familiar forms in the given expression?\n3. What is the general formula for expanding $(x+y)^3$?\n4. How does the given expression relate to the formula for expanding $(x+y)^3$?\n5. How can the given expression be rewritten as $(x+y)^3$?\n6. What are the values of $x$ and $y$ in the rewritten expression?\n7. How can the rewritten expression be simplified further?\n8. What is the final value of the expression?"
+}

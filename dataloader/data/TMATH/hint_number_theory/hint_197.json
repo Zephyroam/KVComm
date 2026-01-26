@@ -1,0 +1,7 @@
+{
+    "problem": "The least common multiple of two integers is 36 and 6 is their greatest common divisor. What is the product of the two numbers?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "Let $a$ and $b$ be the two integers. We can use the identity $\\gcd(a,b) \\cdot \\mathop{\\text{lcm}}[a,b] = ab$. Substituting gives that the answer is $36 \\cdot 6 = \\boxed{216}$.",
+    "socratic_questions": "1. How can we find the least common multiple of two integers? \n2. How can we find the greatest common divisor of two integers? \n3. Can you explain why the product of the gcd and lcm of two integers equals the product of the two integers? \n4. What does it mean if the greatest common divisor of two integers is 6? \n5. Can you solve the equation $\\gcd(a,b) \\cdot \\text{lcm}[a,b] = ab$ for the given values? \n6. What is the product of the two numbers in this scenario?"
+}

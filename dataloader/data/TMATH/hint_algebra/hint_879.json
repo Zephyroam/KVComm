@@ -1,0 +1,7 @@
+{
+    "problem": "The expression $3y^2-y-24$ can be written as $(3y + a)(y + b),$ where $a$ and $b$ are integers. What is $a - b$?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "We see that $3y^2-y-24 = (3y + 8)(y - 3)$, thus $a = 8$ and $b = -3$. Hence, $a - b = \\boxed{11}.$",
+    "socratic_questions": "1. How can we factor the expression $3y^2 - y - 24$ using the given form $(3y + a)(y + b)$?\n2. What are the possible values for $a$ and $b$ that would result in the given expression when factored?\n3. How can we determine the value of $a$ and $b$ to satisfy the equation $(3y + a)(y + b) = 3y^2 - y - 24$?\n4. Can you think of a systematic approach to find the values of $a$ and $b$ that would allow us to factorize the given expression?\n5. If we find $a = 8$ and $b = -3$, does this satisfy the equation $(3y + 8)(y - 3) = 3y^2 - y - 24$?\n6. What is the difference between the values of $a$ and $b$ obtained from the factorization, and how does it relate to $a - b$?\n7. Can you think of any other similar expressions that could be factorized using a similar approach?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Find all $y \\in [0,\\pi]$ for which \\[\\sin(x+y)\\leq \\sin(x)+\\sin(y)\\]for every $x$ between $0$ and $\\pi$, inclusive.",
+    "level": "Level 3",
+    "type": "Precalculus",
+    "solution": "Since $0 \\le x,$ $y \\le \\pi,$ $\\sin x \\ge 0,$ $\\sin y \\ge 0,$ $\\cos x \\le 1,$ and $\\cos y \\le 1,$ so from the angle addition formula,\n\\[\\sin (x + y) = \\sin x \\cos y + \\cos x \\sin y \\le \\sin x + \\sin y.\\]Thus, the given condition holds for all $y \\in \\boxed{[0,\\pi]}.$",
+    "socratic_questions": "1. Can you describe the first step in solving this problem? What is the given condition and what are the variables involved?\n2. What are the possible values for $x$ and $y$ according to the given condition? \n3. Can you explain why $\\sin(x+y)$ can be written as $\\sin(x)\\cos(y) + \\cos(x)\\sin(y)$ using the angle addition formula? \n4. Why do we need $\\sin(x)\\cos(y) + \\cos(x)\\sin(y) \\le \\sin(x) + \\sin(y)$ to be true for every $x$ between $0$ and $\\pi$? What is the significance of this restriction? \n5. Can you think of any other trigonometric identities or properties that could be helpful in solving this problem? \n6. How can we determine the valid range of values for $y$ based on the given condition $\\sin(x+y) \\le \\sin(x) + \\sin(y)$? \n7. Are there any specific values of $y$ that don't satisfy the given condition? If so, can you explain why?"
+}

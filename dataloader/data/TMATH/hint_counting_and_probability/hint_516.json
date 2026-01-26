@@ -1,0 +1,7 @@
+{
+    "problem": "If $5! \\cdot 3! = n!$, what is the value of $n$?",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "This problem can be solved by the quick observation that $3! = 6$, and so $5! \\cdot 6 = 6!$. So $n=\\boxed{6}$.",
+    "socratic_questions": "1. What is the factorial notation and how is it used in this problem? \n2. How many ways are there to arrange 5 distinct objects in a row? \n3. How many ways are there to arrange 3 distinct objects in a row? \n4. What happens when you multiply these two numbers together? \n5. What is the definition of a factorial and how can it be applied to this problem? \n6. How can you simplify the expression $5! \\cdot 3!$? \n7. What is the value of $n$ in the equation $5! \\cdot 3! = n!$? \n8. How can you use algebraic manipulation to find the value of $n$? \n9. Can you think of other problems or situations where the concept of factorials and permutations can be applied? \n10. How does understanding factorials and permutations relate to probability?"
+}

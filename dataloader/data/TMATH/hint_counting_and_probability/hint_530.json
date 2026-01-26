@@ -1,0 +1,7 @@
+{
+    "problem": "8 people attend a party. During the party everyone shakes hands with everyone else. How many handshakes take place at the party?",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "We can choose 2 people to shake hands with each other out of a group of 8 people in $\\binom{8}{2} = \\boxed{28}$ ways.",
+    "socratic_questions": "1. How many people attended the party?\n2. Why do we need to find the number of handshakes that took place at the party?\n3. What does \"choosing 2 people to shake hands with each other\" mean in this context?\n4. Can you explain what the notation $\\binom{8}{2}$ represents?\n5. Why do we use this combination formula to calculate the number of handshakes?\n6. Can you explain how the formula $\\binom{8}{2}$ relates to counting the number of handshakes?\n7. What other scenarios or situations can you think of where we can use the combination formula to count or organize objects?"
+}

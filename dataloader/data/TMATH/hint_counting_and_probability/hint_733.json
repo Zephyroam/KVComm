@@ -1,0 +1,7 @@
+{
+    "problem": "8 coins are simultaneously flipped.  What is the probability that heads are showing on at most 2 of them?",
+    "level": "Level 5",
+    "type": "Counting & Probability",
+    "solution": "The number of ways for the outcome to have exactly 0, 1, or 2 heads are $\\binom{8}{0}=1$, $\\binom{8}{1}=8$, or $\\binom{8}{2}=28$, respectively.  There are $2^8$ total possible outcomes (2 possibilities for each coin, and 8 coins). So the answer is $\\dfrac{1+8+28}{2^8}=\\boxed{\\dfrac{37}{256}}$.",
+    "socratic_questions": "1. How would you define the terms \"probability\" and \"outcome\" in the context of this problem?\n2. What is the total number of possible outcomes when flipping 8 coins simultaneously? How did you arrive at this number?\n3. Why do we calculate the number of outcomes with 0, 1, and 2 heads separately? What significance do these counts hold?\n4. Can you explain why we use binomial coefficients (e.g., ${8 \\choose 0}$, ${8 \\choose 1}$, ${8 \\choose 2}$) to calculate the number of outcomes with 0, 1, and 2 heads, respectively?\n5. How does the concept of combinations relate to the calculation of these probabilities?\n6. What is the numerator in the fraction $\\frac{1+8+28}{2^8}$ and what does it represent in terms of the problem?\n7. What is the denominator in the fraction $\\frac{1+8+28}{2^8}$ and what does it represent in terms of the problem?\n8. How can you interpret the final fraction, $\\frac{37}{256}$, as the probability of having at most 2 heads on the flipped coins?"
+}

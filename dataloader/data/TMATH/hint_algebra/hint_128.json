@@ -1,0 +1,7 @@
+{
+    "problem": "Evaluate $99\\times 99$ in your head.",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "We could do the multiplication, but that would be tedious. Instead, note that $99\\times 99 = (100 - 1)^2 = 100^2 - 2\\cdot 1\\cdot 100 + 1 = 10000 - 200 + 1 = \\boxed{9801}$.",
+    "socratic_questions": "1. What strategies or concepts could you use to mentally evaluate the product of 99 multiplied by 99?\n2. How can you break down 99 to make the calculation easier?\n3. Can you think of any properties of multiplication that might make this calculation simpler?\n4. Is there any relationship between the given numbers (99) and any commonly known numbers that you can utilize?\n5. How can you organize the multiplication process to simplify the calculation mentally?\n6. Can you apply any mental arithmetic shortcuts or tricks to help you evaluate this product more efficiently?\n7. Can you explain why your mental calculation of 99 multiplied by 99 is accurate?\n8. Can you generalize your approach to mentally multiply other similar numbers?"
+}

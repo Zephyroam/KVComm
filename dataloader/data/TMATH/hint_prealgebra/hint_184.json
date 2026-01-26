@@ -1,0 +1,7 @@
+{
+    "problem": "What common fraction (that is, a fraction reduced to its lowest terms) is equivalent to $.3\\overline{25}$?",
+    "level": "Level 5",
+    "type": "Prealgebra",
+    "solution": "To express the number $0.3\\overline{25}$ as a fraction, we call it $x$ and subtract it from $100x$: $$\\begin{array}{r r c r@{}l}\n&100x &=& 32&.5252525\\ldots \\\\\n- &x &=& 0&.3252525\\ldots \\\\\n\\hline\n&99x &=& 32&.2\n\\end{array}$$ This shows that $0.3\\overline{25} = \\frac{32.2}{99} = \\frac{322}{990} = \\boxed{\\frac{161}{495}}$.\n\n(Note: This last fraction is in lowest terms, because $161=7\\cdot 23$ and $495 = 3^2\\cdot 5\\cdot 11$.)",
+    "socratic_questions": "1. What method did the mathematician use to express $0.3\\overline{25}$ as a fraction?\n2. How did they start by calling $0.3\\overline{25}$ as $x$ and subtracting it from $100x$?\n3. What does the value of $100x$ represent in this equation?\n4. What is the value of $x$ in the equation $100x = 32.5252525\\ldots$?\n5. What is the value of $x$ when subtracted from $100x$, resulting in $0.3252525\\ldots$?\n6. What does the equation $99x = 32.2$ represent in this context?\n7. How did the mathematician simplify the fraction $\\frac{322}{990}$ to its lowest terms?\n8. Can you explain why the fraction $\\frac{161}{495}$ is equivalent to $0.3\\overline{25}$?"
+}

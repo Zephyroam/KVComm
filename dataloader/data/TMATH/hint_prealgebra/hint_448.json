@@ -1,0 +1,7 @@
+{
+    "problem": "At Frank's Fruit Market, 3 bananas cost as much as 2 apples, and 6 apples cost as much as 4 oranges.  How many oranges cost as much as 18 bananas?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "Because 3 bananas cost as much as 2 apples, 18 bananas cost as much as 12 apples.  Because 6 apples cost as much as 4 oranges, 12 apples cost as much as 8 oranges. Therefore 18 bananas cost as much as $\\boxed{8}$ oranges.",
+    "socratic_questions": "1. Can you describe the given information about the costs of bananas, apples, and oranges at Frank's Fruit Market?\n2. How can we use the given information to find the number of oranges that cost as much as 18 bananas?\n3. What steps can we take to relate the costs of bananas, apples, and oranges in order to find the desired quantity?\n4. Based on the given information, how many apples would 18 bananas cost? \n5. How many oranges would the equivalent number of apples cost, according to the given information?\n6. Therefore, based on the calculations, how many oranges would cost as much as 18 bananas?"
+}

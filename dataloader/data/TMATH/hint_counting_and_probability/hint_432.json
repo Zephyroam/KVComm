@@ -1,0 +1,7 @@
+{
+    "problem": "I have a drawer with 4 shirts, 5 pairs of shorts, and 6 pairs of socks in it. If I reach in and randomly remove three articles of clothing, what is the probability that I get one shirt, one pair of shorts, and one pair of socks? (Treat pairs of socks as one article of clothing.)",
+    "level": "Level 4",
+    "type": "Counting & Probability",
+    "solution": "First, we can find the denominator of our fraction.  There are a total of $\\dbinom{15}{3}=455$ ways to choose 3 articles of clothing out of 15. To find the numerator, we need to count the number of ways to choose one piece of each type of clothing.  There are 4 ways we can choose a shirt, 5 ways we can choose a pair of shorts, and 6 ways we can choose a pair of socks, making a total of $4\\cdot 5 \\cdot 6=120$ ways to choose a shirt, pants, and socks so our final probability is $\\frac{120}{455}=\\boxed{\\frac{24}{91}}$.",
+    "socratic_questions": "1. Can you describe the problem statement in your own words?\n2. What is the denominator of the probability fraction and how did you find this value?\n3. How did you count the number of ways to choose one shirt, one pair of shorts, and one pair of socks?\n4. Can you explain why pairs of socks are treated as one article of clothing in this problem?\n5. What is the numerator of the probability fraction and how did you calculate this value?\n6. Can you simplify the probability fraction and express it as a reduced fraction?"
+}

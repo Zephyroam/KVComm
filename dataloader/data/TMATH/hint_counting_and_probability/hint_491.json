@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\dbinom{11}{9}$.",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "$\\dbinom{11}{9} = \\dfrac{11!}{9!2!}=\\dfrac{11\\times 10\\times 9 \\times 8 \\times 7 \\times 6 \\times 5 \\times 4 \\times 3}{9 \\times 8 \\times 7 \\times 6 \\times 5 \\times 4 \\times 3 \\times 2\\times 1}=\\boxed{55}.$",
+    "socratic_questions": "1. What does the notation $\\dbinom{11}{9}$ mean, and how is it read?\n2. How would you calculate $\\dbinom{11}{9}$ using the formula $\\dfrac{n!}{r!(n-r)!}$? \n3. Can you explain why the formula for $\\dbinom{n}{r}$ involves dividing $n!$ by $r!(n-r)!$? \n4. Are there any other ways to represent $\\dbinom{11}{9}$ mathematically?\n5. What is the relationship between $\\dbinom{11}{9}$ and the concept of \"choosing\" items from a set of 11 items, where 9 are chosen at a time?\n6. Can you think of a real-life scenario where the concept of $\\dbinom{11}{9}$ might be applied? \n7. How would $\\dbinom{11}{9}$ differ if we were choosing a different number of items from the set of 11? \n8. Is there a way to simplify $\\dbinom{11}{9}$ further, and if so, how? \n9. How could we verify our answer of 55 for $\\dbinom{11}{9}$? \n10. Are there any strategies for making calculations with binomial coefficients more efficient or easier?"
+}

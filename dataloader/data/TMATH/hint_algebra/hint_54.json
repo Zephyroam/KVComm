@@ -1,0 +1,7 @@
+{
+    "problem": "The bacteria in a lab dish double in number every four hours. If 500 bacteria cells are in the dish now, in how many hours will there be exactly 32,000 bacteria?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "32000 bacteria is $32000/500=64$ times the number currently in the lab dish. Since $64=2^6$, the bacteria had to double 6 times to reach this number. Since the bacteria double every four hours, it takes $4\\cdot6=\\boxed{24}$ hours.",
+    "socratic_questions": "1. Can you explain the concept of exponential growth in relation to the doubling of bacteria cells?\n2. How can we represent the number of bacteria cells at any given time using an algebraic equation or expression?\n3. What variables can we introduce to represent the time and the number of bacteria cells in the equation or expression?\n4. What would be the initial conditions or starting point in our equation or expression?\n5. How can we use the given information that the bacteria double every four hours to create an equation or expression that represents the growth of the bacteria cells?\n6. What steps can we take to solve the equation or expression and determine the number of hours it would take for the bacteria cells to reach 32,000?\n7. Can you think of any other real-life situations where exponential growth can be observed, and how can algebraic methods be used to model and solve those situations?\n8. How can we verify our solution and make sure it satisfies the given conditions?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "A professor is assigning grades to a class of 10 students. As a very kind professor, he only gives out A's, B's, and C's. How many ways can the professor assign grades to all his students?",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "For each student, the professor has 3 choices, so altogether, the professor has $3^{10} = \\boxed{59049}$ ways to assign the grades.",
+    "socratic_questions": "1. What are the possible grades that the professor can give out?\n2. How many students are in the class? Why is this important to consider?\n3. How many total combinations of grades are possible if the professor can assign any grade to any student?\n4. In how many ways can the professor give out only A's to the students?\n5. In how many ways can the professor give out only B's and C's to the students?\n6. How can we calculate the total number of ways the professor can assign grades to all 10 students if he only gives out A's, B's, and C's?\n7. Are there any other factors that we need to consider when calculating the total number of possible grade combinations?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "We have a cube with 4 blue faces and 2 red faces.  What's the probability that when it is rolled, a blue face will be facing up?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "We have 6 equally likely outcomes, corresponding to the 6 faces of the cube.  4 of those 6 outcomes are successful ones (meaning a blue face is facing up).  Therefore the probability is $\\frac{4}{6} = \\boxed{\\frac{2}{3}}$.",
+    "socratic_questions": "1. What is the definition of probability?\n2. How would you determine the total number of possible outcomes when rolling a cube?\n3. Why are all faces of the cube considered equally likely outcomes?\n4. How would you count the total number of successful outcomes in this scenario?\n5. Can you explain why there are only 4 successful outcomes (blue faces) out of the 6 total outcomes?\n6. What method can we use to calculate the probability in this case?\n7. By calculating the ratio of successful outcomes to total outcomes, can you determine the probability of a blue face being facing up?"
+}

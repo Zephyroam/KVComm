@@ -1,0 +1,7 @@
+{
+    "problem": "If $\\mathbf{A} = \\begin{pmatrix} a & b \\\\ c & d \\end{pmatrix},$ then its transpose is given by\n\\[\\mathbf{A}^T = \\begin{pmatrix} a & c \\\\ b & d \\end{pmatrix}.\\]Given that $\\mathbf{A}^T = \\mathbf{A}^{-1},$ find $a^2 + b^2 + c^2 + d^2.$",
+    "level": "Level 4",
+    "type": "Precalculus",
+    "solution": "From $\\mathbf{A}^T = \\mathbf{A}^{-1},$ $\\mathbf{A}^T \\mathbf{A} = \\mathbf{I}.$  Hence,\n\\[\\begin{pmatrix} a & b \\\\ c & d \\end{pmatrix} \\begin{pmatrix} a & c \\\\ b & d \\end{pmatrix} = \\begin{pmatrix} 1 & 0 \\\\ 0 & 1 \\end{pmatrix}.\\]Then $a^2 + b^2 = 1$ and $c^2 + d^2 = 1,$ so $a^2 + b^2 + c^2 + d^2 = \\boxed{2}.$",
+    "socratic_questions": "1. How do you define the transpose of a matrix?\n2. Can you explain what the inverse of a matrix is and how it relates to its transpose? \n3. What is the product of a matrix and its transpose? \n4. How can we use the product of a matrix and its transpose to find the inverse of the matrix? \n5. Given $\\mathbf{A}^T = \\mathbf{A}^{-1}$, what can we conclude about the entries of $\\mathbf{A}$?\n6. How can you use the information $\\mathbf{A}^T = \\mathbf{A}^{-1}$ to find $a^2 + b^2 + c^2 + d^2?$ \n7. What properties of the elements $a, b, c,$ and $d$ allow us to simplify the expression $a^2 + b^2 + c^2 + d^2$ in this scenario? \n8. Can you think of any other applications of matrix transposes and inverses in mathematics?"
+}

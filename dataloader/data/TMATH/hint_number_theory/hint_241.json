@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $2011 \\cdot 2012 \\cdot 2013 \\cdot 2014$ modulo 5.",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "Using the properties of modular arithmetic, $2011 \\cdot 2012 \\cdot 2013 \\cdot 2014 \\equiv 1 \\cdot 2 \\cdot 3 \\cdot 4$ modulo 5. Continuing, $1 \\cdot 2 \\cdot 3 \\cdot 4 \\equiv 4$ modulo 5, so $2011 \\cdot 2012 \\cdot 2013 \\cdot 2014 \\equiv \\boxed{4}$ modulo 5.",
+    "socratic_questions": "1. Can you explain what it means to compute a number modulo 5?\n2. What properties of modular arithmetic can we use to simplify the expression $2011 \\cdot 2012 \\cdot 2013 \\cdot 2014$?\n3. How can we apply these properties to rewrite the expression in a simpler form?\n4. What can we say about the product $1 \\cdot 2 \\cdot 3 \\cdot 4$ modulo 5?\n5. Can you explain why the product $1 \\cdot 2 \\cdot 3 \\cdot 4$ is equivalent to 4 modulo 5?\n6. Can you think of other examples where similar steps and reasoning can be applied to compute a product modulo a number?\n7. Finally, what is the value of $2011 \\cdot 2012 \\cdot 2013 \\cdot 2014$ modulo 5 based on our calculations?"
+}

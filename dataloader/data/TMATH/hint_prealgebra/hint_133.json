@@ -1,0 +1,7 @@
+{
+    "problem": "Five toppings for a pizza are available at Polina's Pizza. How many combinations of two different toppings are possible?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "There are 5 options for the first topping and 4 options left for the second topping for a preliminary count of $5\\cdot4=20$ options. However, the order in which we put the toppings on doesn't matter, so we've counted each combination twice, which means our final answer is $\\dfrac{5\\cdot4}{2}=\\boxed{10}$ combinations.",
+    "socratic_questions": "1. How many different toppings are available at Polina's Pizza?\n2. In how many ways can we choose two different toppings from the available options?\n3. What is the preliminary count when considering all possible combinations without considering the order of the toppings?\n4. Why do we divide the preliminary count by 2 in this case?\n5. What does the final answer represent in terms of combinations of two different toppings?\n6. Can you think of any other scenarios where counting combinations with a similar approach would be applicable?"
+}

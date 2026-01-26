@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\dbinom{50}{2}$.",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "$\\dbinom{50}{2} = \\dfrac{50!}{2!48!}=\\dfrac{50\\times 49}{2\\times 1}=\\boxed{1225}.$",
+    "socratic_questions": "1. What does $\\dbinom{50}{2}$ represent in terms of counting or probability?\n2. Can you explain the formula used to compute $\\dbinom{50}{2}$?\n3. How would you interpret the numbers 50 and 2 in the expression $\\dbinom{50}{2}$?\n4. Could you provide an intuitive explanation of why we divide by $2!$ and $48!$ in the formula?\n5. Can you think of a real-world scenario where $\\dbinom{50}{2}$ would be applicable?\n6. Is there a way to verify the result obtained for $\\dbinom{50}{2}$ using alternative combinatorial methods?\n7. How would the expression $\\dbinom{50}{2}$ change if we wanted to choose 3 objects instead of 2 from a set of 50?\n8. Are there any limitations or assumptions we need to consider when using $\\dbinom{50}{2}$ to solve a counting problem?\n9. Can you generalize the formula for $\\dbinom{n}{r}$ and explain its significance in counting and probability?\n10. How does the concept of binomial coefficients relate to other mathematical concepts, such as binomial expansions or Pascal's triangle?"
+}

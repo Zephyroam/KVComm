@@ -1,0 +1,7 @@
+{
+    "problem": "The square root of $2x$ is greater than 3 and less than 4. How many integer values of $x$ satisfy this condition?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "We have: $$3 < \\sqrt{2x} < 4 $$$$\\Rightarrow 9 < 2x < 16 $$$$\\Rightarrow 4.5 < x < 8$$The integers from 5 to 7 inclusive satisfy this inequality, so there are $\\boxed{3}$ integers that satisfy the condition.",
+    "socratic_questions": "1. What does the given condition \"The square root of $2x$ is greater than 3 and less than 4\" tell us about the possible values of $x$?\n2. What range of values does this condition imply for $2x$?\n3. How can we find the possible integer values of $x$ based on the range of values we determined in the previous question?\n4. Can we identify a specific range of values for $x$ based on the requirement that the square root of $2x$ is greater than 3 and less than 4?\n5. Considering that we are looking for integer values of $x$, how can we determine the number of integers within the identified range that satisfy the given condition?"
+}

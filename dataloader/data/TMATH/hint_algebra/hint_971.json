@@ -1,0 +1,7 @@
+{
+    "problem": "What is the coefficient of $x^2$ when $-5x^3 - 5x^2 - 7x + 1$ is multiplied by $-x^2 - 6x + 1$ and the like terms are combined?",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "Instead of expanding the entire product, we can look only at terms that will multiply to give $x^2$.  We know that: $$x^2=x^2\\cdot 1=x\\cdot x=1\\cdot x^2$$Knowing this, the $x^2$ term in the expansion will be the sum of these three terms: $$(-5x^2)(1)+(-7x)(-6x)+(1)(-x^2)$$Simplifying gives: \\begin{align*}\n(-5x^2)(1)+(-7x)(-6x)+(1)(-x^2)&=-5x^2+42x^2-x^2\\\\\n&=\\boxed{36}x^2\n\\end{align*}Consequently, the desired coefficient is $\\boxed{36}$.",
+    "socratic_questions": "1. Can you identify the like terms in the expression $-5x^3 - 5x^2 - 7x + 1$?\n2. What does it mean to multiply two expressions? How do you usually multiply monomials and polynomials?\n3. What are the steps you would take to multiply $-5x^3 - 5x^2 - 7x + 1$ by $-x^2 - 6x + 1$? Can you show the multiplication step by step?\n4. After multiplying the two expressions, how would you combine the like terms?\n5. What is the coefficient of $x^2$ in the final expression after combining like terms? How did you arrive at that coefficient?\n6. Is there a general pattern or property that can help determine the coefficient of a specific term after multiplying and combining like terms?\n7. Can you think of other scenarios where similar steps and thinking might be used when multiplying and combining like terms?"
+}

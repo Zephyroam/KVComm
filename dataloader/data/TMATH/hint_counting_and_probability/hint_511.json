@@ -1,0 +1,7 @@
+{
+    "problem": "Two different integers from 1 through 20 inclusive are chosen at random. What is the probability that both numbers are prime? Express your answer as a common fraction.",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "There are $\\binom{20}{2}$ pairs of distinct integers between 1 and 20, and there are $\\binom{8}{2}$ pairs of distinct prime numbers between 1 and 20.  Therefore, the probability that both members of a randomly chosen pair are prime is $\\dfrac{\\binom{8}{2}}{\\binom{20}{2}}=\\dfrac{8(7)/2}{20(19)/2}=\\boxed{\\dfrac{14}{95}}$.",
+    "socratic_questions": "1. Can you explain what the problem is asking in your own words?\n2. What does it mean for a number to be prime? How many prime numbers are there between 1 and 20?\n3. How many pairs of distinct integers can be formed from the numbers 1 to 20? Can you explain why it is $\\binom{20}{2}$?\n4. How many pairs of distinct prime numbers can be formed from the numbers 1 to 20? Can you explain why it is $\\binom{8}{2}$?\n5. If we randomly choose two numbers between 1 and 20, what is the probability that both numbers are prime?\n6. Can you calculate the probability using the given formula $\\dfrac{\\binom{8}{2}}{\\binom{20}{2}}$? What is the final result?"
+}

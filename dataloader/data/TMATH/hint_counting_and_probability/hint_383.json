@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\dbinom{15}{3}$.",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "\\begin{align*}\n\\dbinom{15}{3} &= \\dfrac{15!}{12!3!} \\\\\n&= \\dfrac{15\\times 14\\times 13}{3\\times 2\\times 1} \\\\\n&= \\dfrac{15}{3} \\times \\dfrac{14}{2} \\times \\dfrac{13}{1} \\\\\n&= 5\\times 7\\times 13 \\\\\n&= \\boxed{455}.\n\\end{align*}",
+    "socratic_questions": "1. What is the definition of $\\dbinom{15}{3}$ and what does it represent in counting and probability?\n2. Can you think of a real-life situation where selecting 3 items out of 15 is applicable?\n3. How many different ways can you select 3 items out of 15?\n4. If the order of selection does not matter, what mathematical concept do we use to calculate the number of combinations?\n5. Can you explain the formula used to calculate combinations and how it relates to factorials?\n6. How do you simplify $\\frac{15!}{12!3!}$ using factorials?\n7. Why do we use factorials in the formula for combinations?\n8. How does the denominator of the fraction $\\frac{15!}{12!3!}$ help account for overcounting?\n9. Can you think of another situation where the formula for combinations would apply?\n10. What other counting principles or formulas do you think are important to know in understanding counting and probability?"
+}

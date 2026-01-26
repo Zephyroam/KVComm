@@ -1,0 +1,7 @@
+{
+    "problem": "What is the greatest prime factor of 99?",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "$99=3^2\\cdot11$, so its greatest prime factor is $\\boxed{11}$.",
+    "socratic_questions": "1. What does it mean for a number to be a prime factor?\n2. How do we determine if a number is prime or composite?\n3. Can you list all the factors of 99? What makes them different from prime factors?\n4. How can we identify the greatest prime factor of a given number?\n5. In the case of 99, how can we break it down into its prime factors?\n6. Why is it important to identify the greatest prime factor?\n7. Are there any strategies or patterns you notice when finding prime factors?\n8. Can you think of any other numbers where finding the greatest prime factor would be useful?\n9. How does finding prime factors relate to multiplication and division?"
+}

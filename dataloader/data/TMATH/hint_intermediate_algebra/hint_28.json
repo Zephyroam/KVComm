@@ -1,0 +1,7 @@
+{
+    "problem": "The parabolas $y = (x + 1)^2$ and $x + 4 = (y - 3)^2$ intersect at four points.  All four points lie on a circle of radius $r.$  Find $r^2.$",
+    "level": "Level 5",
+    "type": "Intermediate Algebra",
+    "solution": "Add the equations $y = (x + 1)^2$ and $x + 4 = (y - 3)^2$ to get\n\\[x + y + 4 = (x + 1)^2 + (y - 3)^2.\\](Any point that satisfies both equations must satisfy this equation as well.)\n\nCompleting the square in $x$ and $y$, we get\n\\[\\left( x + \\frac{1}{2} \\right)^2 + \\left( y - \\frac{7}{2} \\right)^2 = \\frac{13}{2}.\\]Thus, $r^2 = \\boxed{\\frac{13}{2}}.$",
+    "socratic_questions": "1. What are the equations of the two parabolas that we are given? Can you graph them on the same coordinate plane?\n2. How many intersection points do the two parabolas have, according to the problem statement? Can you explain why this is the case?\n3. What is the equation we obtain when we add the two given equations? How does this equation relate to the intersection points of the parabolas?\n4. How can we rewrite the equation from (3) in standard form for a circle by completing the square for both $x$ and $y$? What is the center and radius of this circle?\n5. How do we find the value of $r^2$ given the radius of the circle? What is the final answer for $r^2$?"
+}

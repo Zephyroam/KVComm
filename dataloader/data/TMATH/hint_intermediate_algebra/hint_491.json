@@ -1,0 +1,7 @@
+{
+    "problem": "The polynomial $f(x)$ satisfies $f(x + 1) - f(x) = 6x + 4.$  Find the leading coefficient of $f(x).$",
+    "level": "Level 4",
+    "type": "Intermediate Algebra",
+    "solution": "Let $n$ be a positive integer.  Setting $x = 0,$ $1,$ $2,$ $\\dots,$ $n - 1,$ we get\n\\begin{align*}\nf(1) - f(0) &= 6 \\cdot 0 + 4, \\\\\nf(2) - f(1) &= 6 \\cdot 1 + 4, \\\\\nf(3) - f(2) &= 6 \\cdot 2 + 4, \\\\\n&\\dots, \\\\\nf(n) - f(n - 1) &= 6 \\cdot (n - 1) + 4.\n\\end{align*}Adding all the equations, we get\n\\[f(n) - f(0) = 6 (0 + 1 + 2 + \\dots + (n - 1)) + 4n = 6 \\cdot \\frac{n(n - 1)}{2} + 4n = 3n^2 + n.\\]Since this holds for all positive integers $n,$\n\\[f(x) = 3x^2 + x + c\\]for some constant $c.$  Hence, the leading coefficient of $f(x)$ is $\\boxed{3}.$",
+    "socratic_questions": "1. Can you describe the first step to solve this problem?\n2. What methods do you know to solve this type of problem?\n3. If you choose to use the given equation $f(x + 1) - f(x) = 6x + 4$, how would you proceed with finding the leading coefficient of $f(x)$?\n4. Why can we add all the equations and get $f(n) - f(0) = 3n^2 + n$?\n5. How did you arrive at the polynomial $f(x) = 3x^2 + x + c$? What property or relation did you use?\n6. Can you think of any other types of problems or equations where a similar thought process and steps can be applied?"
+}

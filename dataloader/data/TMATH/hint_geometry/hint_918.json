@@ -1,0 +1,7 @@
+{
+    "problem": "There are two concentric spheres of radii 3 units and 6 units. What is the volume, in cubic units, of the region within the larger sphere and not within the smaller sphere? Express your answer in terms of $\\pi$.",
+    "level": "Level 3",
+    "type": "Geometry",
+    "solution": "The smaller one has volume $\\frac43\\cdot27\\pi=36\\pi$ cubic units and the larger one $\\frac43\\cdot216\\pi=288\\pi$ cubic units. The volume between them is the difference of their volumes, or $288\\pi-36\\pi=\\boxed{252\\pi}$ cubic units.",
+    "socratic_questions": "1. Can you describe the first step to finding the volume of the region between the two concentric spheres?\n2. What equation or formula can we use to calculate the volume of a sphere?\n3. How can we determine the volume of the smaller sphere?\n4. How can we determine the volume of the larger sphere?\n5. What is the difference between the volume of the larger sphere and the volume of the smaller sphere?\n6. Can you express the volume of the region between the two spheres using the symbol \u03c0?\n7. What is the final volume of the region within the larger sphere and not within the smaller sphere, expressed in cubic units and in terms of \u03c0?"
+}

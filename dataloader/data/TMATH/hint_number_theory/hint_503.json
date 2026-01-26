@@ -1,0 +1,7 @@
+{
+    "problem": "The integer $x$ has 12 positive factors. The numbers 12 and 15 are factors of $x$. What is $x$?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "Since $12=2^2\\cdot3$ and $15=3\\cdot5$ are factors of $x$, $x$ must be divisible by the least common multiple of 12 and 15, which is $2^2\\cdot3\\cdot5$. Since $x$ has 12 factors and the LCM has $(2+1)(1+1)(1+1)=12$ factors, $x=2^2\\cdot3\\cdot5=\\boxed{60}$.",
+    "socratic_questions": "1. Can you explain what factors are and how they relate to the concept of divisibility?\n2. What does it mean for a number to have 12 positive factors? Can you provide an example of such a number?\n3. Given that 12 and 15 are factors of $x$, what can you say about the prime factorization of $x$?\n4. How can you find the least common multiple (LCM) of 12 and 15? Can you explain the process?\n5. Why is it necessary to consider the LCM in finding the value of $x$?\n6. How does the number of factors relate to the prime factorization of a number? Can you explain this using the concept of exponents?\n7. Can you think of any other numbers that have exactly 12 factors? If so, how could you find the prime factorization of those numbers?"
+}

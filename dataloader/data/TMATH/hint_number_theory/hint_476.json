@@ -1,0 +1,7 @@
+{
+    "problem": "What is the least positive integer greater than 1 that leaves a remainder of 1 when divided by each of 2, 3, 4, 5, 6, 7, 8 and 9?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "If $n$ leaves a remainder of 1 when divided by all of these numbers then $n-1$ is a multiple of all of these.  We compute the LCM of these numbers as  \\begin{align*}\n\\text{lcm}(2,3,4,5,6,7,8,9)&=\\text{lcm}(5,6,7,8,9)\\\\\n&=\\text{lcm}(5,7,8,9)\\\\\n&=5\\cdot7\\cdot8\\cdot9\\\\\n&=2520.\n\\end{align*} The smallest $n>1$ that satisfies $2520\\mid n-1$ is $n=\\boxed{2521}$.",
+    "socratic_questions": "1. What is the problem asking us to find?\n2. Can you explain what is meant by \"leaves a remainder of 1\" when dividing by certain integers?\n3. How can we use the fact that $n$ leaves a remainder of 1 when divided by 2, 3, 4, 5, 6, 7, 8, and 9 to aid us in finding $n$?\n4. How can we use the concept of LCM (least common multiple) to solve this problem?\n5. How do we find the LCM of 2, 3, 4, 5, 6, 7, 8, and 9?\n6. Why is $n-1$ a multiple of the LCM if $n$ leaves a remainder of 1 when divided by these numbers?\n7. How can we use this fact to find the smallest possible value of $n$? \n8. What is the smallest positive integer greater than 1 that leaves a remainder of 1 when divided by each of 2, 3, 4, 5, 6, 7, 8 and 9?"
+}

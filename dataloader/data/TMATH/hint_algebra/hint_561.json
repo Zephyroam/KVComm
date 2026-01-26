@@ -1,0 +1,7 @@
+{
+    "problem": "Factor $36-9x^2$.",
+    "level": "Level 5",
+    "type": "Algebra",
+    "solution": "We have $36-9x^2 = 6^2 - (3x)^2 = (6-3x)(6+3x)$.  We can factor a 3 out of each of $6-3x$ and $6+3x$ to give $3\\cdot(2-x)\\cdot 3\\cdot(2+x) = \\boxed{9(2-x)(2+x)}$. (We could also have factored out a 9 at the beginning: $36-9x^2 = 9(4-x^2)=9(2-x)(2+x)$.)",
+    "socratic_questions": "1. How would you describe the first step to factor the expression $36-9x^2$?\n2. Are you aware of any methods or techniques that can be used to factor this type of expression?\n3. If you choose to factor by difference of squares, what would be the square roots of the terms $36$ and $9x^2$?\n4. Why is this expression suitable for factoring by difference of squares? What characteristics or conditions make it a good fit for this method?\n5. What are the factors you found for the expression $36-9x^2$? How can you verify that your factors are correct?\n6. Can you think of any other types of expressions that may require similar thinking and steps in order to factor them?"
+}

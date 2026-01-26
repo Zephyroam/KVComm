@@ -1,0 +1,7 @@
+{
+    "problem": "What is the period of $y = \\cos \\frac{x}{2}$?",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "The graph of $y=\\cos \\frac{x}{2}$ passes through one full period as $\\frac{x}{2}$ ranges from $0$ to $2\\pi,$ which means $x$ ranges from $0$ to $\\boxed{4 \\pi}.$\n\nThe graph of $y=\\cos \\frac{x}{2}$ is shown below:\n\n[asy]import TrigMacros;\n\nsize(400);\n\nreal g(real x)\n{\n\treturn cos(x/2);\n}\n\ndraw(graph(g,-3*pi,3*pi,n=700,join=operator ..),red);\ntrig_axes(-3*pi,3*pi,-2,2,pi/2,1);\nlayer();\nrm_trig_labels(-5, 5, 2);\n[/asy]",
+    "socratic_questions": "1. How would you define the function $y=\\cos \\frac{x}{2}$? \n2. What is the meaning of the term \"period\" in trigonometry? \n3. How can you determine the period of the function $y=\\cos \\frac{x}{2}$? \n4. How does the period of $y=\\cos \\frac{x}{2}$ relate to the period of $\\cos x$? \n5. What is the general formula for finding the period of a function of the form $y=\\cos (bx)$? \n6. Can you explain why the graph of $y=\\cos \\frac{x}{2}$ repeats every $4\\pi$? \n7. How would the graph of $y=\\cos \\frac{x}{4}$ compare to the graph of $y=\\cos \\frac{x}{2}$? \n8. Are there any other trigonometric functions that have a period of $4\\pi$? If so, can you provide an example and explain why? \n9. How can understanding the period of a function help you in solving trigonometric equations? \n10. Can you think of any real-life applications where understanding the period of a trigonometric function would be useful?"
+}

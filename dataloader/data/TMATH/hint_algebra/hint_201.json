@@ -1,0 +1,7 @@
+{
+    "problem": "Let $x, y, z$ be real numbers so that  \\begin{align*}\ny+z & = 13, \\\\\nz+x & = 14, \\\\\nx+y & = 15.\n\\end{align*} Find $\\sqrt{xyz(x+y+z)}$.",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "Add the three equations together and divide by 2 to get $x+y+z = 21$. Hence, $x = 8, y = 7, z = 6$, and $\\sqrt{xyz(x+y+z)} = \\sqrt{21(8)(7)(6)} = \\sqrt{2^4\\cdot 3^2 \\cdot 7^2} = \\boxed{84}$.",
+    "socratic_questions": "1. Can you describe the first step you would take to solve this system of equations?\n2. Are there any different methods you are familiar with that can be used to solve this type of system?\n3. If you choose to use substitution, how would you go about substituting variables to solve for one of them?\n4. Why is substitution an appropriate method for solving this system? What characteristic of the equations makes it suitable?\n5. What values did you find for x, y, and z? How can you verify that your solution is correct?\n6. Can you think of other types of systems of equations where similar thinking and steps might be useful in solving them?"
+}

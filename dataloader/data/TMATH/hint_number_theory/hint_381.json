@@ -1,0 +1,7 @@
+{
+    "problem": "The base 5 number $34x1_5$ is divisible by 31.  What is the digit $x$?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "The base 5 number $34x1_5$ is equal to $3 \\cdot 5^3 + 4 \\cdot 5^2 + x \\cdot 5 + 1 = 5x + 476$.  The base-5 digit $x$ must be 0, 1, 2, 3, or 4.  Among these values, only $x = \\boxed{4}$ makes $5x + 476$ divisible by 31.",
+    "socratic_questions": "1. Can you explain what a base-5 number is and how it differs from a base-10 number?\n2. How would you approach determining whether a given number is divisible by 31 in general?\n3. Can you describe any special properties that 31 might have that we could use to simplify the divisibility check in this specific case?\n4. Based on the given information, what is the value of the base-5 digit $x$ that makes $34x1_5$ divisible by 31?\n5. How can we verify that our answer for $x$ is correct, and that $34x1_5$ is indeed divisible by 31?"
+}

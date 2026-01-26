@@ -1,0 +1,7 @@
+{
+    "problem": "Find the greatest root of $f(x) = 15x^4-13x^2+2$.",
+    "level": "Level 4",
+    "type": "Intermediate Algebra",
+    "solution": "We notice that $f(x)$ has only even powers of $x,$ so if we let $y = x^2,$ we can write\n$$f(x)=15x^4-13x^2+2=15y^2-13y+2 = (3y-2)(5y-1) .$$Substituting back $x^2$ for $y$ gives us $$f(x)  = (3x^2-2)(5x^2-1).$$Then the roots of $f(x)$ are the roots of $3x^2-2$ and $5x^2-1$, which are $\\sqrt{\\frac{2}{3}}, -\\sqrt{\\frac{2}{3}}, \\frac{1}{\\sqrt{5}},$ and $ -\\frac{1}{\\sqrt{5}}$. Therefore, the greatest root is $\\sqrt{\\frac 23} = \\boxed{\\frac{\\sqrt{6}}{3}}.$",
+    "socratic_questions": "1. How can we determine the roots of $f(x)$?\n2. What patterns or characteristics of $f(x)$ can we observe?\n3. What happens if we substitute $y = x^2$ into the equation? How does it help us in factoring $f(x)$?\n4. Can we factor $f(x)$ after substituting $y = x^2$? If so, what is the factored form?\n5. What are the roots of each factor after factoring $f(x)$?\n6. How do the roots of the factored form relate to the roots of the original equation $f(x)$?\n7. Which root is the greatest among all the roots we obtained?"
+}

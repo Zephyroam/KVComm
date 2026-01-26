@@ -1,0 +1,7 @@
+{
+    "problem": "In how many ways can a President and a Vice-President be chosen from a group of 5 people (assuming that the President and the Vice-President cannot be the same person)?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "There are 5 choices for President, and then 4 choices (the remaining four people) for Vice-President, so there are $5 \\times 4 = \\boxed{20}$ choices for the two officers.",
+    "socratic_questions": "1. How many people are there in the group?\n2. What positions need to be filled in this scenario?\n3. Can the President and Vice-President be the same person?\n4. How many choices do we have for the position of President?\n5. For the position of Vice-President, how many choices do we have after one person has been chosen as President?\n6. How can we calculate the total number of choices for President and Vice-President?\n7. Can we multiply the number of choices for each position to determine the total number of choices? Why or why not?\n8. What is the final answer for the number of possible ways to choose a President and Vice-President from the group?"
+}

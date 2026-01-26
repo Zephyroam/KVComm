@@ -1,0 +1,7 @@
+{
+    "problem": "Find the maximum value of\n\\[\\frac{x + 2y + 3}{\\sqrt{x^2 + y^2 + 1}}\\]over all real numbers $x$ and $y.$",
+    "level": "Level 5",
+    "type": "Intermediate Algebra",
+    "solution": "Because we want to find the maximum value of the expression, we can assume that both $x$ and $y$ are positive; if not, then replacing $x$ and $y$ with $|x|$ and $|y|$ would strictly increase the value of the expression.\n\nBy Cauchy-Schwarz,\n\\[(1^2 + 2^2 + 3^2)(x^2 + y^2 + 1) \\ge (x + 2y + 3)^2,\\]or $14(x^2 + y^2 + 1) \\ge (x + 2y + 3)^2.$  Hence,\n\\[\\frac{x + 2y + 3}{\\sqrt{x^2 + y^2 + 1}} \\le \\sqrt{14}.\\]Equality occurs when $x = \\frac{y}{2} = \\frac{1}{3},$ so the minimum value is $\\boxed{\\sqrt{14}}.$",
+    "socratic_questions": "1. Can you describe the first step we should take to find the maximum value of the given expression?\n2. Are there any mathematical techniques or principles you know that could be applicable to solve this problem?\n3. If we wanted to apply Cauchy-Schwarz inequality here, which terms would we need to identify as vectors?\n4. Why does Cauchy-Schwarz inequality help us find the maximum value of the expression? What is its significance?\n5. How did we determine the specific values for $x$ and $y$ that result in the equality case? How do those values affect the expression?\n6. Can you think of any other mathematical problems or scenarios where a similar thought process and steps would be useful?"
+}

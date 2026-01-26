@@ -1,0 +1,7 @@
+{
+    "problem": "When three standard dice are tossed, the numbers $a,b,c$ are obtained. Find the probability that $abc = 1$.",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "$abc = 1$ only when $a=b=c= 1$. The probability that $a=1$ is $\\frac16$. Therefore, the probability that $a,b,c$ are all 1 is $\\left(\\frac16\\right)^3 = \\boxed{\\frac1{216}}$.",
+    "socratic_questions": "1. What is the probability of throwing a 1 on a standard six-sided die?\n2. When three dice are tossed, what is the total number of possible outcomes?\n3. How can we determine the number of outcomes where all three dice show 1?\n4. Why is the probability of each die showing 1 multiplied together to find the probability of all three dice showing 1?\n5. What is the probability of obtaining the desired outcome, where all three dice show 1?\n6. Can you think of any other scenarios where the concept of probability and counting can be applied in a similar way?"
+}

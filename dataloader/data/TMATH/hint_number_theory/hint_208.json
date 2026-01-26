@@ -1,0 +1,7 @@
+{
+    "problem": "The bagel shop has enough benches to sit $204_6$ people. If $2$ people are supposed to sit on one bench, how many benches does the shop have?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "First, convert $204_6$ to base 10 to get $204_6=2\\cdot6^2+0\\cdot6^1+4\\cdot6^0=72+0+4=76$. Therefore, the shop has $76\\div2=\\boxed{38}$ benches",
+    "socratic_questions": "1. Can you explain the given situation in your own words?\n2. What is the significance of converting $204_6$ to base 10?\n3. Why do we multiply $6^2$ by 2 and $6^0$ by 4 in the conversion process?\n4. How did we calculate the total number of people based on the converted value?\n5. Why do we divide the total number of people by 2?\n6. Can you think of any other situations where converting numbers to a different base might be useful?\n7. Is there a connection between the number of benches and the base used to represent the number of people?"
+}

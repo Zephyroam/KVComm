@@ -1,0 +1,7 @@
+{
+    "problem": "The repeating decimal for $\\frac{3}{11}$ is $0.ababab\\dots$ What is the value of the sum $a+b$?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "If $\\frac{3}{11}=0.ababab\\ldots$, then, by multiplying both forms of this number by 100, we get $\\frac{300}{11}=ab.ababab\\ldots$. Now we can subtract:\n\n$$\\begin{array}{r r c r@{}l}\n&300/11 &=& ab&.ababab\\ldots \\\\\n- &3/11 &=& 0&.ababab\\ldots \\\\\n\\hline\n&297/11 &=& ab &\n\\end{array}$$\n\nWe can simplify $\\frac{297}{11}$ to $27$, giving us the two digits we sought: $a=2$ and $b=7$. Thus, $a+b = 2+7 = \\boxed{9}$.\n\n(Alternatively, we could solve this problem by long division.)",
+    "socratic_questions": "1. What is a repeating decimal?\n2. How can we express a repeating decimal as a fraction?\n3. Can you convert $\\frac{3}{11}$ to a repeating decimal using long division? What pattern do you see in the digits?\n4. How does multiplying both sides of the equation $\\frac{3}{11}=0.ababab\\dots$ by 100 help us calculate the value of $a+b$?\n5. Why can we subtract $\\frac{3}{11}$ from $\\frac{300}{11}$ in order to solve for $a$ and $b$?\n6. Can you think of other examples where we can use a similar method to solve problems involving repeating decimals?"
+}

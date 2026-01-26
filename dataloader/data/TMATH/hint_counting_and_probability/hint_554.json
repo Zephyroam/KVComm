@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\dbinom{9}{8}$.",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "$\\dbinom{9}{8} = \\dfrac{9!}{8!1!}=\\dfrac{9\\times 8 \\times 7 \\times 6 \\times 5 \\times 4 \\times 3 \\times 2}{8 \\times 7 \\times 6 \\times 5 \\times 4 \\times 3 \\times 2 \\times 1}=\\boxed{9}$.",
+    "socratic_questions": "1. Can you explain what counting and probability mean?\n2. How would you define combinations and permutations in the context of counting?\n3. What is the difference between these two concepts? How do we decide when to use combinations or permutations?\n4. How would you determine the number of ways to choose 8 items from a set of 9 items?\n5. Can you explain the formula for combinations (n choose r) and its significance?\n6. Why is the numerator of the combinations formula (n!) and the denominator (r!(n-r)!)?\n7. How do you simplify the expression (9 choose 8) using factorials?\n8. Can you come up with a real-life scenario where combinations would be useful in solving a problem?\n9. What if we wanted to find the probability of choosing 8 items correctly out of 9? How would we calculate that?\n10. Are there any situations in which permutations would be more appropriate than combinations? Why or why not?"
+}

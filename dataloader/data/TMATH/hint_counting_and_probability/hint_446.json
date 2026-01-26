@@ -1,0 +1,7 @@
+{
+    "problem": "Calculate $6!-5\\cdot5!-5!$.",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "We can rewrite the expression as $6!-(5\\cdot5!+5!)$. Using the distributive property, we obtain $6!-(5+1)\\cdot5!$. This is equal to $6!-6!=\\boxed{0}$.",
+    "socratic_questions": "1. Can you rewrite the expression as a subtraction problem to simplify it? \n2. What is the value of $5!$? \n3. What is the value of $5\\cdot5!$? \n4. How can you use the distributive property to simplify the expression? \n5. What is the result of subtracting $(5+1)\\cdot5!$ from $6!$? \n6. Why is the final result of the expression equal to 0? \n7. Can you think of any other similar mathematical expressions that involve factorials? \n8. How would you approach simplifying those expressions using similar techniques?"
+}

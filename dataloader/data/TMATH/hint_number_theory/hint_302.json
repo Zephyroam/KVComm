@@ -1,0 +1,7 @@
+{
+    "problem": "For how many integers $n$ between 1 and 100 is the greatest common divisor of 15 and $n$ equal to 3?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "For the greatest common divisor of 15 and $n$ to be equal to 3, $n$ must be divisible by 3 but not divisible by 5.  In other words, $n$ is divisible by 3, but not by 15.\n\nThe greatest multiple of 3 that is less than or equal to 100 is 99, so there are $99/3 = 33$ multiples of 3 from 1 to 100.  We must subtract from this the number of multiples of 15 from 1 to 100.\n\nThe greatest multiple of 15 that is less than or equal to 100 is 90, so there are $90/15 = 6$ multiples of 15 from 1 to 100.  Therefore, there are $33 - 6 = \\boxed{27}$ numbers from 1 to 100 that are multiples of 3, but not 15.",
+    "socratic_questions": "1. What is the condition for the greatest common divisor of 15 and n to be equal to 3?\n2. How do you know that n must be divisible by 3 but not divisible by 5 in order for gcd(15, n) to be equal to 3?\n3. What is the greatest multiple of 3 that is less than or equal to 100?\n4. How many multiples of 3 are there from 1 to 100?\n5. How many multiples of 15 are there from 1 to 100?\n6. How do you calculate the number of integers between 1 and 100 that satisfy gcd(15, n) = 3?\n7. What is the final answer to the problem and how is it obtained?"
+}

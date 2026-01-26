@@ -1,0 +1,7 @@
+{
+    "problem": "A rhombus has an area of 108 square units. The lengths of its diagonals have a ratio of 3 to 2. What is the length of the longest diagonal, in units?",
+    "level": "Level 5",
+    "type": "Prealgebra",
+    "solution": "Let the diagonals have length $3x$ and $2x$. Half the product of the diagonals of a rhombus is equal to the area, so $(2x)(3x)/2= 108$. Solving for $x$, we find $x = 6$. Therefore, the length of the longest diagonal is $3x = \\boxed{18}$.",
+    "socratic_questions": "1. What is a rhombus and what are its properties?\n2. How is the area of a rhombus calculated?\n3. Can you describe the relationship between the diagonals and the area of a rhombus?\n4. What information does the problem provide about the diagonals of the rhombus?\n5. How can we express the lengths of the diagonals using a ratio?\n6. How can we use the given ratio and the formula for the area of a rhombus to set up an equation?\n7. What steps can we take to solve the equation and find the value of x?\n8. How can we use the value of x to find the length of the longest diagonal?\n9. Can you verify your answer by checking if the area of the rhombus using the calculated diagonal lengths matches the given area?"
+}

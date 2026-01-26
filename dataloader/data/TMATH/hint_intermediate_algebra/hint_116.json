@@ -1,0 +1,7 @@
+{
+    "problem": "Suppose that the roots of $x^3+3x^2+4x-11=0$ are $a$, $b$, and $c$, and that the roots of $x^3+rx^2+sx+t=0$ are $a+b$, $b+c$, and $c+a$. Find $t$.",
+    "level": "Level 4",
+    "type": "Intermediate Algebra",
+    "solution": "By Vieta's formulas, \\[t = -(a+b)(b+c)(c+a).\\]From the first cubic polynomial, we have $a+b+c=-3$. Using this equation, we can rewrite the expression for $t$ as \\[t = -(-3-c)(-3-a)(-3-b).\\]To compute this expression quickly, notice that, for any $x$, \\[x^3 + 3x^2 + 4x - 11 = (x-a)(x-b)(x-c)\\]by the factor theorem. Setting $x = -3$, we get \\[(-3)^3 + 3(-3)^2 + 4(-3) - 11 = -23 = (-3-a)(-3-b)(-3-c).\\]Thus, $t = -(-23) = \\boxed{23}$.",
+    "socratic_questions": "1. Can you describe the first step in solving this problem?\n2. How can we find the roots of a cubic polynomial like $x^3+3x^2+4x-11=0$?\n3. According to Vieta's formulas, what do we know about the sum and product of the roots?\n4. How can we express the sum of the roots of $x^3+rx^2+sx+t=0$ in terms of $a$, $b$, and $c$?\n5. How can we use the fact that $a+b+c=-3$ to simplify the expression for $t$?\n6. Can you explain the factor theorem and how we can use it in this problem?\n7. Can you explain why setting $x=-3$ gives us the expression $(-3-a)(-3-b)(-3-c)$?\n8. What is the value of $(-3)^3 + 3(-3)^2 + 4(-3) - 11$ and how does it relate to $t$?\n9. What is the final value of $t$ based on our calculations?"
+}

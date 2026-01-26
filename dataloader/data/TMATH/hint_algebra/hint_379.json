@@ -1,0 +1,7 @@
+{
+    "problem": "Let $t(x) = \\sqrt{3x+1}$ and $f(x)=5-t(x)$. What is $t(f(5))$?",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "We first evaluate $f(5) = 5 -t(5) = 5-\\sqrt{5\\cdot3+1}=1$. Thus $t(f(5))=t(1)=\\sqrt{3\\cdot1 + 1}=\\boxed{2}$.",
+    "socratic_questions": "1. Can you explain what the function $t(x)$ represents? \n2. What is the value of $f(x)$ when $x$ is equal to 5? \n3. How can we find the value of $t(f(5))$ by using the given functions? \n4. What is the value of $f(5)$? \n5. Can you substitute the value of $f(5)$ into the function $t(x)$ to find $t(f(5))$? \n6. What is the final result of $t(f(5))$?"
+}

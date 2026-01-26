@@ -1,0 +1,7 @@
+{
+    "problem": "A bag contains 5 red, 6 green, 7 yellow, and 8 blue jelly beans.   A jelly bean is selected at random.  What is the probability that it is blue?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "In total, there are $5+6+7+8=26$ jelly beans in the bag.\n\nSince there are 8 blue jelly beans, the probability of selecting a blue jelly bean is  $$\\frac{8}{26}=\\boxed{\\frac{4}{13}}.$$",
+    "socratic_questions": "1. What is the total number of jelly beans in the bag?\n2. How many blue jelly beans are there in the bag?\n3. What is the formula for calculating probability?\n4. How can we use the formula to calculate the probability of selecting a blue jelly bean?\n5. Can you simplify the fraction to its lowest terms?\n6. If there were more blue jelly beans in the bag, how would that affect the probability?\n7. If we selected two jelly beans from the bag without replacement, how would that change the probability of selecting a blue jelly bean?\n8. Are there any other factors that could affect the probability of selecting a blue jelly bean from the bag?\n9. How can we apply this probability concept to real-life situations?\n10. Can you think of any other probability problems that involve similar principles?"
+}

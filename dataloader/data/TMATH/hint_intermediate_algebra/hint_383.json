@@ -1,0 +1,7 @@
+{
+    "problem": "Find the number of complex solutions to\n\\[\\frac{z^3 - 1}{z^2 + z - 2} = 0.\\]",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "The numerator factors as $z^3 - 1 = (z - 1)(z^2 + z + 1) = 0.$\n\nIf $z = 1,$ then the denominator is undefined, so $z = 1$ is not a solution.  On the other hand, $z^2 + z + 1 = 0$ has $\\boxed{2}$ complex roots, which satisfy the given equation.",
+    "socratic_questions": "1. How can we start solving the given equation $\\frac{z^3 - 1}{z^2 + z - 2} = 0$?\n2. What can we say about the numerator $z^3 - 1$? Can we factor it?\n3. What are the possible factors of $z^2 + z + 1$? How did you obtain them?\n4. Why can we set $z^2 + z + 1 = 0$ as an equation?\n5. How many solutions does the equation $z^2 + z + 1 = 0$ have? Are they real or complex numbers?\n6. How can we determine the number of solutions to the original equation $\\frac{z^3 - 1}{z^2 + z - 2} = 0$ based on the solutions of $z^2 + z + 1 = 0$?"
+}

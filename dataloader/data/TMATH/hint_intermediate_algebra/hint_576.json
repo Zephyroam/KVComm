@@ -1,0 +1,7 @@
+{
+    "problem": "Let $r_1,$ $r_2,$ and $r_3$ be the roots of\n\\[x^3 - 3x^2 + 8 = 0.\\]Find the monic polynomial, in $x,$ whose roots are $2r_1,$ $2r_2,$ and $2r_3.$",
+    "level": "Level 4",
+    "type": "Intermediate Algebra",
+    "solution": "Let $y = 2x.$  Then $x = \\frac{y}{2},$ so\n\\[\\frac{y^3}{8} - \\frac{3y^2}{4} + 8 = 0.\\]Multiplying by 8, we get $y^3 - 6y^2 + 64 = 0.$  The corresponding polynomial in $x$ is then $\\boxed{x^3 - 6x^2 + 64}.$",
+    "socratic_questions": "1. Could you explain the first step in solving this equation? What do we need to do initially to find the roots?\n2. Are you familiar with any methods for solving this type of equation? Can you list a few different methods that could be used?\n3. If we choose to substitute $y = 2x,$ how would we rewrite the equation? What would be our next steps?\n4. What led us to multiply the equation by 8 after substituting $y = 2x$? Are there any specific characteristics or goals we have in mind?\n5. Can you explain why the polynomial $y^3 - 6y^2 + 64 = 0$ corresponds to the desired polynomial in $x$ with roots $2r_1,$ $2r_2,$ and $2r_3$? How can we confirm that the roots of the new polynomial are indeed what we expect them to be?\n6. Can you think of any other types of equations that may involve similar thinking and steps to solve? How would you approach those types of equations in a similar manner?"
+}

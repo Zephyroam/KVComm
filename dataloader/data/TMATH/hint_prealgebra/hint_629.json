@@ -1,0 +1,7 @@
+{
+    "problem": "For what value of $a$ does the equation $3(2x-a) = 2(3x+12)$ have infinitely many solutions $x$?",
+    "level": "Level 5",
+    "type": "Prealgebra",
+    "solution": "Distributing on both sides gives $6x-3a = 6x+24$.  Subtracting $6x$ from both sides gives $-3a=24$.  If $a=\\boxed{-8}$, then this equation is always true, and the original equation is true for all $x$ (and so has infinitely many solutions).  Otherwise, the equation is never true, so the original equation has no solutions.",
+    "socratic_questions": "1. Can you explain the first step in solving the equation $3(2x-a) = 2(3x+12)$?\n2. What is the process of distributing on both sides? How does it help simplify the equation?\n3. How did you simplify the equation after distributing?\n4. What do you notice about the terms that contain $x$ on both sides of the equation?\n5. How can we determine the value of $a$ for which the equation has infinitely many solutions?\n6. Can you explain why the equation is true for all $x$ when $a=-8$?\n7. What happens to the equation if $a$ is not equal to $-8$?\n8. Can you think of any similar equations that might require a similar approach to find the value of $a$ for infinitely many solutions?"
+}

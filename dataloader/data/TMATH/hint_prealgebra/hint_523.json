@@ -1,0 +1,7 @@
+{
+    "problem": "When a number is divided by 3, the result is 50 more than if the number had been divided by 4.  What is the number?",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "We are asked to solve \\[\n\\frac{x}{3}=50+\\frac{x}{4}.\n\\] Subtract $x/4$ from both sides to find $x/12=50$, which implies $x=\\boxed{600}$.",
+    "socratic_questions": "1. Can you rephrase the problem in your own words to make sure you understand it correctly?\n2. What does it mean when a number is divided by 3? And what about when it is divided by 4?\n3. How can we express the relationship between the two divisions mathematically? Can you write down the equation that represents the problem?\n4. What is the first step you would take to solve this equation? Why would you choose that particular step?\n5. What is the purpose of subtracting $x/4$ from both sides of the equation? How does this step help us in finding the value of $x$?\n6. What does the equation $x/12 = 50$ tell us? How can we find the value of $x$ from this equation?\n7. Is there any other method you can think of to solve this problem? If so, how would you approach it and why?"
+}

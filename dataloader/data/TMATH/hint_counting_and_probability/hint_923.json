@@ -1,0 +1,7 @@
+{
+    "problem": "How many different lines pass through at least two points in this 3-by-3 grid of lattice points shown?\n\n[asy]\nsize(30);\ndot((0,0));\ndot((1,0));\ndot((2,0));\ndot((0,1));\ndot((1,1));\ndot((2,1));\ndot((0,2));\ndot((1,2));\ndot((2,2));\n[/asy]",
+    "level": "Level 4",
+    "type": "Counting & Probability",
+    "solution": "There are $\\binom92$ choices of two points for a line to pass through. However, this counts each line that goes through three points three times, so we must subtract twice the number of lines which go through three points. Our answer is thus $\\binom92-2\\cdot8=36-16=\\boxed{20}$ lines.",
+    "socratic_questions": "1. Can you describe in your own words what the problem is asking us to find?\n2. How many points are on the grid? How many lines can we draw using two of these points?\n3. Are there any lines that don't pass through at least two points on the grid? If so, how many are there? \n4. How many lines pass through just two points on the grid? How do we count these lines?\n5. How many lines pass through exactly three points on the grid? How do we count these lines?\n6. Why do we have to subtract twice the number of lines that go through three points in order to get the correct answer?\n7. Can we apply the same approach to find the number of lines that pass through at least two points on a larger grid? How would the calculations change?"
+}

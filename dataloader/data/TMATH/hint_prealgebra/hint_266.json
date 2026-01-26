@@ -1,0 +1,7 @@
+{
+    "problem": "Given that 10 is the arithmetic mean of the set $\\{6, 13, 18, 4, x\\}$, what is the value of $x$?",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "There are 5 numbers in this set, so we have  \\begin{align*}\n\\frac{6+13+18+4+x}{5}&=10 \\\\\n6+13+18+4+x&=50 \\\\\n6+4+13+18+x&=50 \\\\\n10+31+x &=50 \\\\\n41+x&=50 \\\\\nx &= \\boxed{9}\n\\end{align*}",
+    "socratic_questions": "1. What is the definition of arithmetic mean\uff1f\n2. Can you identify the 5 numbers in the set provided?\n3. How did you know to add all the numbers and divide by 5 to find the arithmetic mean?\n4. What is the equation we can write to represent the given information?\n5. What is the next step in solving the equation after we have simplified it to $41+x=50$?\n6. Can you think of a scenario where arithmetic mean can be used outside of math class?"
+}

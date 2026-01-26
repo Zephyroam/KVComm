@@ -1,0 +1,7 @@
+{
+    "problem": "If $y = \\displaystyle\\frac{1}{3x+1}$, what is the value of $x$ when $y = 1$?",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "Since $y=1$, we have $1 =\\displaystyle\\frac{1}{3x+1}$.  Multiplying both sides by $3x+1$, we have $$3x+1=1$$ $$\\Rightarrow \\qquad 3x=0$$ $$\\Rightarrow \\qquad x=\\boxed{0}$$",
+    "socratic_questions": "1. Can you simplify the equation $y = \\displaystyle\\frac{1}{3x+1}$? What does it look like in a simpler form?\n2. How can we find the value of $x$ when $y = 1$? What does setting $y$ to 1 do to the equation?\n3. Can we manipulate the equation to isolate $x$ on one side? What steps can we take to achieve this?\n4. What does it mean for a fraction to equal 1? How can we use this information to solve the equation?\n5. What happens to the denominator $3x+1$ when $y = 1$? How does this help us find the value of $x$?\n6. Can you think of other equations where isolating a variable involves similar steps and thinking? How are they similar or different from this example?"
+}

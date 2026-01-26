@@ -1,0 +1,7 @@
+{
+    "problem": "Simplify this expression to a common fraction:  $\\frac{1}{\\frac{1}{(\\frac{1}{2})^{1}}+\\frac{1}{(\\frac{1}{2})^{2}}+\\frac{1}{(\\frac{1}{2})^{3}}}$",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "$\\frac{1}{\\frac{1}{(\\frac{1}{2})^1}+\\frac{1}{(\\frac{1}{2})^2}+\\frac{1}{(\\frac{1}{2})^3}}=\\frac{1}{\\frac{2}{1}+\\frac{4}{1}+\\frac{8}{1}}=\\boxed{\\frac{1}{14}}$.",
+    "socratic_questions": "1. How would you describe the given expression in words?\n2. Can you simplify each of the fractions in the denominator individually? What would be the result?\n3. What strategies come to mind to combine the fractions in the denominator into a single fraction?\n4. If you were to add the fractions $\\frac{2}{1}$, $\\frac{4}{1}$, and $\\frac{8}{1}$, how would you determine the common denominator?\n5. How can we simplify the resulting fraction by dividing the numerator and denominator by their greatest common divisor?\n6. Can you verify that the simplified expression $\\frac{1}{14}$ is equivalent to the original expression by substituting a value for the variable? What would be the result?"
+}

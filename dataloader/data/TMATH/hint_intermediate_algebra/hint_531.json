@@ -1,0 +1,7 @@
+{
+    "problem": "Compute the product of the roots of the equation \\[x^3 - 12x^2 + 48x + 28 = 0.\\]",
+    "level": "Level 1",
+    "type": "Intermediate Algebra",
+    "solution": "By Vieta's formulas, the product of the roots is the negation of the constant term divided by the leading ($x^3$) coefficient. Therefore, the answer is \\[\\frac{-28}{1} = \\boxed{-28}.\\]",
+    "socratic_questions": "1. How can we find the roots of the equation $x^3 - 12x^2 + 48x + 28 = 0$?\n2. According to Vieta's formulas, what does the product of the roots represent?\n3. What is the leading coefficient of this equation?\n4. What is the constant term of this equation?\n5. What is the negation of the constant term?\n6. How can we calculate the product of the roots using Vieta's formulas?\n7. What is the result of the product of the roots of this equation?"
+}

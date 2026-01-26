@@ -1,0 +1,7 @@
+{
+    "problem": "Karl was attempting to calculate economic figures. He found the following equation to be true:\\[fp-w=10000\\]If $f=5$ and $w=5+125i$, what is $p$?",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "Substitute in the given numbers. We have $5p-5-125i=10000$, so $5p=10005+125i$, thus $p=\\boxed{2001+25i}$.",
+    "socratic_questions": "1. How would you define the equation fp - w = 10000 in terms of economic figures?\n2. What does it mean for a given equation to be true in the context of economic figures?\n3. If f = 5 and w = 5 + 125i, what does this tell us about the variables f and w?\n4. How can we use the given values of f and w to solve for the variable p?\n5. Are there any mathematical operations that need to be performed on the equation fp - w = 10000 to isolate the variable p?\n6. Can you walk me through the steps of solving the equation for p using the given values of f and w?\n7. What is the final value of p based on the calculations made using the given values?\n8. Can you explain the significance of the obtained value of p in the context of economic calculation?\n9. Can you think of any other scenarios in economics where similar equations and calculations might be used?"
+}

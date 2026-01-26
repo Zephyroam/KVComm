@@ -1,0 +1,7 @@
+{
+    "problem": "Express $\\frac{37}{80}$ as a terminating decimal.",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "Since a terminating decimal can be written in the form of $\\frac{a}{10^b}$, where $a$ and $b$ are integers, we want to rewrite our fraction with a denominator of $10^b=2^b\\cdot5^b$. \\[ \\frac{37}{80}=\\frac{37}{2^{4}\\cdot5}\\cdot\\frac{5^{3}}{5^{3}}=\\frac{37\\cdot5^{3}}{10^{4}}=\\frac{4625}{10^{4}}=\\boxed{0.4625}. \\]",
+    "socratic_questions": "1. How can we express a decimal as terminating or non-terminating?\n2. What is the form of a terminating decimal? Can we write any decimal in this form?\n3. How can we rewrite our fraction with a denominator of $10^b$? Why do we choose this denominator?\n4. Can we simplify the fraction $\\frac{37}{80}$ before rewriting it as a terminating decimal?\n5. How do we know that our resulting decimal terminates? Is there a pattern that we can observe?\n6. What other fractions can we rewrite as terminating decimals using a similar method? How can we check if they are correct?"
+}

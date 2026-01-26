@@ -1,0 +1,7 @@
+{
+    "problem": "A very bizarre weighted coin comes up heads with probability $\\frac12$, tails with probability $\\frac13$, and rests on its edge with probability $\\frac16$.  If it comes up heads, I win 1 dollar.  If it comes up tails, I win 3 dollars.  But if it lands on its edge, I lose 5 dollars.  What is the expected winnings from flipping this coin?  Express your answer as a dollar value, rounded to the nearest cent.",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "The expected value is $E = \\left(\\dfrac{1}{2}\\times\\$1\\right) + \\left(\\dfrac{1}{3}\\times\\$3\\right) + \\left(\\dfrac{1}{6}\\times(-\\$5)\\right) = \\$\\dfrac{4}{6} =\\boxed{\\$\\dfrac23 \\approx \\$0.67}$.",
+    "socratic_questions": "1. Can you summarize the problem and determine what we are trying to find?\n2. How do we calculate expected value? Can you explain the formula in your own words?\n3. What are the possible outcomes when flipping this coin? Can you assign probabilities to each outcome?\n4. How do we find the winnings for each outcome? Can you calculate the winnings for each possibility?\n5. What does it mean for an event to have a negative value in this context? How does it affect the overall expected winnings?\n6. Can you explain how the expected value is calculated using the given probabilities and winnings?\n7. Is there any other information needed to calculate the expected winnings?\n8. How would you interpret the expected winnings of approximately $0.67 in the context of this problem?"
+}

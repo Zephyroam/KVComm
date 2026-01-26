@@ -1,0 +1,7 @@
+{
+    "problem": "Find the remainder when the sum \\[75+76+77+78+79+80+81+82\\]is divided by 16.",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "We notice that 16 divides $78+82$ as well as $79+81$ and also 80.  Therefore the sum is congruent to  \\[75+76+77\\pmod{16}.\\]Since these numbers are congruent to $-5$, $-4$, and $-3$ modulo 16, this can be computed as  \\[-5-4-3\\equiv-12\\pmod{16}.\\]Finally, since $-12\\equiv4\\pmod{16}$ the remainder we seek is $\\boxed{4}$.",
+    "socratic_questions": "1. Can you describe the first step in solving this problem?\n2. How did you determine that 16 divides $78+82$ as well as $79+81$ and also 80? Are there any other pairs of numbers in the sum that have the same property?\n3. What does it mean for two numbers to be congruent modulo 16?\n4. How did you compute the sum of $-5$, $-4$, and $-3$ modulo 16?\n5. Why is the remainder we seek equivalent to $-12$ modulo 16?\n6. Can you think of any other types of problems where the concept of congruence modulo a certain number might be useful?"
+}

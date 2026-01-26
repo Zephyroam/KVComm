@@ -1,0 +1,7 @@
+{
+    "problem": "Find $\\begin{pmatrix} 2 \\\\ -5 \\end{pmatrix} - 4 \\begin{pmatrix} -1 \\\\ 7 \\end{pmatrix}.$",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "We have that\n\\[\\begin{pmatrix} 2 \\\\ -5 \\end{pmatrix} - 4 \\begin{pmatrix} -1 \\\\ 7 \\end{pmatrix} = \\begin{pmatrix} 2 - 4(-1) \\\\ -5 - 4(7) \\end{pmatrix} = \\boxed{\\begin{pmatrix} 6 \\\\ -33 \\end{pmatrix}}.\\]",
+    "socratic_questions": "1. Could you describe the first step in solving this problem?\n2. When subtracting two matrices, what happens to their corresponding entries?\n3. What operation do you need to perform on the second matrix before subtracting it from the first matrix?\n4. What is the resulting matrix after performing the subtraction?\n5. Can you explain why we multiply the second matrix by 4 before subtracting it?\n6. What would happen if we subtracted the first matrix from the second matrix instead?"
+}

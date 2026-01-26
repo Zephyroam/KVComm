@@ -1,0 +1,7 @@
+{
+    "problem": "Find the smallest digit $d$ so that $437{,}d03$ is divisible by 9.",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "In order for a number to be divisible by 9, the sum of its digits must be a multiple of 9. So in this case the known digits sum to $4+3+7+0+3=17$, so $17+d$ must be divisible by 9. Since 18 is the smallest multiple of 9 that is greater than 17, $d$ must equal $\\boxed{1}$.",
+    "socratic_questions": "1. Can you describe why the sum of the digits of a number must be a multiple of 9 for it to be divisible by 9?\n2. How can we use this rule to determine the digit needed in the number $437{,}d03$ to make it divisible by 9?\n3. Based on the known digits summing to 17, what can we determine about the value of $d$ in order for the sum to be a multiple of 9?\n4. Is there any possible value for $d$ that will not make the sum a multiple of 9? Why or why not?\n5. How does the fact that 18 is the smallest multiple of 9 greater than 17 help us determine the value of $d$?\n6. Can you think of other examples where we need to consider the sum of the digits to check for divisibility by a certain number?"
+}

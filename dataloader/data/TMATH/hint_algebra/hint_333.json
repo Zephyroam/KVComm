@@ -1,0 +1,7 @@
+{
+    "problem": "Simplify $\\displaystyle\\frac{1-i}{2+3i}$, where $i^2 = -1.$",
+    "level": "Level 5",
+    "type": "Algebra",
+    "solution": "Multiplying the numerator and denominator by the conjugate of the denominator, we have \\begin{align*}\n\\frac{1-i}{2+3i} \\cdot \\frac{2-3i}{2-3i} &= \\frac{1(2) + 1(-3i) - i(2) - i(-3i)}{2(2) + 2(-3i) + 3i(2) -3i(3i)}\\\\\n& = \\frac{-1-5i}{13} \\\\\n&= \\boxed{-\\frac{1}{13} - \\frac{5}{13}i}.\n\\end{align*}",
+    "socratic_questions": "1. Can you explain what it means to simplify a complex fraction? \n2. What steps can you take to simplify the given complex fraction? \n3. How can you handle the presence of complex numbers in the numerator and denominator? \n4. Are there any properties or rules that can be applied in this situation? \n5. How can you rationalize the denominator in order to simplify the expression further? \n6. Can you express the complex number $\\displaystyle\\frac{1-i}{2+3i}$ in the form $\\displaystyle a+bi$, where $\\displaystyle a$ and $\\displaystyle b$ are real numbers? \n7. How can you verify that your final answer is correct? Is there a way to check it? \n8. Can you think of other examples where simplifying complex fractions might involve similar thinking and steps?"
+}

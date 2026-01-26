@@ -1,0 +1,7 @@
+{
+    "problem": "Let \\[f(x) = \\left\\{\n\\begin{array}{cl} x^2-4 & \\text{ if }x < 7, \\\\\nx-13 & \\text{ if } x \\geq 7.\n\\end{array}\n\\right.\\] What is $f(f(f(17)))$?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "We approach this problem by working from the inside out, so we first find $f(17)$. Since $17 \\geq 7$, $f(17) = 17 - 13 = 4$. Next, $4<7$, so $f(f(17))=f(4)=(4)^2-4=12$. Finally we have that since $12 \\geq 7$, $f(f(f(17)))=f(12)=12-13=\\boxed{-1}$.",
+    "socratic_questions": "1. What is the definition of the function f(x) and how does it behave for different values of x?\n2. What is the input value for the outermost function, f(17), and how does the function behave when x is equal to or greater than 7?\n3. What is the value of f(17) according to the given function definition?\n4. What is the input value for the second function, f(f(17)), and how does the function behave when x is less than 7?\n5. What is the value of f(f(17)) using the previously evaluated value of f(17)?\n6. What is the input value for the innermost function, f(f(f(17))), and how does the function behave when x is less than 7?\n7. What is the value of f(f(f(17))) using the previously evaluated value of f(f(17))?\n8. Simplify the final expression to find the value of f(f(f(17)))."
+}

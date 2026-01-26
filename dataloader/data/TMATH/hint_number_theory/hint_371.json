@@ -1,0 +1,7 @@
+{
+    "problem": "There is a prime number which is a factor of every sum of three  consecutive integers. What is the number?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "Let $n-1$, $n$, and $n+1$ be three consecutive integers. Their sum is $(n-1) + n + (n+1) = 3n$, which is always divisible by $\\boxed{3}$, but not necessarily by any other prime.",
+    "socratic_questions": "1. Can you describe the concept of consecutive integers?\n2. How can we represent the sum of three consecutive integers mathematically?\n3. Can you think of examples to demonstrate the concept of consecutive integers and their sums?\n4. What is the definition of a prime number?\n5. What are some examples of prime numbers?\n6. If we consider the sum of three consecutive integers, can you identify any patterns or relationships?\n7. Why does the sum of three consecutive integers always result in a multiple of 3?\n8. Are there any prime numbers that divide all sums of three consecutive integers?\n9. Can you think of any other ways to find the prime number that divides all sums of three consecutive integers?\n10. Can you generalize the result for any three consecutive integers?\n11. Is there a way to prove that the prime number we found is indeed a factor of every sum of three consecutive integers?"
+}

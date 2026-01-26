@@ -1,0 +1,7 @@
+{
+    "problem": "I have 6 shirts, 4 pairs of pants, and 6 hats. The pants come in tan, black, blue, and gray. The shirts and hats come in those colors, and also white and yellow. I refuse to wear an outfit in which all 3 items are the same color. How many choices for outfits, consisting of one shirt, one hat, and one pair of pants, do I have?",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "The number of all outfit combinations is $6\\times 4\\times 6=144$. There are 4 outfits in which all three items are the same color. Thus there are $144-4=\\boxed{140}$ outfits in which not all three items are the same color.",
+    "socratic_questions": "1. Can you describe the basic concept of counting in this problem?\n2. What are the different options available for shirts, pants, and hats?\n3. How many choices do you have for each item individually?\n4. How many total outfit combinations can be formed by multiplying the choices of shirts, pants, and hats?\n5. What is the condition given in the problem that restricts the outfit combinations?\n6. How many outfits have all three items in the same color?\n7. How can you calculate the number of outfits that do not have all three items in the same color?\n8. Can you explain why we subtract the number of outfits with all three items in the same color from the total outfit combinations?\n9. What is the final answer to the question?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "In $\\triangle PQR,$ the sum of $\\angle P$ and $\\angle Q$ is $60^\\circ.$ What is the measure of $\\angle R?$",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "The sum of the three angles in any triangle is always $180^\\circ.$ In $\\triangle PQR,$ the sum of $\\angle P$ and $\\angle Q$ is $60^\\circ,$ and thus $\\angle R$ must measure $$180^\\circ - 60^\\circ = \\boxed{120^\\circ}.$$",
+    "socratic_questions": "1. What is the relationship between the three angles in a triangle?\n2. Can you express the relationship using an equation or formula?\n3. What is the sum of angles $\\angle P$ and $\\angle Q$ in $\\triangle PQR$?\n4. If we know the sum of two angles in a triangle, how can we find the measure of the third angle?\n5. How can we use the relationship between the three angles in a triangle to find the measure of angle $\\angle R$ in $\\triangle PQR$?\n6. Can you think of any other triangle where we are given the sum of two angles and need to find the measure of the third angle? How can we apply the same process to solve it?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Let $\\bold{v} = \\begin{pmatrix} 5 \\\\ -3 \\end{pmatrix}$ and $\\bold{w} = \\begin{pmatrix} 11 \\\\ -2 \\end{pmatrix}$.  Find the area of the parallelogram with vertices $\\bold{0}$, $\\bold{v}$, $\\bold{w}$, and $\\bold{v} + \\bold{w}$.",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "The area of the parallelogram is given by $|5 \\cdot (-2) - 11 \\cdot (-3)| = \\boxed{23}.$",
+    "socratic_questions": "1. What is a parallelogram? \n2. How do we find the area of a parallelogram? \n3. Can you describe the properties of vector addition and subtraction? \n4. How do we use vectors to determine the sides of a parallelogram? \n5. What is the cross product of two vectors and how is it related to area? \n6. How can we use the cross product to find the area of the parallelogram with vertices $(0,0)$, $(5,-3)$, $(11,-2)$, and $(16,-5)$? \n7. If we change the order of the vertices, will the area be the same? \n8. Can you think of any real life applications where calculating the area of a parallelogram is necessary?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Find $y$ so that the vectors $\\begin{pmatrix} 1 \\\\ -3 \\\\ -4 \\end{pmatrix}$ and $\\begin{pmatrix} -2 \\\\ y \\\\ -1 \\end{pmatrix}$ are orthogonal.",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "For the vectors $\\begin{pmatrix} 1 \\\\ -3 \\\\ -4 \\end{pmatrix}$ and $\\begin{pmatrix} -2 \\\\ y \\\\ -1 \\end{pmatrix}$ to be orthogonal, their dot product should be 0:\n\\[(1)(-2) + (-3)(y) + (-4)(-1) = 0.\\]Solving, we find $y = \\boxed{\\frac{2}{3}}.$",
+    "socratic_questions": "1. What is the condition for two vectors to be orthogonal?\n2. How do we calculate the dot product of two vectors?\n3. What is the dot product of the vectors $\\begin{pmatrix}1 \\\\ -3 \\\\ -4 \\end{pmatrix}$ and $\\begin{pmatrix}-2 \\\\ y \\\\ -1 \\end{pmatrix}$?\n4. How do we solve for $y$ given the dot product of the two vectors?\n5. Are there other methods to find the value of $y$ for orthogonal vectors? If so, what are they?\n6. How can we apply the concept of orthogonal vectors in real-life situations?"
+}

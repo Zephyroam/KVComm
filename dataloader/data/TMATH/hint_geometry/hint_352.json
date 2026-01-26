@@ -1,0 +1,7 @@
+{
+    "problem": "The measure of angle $ACB$ is 40 degrees. If ray $CA$ is rotated 480 degrees about point $C$ in a clockwise direction, what will be the positive measure of the new acute angle $ACB$, in degrees?\n\n[asy]\ndraw((0,0)--dir(40),linewidth(1),Arrow);\ndraw((0,0)--dir(0),linewidth(1),Arrow);\ndot(.8dir(40));\ndot(.8dir(0));\ndot((0,0));\nlabel(\"A\",.8dir(40),NW);\nlabel(\"B\",.8dir(0),S);\nlabel(\"C\",(0,0),W);\n[/asy]",
+    "level": "Level 2",
+    "type": "Geometry",
+    "solution": "A rotation by 480 degrees is the same as one by $480 - 360 = 120$.  The first $40$ degrees of this rotation will be used to decrease the angle $ACB$ to $0$ degrees, leaving $80$ unused degrees, so our answer is $\\boxed{80}$ degrees.",
+    "socratic_questions": "1. What is the measure of angle ACB initially?\n2. How many degrees is the ray CA rotated in a clockwise direction?\n3. What is the positive measure of the new acute angle ACB after the rotation?\n4. How can we calculate the measure of the new angle using the given information?\n5. What is the relationship between the initial angle and the new angle after the rotation?\n6. Why do we subtract 360 degrees from the rotation angle of 480 degrees?\n7. How many degrees of the rotation will be used to decrease the angle ACB to 0 degrees?\n8. How can we determine the remaining degrees of the rotation after decreasing the angle to 0 degrees?\n9. What does it mean for an angle to be acute?\n10. How can we determine the positive measure of the new acute angle ACB using the unused degrees of the rotation?"
+}

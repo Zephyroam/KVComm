@@ -1,0 +1,7 @@
+{
+    "problem": "Let $a,$ $b,$ and $c$ be positive real numbers.  Find the minimum value of\n\\[\\frac{a + b}{c} + \\frac{a + c}{b} + \\frac{b + c}{a}.\\]",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "We can write\n\\[\\frac{a + b}{c} + \\frac{a + c}{b} + \\frac{b + c}{a} = \\frac{a}{c} + \\frac{b}{c} + \\frac{a}{b} + \\frac{c}{b} + \\frac{b}{a} + \\frac{c}{a}.\\]By AM-GM,\n\\[\\frac{a}{c} + \\frac{b}{c} + \\frac{a}{b} + \\frac{c}{b} + \\frac{b}{a} + \\frac{c}{a} \\ge 6 \\sqrt[6]{\\frac{a}{c} \\cdot \\frac{b}{c} \\cdot \\frac{a}{b} \\cdot \\frac{c}{b} \\cdot \\frac{b}{a} \\cdot \\frac{c}{a}} = 6.\\]Equality occurs when $a = b = c,$ so the minimum value is $\\boxed{6}.$",
+    "socratic_questions": "1. What is the given problem asking us to find?\n2. How can we express the expression $\\frac{a + b}{c} + \\frac{a + c}{b} + \\frac{b + c}{a}$ in a different form?\n3. According to AM-GM inequality, what is the lower bound of the expression $\\frac{a}{c} + \\frac{b}{c} + \\frac{a}{b} + \\frac{c}{b} + \\frac{b}{a} + \\frac{c}{a}$?\n4. When does the equality occur in the AM-GM inequality?\n5. How do we use the equality from question 4 to find the minimum value of the expression in the given problem?\n6. Can you think of other math problems where we can use AM-GM inequality to find the maximum or minimum value of a given expression?"
+}

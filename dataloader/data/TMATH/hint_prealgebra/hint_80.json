@@ -1,0 +1,7 @@
+{
+    "problem": "Of the numbers $\\frac{7}{10}, \\frac{4}{5}$ and $\\frac{3}{4}$, which number is the arithmetic mean of the other two?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "The arithmetic mean must be between the other two numbers, so we find the middle quantity by putting the fractions in a comparable form. We have $\\frac{7}{10}, \\frac{4}{5}=\\frac{8}{10}, \\frac{3}{4}=\\frac{7.5}{10}$. The middle quantity is $\\frac{7.5}{10}$, so the arithmetic mean is $\\boxed{\\frac34}$. Our answer makes sense since $7.5$ is the arithmetic mean of $7$ and $8$.",
+    "socratic_questions": "1. Can you explain what finding the arithmetic mean of two numbers means? \n2. How can we determine the arithmetic mean of two fractions? \n3. What is the process of putting fractions in a comparable form? \n4. How did we compare the fractions $\\frac{7}{10}$, $\\frac{8}{10}$, and $\\frac{7.5}{10}$? \n5. Why is the middle quantity the arithmetic mean of the other two fractions? \n6. Does our answer of $\\frac{3}{4}$ make sense based on the values of $7$ and $8$? \n7. Can you think of any other examples where we can apply a similar reasoning to find the arithmetic mean of two quantities?"
+}

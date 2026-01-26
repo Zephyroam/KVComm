@@ -1,0 +1,7 @@
+{
+    "problem": "If $n$ is an integer, what is the remainder when the sum of $7 - n$ and $n + 3$ is divided by $7$?",
+    "level": "Level 1",
+    "type": "Number Theory",
+    "solution": "We see that $(7 - n) + (n + 3) = 10 \\equiv 3 \\pmod 7,$ hence the remainder of the sum when divided by $7$ is $\\boxed{3}.$",
+    "socratic_questions": "1. What is the given problem asking us to find? \n2. Can you identify any relevant concepts related to number theory that could help us solve this problem? \n3. How can we represent the sum of (7 - n) and (n + 3) mathematically? \n4. What does it mean for a number to be divided by 7? \n5. Can you simplify the expression (7 - n) + (n + 3) and explain why it is congruent to 3 modulo 7? \n6. Why does the remainder of the sum when divided by 7 represent the answer to the problem?"
+}

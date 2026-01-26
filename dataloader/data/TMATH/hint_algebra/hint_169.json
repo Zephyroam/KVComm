@@ -1,0 +1,7 @@
+{
+    "problem": "Let \\[f(x) =\n\\begin{cases}\n2x + 9 &\\text{if }x<-2, \\\\\n5-2x&\\text{if }x\\ge -2.\n\\end{cases}\n\\]Find $f(-7).$",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "Because $-7<-2,$ we use the first case to determine that $f(-7) = 2(-7) + 9 = \\boxed{-5}.$",
+    "socratic_questions": "1. Can you describe what the function $f(x)$ represents in this scenario?\n2. How would you determine which equation to use to find $f(-7)$?\n3. What is the value of $x$ in the first equation, and what does it tell us about the range of values for which the first equation is valid?\n4. Now, let's focus on the second equation. What is the value of $x$ in the second equation, and how does it relate to the range of values for which the second equation is valid?\n5. Given that $-7$ falls in the range of the second equation, which expression would you use to find $f(-7)$?\n6. Can you substitute $-7$ into the chosen equation and calculate the value of $f(-7)$?\n7. Are there any restrictions or limitations we need to consider when evaluating this function at $-7$?\n8. How would you interpret the result or value obtained for $f(-7)$ in the context of the function $f(x)$?"
+}

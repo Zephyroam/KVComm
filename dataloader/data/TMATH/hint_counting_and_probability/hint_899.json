@@ -1,0 +1,7 @@
+{
+    "problem": "How many even natural-number factors does $n = 2^2 \\cdot 3^1 \\cdot 7^2$ have?",
+    "level": "Level 4",
+    "type": "Counting & Probability",
+    "solution": "Every factor of $n$ is in the form $2^a\\cdot3^b\\cdot7^c$ for $0\\le a\\le2$, $0\\le b\\le1$, and $0\\le c\\le2$. To count the number of even factors, we must restrict the power of 2 to be at least 1: $1\\le a\\le2$. This gives us a total of $(2)(1+1)(2+1)=\\boxed{12}$ even factors.",
+    "socratic_questions": "1. Can you describe what a natural-number factor is?\n2. What does \"even\" mean in the context of natural-number factors?\n3. How can we express the prime factorization of $n$?\n4. Using the prime factorization of $n$, can you write out all possible combinations of its factors in the form $2^a\\cdot3^b\\cdot7^c$?\n5. How many possible values of $a$ are there for factors of $n$?\n6. How many possible values of $b$ are there for factors of $n$?\n7. How many possible values of $c$ are there for factors of $n$?\n8. How many total factors of $n$ are there, including both even and odd factors?\n9. Using the restriction that the power of 2 must be at least 1 for even factors, how many possible values are there for $a$ for even factors of $n$?\n10. Given the restrictions on the values of $a$, $b$, and $c$ for factors of $n$, how can we use this information to count the total number of even factors of $n$?\n11. What is the final answer, and how do we know it is correct?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "The product of three consecutive integers is 210. What is their sum?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "We find the prime factorization of 210 to be $2\\cdot 3\\cdot 5\\cdot 7$. Noticing that $2 \\cdot 3=6$, we have 5, 6, and 7 as consecutive integers whose product is 210. So, our answer is $5+6+7=\\boxed{18}$.",
+    "socratic_questions": "1. What is the problem asking us to find in this scenario?\n2. How can we break down the problem into smaller and more manageable parts?\n3. Can you provide an example of three consecutive integers, and what their product would be?\n4. How can we find the prime factorization of 210? Why is this important?\n5. How did we use the prime factorization to solve the problem?\n6. Is it possible to use a different method to solve this problem, such as guess and check or algebraic manipulation? How might those methods differ in approach and accuracy?"
+}

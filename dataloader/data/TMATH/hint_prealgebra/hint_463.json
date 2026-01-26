@@ -1,0 +1,7 @@
+{
+    "problem": "What is the largest prime factor of 2323?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "Find the prime factorization of 2323: $2323=23\\cdot101$. The largest prime factor of 2323 is $\\boxed{101}$.",
+    "socratic_questions": "1. What does it mean for a number to be a prime factor?\n2. How can we determine if a number is prime or composite?\n3. How can we find the factors of a given number?\n4. Can you find any factors of 2323 by starting with the lowest possible prime number?\n5. What other strategies can we use to find the prime factors of 2323?\n6. How can we determine which of these prime factors is the largest?\n7. Is there a more efficient way to find the largest prime factor of 2323 without finding all the prime factors first?\n8. Can you think of any real-world applications or examples where finding the largest prime factor of a number is useful?"
+}

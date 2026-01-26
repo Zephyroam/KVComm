@@ -1,0 +1,7 @@
+{
+    "problem": "Suppose I have 6 shirts, 4 ties, and 3 pairs of pants.  If an outfit requires a shirt and pants, and can either have a tie or not have a tie, how many outfits can I make?",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "There are 6 choices of shirt, 3 choices of pants, and 5 choices for either wearing one of the 4 ties or not wearing a tie at all, so the total number of outfits is $6 \\times 3 \\times 5 = \\boxed{90}$.",
+    "socratic_questions": "1. What are the different components of an outfit in this scenario?\n2. How many choices do you have for selecting a shirt?\n3. How many choices do you have for selecting a pair of pants?\n4. How many choices do you have for the tie?\n5. Can you choose not to wear a tie at all?\n6. How do you calculate the total number of outfits you can make?\n7. Can you explain why we multiply the number of choices for each component together?\n8. Is there any significance to the order in which we multiply the choices together?\n9. Can you think of different scenarios where a similar thought process can be applied?\n10. Are there any restrictions or assumptions we need to consider in this outfit selection?"
+}

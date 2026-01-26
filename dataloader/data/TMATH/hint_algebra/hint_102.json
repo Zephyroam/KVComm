@@ -1,0 +1,7 @@
+{
+    "problem": "Let \\[f(x) =\n\\begin{cases}\nx/2 &\\quad \\text{if } x \\text{ is even}, \\\\\n3x+1 &\\quad \\text{if } x \\text{ is odd}.\n\\end{cases}\n\\]What is $f(f(f(f(1))))$?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "Evaluating each value, $f(1) = 3 \\cdot 1 + 1 = 4$; $f(f(1)) = f(4) = 4/2 = 2$; $f(f(f(1))) = f(2) = 2/2 = 1$; and finally $f(f(f(f(1)))) = f(1) = \\boxed{4}$.",
+    "socratic_questions": "1. Can you describe the function $f(x)$ and its different cases?\n2. What does the expression $f(1)$ evaluate to? How did you arrive at this result?\n3. Now, let's evaluate $f(f(1))$. What is the value of this expression? How did you calculate it?\n4. Moving on, what is the value of $f(f(f(1)))$? Explain your steps in evaluating this expression.\n5. Finally, what is the value of $f(f(f(f(1))))$? How did you arrive at this result?\n6. Can you think of any other expressions involving $f(x)$ that you could evaluate using a similar thought process?"
+}

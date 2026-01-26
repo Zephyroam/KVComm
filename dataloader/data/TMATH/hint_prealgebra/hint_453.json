@@ -1,0 +1,7 @@
+{
+    "problem": "What is $\\left(\\dfrac{3}{4}\\right)^5$?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Remember that $\\left(\\dfrac{a}{b}\\right)^n = \\dfrac{a^n}{b^n}$. Applying this rule, we get $\\dfrac{3^5}{4^5}=\\boxed{\\dfrac{243}{1024}}.$",
+    "socratic_questions": "1. Can you explain the meaning of exponents and how they relate to repeated multiplication?\n2. Based on the given exponent rule $\\left(\\dfrac{a}{b}\\right)^n = \\dfrac{a^n}{b^n}$, what does $\\left(\\dfrac{3}{4}\\right)^5$ represent?\n3. How would you write $\\left(\\dfrac{3}{4}\\right)^5$ as a fraction using the exponent rule?\n4. How do you simplify the numerator and denominator of the fraction $\\dfrac{3^5}{4^5}$?\n5. Can you simplify $\\dfrac{3^5}{4^5}$ to obtain a numerical value?\n6. Can you think of any other examples in which the exponent rule $\\left(\\dfrac{a}{b}\\right)^n = \\dfrac{a^n}{b^n}$ would be useful?"
+}

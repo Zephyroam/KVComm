@@ -1,0 +1,7 @@
+{
+    "problem": "Find $\\sec 120^\\circ.$",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "We have that\n\\[\\sec 120^\\circ = \\frac{1}{\\cos 120^\\circ}.\\]Then $\\cos 120^\\circ = -\\cos (120^\\circ - 180^\\circ) = -\\cos (-60^\\circ) = -\\cos 60^\\circ = -\\frac{1}{2},$ so\n\\[\\frac{1}{\\cos 120^\\circ} = \\boxed{-2}.\\]",
+    "socratic_questions": "1. What is the definition of $\\sec \\theta$?\n2. How is $\\cos \\theta$ related to $\\sec \\theta$? \n3. Can you use the unit circle to visualize the angle $120^\\circ$? \n4. How would you find the value of $\\cos 120^\\circ$ using the unit circle? \n5. How does the value of $\\cos 120^\\circ$ relate to the value of $\\cos (-60^\\circ)$? \n6. How can you use the Pythagorean identity to express $\\sec 120^\\circ$ in terms of $\\sin 120^\\circ$ and $\\cos 120^\\circ$? \n7. How would you find the value of $\\sin 120^\\circ$ using the unit circle? \n8. How can you use the reciprocal identity to express $\\cos 120^\\circ$ in terms of $\\sec 120^\\circ$? \n9. What is the final value of $\\sec 120^\\circ$, and how does it relate to the previous steps in the solution process? \n10. Can you think of any other trigonometric functions or angles that may require a similar approach to solving?"
+}

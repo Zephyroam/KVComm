@@ -1,0 +1,7 @@
+{
+    "problem": "Lucy was born on Wednesday, December 1st, 2004. That Wednesday was the first day of her life. Her parents held a party for her on the $1000$th day of her life. On which day of the week was the party?",
+    "level": "Level 5",
+    "type": "Number Theory",
+    "solution": "Since there are 7 days in a week, Lucy's 1st day, 8th day, 15th day, 22nd day, etc. were on Wednesday. When $1000$ is divided by $7$, the remainder is $6$. Therefore, the 1002nd day was a Wednesday (since 1002 is one more than a multiple of 7).  So the 1000th day, was two days earlier on a $\\boxed{\\text{Monday}}$.",
+    "socratic_questions": "1. Can you describe the problem we are trying to solve in this scenario?\n2. How many days are there in a week, and why is that important for determining the day of the party?\n3. On which day of the week was Lucy born, and why is that significant for solving the problem?\n4. How can we determine the days of the week on which Lucy's first, eighth, fifteenth, and 22nd days fell?\n5. What is the remainder when 1000 is divided by 7, and why is that relevant for finding the day of the party?\n6. Can you explain why the 1002nd day was a Wednesday, and how does that help us find the day of the party?\n7. What was the day of the week on which Lucy's party was held, and how did we arrive at that conclusion?"
+}

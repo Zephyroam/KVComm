@@ -1,0 +1,7 @@
+{
+    "problem": "Convert $427_8$ to base 5.",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "First we convert to base 10, obtaining $427_8 = 4 \\cdot 8^2 + 2 \\cdot 8^1 + 7 \\cdot 8^0 = 279.$ Then we convert 279 to base 5 to get  \\begin{align*}\n279 &= 2 \\cdot 5^3 + 29 \\\\\n&= 2 \\cdot 5^3 + 1 \\cdot 5^2 + 4 \\\\\n&= 2 \\cdot 5^3 + 1 \\cdot 5^2 + 4 \\cdot 5^0 \\\\\n&=\\boxed{2104_5}.\n\\end{align*}",
+    "socratic_questions": "1. Can you explain the process of converting a number from one base to another?\n2. What is the first step in converting a number from base 8 to base 10?\n3. How do we express $427_8$ in base 10? Can you break down the calculation step by step?\n4. Once we have the number in base 10, how do we convert it to base 5?\n5. Can you explain the process of converting a number from base 10 to base 5?\n6. What is the significance of the digit \"4\" in the base 5 representation of 279?\n7. Can you explain the meaning of each digit in the resulting base 5 number, $2104_5$?\n8. Can you think of any other examples where converting from one base to another might be useful?"
+}

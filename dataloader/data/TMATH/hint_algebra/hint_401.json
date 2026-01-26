@@ -1,0 +1,7 @@
+{
+    "problem": "Marina solved the quadratic equation $9x^2-18x-720=0$ by completing the square. In the process, she came up with the equivalent equation $$(x+r)^2 = s,$$where $r$ and $s$ are constants.\n\nWhat is $s$?",
+    "level": "Level 5",
+    "type": "Algebra",
+    "solution": "Dividing both sides of the equation $9x^2-18x-720=0$ by $9$, we have $$x^2-2x-80 = 0.$$The square which agrees with $x^2-2x-80$ except for the constant term is $(x-1)^2$, which is equal to $x^2-2x+1$ and thus to $(x^2-2x-80)+81$.\n\nTherefore, by adding $81$ to each side, Marina rewrote the equation $x^2-2x-80 = 0$ as $$(x-1)^2 = 81.$$We have $r=-1$ and $s=\\boxed{81}$.",
+    "socratic_questions": "1. Can you explain the process Marina used to complete the square in solving the quadratic equation?\n2. What does it mean for the equation to be in the form $(x+r)^2 = s$?\n3. How does Marina determine the values of $r$ and $s$ in this equation?\n4. What happens when we expand $(x+r)^2$?\n5. How can we relate the expanded form of $(x+r)^2$ to the original quadratic equation $9x^2-18x-720=0$?\n6. Can you derive an expression for $s$ in terms of the coefficients of the quadratic equation?\n7. Are there any restrictions or conditions on the values of $r$ and $s$ for this method to work?\n8. How does completing the square relate to factoring or using the quadratic formula?\n9. Can you think of any other quadratic equations where completing the square can be a useful method?"
+}

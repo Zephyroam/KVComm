@@ -1,0 +1,7 @@
+{
+    "problem": "If $e^{i \\alpha} = \\frac{3}{5}  +\\frac{4}{5} i$ and $e^{i \\beta} = -\\frac{12}{13} + \\frac{5}{13} i,$ then find $\\sin (\\alpha + \\beta).$",
+    "level": "Level 3",
+    "type": "Precalculus",
+    "solution": "Multiplying the given equations, we obtain\n\\[e^{i (\\alpha + \\beta)} = \\left( \\frac{3}{5}  +\\frac{4}{5} i \\right) \\left( -\\frac{12}{13} + \\frac{5}{13} i \\right) = -\\frac{56}{65} - \\frac{33}{65} i.\\]But $e^{i (\\alpha + \\beta)} = \\cos (\\alpha + \\beta) + i \\sin (\\alpha + \\beta),$ so $\\sin (\\alpha + \\beta) = \\boxed{-\\frac{33}{65}}.$",
+    "socratic_questions": "1. How is the value of $e^{i \\alpha}$ related to the trigonometric functions sine and cosine?\n2. What do the real and imaginary parts of $e^{i \\alpha}$ represent in the complex plane?\n3. How can we use the given values of $e^{i \\alpha}$ and $e^{i \\beta}$ to find $\\sin(\\alpha + \\beta)$?\n4. How can we relate multiplication of complex numbers to addition of angles in trigonometry?\n5. Can you explain the steps involved in calculating $e^{i (\\alpha + \\beta)}$ using the given equations?\n6. Why is the imaginary part of $e^{i (\\alpha + \\beta)}$ in the form $-\\frac{33}{65}$? What does this value represent in trigonometry?"
+}

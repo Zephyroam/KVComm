@@ -1,0 +1,7 @@
+{
+    "problem": "Two more than three times $B$ is equal to 20. What is the value of $B$?",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "From the problem, we can write the following equation: \\[3B + 2 = 20.\\]Simplifying,  \\begin{align*}\n3B &= 18\\\\\nB &= \\boxed{6}.\n\\end{align*}",
+    "socratic_questions": "1. How would you represent the information given in the problem using an equation?\n2. What does the expression \"two more than three times B\" mean? Can you rewrite it in mathematical terms?\n3. What property or operation allows us to represent \"two more than three times B\" as an equation?\n4. What is the goal of the problem? What are we trying to find? How can we manipulate the equation to isolate the variable B?\n5. What steps do we need to take to solve the equation? Can you explain each step in detail?\n6. Can you verify that the value of B you obtained is correct by substituting it back into the original equation?\n7. Are there any alternative methods you could have used to solve the equation? What are the advantages and disadvantages of each method?\n8. Can you think of any real-life scenarios where this type of equation might be useful? How can you apply this problem-solving method to those scenarios?\n9. Can you create similar equations for your classmates to solve using the same problem-solving approach?"
+}

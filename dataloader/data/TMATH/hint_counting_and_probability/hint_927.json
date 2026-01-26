@@ -1,0 +1,7 @@
+{
+    "problem": "Ben rolls four fair 10-sided dice, each numbered with numbers from 1 to 10. What is the probability that exactly two of the dice show a prime number?",
+    "level": "Level 4",
+    "type": "Counting & Probability",
+    "solution": "The probability that a 10-sided die rolls a prime number is $\\frac{4}{10}=\\frac{2}{5}$ since the primes it can roll are 2, 3, 5, and 7. We can choose which dice show a prime number in $\\binom{4}{2}=6$ ways. Then, there is a $\\frac{2}{5}\\cdot \\frac{2}{5} \\cdot \\frac{3}{5} \\cdot \\frac{3}{5}=\\frac{36}{625}$ chance that the chosen dice will actually roll a prime number and the other dice won't. Therefore, the total probability that exactly two dice show a prime number is $6 \\cdot \\frac{36}{625}=\\boxed{\\frac{216}{625}}$.",
+    "socratic_questions": "1. What is the probability that a 10-sided die rolls a prime number?\n2. How many ways can Ben choose exactly two of the four dice to show a prime number?\n3. What is the probability that the two chosen dice will actually roll a prime number and the other two won't?\n4. How did you calculate the total probability that exactly two dice show a prime number?\n5. Are there any other ways to approach this problem? If so, what are they? \n6. How would the probability change if the dice were numbered from 0 to 9 instead of 1 to 10?"
+}

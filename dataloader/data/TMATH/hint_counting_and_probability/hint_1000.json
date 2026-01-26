@@ -1,0 +1,7 @@
+{
+    "problem": "Tom has a red marble, a green marble, a blue marble, and three identical yellow marbles. How many different groups of two marbles can Tom choose?",
+    "level": "Level 5",
+    "type": "Counting & Probability",
+    "solution": "There are two cases here: either Tom chooses two yellow marbles (1 result), or he chooses two marbles of different colors ($\\binom{4}{2}=6$ results). The total number of distinct pairs of marbles Tom can choose is $1+6=\\boxed{7}$.",
+    "socratic_questions": "1. How many marbles does Tom have in total?\n2. What are the different colors of the marbles that Tom has?\n3. How many ways are there for Tom to choose two yellow marbles?\n4. How many ways are there for Tom to choose two marbles of different colors?\n5. Are there any other cases where Tom can choose two marbles?\n6. What is the total number of distinct pairs of marbles that Tom can choose?\n7. Can you explain why we need to count separately for two yellow marbles and marbles of different colors?\n8. Are there any restrictions on choosing marbles in this problem?\n9. Can you generalize this problem to the case where Tom has n different colored marbles and m identical yellow marbles?"
+}

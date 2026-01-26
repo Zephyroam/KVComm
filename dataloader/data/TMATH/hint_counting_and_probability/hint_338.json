@@ -1,0 +1,7 @@
+{
+    "problem": "In how many ways can I choose 3 captains from a team of 11 people?",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "Since the order that we choose the captains in doesn't matter, we can choose 3 of them out of 11 players in $\\binom{11}{3}=\\boxed{165}$ ways.",
+    "socratic_questions": "1. Can you explain what it means to choose captains from a team of 11 people?\n2. What do we mean when we say the order of choosing the captains doesn't matter?\n3. How many ways can we choose captains when the order does matter? Can you explain?\n4. What does it mean to choose 3 captains out of 11 players? Can you visualize this situation?\n5. Why do we use combinations to solve this problem? What are some characteristics of combinations?\n6. Can you explain the formula $\\binom{n}{r}$ and how it relates to our problem of choosing 3 captains from 11 players?\n7. Can you calculate $\\binom{11}{3}$? What does this result represent?\n8. Are there any other scenarios or problems where the concept of combinations can be applied?\n9. What if we wanted to choose more or fewer captains from the team? How would that impact our calculation and the result?\n10. Can you think of any real-life situations where knowing how to calculate combinations would be useful?"
+}

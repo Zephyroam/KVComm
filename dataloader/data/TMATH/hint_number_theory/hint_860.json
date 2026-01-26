@@ -1,0 +1,7 @@
+{
+    "problem": "The digits of a two-digit number $AB$ are reversed to form a second two-digit number, and the lesser of the two-digit numbers is subtracted from the greater. What prime number must be a factor of the difference if $A\\neq B$?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "$AB -BA= 10\\cdot A+B - (10\\cdot B+A)= 9\\cdot A-9\\cdot B=3(3\\cdot A-3\\cdot B)$. If $A\\neq B$, then the difference is a (non-zero) multiple of 3. Thus, $\\boxed{3}$ must be a factor of $AB -BA$.",
+    "socratic_questions": "1. Can you explain why we are reversing the digits of the two-digit number $AB$ to form another two-digit number?\n2. What happens when we subtract the lesser two-digit number (i.e., $BA$) from the greater two-digit number (i.e., $AB$)?\n3. How can we express the subtraction of $BA$ from $AB$ using mathematical notation?\n4. By simplifying the expression $AB - BA$, can you identify any common factors?\n5. Why is it important to consider the condition $A\\neq B$ when determining the prime factor of the difference?\n6. How does the pattern $AB - BA = 3(3\\cdot A - 3\\cdot B)$ help us determine the prime factor of the difference?\n7. Can you explain why 3 must be a factor of $AB - BA$ if $A\\neq B$?\n8. Are there any other prime factors that must be considered if $A\\neq B$? Why or why not?"
+}

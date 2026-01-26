@@ -1,0 +1,7 @@
+{
+    "problem": "Max picks two different cards without replacement from a standard 52-card deck. What is the probability that the cards are of different suits?",
+    "level": "Level 4",
+    "type": "Counting & Probability",
+    "solution": "Once Max has chosen the first card, there are 51 cards remaining, of which 39 do not have the same suit as the first chosen card.  Therefore, the probability that the two cards have different suits is $\\dfrac{39}{51} = \\boxed{\\frac{13}{17}}$.",
+    "socratic_questions": "1. What is the total number of possible pairs of cards that Max can choose without replacement from a standard 52-card deck?\n2. How many suits are there in a standard 52-card deck?\n3. If Max chooses a card from one suit as the first card, how many cards from the same suit are left in the deck?\n4. How many cards from the other three suits are left in the deck after Max chooses the first card?\n5. What is the probability of choosing a card of a different suit as the second card, given that the first card is already chosen?\n6. How did you determine the numerator and denominator in the probability calculation?\n7. Can you simplify the fraction representing the probability of choosing cards of different suits?\n8. Is it possible for Max to choose two cards of the same suit? Why or why not?\n9. Can you think of any other scenario where the probability of choosing items of different categories can be calculated in a similar way?"
+}

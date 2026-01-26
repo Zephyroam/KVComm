@@ -1,0 +1,7 @@
+{
+    "problem": "Dr. Math's four-digit house number $ABCD$ contains no zeroes and can be split into two different two-digit primes ``$AB$'' and ``$CD$'' where the digits $A$, $B$, $C$ and $D$ are not necessarily distinct. If each of the two-digit primes is less than 40, how many such house numbers are possible?",
+    "level": "Level 4",
+    "type": "Counting & Probability",
+    "solution": "The two-digit primes less than 40 are 11, 13, 17, 19, 23, 29, 31, and 37.  Thus there are $8$ choices for the two-digit prime $AB$.  Since $AB$ and $CD$ must be distinct, there are $7$ remaining choices for $CD$.  Altogether, there are $8\\cdot 7 = \\boxed{56}$ choices for $AB$ and $CD$.",
+    "socratic_questions": "1. What is the problem asking us to find?\n2. What are the restrictions on Dr. Math's house number?\n3. What does it mean for the two-digit primes to be \"different\"?\n4. How many two-digit primes are there less than 40?\n5. How many options are there for the first two-digit prime, AB?\n6. If AB is fixed, how many options are there for the second two-digit prime, CD?\n7. How can we use multiplication to find the total number of possible house numbers?\n8. Are there any additional restrictions that we need to consider?\n9. How could we check our answer to make sure it is correct?"
+}

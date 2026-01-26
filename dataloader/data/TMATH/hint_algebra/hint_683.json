@@ -1,0 +1,7 @@
+{
+    "problem": "If $\\sqrt{2\\sqrt{t-2}} = \\sqrt[4]{7 - t}$, then find $t$.",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "We raise both sides to the fourth power, which is equivalent to squaring twice, in order to get rid of the radicals. The left-hand side becomes $$\\left(\\sqrt{2\\sqrt{t-2}}\\right)^4 = \\left(2\\sqrt{t-2}\\right)^2 = 4 \\cdot (t-2) = 4t-8.$$The right-hand side becomes $\\left(\\sqrt[4]{7-t}\\right)^4 = 7-t$. Setting them equal, $$4t-8 = 7-t \\quad\\Longrightarrow\\quad 5t = 15,$$and $t = \\boxed{3}$.  Checking, we find that this value does indeed satisfy the original equation.",
+    "socratic_questions": "1. Can you describe the first step you would take to solve this equation?\n2. What are some different methods you know of that can be used to solve equations like this?\n3. If you choose to raise both sides of the equation to the fourth power, how would you simplify the expression?\n4. Why is it possible to raise both sides of the equation to the fourth power in this case? What characteristics make this method suitable?\n5. What is the simplified expression after raising both sides of the equation to the fourth power? How does this confirm your solution?\n6. Can you think of other types of equations where similar thinking and steps might be used to solve them?"
+}

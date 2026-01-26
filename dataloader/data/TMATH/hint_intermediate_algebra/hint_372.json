@@ -1,0 +1,7 @@
+{
+    "problem": "Let $x,$ $y,$ and $z$ be nonnegative real numbers such that $x + y + z = 5.$  Find the maximum value of\n\\[\\sqrt{2x + 1} + \\sqrt{2y + 1} + \\sqrt{2z + 1}.\\]",
+    "level": "Level 4",
+    "type": "Intermediate Algebra",
+    "solution": "By QM-AM,\n\\[\\sqrt{\\frac{(2x + 1) + (2y + 1) + (2z + 1)}{3}} \\ge \\frac{\\sqrt{2x + 1} + \\sqrt{2y + 1} + \\sqrt{2z + 1}}{3}.\\]Hence,\n\\[\\sqrt{2x + 1} + \\sqrt{2y + 1} + \\sqrt{2z + 1} \\le \\sqrt{3(2x + 2y + 2z + 3)} = \\sqrt{39}.\\]Equality occurs when $x = y = z = \\frac{5}{3},$ so the maximum value is $\\boxed{\\sqrt{39}}.$",
+    "socratic_questions": "1. How can we start solving this problem? Is there any given information that we can use?\n2. What is the QM-AM inequality and how can we apply it in this problem? \n3. How can we express $\\sqrt{2x + 1} + \\sqrt{2y + 1} + \\sqrt{2z + 1}$ in terms of the given variables?\n4. What does the QM-AM inequality tell us about the expression $\\sqrt{2x + 1} + \\sqrt{2y + 1} + \\sqrt{2z + 1}$?\n5. How can we find the maximum value of $\\sqrt{2x + 1} + \\sqrt{2y + 1} + \\sqrt{2z + 1}$ using the QM-AM inequality?\n6. Under what conditions is equality achieved in the QM-AM inequality, and how does it relate to finding the maximum value in this problem?\n7. What is the maximum value of $\\sqrt{2x + 1} + \\sqrt{2y + 1} + \\sqrt{2z + 1}$ based on our findings?"
+}

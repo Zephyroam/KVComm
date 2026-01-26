@@ -1,0 +1,7 @@
+{
+    "problem": "How many numbers are in the first $20$ rows of Pascal's Triangle (from the $0$th row to the $19$th row)?",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "We start with the $0$th row, which has $1$ number. Each row has one more number than the previous row. Thus, we can see that row $n$ has $n+1$ numbers.\nSince we want the sum of numbers in the rows $0$ to $19$, we sum up every number from $1$ to $20$ to get $\\frac{(1+20)\\cdot 20}{2}=\\boxed{210}$.",
+    "socratic_questions": "1. How is Pascal's Triangle constructed and what is special about it?\n2. What is the relationship between the row number and the number of elements in each row?\n3. If we were looking for the sum of numbers in rows 3 to 10, how would we approach the problem?\n4. Can you give an example of a real-world scenario where knowledge of Pascal's Triangle and its properties could be useful?\n5. How does the counting use in Pascal's Triangle relate to other concepts in mathematics such as combinatorics and probability? \n6. Are there any exceptions or limitations to the rules of Pascal's Triangle, and if so, what are they?"
+}

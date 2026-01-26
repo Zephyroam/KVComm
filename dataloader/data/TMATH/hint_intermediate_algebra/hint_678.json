@@ -1,0 +1,7 @@
+{
+    "problem": "Evaluate $\\left|\\frac56 +2i\\right|$.",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "We have \\[\\left|\\frac56 +2i\\right| = \\left|\\frac{1}{6}\\left(5 +12i\\right)\\right| = \\frac16|5+12i| = \\frac16\\sqrt{5^2 +12^2} = \\boxed{\\frac{13}{6}}.\\]",
+    "socratic_questions": "1. What does the absolute value of a complex number represent?\n2. How can we express the given complex number in the form a+bi?\n3. What does it mean to evaluate the absolute value of a complex number?\n4. How can we calculate the absolute value of a complex number using its real and imaginary parts?\n5. Can we simplify the given complex number to make it easier to calculate the absolute value?\n6. What formula should we use to find the absolute value of a complex number? How does it relate to the Pythagorean theorem?\n7. How do we calculate the absolute value using the formula and the given complex number?\n8. Is the result a rational or irrational number? Why?\n9. Can you think of any other complex numbers where the absolute value can be evaluated in a similar way?"
+}

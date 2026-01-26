@@ -1,0 +1,7 @@
+{
+    "problem": "If the matrix $\\mathbf{A}$ has an inverse and $(\\mathbf{A} - 2 \\mathbf{I})(\\mathbf{A} - 4 \\mathbf{I}) = \\mathbf{0},$ then find\n\\[\\mathbf{A} + 8 \\mathbf{A}^{-1}.\\]",
+    "level": "Level 4",
+    "type": "Precalculus",
+    "solution": "Expanding $(\\mathbf{A} - 2 \\mathbf{I})(\\mathbf{A} - 4 \\mathbf{I}) = \\mathbf{0},$ we get\n\\[\\mathbf{A}^2 - 6 \\mathbf{A} + 8 \\mathbf{I} = \\mathbf{0}.\\]Multiplying both sides by $\\mathbf{A}^{-1},$ we get\n\\[\\mathbf{A} - 6 \\mathbf{I} + 8 \\mathbf{A}^{-1} = \\mathbf{0}.\\]Then\n\\[\\mathbf{A} + 8 \\mathbf{A}^{-1} = 6 \\mathbf{I} = \\boxed{\\begin{pmatrix} 6 & 0 \\\\ 0 & 6 \\end{pmatrix}}.\\]",
+    "socratic_questions": "1. What is the definition of an inverse of a matrix?\n2. How can we solve the equation $(\\mathbf{A} - 2 \\mathbf{I})(\\mathbf{A} - 4 \\mathbf{I}) = \\mathbf{0}$?\n3. What properties of matrices are used in expanding the equation $(\\mathbf{A} - 2 \\mathbf{I})(\\mathbf{A} - 4 \\mathbf{I}) = \\mathbf{0}$?\n4. Why do we multiply both sides of the equation by $\\mathbf{A}^{-1}$?\n5. How can we simplify the equation after multiplying both sides by $\\mathbf{A}^{-1}$?\n6. How do we find the value of $\\mathbf{A} + 8 \\mathbf{A}^{-1}$ from the simplified equation?\n7. What does the resulting matrix represent? Can we generalize this result for any matrix $\\mathbf{A}$ with an inverse satisfying $(\\mathbf{A} - 2 \\mathbf{I})(\\mathbf{A} - 4 \\mathbf{I}) = \\mathbf{0}$?"
+}

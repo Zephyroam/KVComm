@@ -1,0 +1,7 @@
+{
+    "problem": "In the diagram, the equilateral triangle has a base of $8$ m. What is the perimeter of the triangle? [asy]\nsize(100);\ndraw((0,0)--(8,0)--(4,4*sqrt(3))--cycle);\nlabel(\"8 m\",(4,0),S);\ndraw((4,-.2)--(4,.2));\ndraw((1.8,3.5)--(2.2,3.3));\ndraw((6.3,3.5)--(5.8,3.3));\n[/asy]",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "Since the triangle is equilateral, all sides are equal in length. Therefore, the perimeter of the triangle is $8+8+8=8 \\times 3=\\boxed{24}.$",
+    "socratic_questions": "1. How would you describe an equilateral triangle?\n2. What is the definition of perimeter?\n3. Can you identify the length of each side of the given triangle?\n4. How can you calculate the perimeter of the equilateral triangle?\n5. Why can we simply multiply the length of one side by 3 to find the perimeter of the triangle?\n6. Can you think of any other shapes or figures where you can use a similar approach to find their perimeters?"
+}

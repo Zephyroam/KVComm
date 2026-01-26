@@ -1,0 +1,7 @@
+{
+    "problem": "Keiko tosses one penny and Ephraim tosses two pennies. What is the probability that Ephraim gets the same number of heads that Keiko gets?  Express your answer as a common fraction.",
+    "level": "Level 5",
+    "type": "Prealgebra",
+    "solution": "Make a complete list of equally likely outcomes:\n\n\\begin{tabular}{c c c}\n& & \\text{Same Number}\\\\\n\\text{Keiko} & \\text{Ephraim} & \\text{of Heads?}\\\\\n\\text{H} & \\text{HH} & \\text{No}\\\\\n\\text{H} & \\text{HT} & \\text{Yes}\\\\\n\\text{H} & \\text{TH} & \\text{Yes}\\\\\n\\text{H} & \\text{TT} & \\text{No}\\\\\n\\text{T} & \\text{HH} & \\text{No}\\\\\n\\text{T} & \\text{HT} & \\text{No}\\\\\n\\text{T} & \\text{TH} & \\text{No}\\\\\n\\text{T} & \\text{TT} & \\text{Yes}\\\\\n\\end{tabular} The probability that they have the same number of heads is $\\boxed{\\frac{3}{8}}.$",
+    "socratic_questions": "1. Can you describe the problem statement in your own words?\n2. What is the definition of equally likely outcomes? \n3. How did you determine the outcomes for this problem? \n4. Can you explain how to calculate the probability of a specific outcome? \n5. How many outcomes result in Keiko and Ephraim getting the same number of heads? \n6. How many total outcomes are there? \n7. How do you calculate the probability of Keiko and Ephraim getting the same number of heads? \n8. Can you think of a similar problem where the number of coins or the conditions are different? How would you approach solving it using the same principles?"
+}

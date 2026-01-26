@@ -1,0 +1,7 @@
+{
+    "problem": "What is the height of Jack's house, in feet, if the house casts a shadow 56 feet long at the same time a 21-foot tree casts a shadow that is 24 feet long? Express your answer to the nearest whole number.",
+    "level": "Level 2",
+    "type": "Geometry",
+    "solution": "The ratio of shadow lengths is $\\frac{56}{24}=\\frac{7}{3}$.\n\nThis is the same as the ratio of actual heights, so if $h$ is the height of the house,\n\n$$\\frac{h}{21}=\\frac{7}{3}\\Rightarrow h=\\boxed{49}$$",
+    "socratic_questions": "1. What is the problem asking us to find? \n2. What information is given in the problem? \n3. What is the ratio of the shadow lengths and how is it related to the heights? \n4. How did we use the ratio of shadow lengths to find the height of the house? \n5. Why did we set up the proportion using the given ratio and the height of the tree? \n6. How did we use algebra to solve for the height of the house? \n7. What is the final answer, and why did we round to the nearest whole number? \n8. Can you think of similar problems in which we use ratios and proportions to find a height or distance?"
+}

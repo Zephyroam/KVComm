@@ -1,0 +1,7 @@
+{
+    "problem": "If $x^2+bx+9$ has two non-real roots, find all real possible values of $b$. Express your answer in interval notation.",
+    "level": "Level 5",
+    "type": "Algebra",
+    "solution": "Consider the quadratic formula $\\frac{-b\\pm\\sqrt{b^2-4ac}}{2a}$. In order for the quadratic to have two non-real roots, the expression under the square root (the discriminant) must be negative. This gives us the inequality \\begin{align*} b^2-4ac&<0\n\\\\\\Rightarrow\\qquad b^2-4(1)(9)&<0\n\\\\\\Rightarrow\\qquad b^2-36&<0\n\\\\\\Rightarrow\\qquad (b+6)(b-6)&<0.\n\\end{align*} Thus, we find that $ b\\in\\boxed{(-6, 6)} $.",
+    "socratic_questions": "1. Can you describe the first step in solving this problem?\n2. What methods do you know for finding the roots of a quadratic equation?\n3. If you were to use the quadratic formula, what would be the discriminant in this case? \n4. How does the value of the discriminant relate to the nature of the roots?\n5. What are the conditions for the roots of a quadratic equation to be non-real?\n6. What would be the possible values of \"b\" if the quadratic equation has two non-real roots?\n7. How can you express the set of possible values of \"b\" in interval notation?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "The lengths of two sides of a triangle are 33 units and 42 units. The third side also has an integral length. What is the least possible number of units in the perimeter of the triangle?",
+    "level": "Level 3",
+    "type": "Geometry",
+    "solution": "The sum of the smaller two sides must exceed the greatest side, so if $x$ is the missing side then $x+33>42\\implies x>9$.  The smallest integer greater than 9 is 10, so the least perimeter is $10+33+42=\\boxed{85}$ units.",
+    "socratic_questions": "1. Can you explain the concept of a triangle perimeter?\n2. What is the given information about the lengths of the sides in this triangle?\n3. What is the relationship between the lengths of the sides in a triangle?\n4. According to the given information, what is the minimum value that the missing side length can have?\n5. How did you determine that the minimum value for the missing side length is 10?\n6. How did you calculate the perimeter of the triangle using the given side lengths?"
+}

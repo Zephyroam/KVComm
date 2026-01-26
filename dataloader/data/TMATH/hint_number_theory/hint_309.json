@@ -1,0 +1,7 @@
+{
+    "problem": "What is the smallest integer $b > 3$ for which the base $b$ number $23_b$ is a perfect square?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "Since $23_b = 2b + 3$ and $b > 3$, $23_b$ can be any odd integer greater than $2(3) + 3 = 9$.  We are looking for the next smallest odd perfect square, which is $5^2 = 25$.  Since $2b + 3 = 25$, $b = \\boxed{11}$ is our answer.",
+    "socratic_questions": "1. Can you explain what a base number system is and how it works?\n2. What is the relationship between the base $b$ representation of a number and its decimal representation?\n3. How can we determine if a number is a perfect square in a given base?\n4. Can you list some properties of perfect squares that may help in identifying them in a different base?\n5. What is the smallest possible value of $b$ for which $23_b$ is an odd perfect square?\n6. How did you arrive at your answer, and how can we verify that it is correct? \n7. Can you generalize this problem to find the smallest base for which a different number is a perfect square? \n8. Are there any other interesting patterns or observations that you can make about this problem?"
+}

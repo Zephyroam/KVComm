@@ -1,0 +1,7 @@
+{
+    "problem": "If $\\log (xy^3)= 1$ and $\\log (x^2y) = 1$,  what is $\\log (xy)$?",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "We have \\[1 = \\log(xy^{3}) = \\log x + 3\\log y \\quad\\text{and}\\quad 1 = \\log(x^{2}y) = 2\\log x + \\log y.\\]Solving yields $\\log x = \\frac{2}{5}$ and $\\log y = \\frac{1}{5}$. Thus \\[\\log(xy) = \\log x + \\log y = \\boxed{\\frac{3}{5}}.\\]",
+    "socratic_questions": "1. Can you describe the first step in solving this problem?\n2. What properties or rules of logarithms can you use to simplify the expressions given?\n3. How can you isolate the variable $x$ in the first equation, given that it appears in both the logarithm and the exponent?\n4. How can you combine the two equations to eliminate the variable $y$ and solve for $x$?\n5. What is the value of $\\log x$ that you obtained from solving the equations?\n6. How can you use the values of $\\log x$ and $\\log y$ to find $\\log(xy)$?\n7. Can you explain why the logarithm of a product is equal to the sum of the logarithms of the individual factors?\n8. Does the final result of $\\log(xy)$ make sense in the context of the given information?"
+}

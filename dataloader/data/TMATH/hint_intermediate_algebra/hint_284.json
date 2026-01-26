@@ -1,0 +1,7 @@
+{
+    "problem": "Let $x$, $y$, and $z$ be distinct real numbers that sum to $0$. Compute \\[ \\dfrac {xy+yz+zx}{x^2+y^2+z^2}. \\]",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "We have $x+y+z=0,$ and squaring this equation gives \\[(x^2+y^2+z^2) + 2(xy+yz+zx) = 0.\\]Thus, $x^2+y^2+z^2=-2(xy+yz+zx).$ Since $x, y, z$ are distinct, it is not possible that $x^2+y^2+z^2=0,$ so we have \\[\\frac{xy+yz+zx}{x^2+y^2+z^2} = \\boxed{-\\frac12}.\\]",
+    "socratic_questions": "1. How can we represent the given information using an equation involving $x$, $y$, and $z$?\n2. What can we do to simplify the equation $x+y+z=0$ and find an expression that involves the sum of squares of $x$, $y$, and $z$?\n3. What does the equation $x^2+y^2+z^2=-2(xy+yz+zx)$ tell us about the relationship between the sum of squares and the sum of products of the variables?\n4. Can we conclude that $x^2+y^2+z^2$ is equal to or smaller than $-2(xy+yz+zx)$? Why or why not?\n5. Is it possible for $x^2+y^2+z^2$ to be equal to $0$? Why or why not? What information does this provide about $xy+yz+zx$?\n6. How does the fact that $x$, $y$, and $z$ are distinct real numbers impact our calculations and the final result?\n7. Can you explain why the expression $\\frac{xy+yz+zx}{x^2+y^2+z^2}$ simplifies to $-\\frac{1}{2}$?\n8. Can you think of any other scenarios or equations where a similar thought process and steps might be required?"
+}

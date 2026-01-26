@@ -1,0 +1,7 @@
+{
+    "problem": "Suppose that we have an 8-sided die with 4 red faces, 3 yellow faces, and a blue face.  What is the probability of rolling a yellow face?",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "There are 3 yellow faces and 8 faces total, so the probability of rolling a yellow face is $\\boxed{\\dfrac38}$.",
+    "socratic_questions": "1. How many sides does the 8-sided die have?\n2. How many of the faces on the die are yellow?\n3. What is the total number of faces on the die?\n4. How would you calculate the probability of rolling a yellow face?\n5. Can you express the probability as a fraction? If so, what is the fraction?\n6. Is there any other way to represent the probability besides a fraction?\n7. If you were to roll the die multiple times, would the probability of rolling a yellow face change? Why or why not?\n8. Can you generalize this concept to calculate the probability of rolling other faces on the die?\n9. What other factors might affect the probability of rolling a certain face on the die?\n10. Are there any assumptions or conditions that need to be considered when calculating this probability?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Compute: $\\left(\\frac{1}{2} \\right)^{3} \\cdot \\left(\\frac{1}{7} \\right)$.",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "We have $\\left(\\frac{1}{2} \\right)^{3}=\\frac{1}{2} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2}=\\frac{1}{8}$, so \\[\\left(\\frac{1}{2} \\right)^{3} \\cdot \\left(\\frac{1}{7} \\right) = \\frac18\\cdot \\frac17 = \\boxed{\\frac{1}{56}}.\\]",
+    "socratic_questions": "1. What is the value of the expression: $\\left(\\frac{1}{2} \\right)^{3} \\cdot \\left(\\frac{1}{7} \\right)$?\n2. How can we simplify $\\left(\\frac{1}{2} \\right)^{3}$?\n3. How can we simplify $\\left(\\frac{1}{7} \\right)$?\n4. Can we multiply these two expressions right away? Why or why not?\n5. How do we multiply fractions?\n6. How can we express $\\frac{1}{8}$ and $\\frac{1}{7}$ as decimals? How does this relate to the final answer?\n7. Can you think of any other situations where we might need to multiply or simplify fractions in a similar way?"
+}

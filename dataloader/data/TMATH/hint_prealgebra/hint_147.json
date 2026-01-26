@@ -1,0 +1,7 @@
+{
+    "problem": "What is the least common multiple of 12, 18 and 30?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "$12=2^2\\cdot3$, $18=2\\cdot3^2$, and $30=2\\cdot3\\cdot5$. The prime factorization of a number that is a multiple of these three numbers must have a 2 raised to at least the 2nd power, a 3 raised to at least the 2nd power, and a 5 raised to at least the 1st power. Thus, the $\\emph{least}$ common multiple is $2^2\\cdot3^2\\cdot5=\\boxed{180}$.",
+    "socratic_questions": "1. What is the definition of least common multiple?\n2. Can you list the prime factorization of each of the given numbers?\n3. How can we use prime factorization to find the least common multiple?\n4. What is the significance of finding the least common multiple? How can it be useful in different scenarios?\n5. Is there any other method to find the least common multiple apart from prime factorization? If yes, can you explain it?\n6. Can you give an example of a real-life situation where finding the least common multiple would be useful?"
+}

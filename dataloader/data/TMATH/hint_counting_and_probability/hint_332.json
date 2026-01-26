@@ -1,0 +1,7 @@
+{
+    "problem": "Given that $8!=40320$, what is the value of $8!\\div3!$?",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "Since $3!=6$, we need to divide 40320 by 6, which is $40320/6=\\frac{36000+4200+120}{6}=6000+700+20=\\boxed{6720}$.",
+    "socratic_questions": "1. What does the exclamation mark (!) represent in the expression $8!$?\n2. What is the value of $8!$ and what is the value of $3!$?\n3. How do we calculate the value of $8!\\div3!$ using the given values?\n4. Can you break down the calculation step-by-step and explain how each step is performed?\n5. What is the purpose of dividing $8!$ by $3!$ in this context?\n6. Are there any specific rules or properties that can help us simplify the division of factorials?\n7. Can we generalize this process to calculate the division of any two factorials?\n8. Can you explain the significance or meaning of the numerical result, $6720$, in the context of the problem?"
+}

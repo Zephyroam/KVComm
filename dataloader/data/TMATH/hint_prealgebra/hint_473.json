@@ -1,0 +1,7 @@
+{
+    "problem": "Round to the nearest hundredth: 18.4851",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "To round $18.4851$ to the nearest hundredth, we must look at the hundreds and the thousands digits of the number in question. Since the thousands digit ($5$) is greater than or equal to $5$, the hundreds digit $8$ rounds up to $9$. Therefore, $18.4851$ rounded to the nearest hundredth is equal to $\\boxed{18.49}$.",
+    "socratic_questions": "1. What is the significance of rounding a number to the nearest hundredth?\n2. How do you determine whether to round up or down when rounding a number to the nearest hundredth?\n3. Can you explain the process for rounding a number to the nearest hundredth?\n4. Are there any other ways to round a number besides rounding to the nearest hundredth?\n5. When would it be necessary to round a number to the nearest hundredth in real-life situations? Give an example. \n6. Is it possible to round a number to the nearest tenth or thousandth? How would you do so? \n7. Can you provide an example of a situation where rounding a number to the nearest hundredth could lead to an incorrect result or misinterpretation of data?"
+}

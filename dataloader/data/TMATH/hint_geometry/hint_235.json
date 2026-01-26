@@ -1,0 +1,7 @@
+{
+    "problem": "How many units are in the sum of the lengths of the two longest altitudes in a triangle with sides $8,$ $15,$ and $17$?",
+    "level": "Level 4",
+    "type": "Geometry",
+    "solution": "We recognize 8, 15, and 17 as a Pythagorean triple. Since the hypotenuse is the longest side of the right triangle, the altitude to the hypotenuse is the shortest of the altitudes. The other two altitudes are just the legs themselves, therefore $8 + 15 = \\boxed{23}.$",
+    "socratic_questions": "1. Can you identify the Pythagorean triple in this triangle? \n2. How are the lengths of the altitudes related to the sides of the triangle? \n3. Which altitude is the shortest in a right triangle? \n4. How can we determine the lengths of the other two altitudes? \n5. What is the relationship between the lengths of the legs and the two longer altitudes? \n6. Can you explain why we add the lengths of the legs to find the sum of the two longest altitudes? \n7. Are there any other triangles where we can use a similar approach to find the sum of the two longest altitudes?"
+}

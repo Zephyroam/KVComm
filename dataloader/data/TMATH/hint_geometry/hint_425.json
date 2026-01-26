@@ -1,0 +1,7 @@
+{
+    "problem": "In triangle $XYZ$, we have $\\angle Z = 90^\\circ$, $XY = 10$, and $YZ = \\sqrt{51}$. What is $\\tan X$?",
+    "level": "Level 2",
+    "type": "Geometry",
+    "solution": "[asy]\n\npair X,Y,Z;\n\nZ = (0,0);\n\nY = (sqrt(51),0);\n\nX = (0,7);\n\ndraw(X--Y--Z--X);\n\ndraw(rightanglemark(Y,Z,X,15));\n\nlabel(\"$X$\",X,NE);\n\nlabel(\"$Y$\",Y,SE);\n\nlabel(\"$Z$\",Z,SW);\n\nlabel(\"$10$\",(X+Y)/2,NE);\n\nlabel(\"$\\sqrt{51}$\",(Z+Y)/2,S);\n\n[/asy]\n\nBecause this is a right triangle, $\\tan X = \\frac{YZ}{XZ}$.\n\nUsing the Pythagorean Theorem, we find $XZ = \\sqrt{XY^2 - YZ^2} = \\sqrt{100-51} = 7$.\n\nSo $\\tan X = \\boxed{\\frac{\\sqrt{51}}{7}}$.",
+    "socratic_questions": "1. Can you describe the first step in solving this problem?\n2. How does the fact that angle Z is a right angle affect the calculation of tan X?\n3. What is the relationship between the lengths of the sides in a right triangle and the trigonometric ratios?\n4. How can we use the Pythagorean theorem to find the length of side XZ?\n5. Why is it necessary to find the length of side XZ in order to calculate tan X?\n6. Are there any other trigonometric ratios that could be used to solve this problem?\n7. Can you explain why tan X is equal to YZ divided by XZ?\n8. How does the value of sqrt(51) in the triangle impact the value of tan X?\n9. Can you identify any similar triangles within this triangle? How could they be used to find the value of tan X?\n10. Are there any other geometric properties or theorems that could be applied to solve this problem?"
+}

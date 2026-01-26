@@ -1,0 +1,7 @@
+{
+    "problem": "What is the value of the following expression: $1 - 4 + 7 - 10 + 13 - \\cdots - 46 + 49 - 52 + 55$ ?",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "Pair every two terms starting from the first. We see that the sum of each pair is $-3$. There are $(49+5)/6=9$ pairs, so the sum of all the pairs is $-3\\cdot9=-27$. Add that to the last number in the series and the value of the entire expression is $-27+55=\\boxed{28}$.",
+    "socratic_questions": "1. Can you identify the pattern in the given expression?\n2. How are the terms in the expression related to each other?\n3. Why do we pair every two terms starting from the first?\n4. What is the sum of each pair of terms?\n5. How many pairs are there in the expression?\n6. How do we determine the sum of all the pairs?\n7. What do we do with the last number in the series?\n8. After calculating the sum of the pairs and adding it to the last number, what is the final value of the expression?\n9. Can you think of any other similar expressions where pairing could be useful in finding the sum?\n10. How does the use of this pairing method help in understanding the value of the expression?"
+}

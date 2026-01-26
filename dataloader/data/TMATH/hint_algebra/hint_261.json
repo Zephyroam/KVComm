@@ -1,0 +1,7 @@
+{
+    "problem": "When $\\sqrt[4]{2^7\\cdot3^3}$ is fully simplified, the result is $a\\sqrt[4]{b}$, where $a$ and $b$ are positive integers.  What is $a+b$?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "We have  \\[\\sqrt[4]{2^7\\cdot3^3} = \\sqrt[4]{2^4}\\sqrt[4]{2^3\\cdot3^3} = 2\\sqrt[4]{8\\cdot27} = 2\\sqrt[4]{216}.\\] Therefore, $a+b = \\boxed{218}$.",
+    "socratic_questions": "1. Can you simplify any of the terms in the expression $\\sqrt[4]{2^7\\cdot3^3}$? If so, what does this simplify to?\n2. What does it mean to simplify a square root expression? How does this relate to the given problem?\n3. What is the relationship between the fourth root and the exponent $4$ in $\\sqrt[4]{}$?\n4. How can you represent $2^7$ and $3^3$ in terms of factors raised to a power of $4$?\n5. What happens to the exponents when you take the fourth root of a product of numbers?\n6. Can you rewrite $\\sqrt[4]{2^7\\cdot3^3}$ as a product of individual fourth roots?\n7. What can you simplify each individual fourth root in the product to?\n8. How can you simplify the product of fourth roots?\n9. What is the final result of fully simplifying $\\sqrt[4]{2^7\\cdot3^3}$?\n10. Can you identify the values of $a$ and $b$ in the simplified form $a\\sqrt[4]{b}$?\n11. What is the sum of $a$ and $b$?"
+}

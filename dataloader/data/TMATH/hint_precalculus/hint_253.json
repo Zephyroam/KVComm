@@ -1,0 +1,7 @@
+{
+    "problem": "Find $\\sec 135^\\circ.$",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "We have that\n\\[\\sec 135^\\circ = \\frac{1}{\\cos 135^\\circ}.\\]Then $\\cos 135^\\circ = -\\cos (135^\\circ - 180^\\circ) = -\\cos (-45^\\circ) = -\\cos 45^\\circ = -\\frac{1}{\\sqrt{2}},$ so\n\\[\\frac{1}{\\cos 135^\\circ} = \\boxed{-\\sqrt{2}}.\\]",
+    "socratic_questions": "1. What is the definition of the secant function? How is it related to the cosine function?\n2. What is the reference angle for 135 degrees? How can we use this information to find the value of cosine of 135 degrees?\n3. What is the relationship between the cosine function of an angle and its supplementary angle? How can we use this relationship to simplify the expression?\n4. How can we rationalize the denominator in the expression $\\frac{1}{\\cos 135^\\circ}$ to find the final simplified value of $\\sec 135^\\circ$?\n5. Can you think of any other trigonometric functions that can be simplified using similar techniques? How would you approach solving for those values?"
+}

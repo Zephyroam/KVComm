@@ -1,0 +1,7 @@
+{
+    "problem": "Evaluate $\\lfloor\\sqrt{63}\\rfloor$.",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "Observe that $7<\\sqrt{63}<8$, since $\\sqrt{49}<\\sqrt{63}<\\sqrt{64}$. Therefore, the largest integer that is less than $\\sqrt{63}$ is $\\boxed{7}$.",
+    "socratic_questions": "1. What is the square root of 63?\n2. Can you approximate the square root of 63 to the nearest whole number?\n3. What does the \"floor\" function represent in this context?\n4. How does the floor function affect the result of the square root of 63?\n5. Can you express the square root of 63 as a decimal?\n6. How would you find the largest whole number less than or equal to the square root of 63?\n7. Is there any pattern or rule you can identify when evaluating the floor function for square roots?\n8. Can you think of a similar problem where evaluating the floor function of a square root would be useful?"
+}

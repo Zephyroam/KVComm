@@ -1,0 +1,7 @@
+{
+    "problem": "How many distinct $x$-intercepts does the graph of $y = (x-5)(x^2+5x+6)$ have?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "An $x$-intercept occurs when $y=0$.  So, the $x$-intercepts are the solutions to the equation $0 = (x-5)(x^2+5x+6)$.  From this equation, we see that solutions occur when $x-5=0$ and when $x^2+5x+6=0$.  Now, $x^2+5x+6$ factors to $(x+3)(x+2)$.  So, the solutions are $5, -2, -3$, which comes to $\\boxed{3}$ intercepts.",
+    "socratic_questions": "1. Can you explain what the term \"x-intercept\" means in relation to a graph?\n2. What does it mean for a point to be an x-intercept of a graph?\n3. How do we find x-intercepts of a graph?\n4. To find the x-intercepts of the equation y = (x-5)(x^2+5x+6), what should be our first step?\n5. If we expand the equation, what do we notice about the resulting expression?\n6. How can we use the expanded equation to determine the x-intercepts?\n7. What values of x make the expression zero in the expanded equation?\n8. How can we solve for x using the factored form of the equation?\n9. What are the factors of the equation (x-5)(x^2+5x+6)? How can we use these factors to find the x-intercepts?\n10. Are there any additional x-intercepts we may have missed while solving for x?\n11. Can you think of any other types of equations where we might use a similar approach to find the x-intercepts?"
+}

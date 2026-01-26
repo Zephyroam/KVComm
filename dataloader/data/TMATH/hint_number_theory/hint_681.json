@@ -1,0 +1,7 @@
+{
+    "problem": "How many natural-number factors does $\\textit{N}$ have if $\\textit{N} = 2^3 \\cdot 3^2 \\cdot 5^1$?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "Any positive integer divisor of $N$ must take the form $2^a \\cdot 3^b \\cdot 5^c$ where $0 \\le a \\le 3$, $0 \\le b \\le 2$ and $0 \\le c \\le 1$. In other words, there are 4 choices for $a$, 3 choices for $b$ and 2 choices for $c$. So there are $4 \\cdot 3 \\cdot 2 = \\boxed{24}$ natural-number factors of $N$.",
+    "socratic_questions": "1. Can you describe what a natural-number factor of N is?\n2. How can you determine the prime factorization of N?\n3. Based on the prime factorization of N, what are the possible values for the exponent of 2 in a factor of N?\n4. Based on the prime factorization of N, what are the possible values for the exponent of 3 in a factor of N?\n5. Based on the prime factorization of N, what are the possible values for the exponent of 5 in a factor of N?\n6. How many choices are there for the exponent of 2 in a factor of N? How about the exponent of 3 and 5?\n7. Using the choices for the exponents of 2, 3, and 5, how many possible natural-number factors of N are there?\n8. What is the final answer for the number of natural-number factors of N?"
+}

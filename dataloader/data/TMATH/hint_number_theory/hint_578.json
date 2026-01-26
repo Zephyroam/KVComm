@@ -1,0 +1,7 @@
+{
+    "problem": "The decimal representation of a fraction ends in $0.\\overline{3}$. When the decimal is changed to a common fraction and reduced to lowest terms, what is the denominator of the fraction?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "Let $S = 0.\\overline{3}$. Then $10S = 3.\\overline{3}$. Subtracting the second equation from the first we obtain $9S = 3$, so $S = \\frac13$. The desired denominator is $\\boxed{3}$.",
+    "socratic_questions": "1. Can you describe what would be the first step in solving this problem?\n2. When working with repeating decimals, do you know any techniques or strategies we can use to convert them into common fractions?\n3. If we let S be equal to the repeating decimal 0.333..., how can we write 10S in terms of S? \n4. Subtracting the equation 10S = 3.333... from the equation S = 0.333..., what do we get and why?\n5. What does the value of S represent in terms of a fraction? Can we simplify it further?\n6. To find the denominator of the fraction, what would be the final answer based on the given information?"
+}

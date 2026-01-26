@@ -1,0 +1,7 @@
+{
+    "problem": "Let $n = 2^4 \\cdot 3^5 \\cdot 4^6\\cdot 6^7$. How many natural-number factors does $n$ have?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "Prime factorizing gives $n = 2^{23} \\cdot 3^{12}$. Since any positive factor of $n$ must be of the form $2^a \\cdot 3^b$ where $0 \\le a \\le 23$ and $0 \\le b \\le 12$, there are $(23+1)(12+1) = 24 \\cdot 13 = \\boxed{312}$.",
+    "socratic_questions": "1. Can you describe the first step in finding the number of natural-number factors of $n$?\n2. What method can be used to determine the prime factorization of $n$?\n3. How can we represent the prime factorization of $n$ in terms of its exponent form?\n4. Why do we only consider exponents in the prime factorization when finding the number of factors?\n5. How do we determine the range of exponents for each prime factor in finding the number of factors?\n6. Can you explain the reasoning behind multiplying the number of possibilities for each prime factor's exponent to find the total number of factors?\n7. Are there any other properties or characteristics of the exponents in the prime factorization that we need to consider when finding the number of factors?\n8. Can you think of any other numbers or scenarios where a similar approach of finding factors could be applied?\n9. How does the concept of finding factors relate to divisibility and prime numbers?\n10. Are there any shortcuts or formulas that can be used to find the number of factors in a given number?"
+}

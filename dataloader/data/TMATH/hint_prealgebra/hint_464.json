@@ -1,0 +1,7 @@
+{
+    "problem": "Every June 1, an ecologist takes a census of the number of wrens in a state park. She noticed that the number is decreasing by $40\\%$ each year. If this trend continues, in what year will the census show that the number of wrens is less than $10\\%$ of what it was on June 1, 2004?",
+    "level": "Level 5",
+    "type": "Prealgebra",
+    "solution": "After one year, there will be $60\\%$ left. After two years, there will be $36\\%$ left. After three years, there will be $21.6\\%$ left.\n\nAs we can see, these are just increasing powers of $60\\%$, the next year will not dip below $10\\%$, because $60\\% > 50\\%$, and $21.6 > 20$.  However, without calculating it exactly, you know that it will be less than $16.6\\%$, and thus, it will take 5 years - meaning that in $\\boxed{2009}$, the total number of wrens will drop below $10\\%$ of what it originally was.",
+    "socratic_questions": "1. What is the initial percentage decrease in the number of wrens each year?\n2. How can we express the decrease in terms of a percentage?\n3. What will be the percentage of wrens remaining after one year?\n4. How can we calculate the percentage of wrens remaining after two years?\n5. Is there a pattern in the percentages of wrens remaining after each year? If so, can you describe it?\n6. Based on the pattern you observed, when will the percentage of wrens remaining be less than 10%?\n7. In what year will the census show that the number of wrens is less than 10% of what it was on June 1, 2004?"
+}

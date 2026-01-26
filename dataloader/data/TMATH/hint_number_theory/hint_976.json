@@ -1,0 +1,7 @@
+{
+    "problem": "What is the 100th digit after the decimal point of the decimal representation of 1/7?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "The decimal representation of 1/7 is $0.\\overline{142857}$.  Since 96 is a multiple of 6, the 96th digit after the decimal point is 7, the digit at the end of the repeating block.  The digit four places later is $\\boxed{8}$.",
+    "socratic_questions": "1. How would you approach finding the decimal representation of 1/7?\n2. What does it mean for a decimal to be repeating, and how can we determine the repeating block in this case?\n3. How can we use the fact that 96 is a multiple of 6 to determine the last digit of the repeating block?\n4. What method can we use to find the next digital after the repeating block ends?\n5. Can you think of other fractions whose decimal representation is repeating, and how would you find the repeating block for those fractions?\n6. How does this concept of repeating decimals relate to other concepts in number theory, such as rational and irrational numbers?"
+}

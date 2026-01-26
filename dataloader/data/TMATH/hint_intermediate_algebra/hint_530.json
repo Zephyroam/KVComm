@@ -1,0 +1,7 @@
+{
+    "problem": "If $x^2 + 2x + 5$ is a factor of $x^4 + Px^2 + Q,$ find $P + Q.$",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "We have that\n\\[(x^2 + 2x + 5)(x^2 + bx + c) = x^4 + Px^2 + Q.\\]for some coefficients $b$ and $c.$  Expanding, we get\n\\[x^4 + (b + 2) x^3 + (2b + c + 5) x^2 + (5b + 2c) x + 5c = x^4 + Px^2 + Q.\\]Matching coefficients, we get\n\\begin{align*}\nb + 2 &= 0, \\\\\n2b + c + 5 &= P, \\\\\n5b + 2c &= 0, \\\\\n5c &= Q.\n\\end{align*}Solving $b + 2 = 0$ and $5b + 2c = 0,$ we get $b = -2$ and $c = 5.$  Then $P = 2b + c + 5 = 6$ and $Q = 5c = 25,$ so $P + Q = \\boxed{31}.$",
+    "socratic_questions": "1. What is the given factor of $x^4 + Px^2 + Q,$ and what is its expanded form?\n2. How can we solve for the coefficients $b$ and $c$ by expanding the given factor and matching coefficients?\n3. What equation do we get when we match the coefficients of $x^3$ in the expanded form and the given form of $x^4 + Px^2 + Q,$ and how does this help us solve for $b$?\n4. What equation do we get when we match the coefficients of $x^2$ in both forms of $x^4 + Px^2 + Q,$ and how does this help us solve for $c$?\n5. Once we have found the values of $b$ and $c,$ how can we use them to solve for $P$ and $Q$?\n6. What is the final answer, and how does it relate to the original problem?"
+}

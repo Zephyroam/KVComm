@@ -1,0 +1,7 @@
+{
+    "problem": "What is the coefficient of $x^4$ in the expansion of $(1-2x^2)^5$?",
+    "level": "Level 4",
+    "type": "Counting & Probability",
+    "solution": "Using the binomial theorem, we find that the $x^4=(x^2)^2$ term of the expansion is $\\binom{5}{2}(1)^3(-2x^2)^2=10(4x^4)=40x^4$.  Thus, the desired coefficient is $\\boxed{40}$.",
+    "socratic_questions": "1. Can you describe what the binomial theorem is and how it can be applied in this problem?\n2. What is the given expression to be expanded using the binomial theorem? Can you break it down into its components?\n3. How many terms will be in the expansion of $(1-2x^2)^5$? How can we determine this using the binomial theorem?\n4. Can you identify the term that contains $x^4$ in the expansion? How can we determine this?\n5. What is the general form of a term in the expansion of $(1-2x^2)^5$? Can you write out an arbitrary term?\n6. How can we calculate the coefficient of the $x^4$ term using the binomial coefficients and exponents in the expansion?\n7. Can you identify the specific binomial coefficient that corresponds to the $x^2$ term in the expansion? How does it relate to the coefficient of the $x^4$ term?\n8. By substituting the values into the formula, what is the value of the coefficient of the $x^4$ term?\n9. Are there any other similar types of problems where we can apply the binomial theorem and explore the concept further?"
+}

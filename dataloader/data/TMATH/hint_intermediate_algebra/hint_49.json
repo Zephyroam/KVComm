@@ -1,0 +1,7 @@
+{
+    "problem": "The function $f(x)$ satisfies\n\\[f(x + y) = f(x) + f(y)\\]for all real numbers $x$ and $y,$ and $f(4) = 5.$  Find $f(5).$",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "We can write\n\\begin{align*}\nf(4) &= f(3) + f(1) \\\\\n&= f(2) + f(1) + f(1) \\\\\n&= f(1) + f(1) + f(1) + f(1),\n\\end{align*}so $4f(1) = 5,$ which means $f(1) =\\frac{5}{4}.$  Therefore,\n\\[f(5) = f(1) + f(4) = 5 + \\frac{5}{4} = \\boxed{\\frac{25}{4}}.\\]",
+    "socratic_questions": "1. Can you explain what the given functional equation $f(x+y) = f(x) + f(y)$ means in terms of the relationship between inputs $x$ and $y$ and the output $f(x+y)$?\n2. How can we use the given functional equation to find $f(4)$? Can you walk me through the steps?\n3. How did you determine that $f(1) = \\frac{5}{4}$? Can you explain the reasoning behind it?\n4. How can we use the values of $f(1)$ and $f(4)$ to find $f(5)$? Can you show me the steps involved?\n5. Are there any other values of $x$ and $y$ that we can use in the functional equation to find additional values of $f(x)$? If so, how would you go about finding them?\n6. What do you notice about the pattern in the given functional equation and the values of $f(x)$ that we have found? How does this pattern relate to the concept of linearity in mathematics?\n7. Can you think of any other functional equations or mathematical situations where the same linearity pattern could be applied? How would you approach solving those mathematical problems using similar strategies?"
+}

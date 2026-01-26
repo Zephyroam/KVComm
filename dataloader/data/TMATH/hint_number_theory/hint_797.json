@@ -1,0 +1,7 @@
+{
+    "problem": "Convert $135_7$ to a base 10 integer.",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "$135_7 = 1\\cdot7^2 + 3\\cdot7^1 + 5\\cdot7^0 = 49 + 21 + 5 = \\boxed{75}.$",
+    "socratic_questions": "1. How do you typically convert a number from a non-decimal base, such as base 7, to a decimal base?\n2. Can you describe the steps you would take to convert the number 135 base 7 to a decimal integer?\n3. Are there any shortcuts or tricks you can use to simplify the conversion process? If so, what are they?\n4. How would you check your answer to make sure it is correct? \n5. Are there any other number bases besides base 7 that you can use similar techniques to convert to decimal? \n6. How might you adapt your conversion process to convert a decimal integer to a non-decimal base, such as base 5 or base 9?"
+}

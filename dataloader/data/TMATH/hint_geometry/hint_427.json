@@ -1,0 +1,7 @@
+{
+    "problem": "How many cubic feet are in the volume of a round swimming pool which is 16 feet in diameter and 4 feet deep throughout? Express your answer in terms of $\\pi$.",
+    "level": "Level 2",
+    "type": "Geometry",
+    "solution": "The radius of this pool is $16/2=8$ feet; the volume of this pool is thus $\\pi(8^2)(4)=\\boxed{256\\pi}$ cubic feet.",
+    "socratic_questions": "1. What is the concept of volume and how is it relevant to this problem?\n2. How can the volume of a round swimming pool be calculated?\n3. What are the dimensions of the pool given in the problem?\n4. What is the formula for calculating the volume of a round object using its radius and height?\n5. How can we determine the radius of the pool using the information provided?\n6. How can we calculate the volume of the pool using the formula and the given dimensions?\n7. How can we express the answer in terms of pi?\n8. Why do we use pi in the formula for the volume of a round object?\n9. Can you explain step by step how to calculate the volume of the pool using the given information and the formula?\n10. Can you think of any other situations where we might need to calculate the volume of a round object? How would the process be similar or different?"
+}

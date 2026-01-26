@@ -1,0 +1,7 @@
+{
+    "problem": "In the diagram below, we have $\\sin \\angle RPQ = \\frac{7}{25}$.  What is $\\sin \\angle RPS$?\n\n[asy]\npair R,P,Q,SS;\nSS = (-2,0);\nP = (0,0);\nQ = (2,0);\nR = rotate(aSin(7/25))*(1.5,0);\ndot(\"$S$\",SS,S);\ndot(\"$Q$\",Q,S);\ndot(\"$R$\",R,N);\ndot(\"$P$\",P,S);\ndraw(Q--SS);\ndraw(P--R);\n[/asy]",
+    "level": "Level 4",
+    "type": "Geometry",
+    "solution": "For any angle $x$, we have $\\sin (180^\\circ - x)=\\sin x$, so $\\sin RPS = \\sin(180^\\circ - \\angle RPS) = \\sin \\angle RPQ = \\boxed{\\frac{7}{25}}$.",
+    "socratic_questions": "1. Can you identify any relationships or properties of angles in the given diagram that might be helpful in finding the value of $\\sin \\angle RPS$?\n2. What is the relationship between $\\angle RPQ$ and $\\angle RPS$? How can you use this relationship to find $\\sin \\angle RPS$?\n3. How can you express $\\sin \\angle RPS$ in terms of $\\sin \\angle RPQ$ using trigonometric identities?\n4. Can you explain why $\\sin (180^\\circ - \\angle RPS) = \\sin \\angle RPQ$? What property or rule are you using?\n5. What is the value of $\\sin \\angle RPS$ based on the given information and the relationships you have discussed?"
+}

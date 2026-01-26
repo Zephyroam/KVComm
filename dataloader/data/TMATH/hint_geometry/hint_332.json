@@ -1,0 +1,7 @@
+{
+    "problem": "Segment $s_1$ has endpoints at $(4,1)$ and $(-8,5)$.  Segment $s_2$ is obtained by translating $s_1$ by $2$ units to the right and $3$ units up. Find the midpoint of segment $s_2$.  Express your answer as $(a,b)$ with $a$ and $b$ integers.",
+    "level": "Level 2",
+    "type": "Geometry",
+    "solution": "The midpoint of segment $s_1$ can be found using the midpoint formula: $\\left(\\frac{4-8}2,\\frac{1+5}2\\right)=(-2,3).$  The midpoint of $s_2$ is the translation of the midpoint of $s_1$ be $2$ units to the right and $3$ units up.  Thus its coordinates are $(-2+2,3+3)=\\boxed{(0,6)}.$",
+    "socratic_questions": "1. Can you describe the first step in finding the midpoint of segment $s_1$ using the midpoint formula? \n2. What are the coordinates of the endpoint of segment $s_1$? \n3. How do you apply the midpoint formula using the coordinates of the endpoint of segment $s_1$? \n4. What does the midpoint of a line segment represent? \n5. How can you find the coordinates of the midpoint of $s_2$ using the translation rule? \n6. What is the translation rule used in this problem? \n7. How do you apply the translation rule to the midpoint of $s_1$? \n8. Can you calculate the coordinates of the midpoint of $s_2$ using the translation rule?"
+}

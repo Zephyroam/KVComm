@@ -1,0 +1,7 @@
+{
+    "problem": "Square A has side lengths each measuring $x$ inches.  Square B  has side lengths each measuring $4x$ inches.  What is the ratio of  the area of the smaller square to the area of the larger square?   Express your answer as a common fraction.",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "The area of the smaller square is $x\\cdot x=x^2$ square inches. The area of the larger square is $4x\\cdot4x=16x^2$ square inches. The ratio of the areas is $x^2/(16x^2)=\\boxed{\\frac{1}{16}}$.",
+    "socratic_questions": "1. What is the question asking for? \n2. How can we find the area of each square? \n3. What is the area of square A in terms of x? \n4. What is the area of square B in terms of x? \n5. How do we find the ratio of the areas of the two squares? \n6. What is the ratio of the area of square A to square B? \n7. Can you simplify the ratio obtained in the previous question? \n8. What can we conclude about the areas of the two squares based on the ratio obtained?"
+}

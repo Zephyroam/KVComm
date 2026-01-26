@@ -1,0 +1,7 @@
+{
+    "problem": "How many integers between 1000 and 2000 have all three of the numbers 15, 20 and 25 as factors?",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "A number with 15, 20 and 25 as factors must be divisible by their least common multiple (LCM).  Because $15 = 3\n\\times 5$, $20 = 2^2 \\times 5$, and $25 = 5^2$, the LCM of 15, 20 and 25 is $2^2 \\times 3 \\times 5^2 = 300$. There are $\\boxed{3}$ multiples of 300 between 1000 and 2000: 1200, 1500 and 1800.",
+    "socratic_questions": "1. What does it mean for a number to have 15, 20, and 25 as factors? \n2. How can we determine the least common multiple (LCM) of 15, 20, and 25? \n3. How do we find the multiples of 300 between 1000 and 2000? \n4. Why is it necessary for the numbers between 1000 and 2000 to be divisible by 300 in order to have 15, 20, and 25 as factors? \n5. Are there any other common multiples of 15, 20, and 25 within the range of 1000 to 2000?"
+}

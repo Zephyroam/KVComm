@@ -1,0 +1,7 @@
+{
+    "problem": "The numbers 60, 221, and 229 are the legs and hypotenuse of a right triangle.  Find the multiplicative inverse to 450 modulo 3599.  (Express your answer as an integer $n$ with $0\\leq n<3599$.)",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "We notice that $450=221+229,$ so that must be the connection.  The Pythagorean Theorem tells us  \\[60^2+221^2=229^2\\] so \\[229^2-221^2=60^2.\\] The difference of squares factorization tells us  \\[(229-221)(229+221)=3600\\] and taken modulo 3599 we get  \\[8\\cdot450\\equiv1\\pmod{3599}.\\] The answer is $\\boxed{8}$.",
+    "socratic_questions": "1. Can you describe the problem and the given information in your own words?\n2. How did you notice that the numbers 60, 221, and 229 are related to a right triangle?\n3. How does the Pythagorean Theorem come into play in this problem?\n4. Can you explain the process of using the difference of squares factorization?\n5. Why do we take the modulo of 3599 in this problem?\n6. How did you determine that the multiplicative inverse of 450 modulo 3599 is 8?\n7. Are there any other applications or contexts where the concept of multiplicative inverses modulo a number is useful?\n8. Can you think of any other number theory problems that require a similar understanding of modulo and multiplicative inverses?"
+}

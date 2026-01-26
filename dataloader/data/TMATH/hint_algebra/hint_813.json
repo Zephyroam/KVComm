@@ -1,0 +1,7 @@
+{
+    "problem": "If $f(x)=2x^3+4$, find $f^{-1}(58)$.",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "The value $x=f^{-1}(58)$ is the solution to $f(x)=58$.  This means \\[2x^3+4=58.\\]Subtracting 4 gives \\[2x^3=54.\\]If we divide by 2 we get  \\[x^3=27,\\]and the only value that solves this equation is  \\[x=\\boxed{3}.\\]",
+    "socratic_questions": "1. What does it mean to find $f^{-1}(58)$?\n2. Can you explain the concept of inverse functions and how they relate to the original function?\n3. How would you start finding the inverse of $f(x)$ in this case?\n4. Are there any restrictions or conditions for a function to have an inverse?\n5. How can you determine if a given function has an inverse?\n6. What steps would you take to find the inverse function of $f(x)$?\n7. How can you use the equation $f^{-1}(58)$ to find the corresponding input value, $x$, from the output value, $58$?\n8. Can you manipulate the given equation to solve for $x$ in terms of $f^{-1}(58)$?\n9. How would you substitute the value of $f^{-1}(58)$ into the equation to find the corresponding input value, $x$?\n10. Are there any other applications or scenarios where finding the inverse of a function is useful?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "What is the remainder when $2x^2-17x+47$ is divided by $x-5$?",
+    "level": "Level 1",
+    "type": "Intermediate Algebra",
+    "solution": "\\[\n\\begin{array}{c|cc c}\n\\multicolumn{2}{r}{2x} & -7 \\\\\n\\cline{2-4}\nx-5 & 2x^2 &- 17x &+ 47  \\\\\n\\multicolumn{2}{r}{-2x^2} & +10x  \\\\ \n\\cline{2-3}\n\\multicolumn{2}{r}{0} & -7x & +47   \\\\\n\\multicolumn{2}{r}{} &+ 7x  &-35   \\\\ \n\\cline{3-4}\n\\multicolumn{2}{r}{} & 0& 12   \\\\\n\n\\end{array}\n\\]We cannot divide $12$ by $x-5$ since $12$ has lower degree. So the quotient is $2x-7$ and the remainder is $\\boxed{12}$.",
+    "socratic_questions": "1. What are the steps involved in dividing a polynomial by a binomial, in this case, the polynomial $2x^2-17x+47$ and the binomial $x-5$?\n2. How do we determine the quotient when dividing a polynomial by a binomial? What is the quotient in this particular division?\n3. How do we determine the remainder when dividing a polynomial by a binomial? What is the remainder in this particular division?\n4. Can you explain why we cannot divide the remainder $12$ by the binomial $x-5$?\n5. What would be the quotient and remainder if we were dividing by a different binomial, for example, $2x-1$? How would the steps differ in that case?\n6. Can you think of any other scenarios where polynomial division with a binomial might be useful? What are some potential applications of this concept?"
+}

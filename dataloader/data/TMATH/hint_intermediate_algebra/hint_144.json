@@ -1,0 +1,7 @@
+{
+    "problem": "Let $x,$ $y,$ $z$ be real numbers such that $4x^2 + y^2 + 16z^2 = 1.$  Find the maximum value of\n\\[7x + 2y + 8z.\\]",
+    "level": "Level 4",
+    "type": "Intermediate Algebra",
+    "solution": "By Cauchy-Schwarz\n\\[\\left( \\frac{49}{4} + 4 + 4 \\right) (4x^2 + y^2 + 16z^2) \\ge (7x + 2y + 8z)^2.\\]Since $4x^2 + y^2 + 16z^2 = 1,$\n\\[(7x + 2y + 8z)^2 \\le \\frac{81}{4}.\\]Hence, $7x + 2y + 8z \\le \\frac{9}{2}.$\n\nFor equality to occur, we must have $\\frac{2x}{7/2} = \\frac{y}{2} = \\frac{4z}{2}$ and $4x^2 + y^2 + 16z^2 = 1.$  We can solve, to find $x = \\frac{7}{18},$ $y = \\frac{4}{9},$ and $z = \\frac{1}{9},$ so the maximum value of $7x + 2y + 8z$ is $\\boxed{\\frac{9}{2}}.$",
+    "socratic_questions": "1. What is the given condition in the problem? Can you state it in mathematical terms?\n2. What is the expression that we need to find the maximum value of? \n3. Can you identify any familiar inequalities that can be used to solve this problem?\n4. How can we apply Cauchy-Schwarz inequality in this context? \n5. What is the expression that we obtain after applying Cauchy-Schwarz inequality?\n6. How can we determine the maximum value of the expression based on the obtained inequality?\n7. What conditions need to be satisfied for the equality to hold in the inequality?\n8. Can you find the values of $x,$ $y,$ and $z$ that satisfy the equality condition?\n9. What is the maximum value of the expression $7x + 2y + 8z$ based on the values of $x,$ $y,$ and $z$ that satisfy the equality condition?"
+}

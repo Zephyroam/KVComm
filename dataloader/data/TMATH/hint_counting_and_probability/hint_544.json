@@ -1,0 +1,7 @@
+{
+    "problem": "A penny, nickel, dime, and quarter are simultaneously flipped.  What is the expected value of the amount of the coins which come up heads?  Express your answer in cents, rounded to the nearest tenth of a cent.",
+    "level": "Level 4",
+    "type": "Counting & Probability",
+    "solution": "There is a $\\dfrac{1}{2}$ probability that each coin comes up heads, so the expected value of the coins, in cents, that come up heads is $\\dfrac{1}{2}(1 + 5+ 10 + 25) = \\boxed{20.5}$.",
+    "socratic_questions": "1. Can you explain what is meant by \"expected value\" in this context?\n2. How many possible outcomes are there when flipping four coins simultaneously?\n3. What are the potential values that can be obtained for each coin (in cents)?\n4. How can we determine the probability that a specific coin comes up heads?\n5. Can you explain why the probability for each coin coming up heads is $\\frac{1}{2}$?\n6. How can we calculate the total value when all four coins come up heads?\n7. Why is it appropriate to multiply the probability of each coin coming up heads by its respective value?\n8. Can you simplify the expression: $\\frac{1}{2}(1 + 5 + 10 + 25)$ to find the expected value?\n9. Why do we round the answer to the nearest tenth of a cent?\n10. Can you think of any similar probability problems where we can use the concept of expected value?"
+}

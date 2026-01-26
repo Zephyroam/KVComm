@@ -1,0 +1,7 @@
+{
+    "problem": "A yogurt shop sells four flavors of yogurt and has six different toppings. How many combinations of one flavor and two different toppings are available?",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "There are 4 choices of flavor, and $\\binom{6}{2}=15$ ways to choose two of the six toppings. The total number of combinations is $4\\cdot 15=\\boxed{60}$.",
+    "socratic_questions": "1. What is the total number of flavors available?\n2. How many different toppings does the yogurt shop have?\n3. How many flavors can we choose from to make one combination?\n4. In how many ways can we choose two different toppings from the available options?\n5. How would you calculate the number of combinations of one flavor and two different toppings?\n6. Can you explain why you multiply the number of flavors by the number of ways to choose two toppings?\n7. Are there any other similar scenarios where you can apply the same reasoning to find the total number of combinations?"
+}

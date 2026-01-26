@@ -1,0 +1,7 @@
+{
+    "problem": "Compute without using a calculator: $\\dfrac{9!}{6!3!}$",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "$\\dfrac{9!}{6!3!} = \\dfrac{9 \\times 8 \\times 7 \\times 6 \\times \\cdots \\times 1}{(6 \\times 5 \\times \\cdots \\times 1) \\times (3 \\times 2 \\times 1)} = \\dfrac{9 \\times 8 \\times 7}{3 \\times 2 \\times 1} = \\boxed{84}$.",
+    "socratic_questions": "1. Can you explain what the expression $\\dfrac{9!}{6!3!}$ represents in terms of counting and combinations?\n2. What does the numerical value in the numerator of the expression represent? How about the values in the denominators?\n3. How can we interpret the factorial notation in the context of counting and arranging objects?\n4. Why do we need to divide by $6!$ and $3!$ in the expression?\n5. Can you explain the concept of permutations and combinations and how they are related to this expression?\n6. What would the expression look like if we had different values for the numerator and denominators? How would the interpretation change?\n7. How could you generalize this expression to account for different numbers of objects or groups?\n8. Can you think of any real-life scenarios where this type of counting and combination calculation would be useful?\n9. How do you know that the simplified expression is equal to 84? Can you demonstrate this using a specific example?\n10. Can you think of any other situations where counting and probability concepts would be applied in a similar way?"
+}

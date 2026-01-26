@@ -1,0 +1,7 @@
+{
+    "problem": "In right triangle $XYZ$ with $\\angle YXZ = 90^\\circ$, we have $XY = 24$ and $YZ = 25$.  Find $\\tan Y$.",
+    "level": "Level 2",
+    "type": "Geometry",
+    "solution": "[asy]\n\npair X,Y,Z;\n\nX = (0,0);\n\nY = (24,0);\n\nZ = (0,7);\n\ndraw(X--Y--Z--X);\n\ndraw(rightanglemark(Y,X,Z,23));\n\nlabel(\"$X$\",X,SW);\n\nlabel(\"$Y$\",Y,SE);\n\nlabel(\"$Z$\",Z,N);\n\nlabel(\"$25$\",(Y+Z)/2,NE);\n\nlabel(\"$24$\",Y/2,S);\n\n[/asy]\n\nThe Pythagorean Theorem gives us $XZ= \\sqrt{YZ^2 - XY^2} = \\sqrt{625-576} = \\sqrt{49}=7$, so $\\tan Y = \\frac{XZ}{XY} = \\ \\boxed{\\frac{7}{24}}$.",
+    "socratic_questions": "1. Can you explain what a right triangle is and what the right angle represents in this context?\n2. Based on the given information, how can we find the length of the side $XZ$ in the triangle $XYZ$?\n3. What equation can we use to find the length of side $XZ$?\n4. Why is the Pythagorean Theorem appropriate for this situation?\n5. How do we apply the Pythagorean Theorem to find the length of side $XZ$?\n6. What is the resulting equation and how do we solve it to find the value of $XZ$?\n7. Once we have the values of $XZ$ and $XY$, how can we use them to find the tangent of angle $Y$?\n8. What is the formula for tangent and how can it be applied in this situation?\n9. Plugging in the values we found, what is the value of $\\tan Y$ in this right triangle?\n10. Can you think of any other similar triangles where we can apply the Pythagorean Theorem and find the tangent of an angle in a similar manner?"
+}

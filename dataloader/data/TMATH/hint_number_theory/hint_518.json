@@ -1,0 +1,7 @@
+{
+    "problem": "Find the sum of $111_4+323_4+132_4$. Express your answer in base $4$.",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "Since $1_4+3_4+2_4=12_4$, we carry over the $1$. Then we have $1_4+1_4+2_4+3_4=13_4$, so we carry over another $1$. For the leftmost column, we have $1_4+1_4+3_4+1_4=12_4$. In column format, this reads $$ \\begin{array}{c@{}c@{\\;}c@{}c@{}c@{}c} & & & _{1} &_{1}&\\\\ & & & 1& 1 & 1_4\\\\ & & & 3 & 2 & 3_4\\\\& & + & 1 & 3 & 2_4\\\\ \\cline{2-6} & & 1 & 2 & 3& 2_4\\\\ \\end{array} $$The sum is $\\boxed{1232_4}$.",
+    "socratic_questions": "1. What is the first step in finding the sum of $111_4+323_4+132_4$? \n2. How do we carry over the values when adding numbers in base 4? \n3. Can you explain the process of adding $1_4+3_4+2_4$? \n4. Why do we need to carry over the value of $1$ in the second column? \n5. What is the sum of $1_4+1_4+2_4+3_4$ after carrying over the value of $1$? \n6. How do we find the sum of $1_4+1_4+3_4+1_4$ in the leftmost column? \n7. Can you show the addition of $111_4+323_4+132_4$ in column format as shown in the example? \n8. What is the final result of $111_4+323_4+132_4$ in base 4?"
+}

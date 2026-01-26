@@ -1,0 +1,7 @@
+{
+    "problem": "Rosie can make two pies out of nine apples. How many pies can she make out of twenty-seven apples?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Since $\\frac{27}{9} =3$, Rosie has 3 times the number of apples she needs to make 2 pies.  So, she can make $2\\cdot 3 = \\boxed{6}$ pies.",
+    "socratic_questions": "1. How many apples does Rosie need to make one pie?\n2. How many pies can Rosie make with 9 apples?\n3. How many times does 27 apples exceed the number of apples needed for one pie?\n4. How many times does 27 apples exceed the number of apples needed for two pies?\n5. Based on the previous answers, how many pies can Rosie make with 27 apples?\n6. Can you think of a general rule for determining how many pies Rosie can make based on the number of apples she has?"
+}

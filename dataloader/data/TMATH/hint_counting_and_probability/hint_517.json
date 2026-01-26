@@ -1,0 +1,7 @@
+{
+    "problem": "If I expand $25\\cdot 24\\cdot 23 \\cdots 3 \\cdot 2 \\cdot 1$, how many zeros are there at the end of the number I get?",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "To have a zero at the end of a number means that the number is divisible by $10$. $10 = 2\\cdot 5$. Thus, in our multiplication, we want to pair twos and fives. Every other number is divisible by two, every fourth number is divisible by four, etc. This means that we have many more factors of two than of fives, so we just want to count the number of fives that we have available to pair with twos. $\\frac{25}{5} = 5$, so we know that we have $5$ fives (one for $5$, one for $10$, one for $15$, and so on). However, $25 = 5\\cdot 5$, so we have one more five to count. Thus, we have six fives which we can pair with twos, giving us a final answer of $\\boxed{6}$ zeros at the end of the number.",
+    "socratic_questions": "1. What does it mean for a number to have zeros at the end?\n2. How can we determine if a number is divisible by 10?\n3. Can you express 10 as a product of prime factors?\n4. How can we determine the factors of 10 in the given multiplication?\n5. How many pairs of 2s and 5s can we make from the numbers 25 to 1?\n6. Can you determine how many factors of 5 are available for pairing?\n7. How can we account for the numbers with more than one factor of 5?\n8. What is the final number of zeros at the end of the multiplication?"
+}

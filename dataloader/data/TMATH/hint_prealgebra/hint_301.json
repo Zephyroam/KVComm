@@ -1,0 +1,7 @@
+{
+    "problem": "What is the greatest common factor of 68 and 92?",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "$68=2^2\\cdot17$ and $92=2^2\\cdot23$. The only prime number that these two prime factorizations have in common is the number 2. If a number's prime factorization has a 2 raised to a power greater than 2, it will not be a factor of either of these numbers, so their GCF is $2^2=\\boxed{4}$.",
+    "socratic_questions": "1. What is the purpose of finding the greatest common factor (GCF) of two numbers?\n2. What are the prime factorizations of 68 and 92? Can you identify any common prime factors?\n3. How can we determine the GCF by examining the prime factorizations?\n4. Why is the number 2 the only common prime factor between 68 and 92?\n5. Why can't a prime factor raised to a power greater than 2 be a factor of either 68 or 92?\n6. How can we use the common prime factor(s) to find the GCF?\n7. What is the GCF of 68 and 92 based on their prime factorizations?"
+}

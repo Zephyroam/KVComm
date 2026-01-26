@@ -1,0 +1,7 @@
+{
+    "problem": "Solve for $x$, if $8^{4x-6}=\\left(\\frac{1}{2}\\right)^{x+5}$.",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "Since $8=\\left(\\frac{1}{2}\\right)^{-3}$ the equation can be rewritten as $\\left(\\frac{1}{2}\\right)^{-3(4x-6)}=\\left(\\frac{1}{2}\\right)^{x+5}$. From this equation, we see that $-3(4x-6)=x+5$. Simplifying we get, \\begin{align*}\n-12x+18&=x+5\\\\\n\\Rightarrow -13x+18&=5\\\\\n\\Rightarrow -13x&=-13\\\\\n\\Rightarrow x&=\\boxed{1}.\n\\end{align*}",
+    "socratic_questions": "1. Can you simplify the equation by rewriting the bases of the exponents in terms of a common base?\n2. What does it mean for two exponents to be equal?\n3. How can we rewrite $8$ and $\\left(\\frac{1}{2}\\right)$ in terms of a common base?\n4. After rewriting the bases, what does the new equation look like?\n5. Can you identify any exponent properties or laws that can help simplify the equation further?\n6. How can we eliminate the variable from the exponents to find the value of $x$?\n7. Once we have eliminated the variable, what does the final equation look like?\n8. How can we solve the simplified equation to find the value of $x$?\n9. Can you explain the steps and reasoning behind solving the equation?\n10. Are there any alternative methods or strategies that can be used to solve this type of exponential equation?\n11. Can you think of any other similar equations where similar thinking and steps might be useful in finding the solution?"
+}

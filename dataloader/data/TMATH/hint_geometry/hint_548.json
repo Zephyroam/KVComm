@@ -1,0 +1,7 @@
+{
+    "problem": "In the figure shown, the ratio of $BD$ to $DC$ is $4$ to $3$. The area of $\\triangle ABD$ is $24$ square centimeters. What is the area of $\\triangle ADC$? [asy] size(85); defaultpen(linewidth(1)+fontsize(10));\n\npair A = (0,5.5), B=(0,0), D = (2,0), C = (3,0);\n\ndraw(A--B--C--A--D); label(\"A\",A,N); label(\"B\",B,S); label(\"C\",C,S); label(\"D\",D,S);\ndraw(rightanglemark(A,B,C,8),linewidth(0.7));\n[/asy]",
+    "level": "Level 2",
+    "type": "Geometry",
+    "solution": "The area of a triangle is given by the formula $\\frac 12 bh$. Both $\\triangle ABD$ and $\\triangle ADC$ share the same height $AB$. Let $[ABD]$ be the area of $\\triangle ABD$ and $[ADC]$ be the area of $\\triangle ADC$. It follows that $\\frac{[ABD]}{[ADC]} = \\frac{\\frac 12 \\cdot BD \\cdot h}{\\frac 12 \\cdot DC \\cdot h} = \\frac{BD}{DC} = \\frac{4}{3}$. Thus, $[ADC] = \\frac 34 [ABD] = \\frac 34 \\cdot 24 = \\boxed{18}$.",
+    "socratic_questions": "1. Can you describe the first step towards finding the area of triangle ADC in this context?\n2. How does the ratio of BD to DC relate to the area ratios of triangle ABD and ADC?\n3. What formula can we use to find the area of a triangle, given its base and height?\n4. How does the formula for the area of a triangle apply to triangles ABD and ADC in this problem?\n5. What is the area ratio between triangle ABD and ADC, based on the given ratio of BD to DC?\n6. How can we use the area ratio to find the area of triangle ADC?\n7. What is the final answer for the area of triangle ADC?"
+}

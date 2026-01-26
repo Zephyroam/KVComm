@@ -1,0 +1,7 @@
+{
+    "problem": "Let $S = 1 - 2 + 3 - 4 + \\cdots + 2009 - 2010$. What is the residue of $S$, modulo 2010?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "Note that $x + 2010 \\equiv x \\pmod{2010}$. Add 2010 to every negative summand and rearrange the terms to find $S \\equiv 0 + 1 + 2 + 3 + \\cdots + 2008 + 2009 \\pmod{2010}$. The right-hand side is the sum of the integers from 1 to 2010, so $S \\equiv \\frac{2010 \\cdot 2011}{2} \\equiv 1005 \\cdot 2011 \\equiv 1005 \\cdot 1 \\equiv \\boxed{1005} \\pmod{2010}$.",
+    "socratic_questions": "1. Can you describe the first step to solve this problem? \n2. How can we manipulate the given expression to make it easier to find the residue? \n3. What does it mean to take the residue of a number modulo 2010? \n4. How can we simplify the given expression using the property $x + 2010 \\equiv x \\pmod{2010}$? \n5. What is the simplified form of the given expression after rearranging the terms? \n6. What is the formula to find the sum of consecutive positive integers from 1 to n? \n7. How can we apply this formula to find the sum of numbers from 1 to 2009? \n8. What is the result of the sum of numbers from 1 to 2010 modulo 2010? \n9. How can we simplify the expression $1005 \\times 2011$ modulo 2010? \n10. What is the final residue of S modulo 2010?"
+}

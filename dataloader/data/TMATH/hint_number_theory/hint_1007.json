@@ -1,0 +1,7 @@
+{
+    "problem": "What is the base-ten number represented by the base-eight number 31?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "$31_8=3\\cdot8^1+1\\cdot8^0=\\boxed{25}$.",
+    "socratic_questions": "1. Can you explain what the base-eight number system is and how it works?\n2. How do we convert a base-eight number to a base-ten number? What steps are involved?\n3. In the base-eight number 31, what do the '3' and '1' represent? How do they contribute to the final base-ten result?\n4. Why do we multiply the first digit by 8 to the power of 1 and the second digit by 8 to the power of 0? What is the significance of these powers?\n5. Can you think of any other examples where you need to convert a number from one base to another? How would you apply the same steps and reasoning?"
+}

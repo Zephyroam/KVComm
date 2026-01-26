@@ -1,0 +1,7 @@
+{
+    "problem": "When a positive integer is expressed in base 7, it is $AB_7$, and when it is expressed in base 5, it is $BA_5$.  What is the positive integer in decimal?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "The number $AB_7$ is $7A + B$, and the number $BA_5$ is $5B + A$, so $7A + B = 5B + A$.  Then $6A = 4B$, so $3A = 2B$.  Then $B$ must be a multiple of 3.  But $B$ is also a digit in base 5, so $B = 3$, and $A = 2$.  The number is $7A + 2 = \\boxed{17}$.",
+    "socratic_questions": "1. Can you explain what it means for a positive integer to be expressed in a certain base? \n2. What is the value of the number $AB_7$ in decimal? \n3. What is the value of the number $BA_5$ in decimal? \n4. How can we use the equation $7A + B = 5B + A$ to solve for the values of $A$ and $B$? \n5. Why must $B$ be a multiple of 3 in order to solve for $A$ and $B$? \n6. Can you provide an example of another problem involving different bases that can be solved using similar methods?"
+}

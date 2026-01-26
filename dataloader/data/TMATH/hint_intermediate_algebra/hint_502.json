@@ -1,0 +1,7 @@
+{
+    "problem": "Find the sum $$\\frac{2^1}{4^1 - 1} + \\frac{2^2}{4^2 - 1} + \\frac{2^4}{4^4 - 1} + \\frac{2^8}{4^8 - 1} + \\cdots.$$",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "Notice that $$\\frac{2^{2^k}}{4^{2^k} - 1} = \\frac{2^{2^k} + 1}{4^{2^k} - 1} - \\frac{1}{4^{2^k} - 1} = \\frac{1}{2^{2^k}-1} - \\frac{1}{4^{2^k}-1} = \\frac{1}{4^{2^{k-1}}-1} - \\frac{1}{4^{2^k}-1}.$$Therefore, the sum telescopes as $$\\left(\\frac{1}{4^{2^{-1}}-1} - \\frac{1}{4^{2^0}-1}\\right) + \\left(\\frac{1}{4^{2^0}-1} - \\frac{1}{4^{2^1}-1}\\right) + \\left(\\frac{1}{4^{2^1}-1} - \\frac{1}{4^{2^2}-1}\\right) + \\cdots$$and evaluates to $1/(4^{2^{-1}}-1) = \\boxed{1}$.",
+    "socratic_questions": "1. What is the pattern in the given expression? How does each term relate to the previous one?\n2. Can you determine the relationship between the numerator and denominator in each term? How does this relationship help simplify the expression?\n3. Look at the expression and notice the subtraction in the denominator. How does this subtraction affect the terms in the expression?\n4. Can you rewrite each term in a simplified form using the given relationship between the numerator and denominator? How does this simplification assist in finding the sum?\n5. What happens when you combine all the simplified terms in the expression? Can you identify any similarities or differences in the terms?\n6. Based on the telescoping pattern in the sum, what can you conclude about the final sum? How does this relate to the initial expression given?"
+}

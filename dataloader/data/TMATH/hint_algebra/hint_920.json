@@ -1,0 +1,7 @@
+{
+    "problem": "The product of two positive integers plus their sum is 95. The integers are relatively prime, and each is less than 20. What is the sum of the two integers?",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "Let our numbers be $a$ and $b$ with $a>b.$ Then $ab+a+b=95$. With Simon's Favorite Factoring Trick in mind, we add $1$ to both sides and get $ab+a+b+1 = 96$, which factors as $(a+1)(b+1)=96$. We consider pairs $(a+1, b+1)$ of factors of $96$: $(96,1), (48,2), (32,3), (24,4), (16,6), \\text{and} (12,8)$. Since $a<20$, we can rule out the first 4 pairs. The pair $(16,6)$ gives us $a=15, b=5$ which doesn't work because $a$ and $b$ are relatively prime, so we are left with the last pair, which gives $a=11$ and $b=7$, so $a+b=\\boxed{18}$.",
+    "socratic_questions": "1. How can we represent the two positive integers in this problem?\n2. According to the problem statement, what equation can we write to represent the product of the two integers plus their sum being 95?\n3. Are there any restrictions on the values of the two integers? If so, what are they?\n4. How can we ensure that the two integers are relatively prime?\n5. What are the possible values for the two integers, given that they are both less than 20?\n6. Can we narrow down the possible values of the two integers based on the equation we derived?\n7. How can we systematically check the different pairs of integers to find the ones that satisfy the equation?\n8. What is the sum of the two integers that satisfy the given conditions?"
+}

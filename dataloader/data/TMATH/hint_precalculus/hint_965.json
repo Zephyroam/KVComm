@@ -1,0 +1,7 @@
+{
+    "problem": "If $\\det \\mathbf{M} = -2,$ then find $ \\det (\\mathbf{M}^4).$",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "We have that $\\det (\\mathbf{M}^4) = (\\det \\mathbf{M})^4 = \\boxed{16}.$",
+    "socratic_questions": "1. How does finding the determinant of a matrix relate to its properties or characteristics?\n2. What is the significance of the value of the determinant in determining properties of a matrix?\n3. Can you explain the relationship between the determinant of a matrix and its powers?\n4. When finding the determinant of a matrix raised to a power, what key relationship or property allows us to simplify the calculation?\n5. In the given problem, what is the value of the determinant of matrix M? How does this value help us find the determinant of M^4?\n6. Can you generalize the relationship between the determinant of a matrix and its powers? Are there any patterns or rules that we can apply to any matrix?"
+}

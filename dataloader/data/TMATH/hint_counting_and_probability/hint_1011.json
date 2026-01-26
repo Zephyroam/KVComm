@@ -1,0 +1,7 @@
+{
+    "problem": "If the odds for pulling a prize out of the box are $3:4$, what is the probability of not pulling the prize out of the box? Express your answer as a common fraction.",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "If the odds for pulling a prize out of the box are $3:4$, that means that 3 out of 7 times will result in a prize, while 4 out of 7 times will not. So the probability of not pulling the prize out of the box is $\\boxed{\\frac{4}{7}}$.",
+    "socratic_questions": "1. How would you describe the concept of odds in relation to probability?\n2. Can you explain what the ratio \"3:4\" represents in terms of the likelihood of pulling a prize out of the box?\n3. If there are 7 total outcomes when pulling from the box, how many of those outcomes result in pulling a prize?\n4. How many of the 7 outcomes do not result in pulling a prize?\n5. How can we express the probability of not pulling the prize out of the box as a fraction?\n6. Can you simplify the fraction that represents the probability of not pulling the prize out of the box?\n7. How does the concept of odds relate to the concept of probability?\n8. Can you think of other scenarios where odds can be used to determine probabilities?\n9. What would the probability be if the odds for pulling a prize out of the box were different, such as 2:5 or 5:3? How would that affect the likelihood of not pulling the prize out of the box?"
+}

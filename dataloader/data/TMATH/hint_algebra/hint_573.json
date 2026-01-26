@@ -1,0 +1,7 @@
+{
+    "problem": "What is $2a+3b$, where $a=2-i$ and $b=-1+i$?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "Substituting in, we have $2(2-i)+3(-1+i)$. Expanding, we have $4-2i-3+3i$; adding, we have $\\boxed{1+i}$.",
+    "socratic_questions": "1. How would you describe the first step in finding the value of $2a+3b$?\n2. What are some different methods you know for evaluating expressions like $2a+3b$?\n3. If you choose to use the method of substitution, how would you substitute the given values for $a$ and $b$?\n4. Why is the substitution method applicable in this case? What characteristics make it suitable for this problem?\n5. What is the result of substituting the given values for $a$ and $b$ in the expression $2a+3b$? How can you verify that this result is correct?\n6. Can you think of other types of mathematical expressions where a similar approach might be used to find their values?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "How many natural-number factors does $N$ have if $N = 2^4 \\cdot 3^3 \\cdot 5^2 \\cdot 7^2$?",
+    "level": "Level 4",
+    "type": "Counting & Probability",
+    "solution": "Any positive integer divisor of $N$ must take the form $2^a \\cdot 3^b \\cdot 5^c \\cdot 7^d$ where $0 \\leq a \\leq 4$, $0 \\leq b \\le 3$, $0 \\le c \\le 2$, $0\\leq d \\leq 2$. In other words, there are 5 choices for $a$, 4 choices for $b$, 3 choices for $c$, and 3 choices for $d$. So there are $5 \\cdot 4 \\cdot 3 \\cdot 3= \\boxed{180}$ natural-number factors of $N$.",
+    "socratic_questions": "1. Can you explain what it means for a number to be a factor of another number?\n2. How can we determine the factors of a given number?\n3. What are the prime factors of $N$? And what are their powers?\n4. How can we use the prime factorization of $N$ to find the total number of factors it has?\n5. What is the range of possible powers for each prime factor?\n6. If a factor of $N$ has a power of 0 for any prime factor, what does that mean?\n7. How many choices do we have for the power of each prime factor to create a different factor of $N$?\n8. How can we calculate the total number of natural-number factors of $N$?"
+}

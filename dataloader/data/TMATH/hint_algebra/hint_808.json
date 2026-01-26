@@ -1,0 +1,7 @@
+{
+    "problem": "June and Julia live 1 mile apart. It takes June 4 minutes to ride her bike directly to Julia's house. At the same rate, how many minutes would it take June to ride the 3.5 miles from her own house to Bernard's house?",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "Since it takes June 4 minutes to travel 1 mile, it takes her $4\\times3.5=\\boxed{14}$ minutes to travel 3.5 miles.",
+    "socratic_questions": "1. How would you calculate the speed at which June is riding her bike from her house to Julia's house?\n2. What information can you gather from the fact that it takes June 4 minutes to ride 1 mile?\n3. How can you use this information to determine how long it would take June to ride 3.5 miles?\n4. Are there any additional factors or considerations that should be taken into account when calculating the time it takes June to ride from her house to Bernard's house?\n5. Is the distance between Julia's house and Bernard's house relevant to the calculation? If so, how can you incorporate it?\n6. Can you think of any other scenarios where a similar thought process and steps would be applied when calculating travel time?"
+}

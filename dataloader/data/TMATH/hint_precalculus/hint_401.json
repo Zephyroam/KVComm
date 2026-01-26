@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\begin{pmatrix} 1 & 0 \\\\ 1 & 1 \\end{pmatrix}^{2018}.$",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "In general,\n\\[\\begin{pmatrix} 1 & 0 \\\\ a & 1 \\end{pmatrix} \\begin{pmatrix} 1 & 0 \\\\ b & 1 \\end{pmatrix} = \\begin{pmatrix} 1 & 0 \\\\ a + b & 1 \\end{pmatrix},\\]so\n\\[\\begin{pmatrix} 1 & 0 \\\\ 1 & 1 \\end{pmatrix}^{2018} = \\underbrace{\\begin{pmatrix} 1 & 0 \\\\ 1 & 1 \\end{pmatrix} \\begin{pmatrix} 1 & 0 \\\\ 1 & 1 \\end{pmatrix} \\dotsm \\begin{pmatrix} 1 & 0 \\\\ 1 & 1 \\end{pmatrix}}_{\\text{2018 matrices}} = \\boxed{\\begin{pmatrix} 1 & 0 \\\\ 2018 & 1 \\end{pmatrix}}.\\]",
+    "socratic_questions": "1. How can we write the given matrix as a product of two matrices?\n2. What is the result of multiplying the two matrices in general? Can you write it in matrix form?\n3. How can we represent the given matrix raised to the power of 2018 using matrix multiplication?\n4. Can you explain why the pattern of the second column of the resulting matrix is always 0 and 2018?\n5. Can you describe the steps involved in multiplying two matrices to find the resulting matrix?\n6. Can you think of any other examples where a similar pattern might emerge when raising a matrix to a high power?"
+}

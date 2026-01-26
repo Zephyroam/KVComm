@@ -1,0 +1,7 @@
+{
+    "problem": "My co-worker Erich is very odd.  He only likes numbers that are divisible by 5.  How many different last digits are possible in numbers that Erich likes?",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "A number is divisible by 5 if and only if it ends in 0 or 5, so there are only $\\boxed{2}$ possible last digits.",
+    "socratic_questions": "1. Can you explain what it means for a number to be divisible by 5?\n2. How does Erich's preference for numbers that are divisible by 5 affect the possible last digits of the numbers he likes?\n3. Are there any last digits that Erich does not like?\n4. How many different last digits are possible in numbers that are divisible by 5?\n5. Can you find a pattern or rule for determining if a number is divisible by 5 based on its last digit?\n6. Are there any other interesting characteristics or properties of numbers that are divisible by 5?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "The value of the expression  \\[(3^{1001}+4^{1002})^2-(3^{1001}-4^{1002})^2\\]is $k\\cdot12^{1001}$ for some positive integer $k$. What is $k$?",
+    "level": "Level 5",
+    "type": "Algebra",
+    "solution": "Expanding the squares, we have \\begin{align*}\n&(3^{1001}+4^{1002})^2-(3^{1001}-4^{1002})^2\\\\\n&\\qquad=3^{2002}+2\\cdot3^{1001}\\cdot4^{1002}+4^{2004}\\\\\n&\\qquad\\qquad-3^{2002}+2\\cdot3^{1001}\\cdot4^{1002}-4^{2004}\\\\\n&\\qquad=4\\cdot3^{1001}\\cdot4^{1002}.\n\\end{align*}Since $4^{1002}=4\\cdot4^{1001}$, we can rewrite the expression as  \\[16\\cdot3^{1001}\\cdot4^{1001}=16\\cdot12^{1001}.\\]Thus, $k=\\boxed{16}$.",
+    "socratic_questions": "1. Can you describe the first step in simplifying this expression?\n2. What rules or properties of exponents might be helpful in simplifying this expression?\n3. If you expand the squared binomials, what do you notice about the resulting terms?\n4. How can you simplify the expression further by combining like terms?\n5. Can you identify any patterns or common factors in the resulting terms?\n6. How can you factor out those common factors and rewrite the expression?\n7. What are the resulting factors after factoring out the common factors?\n8. What do you notice about those factors?\n9. How can you further simplify the expression using the difference of squares property?\n10. What is the final form of the expression?\n11. Can you identify any specific terms in the simplified expression that allow us to determine the value of $k$?\n12. What is the value of $k$ and why?"
+}

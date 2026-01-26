@@ -1,0 +1,7 @@
+{
+    "problem": "What is the greatest common factor of 32 and 48?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "$32=2^5$ and $48=2^4\\cdot3$. The only prime number these two have in common is 2. If a number contains a factor of 2 greater than $2^4$, then it cannot be a factor of 48. However, $2^4$ is a factor of both numbers. Thus, the greatest common factor of 32 and 48 is $2^4=\\boxed{16}$.",
+    "socratic_questions": "1. What is the prime factorization of 32 and 48?\n2. What does it mean to find the greatest common factor (GCF)?\n3. How do you determine the GCF using prime factorization?\n4. Why can't a factor of 32 be larger than $2^4$?\n5. Why is $2^4$ a factor of both 32 and 48?\n6. Can you think of any other numbers for which you can find the GCF using a similar method?"
+}

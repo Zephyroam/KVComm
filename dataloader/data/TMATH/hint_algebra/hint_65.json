@@ -1,0 +1,7 @@
+{
+    "problem": "A television's price was discounted $40\\%$ and then slashed another $40\\%$ during a liquidation sale. By what percent has the original price been reduced?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "Let the original price of the television be $T$. Then the price is now $0.6(0.6T)=0.36T$. Thus overall the price has been reduced by $1-0.36=\\boxed{64\\%}$.",
+    "socratic_questions": "1. Can you calculate the price reduction if a television's price is discounted by 40%?\n2. After the first discount, what percentage of the original price remains?\n3. How would you calculate the price reduction if the discounted television's price is then slashed by another 40% during a liquidation sale?\n4. What percentage of the discounted price remains after the second discount?\n5. To determine the overall reduction on the original price, how would you combine the percentages from each discount?\n6. Can you calculate the final percentage of the original price that has been reduced after both discounts are applied?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "A polynomial with integer coefficients is of the form\n\\[x^3 + a_2 x^2 + a_1 x - 11 = 0.\\]Enter all the possible integer roots of this polynomial, separated by commas.",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "By the Integer Root Theorem, the possible integer roots are all the divisors of 11 (including negative divisors), so they are $\\boxed{-11, -1, 1, 11}.$",
+    "socratic_questions": "1. What is the Integer Root Theorem? \n2. How can we determine the possible integer roots of a polynomial with integer coefficients using the Integer Root Theorem?\n3. What are the divisors of 11? \n4. Why do we include negative divisors when determining the possible integer roots using the Integer Root Theorem?\n5. How do we use the possible integer roots to solve the polynomial equation? \n6. Can we use the Integer Root Theorem for polynomials with coefficients that are not integers? Why or why not? \n7. Are there any limitations to using the Integer Root Theorem to determine the possible integer roots of a polynomial equation?"
+}

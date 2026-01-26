@@ -1,0 +1,7 @@
+{
+    "problem": "What is the smallest four-digit positive integer that is divisible by 47?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "We divide 1000 by 47 and get a remainder of 13. Therefore, if we subtract 13 from 1000, we should get an integer divisible by 47. Since $1000-13 = 987$ and 987 is divisible by 47, we can then add 47 to 987 to get the smallest four-digit integer that is divisible by 47, namely $987+47 = \\boxed{1034}$.",
+    "socratic_questions": "1. What is the main idea behind the given approach of subtracting the remainder obtained by dividing 1000 by 47 from 1000?\n2. Why does subtracting the remainder lead us to an integer divisible by 47? Is this a general property or specific to this problem?\n3. How does subtracting 13 from 1000 guarantee that the resulting number is still divisible by 47?\n4. Can you explain why adding 47 to 987 will give us the smallest four-digit integer divisible by 47?\n5. Is there any other way we can find the smallest four-digit integer divisible by 47, apart from this specific approach? If so, what is it and how does it work?\n6. Can you think of a similar problem where we can apply a similar thought process and steps to find the solution? Can you explain the similarities and differences between that problem and this one?"
+}

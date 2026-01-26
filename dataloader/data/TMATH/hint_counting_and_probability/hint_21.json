@@ -1,0 +1,7 @@
+{
+    "problem": "Six green balls and four red balls are in a bag.  A ball is taken from the bag, its color recorded, then placed back in the bag.  A second ball is taken and its color recorded.  What is the probability the two balls are the same color?",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "We could have either two greens or two reds. The probability of drawing two greens is $\\left(\\dfrac{6}{10}\\right)^{\\!2}=\\dfrac{9}{25}$. The probability of drawing two reds is $\\left(\\dfrac{4}{10}\\right)^{\\!2}=\\dfrac{4}{25}$.  So the answer is $\\dfrac{9}{25} + \\dfrac{4}{25} = \\boxed{\\dfrac{13}{25}}$.",
+    "socratic_questions": "1. Can you describe the first step in solving this problem?\n2. What are the different possibilities for the first ball that can be drawn from the bag?\n3. What are the different possibilities for the second ball that can be drawn from the bag?\n4. How can we calculate the probability of drawing two balls of the same color?\n5. What is the probability of drawing two green balls?\n6. What is the probability of drawing two red balls?\n7. How do we find the final probability of drawing two balls of the same color?\n8. How do we add the probabilities of drawing two green balls and two red balls?\n9. Can you simplify the final answer?\n10. How does this probability relate to the concept of counting and probability in general?\n11. Can you think of other situations where similar thinking and steps might be used in solving probability problems?"
+}

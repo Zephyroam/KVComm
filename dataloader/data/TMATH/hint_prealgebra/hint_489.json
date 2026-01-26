@@ -1,0 +1,7 @@
+{
+    "problem": "At 11:00 a.m. how many degrees are in the smaller angle formed by the minute hand and the hour hand of the clock?",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "The minute hand is pointing directly at the 12 and the hour hand is pointing directly at the 11.  Therefore, the angle they form is $\\frac{1}{12}$ of a full revolution, which is $\\frac{1}{12}\\times 360^\\circ=\\boxed{30}$ degrees.",
+    "socratic_questions": "1. Can you describe the initial steps involved in finding the angle formed by the minute hand and the hour hand at 11:00 a.m.?\n2. What are the possible methods or approaches to determine the angle between the two clock hands?\n3. If you were to use the method of subtracting the smaller angle from the larger angle, how would you calculate the smaller angle?\n4. Why is it possible to consider the minute hand as a reference point for determining the angle between the two hands?\n5. Can you explain why the angle formed by the hands at 11:00 a.m. is always a fraction of a full revolution?\n6. How can you verify that the angle calculation you obtained (30 degrees) is correct?\n7. Can you think of a different time on the clock where the calculated angle would be different? How would you approach determining the angle at that time?\n8. Are there any other situations or scenarios where a similar thinking process and steps might be applied to calculate angles?"
+}

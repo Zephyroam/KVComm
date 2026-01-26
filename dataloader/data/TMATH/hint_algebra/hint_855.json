@@ -1,0 +1,7 @@
+{
+    "problem": "Each of the ten volumes of the collected works of Theodore Sturgeon is available in paperback for $\\$$15 or in hardcover for $\\$$25. Theresa buys a copy of each of the ten volumes for a total of $\\$$220. How many hardcover volumes did she buy?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "Say she bought $h$ hardcovers and $p$ paperbacks. She bought ten volumes total, so $h+p=10$. Her total cost, $25h+15p$, was $220$, or dividing by 5 $5h+3p=44$. Multiplying the first equation by 3 and subtracting it from the second, we get $5h-3h+3p-3p=2h=44-30=14$, or $h=\\boxed{7}$.",
+    "socratic_questions": "1. Can you describe the problem in your own words? \n2. What is the total cost of buying all ten volumes in hardcover? \n3. What is the total cost of buying all ten volumes in paperback? \n4. If Theresa bought all the volumes in hardcover, how much would she spend? \n5. If Theresa bought all the volumes in paperback, how much would she spend? \n6. How can we set up an equation to represent the given situation? \n7. Let's say Theresa bought x hardcover volumes, can you write an equation representing the total cost? \n8. Can you simplify the equation and express it in terms of just x? \n9. Now, how can we solve this equation to find the number of hardcover volumes she bought? \n10. What is the final answer and how can you verify it?"
+}

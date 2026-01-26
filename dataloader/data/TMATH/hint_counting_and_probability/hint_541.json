@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\dbinom{9}{2}\\times \\dbinom{7}{2}$.",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "\\begin{align*} \n\\dbinom{9}{2}\\times \\dbinom{7}{2} &= \\dfrac{9!}{2!7!}\\times \\dfrac{7!}{2!5!} \\\\\n&= \\dfrac{9!}{2!2!5!} \\\\\n&= \\dfrac{9\\times 8\\times 7\\times 6}{(2\\times 1)\\times (2\\times 1)} \\\\\n&= 9\\times 2\\times 7\\times 6 \\\\\n&= \\boxed{756}.\n\\end{align*}",
+    "socratic_questions": "1. What does the expression $\\dbinom{9}{2}\\times \\dbinom{7}{2}$ represent?\n2. How can we interpret $\\dbinom{9}{2}$ in the context of counting and probability?\n3. How can we interpret $\\dbinom{7}{2}$ in the context of counting and probability?\n4. What does it mean to multiply these two expressions together?\n5. Can you explain why we use factorials in the formula for combinations?\n6. How does simplifying $\\dfrac{9!}{2!2!5!}$ help us solve the problem?\n7. Can you explain the step-by-step process of simplifying this expression?\n8. Why do we cancel out the common terms in the numerator and denominator?\n9. How does cancelling out simplify the expression further?\n10. Can you describe the final calculation to determine the answer?\n11. How did you determine that the answer is 756?"
+}

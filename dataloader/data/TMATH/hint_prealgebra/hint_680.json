@@ -1,0 +1,7 @@
+{
+    "problem": "What common fraction is exactly half-way between $\\frac{2}{3}$ and $\\frac{4}{5}$?",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "The average of two numbers is exactly half-way between them.  Therefore, $\\frac{1}{2}\\left(\\frac{2}{3}+\\frac{4}{5}\\right)=\\boxed{\\frac{11}{15}}$ is half-way between $\\frac{2}{3}$ and $\\frac{4}{5}$.",
+    "socratic_questions": "1. Can you describe what \"half-way between\" means in terms of fractions?\n2. How can we determine the average of two fractions?\n3. Why do we multiply the sum of the fractions by $\\frac{1}{2}$ to find the average?\n4. Can you explain why $\\frac{11}{15}$ is the fraction that is exactly half-way between $\\frac{2}{3}$ and $\\frac{4}{5}$?\n5. Are there any other methods you can think of to find the fraction that is half-way between two given fractions?\n6. Can you come up with another example where finding a fraction that is half-way between two given fractions can be useful?"
+}

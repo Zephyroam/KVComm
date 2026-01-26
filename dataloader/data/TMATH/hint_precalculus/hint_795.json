@@ -1,0 +1,7 @@
+{
+    "problem": "Simplify $\\sin (x - y) \\cos y + \\cos (x - y) \\sin y.$",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "From the angle addition formula, the expression is equal to $\\sin ((x - y) + y) = \\boxed{\\sin x}.$",
+    "socratic_questions": "1. How familiar are you with the angle addition formula for trigonometric functions? \n2. Can you explain what the angle addition formula states? \n3. How can we use the angle addition formula to simplify the given expression? \n4. What are the steps involved in applying the angle addition formula to this expression? \n5. How can we simplify the resulting expression further to arrive at the final answer of sin x? \n6. Are there any other ways to simplify trigonometric expressions like this one? How do they compare to using the angle addition formula in terms of efficiency and ease of use?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Medians $\\overline{DP}$ and $\\overline{EQ}$ of $\\triangle DEF$ are perpendicular.  If $DP= 18$ and $EQ = 24$, then what is ${DE}$?",
+    "level": "Level 4",
+    "type": "Geometry",
+    "solution": "[asy]\npair D,EE,F,P,Q,G;\n\nG = (0,0);\nD = (1.2,0);\nP= (-0.6,0);\nEE = (0,1.6);\nQ = (0,-0.8);\nF = 2*Q - D;\ndraw(P--D--EE--F--D);\ndraw(EE--Q);\nlabel(\"$D$\",D,E);\nlabel(\"$P$\",P,NW);\nlabel(\"$Q$\",Q,SE);\nlabel(\"$E$\",EE,N);\nlabel(\"$F$\",F,SW);\ndraw(rightanglemark(Q,G,D,3.5));\nlabel(\"$G$\",G,SW);\n[/asy]\n\nPoint $G$ is the centroid of $\\triangle DEF$, so $DG:GP = EG:GQ = 2:1$.  Therefore, $DG = \\frac23(DP) = 12$ and $EG = \\frac23(EQ) =16$, so applying the Pythagorean Theorem to $\\triangle EGD$ gives us $DE = \\sqrt{EG^2 + GD^2} = \\boxed{20}$.",
+    "socratic_questions": "1. What is the relationship between medians and centroids in a triangle?\n2. How can we determine the length of the medians in this triangle?\n3. Based on the information given, what is the length of $DG$?\n4. How can we determine the length of $EG$?\n5. What does it mean for medians to be perpendicular in a triangle?\n6. How can the Pythagorean Theorem be applied to find the length of $DE$?\n7. What is the formula for the Pythagorean Theorem?\n8. How does the Pythagorean Theorem help us find the length of the hypotenuse in a right triangle?\n9. By substituting the known values of $EG$ and $DG$ into the Pythagorean Theorem, what can we find?\n10. What is the final value of $DE$?"
+}

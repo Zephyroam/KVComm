@@ -1,0 +1,7 @@
+{
+    "problem": "What is the sum of the prime factors of 91?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Since 91 is not divisible by the first three prime numbers, we try dividing $91\\div 7$.  We find a quotient of 13, so $91=7\\times 13$ and the sum of these prime factors is $7+13=\\boxed{20}$.",
+    "socratic_questions": "1. What is the definition of a prime factor?\n2. Can you list some of the prime factors of 91?\n3. How do you know if a number is a prime factor of 91? \n4. What is the method you use to find the sum of prime factors of 91? \n5. Can you explain why the sum of prime factors is limited to only the prime factors of 91?\n6. Can you think of other numbers where you can use this method to find the sum of prime factors?"
+}

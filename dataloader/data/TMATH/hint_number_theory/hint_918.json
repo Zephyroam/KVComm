@@ -1,0 +1,7 @@
+{
+    "problem": "Find the integer $n$, $0 \\le n \\le 6$, such that \\[n \\equiv 100000 \\pmod{7}.\\]",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "Since $100000 \\equiv 5 \\pmod{7}$, the integer $n$ we seek is $n = \\boxed{5}$.",
+    "socratic_questions": "1. What does it mean for an integer to be congruent to 100000 modulo 7?\n2. How can we express the given congruence as an equation?\n3. What is the remainder when 100000 is divided by 7? How does this help us find the value of n?\n4. Can you think of any other way to solve this congruence? If so, how would you approach it?\n5. If we change the modulus to a different number, how would that affect the solution to the congruence? \n6. Are there any other congruences or equations that could be analyzed using similar methods?"
+}

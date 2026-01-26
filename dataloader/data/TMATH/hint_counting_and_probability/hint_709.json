@@ -1,0 +1,7 @@
+{
+    "problem": "A box contains six cards. Three of the cards are black on both sides, one card is black on one side and red on the other, and two of the cards are red on both sides.  You pick a card uniformly at random from the box and look at a random side.  Given that the side you see is red, what is the probability that the other side is red?  Express your answer as a common fraction.",
+    "level": "Level 5",
+    "type": "Counting & Probability",
+    "solution": "Consider the two different faces of each card as distinct items at first. Since we have two completely red cards and one half-red card, we have a total of 5 red card-sides. So, since we are looking at a red face, we know we have one of these 5 red card-sides. 4 of these are located on a completely red card, and turning it over will reveal another red face. So the probability is $\\boxed{\\frac{4}{5}}$.",
+    "socratic_questions": "1. In this problem, what are the possible colors on the back of the cards?\n2. How many cards are there in total?\n3. How many cards have a red side facing up?\n4. If a card has a red side facing up, what is the probability that the other side is also red?\n5. How many red sides are there in total among all the cards?\n6. How many of these red sides are on a completely red card?\n7. Why is the probability of the other side being red $\\frac{4}{5}$?\n8. Can you think of any similar probability problems where considering the different faces of an object as distinct items is helpful?"
+}

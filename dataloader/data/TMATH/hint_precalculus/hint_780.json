@@ -1,0 +1,7 @@
+{
+    "problem": "If $e^{i \\theta} = \\frac{2 + i \\sqrt{5}}{3},$ then find $\\sin 4 \\theta.$",
+    "level": "Level 3",
+    "type": "Precalculus",
+    "solution": "Squaring the given equation, we get\n\\[e^{2 i \\theta} = \\left( \\frac{2 + i \\sqrt{5}}{3} \\right)^2 = \\frac{-1 + 4i \\sqrt{5}}{9}.\\]Squaring again, we get\n\\[e^{4 i \\theta} = \\left( \\frac{-1 + 4i \\sqrt{5}}{9} \\right)^2 = \\frac{-79 - 8i \\sqrt{5}}{81}.\\]Therefore, $\\sin 4 \\theta = \\boxed{-\\frac{8 \\sqrt{5}}{81}}.$",
+    "socratic_questions": "1. Can you explain what the problem is asking for? \n2. Do you understand what $e^{i \\theta}$ represents in complex numbers? \n3. How would you approach finding $\\sin 4 \\theta$ in this problem? \n4. What steps did you take to square the given equation? \n5. Why did you choose to square the equation multiple times? \n6. Can you explain how you arrived at the expression for $e^{4 i \\theta}$? \n7. How did you use this expression to find $\\sin 4 \\theta$? \n8. In general, how can we use complex numbers to find trigonometric functions like sine and cosine? \n9. Can you think of any other problems where similar concepts or steps might be used?"
+}

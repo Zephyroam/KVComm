@@ -1,0 +1,7 @@
+{
+    "problem": "Let $f(x) = 3x + 3$ and $g(x) = 4x + 3.$ What is $f(g(f(2)))$?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "We first find that $f(2) = 9.$ Therefore, $g(f(2)) = g(9) = 39.$ Finally, $f(g(f(2))) = f(39) = \\boxed{120}.$",
+    "socratic_questions": "1. Can you describe what the function $f(x)$ does to the input $x$?\n2. And how about the function $g(x)$? What does it do?\n3. When we have functions nested inside each other, what does it mean when we write $f(g(f(2)))$? Can you explain the process of evaluating this expression step by step?\n4. What is the result of applying $f$ to 2? How did you get that?\n5. After applying $g$ to the previous result, what value do we obtain? Explain the steps involved.\n6. Finally, when we apply $f$ to the previous result, what is the final output? Show your work.\n7. Can you simplify the expression $f(g(f(2)))$ further? If so, what is the simplified form?\n8. Are there any other functions that we could use instead of $f(x)$ and $g(x)$? In this case, what would be the result of evaluating $f(g(f(2)))$ using those different functions?\n9. How does the order in which we apply the functions affect the final result? Would the result be the same if we evaluated $g(f(g(2)))$ instead? Why or why not?\n10. Can you think of any real-world situations or examples where the idea of nested functions could be useful or applicable?"
+}

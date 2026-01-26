@@ -1,0 +1,7 @@
+{
+    "problem": "Find $(4^4 \\div 4^3) \\cdot 2^8$.",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "Performing the arithmetic in the parentheses first, we obtain $4^4 \\div 4^3 = 4$, so we have \\[(4^4 \\div 4^3) \\cdot 2^8 = 4\\cdot 2^8.\\]Since  $4 = 2^2$, we have  \\[4\\cdot 2^8 = 2^2 \\cdot 2^8 = 2^{10}= \\boxed{1024}.\\]",
+    "socratic_questions": "1. How would you simplify the expression $(4^4 \\div 4^3)$?\n2. Can you explain why $(4^4 \\div 4^3)$ simplifies to 4?\n3. What does it mean to raise a number to a power? How does that affect the value of the number?\n4. How can we simplify $2^8$?\n5. What happens when we multiply $4$ and $2^8$ together?\n6. How can we simplify $2^{10}$?\n7. Can you explain why $2^{10}$ is equal to 1024?\n8. Can you think of any other examples where we can simplify expressions using similar steps?"
+}

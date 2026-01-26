@@ -1,0 +1,7 @@
+{
+    "problem": "You have three shirts and four pairs of pants.  How many outfits consisting of one shirt and one pair of pants can you make?",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "For each shirt that you choose, you can choose one of four pairs of pants. Thus, because you can choose one of three shirts, there are $3 \\cdot 4 = \\boxed{12}$ possible outfits.",
+    "socratic_questions": "1. What is the given information in this problem?\n2. How many shirts are there?\n3. How many pairs of pants are there?\n4. How many outfits can you make if you have only one shirt and one pair of pants?\n5. How do you determine the number of possible outfits?\n6. Can you explain the reasoning behind multiplying the number of shirts by the number of pairs of pants?\n7. Are there any restrictions or conditions mentioned in the problem?\n8. What would happen if you had two pairs of pants for each shirt instead of four?\n9. How would the answer change if you had five shirts instead of three?\n10. Can you generalize the method used to find the number of outfits to a situation with different numbers of shirts and pants?"
+}

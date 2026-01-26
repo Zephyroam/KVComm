@@ -1,0 +1,7 @@
+{
+    "problem": "The function $f(x)$ satisfies\n\\[f(x + y) = f(x) f(y)\\]for all real numbers $x$ and $y.$  Find all possible values of $f(0).$\n\nEnter all the possible values, separated by commas.",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "Setting $x = y = 0,$ we get\n\\[f(0) = f(0)^2,\\]so $f(0) = 0$ or $f(0) = 1.$  The constant functions $f(x) = 0$ and $f(x) = 1$ show that both $\\boxed{0,1}$ are possible values of $f(x).$",
+    "socratic_questions": "1. How would you describe the first step in solving this problem?\n2. Can you think of any other ways to approach this problem?\n3. If you try substituting specific values for $x$ and $y$, what patterns do you notice in the equation $f(x + y) = f(x) f(y)$?\n4. What happens if you let $x = y = 0$ in the equation? What does this tell you about the function $f(x)$?\n5. Can you think of any other values of $x$ and $y$ that might help you deduce the possible values of $f(0)$?\n6. Are there any restrictions or limitations on the possible values of $f(0)$, based on the given equation?"
+}

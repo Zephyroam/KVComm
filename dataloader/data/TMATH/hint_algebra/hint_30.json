@@ -1,0 +1,7 @@
+{
+    "problem": "Solve  \\[\\frac{x+4}{x-2}=3\\]for $x$.",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "Cross-multiplication gives  \\[x+4=3x-6.\\]Simplifying this expression tells us $2x=10$ or  \\[x=\\boxed{5}.\\]",
+    "socratic_questions": "1. Can you identify the first step in solving this equation?\n2. How many different methods do you know that can be used to solve equations like this?\n3. If you choose to cross multiply in this equation, what would that result in? And why would that be a suitable method?\n4. What is the significance of the denominator being $x-2$ in this equation? How does it affect the solution?\n5. After cross multiplying, what will you get as your equation? How can you simplify it to find the solution?\n6. Can you think of any other similar equations that might require similar thinking and steps to solve?"
+}

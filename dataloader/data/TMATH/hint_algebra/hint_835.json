@@ -1,0 +1,7 @@
+{
+    "problem": "Let $r=3^s-s$ and $s=2^n+1$. What is the value of $r$ when $n=2$?",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "First substitute $n=2$ into the expression for $s$ to find $s=2^2+1=5$.  Then substitute $s=5$ into the expression for $r$ to find $r=3^5-5=243-5=\\boxed{238}$.",
+    "socratic_questions": "1. How would you define the variables in this problem and what are their given values?\n2. What is the relationship between the variables $r$, $s$, and $n$ in the given equations?\n3. Can you rewrite the equation for $r$ using the given values of $s$ and $n$?\n4. What is the value of $r$ when $n=2$?\n5. How did you determine the value of $r$? Can you explain the steps you took in evaluating it?\n6. Are there any patterns or relationships you notice between the values of $r$ and $n$ in this problem?"
+}

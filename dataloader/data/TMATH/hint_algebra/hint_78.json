@@ -1,0 +1,7 @@
+{
+    "problem": "If $2^{3x} = 7$, evaluate $8^{x+1}$.",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "Rewrite $2^{3x}$ as $(2^3)^x=8^x$.  Multiply both sides of $8^x=7$ by 8 to find that $8^{x+1}=7\\cdot 8=\\boxed{56}$.",
+    "socratic_questions": "1. Can you describe the first step you would take to solve this equation?\n2. How familiar are you with properties of exponents? Are there any specific properties you would apply in this situation?\n3. If you were to convert $8^{x+1}$ into a form that could be easily solved, what would you do?\n4. What relationship, if any, do you see between $2^{3x}$ and $8^{x+1}$?\n5. How can you use the information given in $2^{3x} = 7$ to find the value of $x+1$ in $8^{x+1}$?\n6. Once you have a value for $x+1$, how can you evaluate $8^{x+1}$?\n7. Can you think of any other examples or equations where similar thinking and steps would be useful?"
+}

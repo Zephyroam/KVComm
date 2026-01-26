@@ -1,0 +1,7 @@
+{
+    "problem": "Diana is three years younger than Eduardo. Eduardo is four years older than Chad. Faye is three years older than Chad. Diana is 14 years old. How many years old is Faye?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "Let $C$, $D$, $E$, and $F$ denote the ages of Chad, Diana, Eduardo, and Faye.  We are given three equations. \\begin{align*}\nD&=E-3 \\\\\nE&=C+4 \\\\\nC+3&=F\n\\end{align*} Summing these three equations, we find that $E$ and $C$ cancel to leave $D+3=F+1$, which implies $F=D+2$.  Since $D=14$, we have $F=\\boxed{16}$.",
+    "socratic_questions": "1. What information is given about the ages of Diana, Eduardo, Chad, and Faye?\n2. Can you describe the relationship between Diana and Eduardo's ages?\n3. How can we represent Diana's age mathematically in terms of Eduardo's age?\n4. What can we say about Eduardo's age in relation to Chad's age?\n5. How can we represent Eduardo's age mathematically in terms of Chad's age?\n6. How can we represent Faye's age mathematically in terms of Chad's age?\n7. Given that Diana is 14 years old, can we solve for Eduardo's age? If so, how?\n8. After finding Eduardo's age, how can we find Faye's age using the information provided?\n9. What is the final value of Faye's age based on the given information?\n10. Can you think of any similar age-related problems where we can apply a similar approach using algebraic reasoning?"
+}

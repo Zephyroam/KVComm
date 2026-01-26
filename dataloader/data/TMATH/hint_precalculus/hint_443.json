@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\tan 75^\\circ.$",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "From the angle addition formula,\n\\begin{align*}\n\\tan 75^\\circ &= \\tan (45^\\circ + 30^\\circ) \\\\\n&= \\frac{\\tan 45^\\circ + \\tan 30^\\circ}{1 - \\tan 45^\\circ \\tan 30^\\circ} \\\\\n&= \\frac{1 + \\frac{1}{\\sqrt{3}}}{1 - \\frac{1}{\\sqrt{3}}} \\\\\n&= \\frac{\\sqrt{3} + 1}{\\sqrt{3} - 1} \\\\\n&= \\frac{(\\sqrt{3} + 1)(\\sqrt{3} + 1)}{(\\sqrt{3} - 1)(\\sqrt{3} + 1)} \\\\\n&= \\frac{3 + 2 \\sqrt{3} + 1}{2} \\\\\n&= \\boxed{2 + \\sqrt{3}}.\n\\end{align*}",
+    "socratic_questions": "1. Can you explain the first step in computing $\\tan 75^\\circ$?\n2. What formula did you use to express $\\tan 75^\\circ$ in terms of other trigonometric functions?\n3. How did you handle the angle addition of $45^\\circ$ and $30^\\circ$ in the numerator and denominator?\n4. What did you substitute for $\\tan 45^\\circ$ and $\\tan 30^\\circ$?\n5. Why did you choose to rationalize the denominator in the final step?\n6. Can you think of any other trigonometric identities or formulas that could be useful in similar calculations?"
+}

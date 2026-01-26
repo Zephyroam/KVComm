@@ -1,0 +1,7 @@
+{
+    "problem": "Find the common ratio of the infinite geometric series: $$\\frac{5}{6}-\\frac{4}{9}+\\frac{32}{135}-\\dots$$",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "We take the ratio of consecutive terms: $$\\cfrac{-\\frac{4}{9}}{\\frac{5}{6}}=\\frac{-4}{9}\\cdot \\frac{6}{5}=\\boxed{-\\frac{8}{15}}.$$",
+    "socratic_questions": "1. How would you define an infinite geometric series?\n2. Can you identify the first term and the common ratio in the given series?\n3. What is the formula for finding the sum of an infinite geometric series?\n4. How can you determine if a geometric series is convergent or divergent?\n5. If the series is convergent, what is the formula for finding its sum?\n6. How can you determine the common ratio of an infinite geometric series if you know the first term and the sum?\n7. How can you determine the common ratio of an infinite geometric series if you know two consecutive terms?\n8. Can you calculate the sum of the given infinite geometric series using the formula for the sum of a convergent series?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Jori has 2 gallons of distilled water and uses 7/6 gallon in a science experiment. What fraction of a gallon does she have left?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "We want to subtract 7/6 from 2. To do this, we get a common denominator of 6. We get \\[\n2-\\frac{7}{6} = \\frac{12}{6}-\\frac{7}{6}=\\frac{12-7}{6}=\\boxed{\\frac{5}{6}}.\n\\]",
+    "socratic_questions": "1. Can you explain what the problem is asking for?\n2. How much water does Jori initially have in gallons?\n3. How much water does Jori use in the science experiment?\n4. How can we represent the amount of water Jori has left as a fraction?\n5. Can you explain the reasoning behind getting a common denominator of 6?\n6. What is the result of subtracting 7/6 from 2 in fraction form?\n7. Can you simplify the fraction 5/6? If so, what is the simplified form?\n8. Are there any other ways to represent the answer? Can you think of alternative fractions or decimal representations?\n9. How would you explain this concept to someone else?\n10. Can you think of any real-life scenarios where understanding fractions and subtraction might be useful?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Given that $f(x) = x^{2}-2x+5$ and $g(x) =x+3$, what is the value of $f(g(5)) -g(f(5))$?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "Since $g(5) = 5+3=8$ and $f(5) = 5^2 - 2(5) + 5 = 25-10+5 = 20$, we have $f(g(5)) -g(f(5)) = f(8) - g(20) = 8^2 - 2(8) + 5 - (20+3) = 64 - 16 + 5 - 23 = \\boxed{30}$.",
+    "socratic_questions": "1. What is the first step in evaluating $f(g(5)) - g(f(5))$?\n2. How do we evaluate $g(5)$? What does it mean in terms of function composition?\n3. After evaluating $g(5)$, what does it give us in terms of the function $g(x)$?\n4. What is the value of $f(5)$? How do we evaluate it?\n5. Once we have the values of $g(5)$ and $f(5)$, how do we proceed to evaluate $f(g(5)) - g(f(5))$?\n6. Can we simplify the expression $f(g(5))$ further? How?\n7. Similarly, can we simplify the expression $g(f(5))$ further? How?\n8. What is the final result of $f(g(5)) - g(f(5))$ after simplification?\n9. How does this result relate to the composition of functions $f(x)$ and $g(x)$?\n10. Can you think of any similar examples or scenarios where we would use a similar thought process or steps?"
+}

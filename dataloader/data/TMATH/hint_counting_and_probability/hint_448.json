@@ -1,0 +1,7 @@
+{
+    "problem": "Compute \\[\\frac{(N-1)!(N)}{(N+1)!}.\\]",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "Since $N!=(N-1)!(N)$, we can rewrite the given fraction as $\\frac{N!}{(N+1)!}$. We can rewrite the denominator as $(N+1)!=(N!)(N+1)$, so the fraction becomes $\\frac{N!}{(N!)(N+1)}$. Canceling an $N!$ from the numerator and denominator, we are left with $\\boxed{\\frac{1}{N+1}}$.",
+    "socratic_questions": "1. Can you explain what the expression \\[\\frac{(N-1)!(N)}{(N+1)!}\\] represents in terms of counting and probability?\n2. How does the factorial function relate to counting? Can you give an example?\n3. What does it mean to cancel out a factorial term in the numerator and denominator? How does it affect the expression?\n4. Why are we able to rewrite $(N+1)!$ as $(N!)(N+1)$? Is there a general rule for this kind of rewriting?\n5. How does canceling out the $N!$ terms simplify the expression? Can you explain why we are left with $\\frac{1}{N+1}$?\n6. Are there any insights you can gather from the simplified expression $\\frac{1}{N+1}$? Can you think of any connections to probability or counting in this context?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Sarah is trying to fence a rectangular area containing at least 100 sq. ft while using the least amount of material to build the fence. The length of the rectangular area should be 15 ft longer than the width. What should the width, in ft, be?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "We can write the problem as the inequality $w(w+15)\\ge100$. Distributing on the left-hand side, subtracting 100 from both sides, and factoring, we get \\begin{align*}\nw(w+15)&\\ge100 \\quad \\Rightarrow \\\\\nw^2+15w-100&\\ge 0 \\quad \\Rightarrow \\\\\n(w-5)(w+20)&\\ge 0.\n\\end{align*} The roots are $w=5$ and $w=-20$. We can't have a width of -20 ft, so the smallest width possible while still having an area of at least 100 sq. ft is $\\boxed{5}$ ft.",
+    "socratic_questions": "1. Can you determine the dimensions of the rectangular area that Sarah needs to fence?\n2. How can you represent the length and width of the rectangular area mathematically?\n3. What equation can be formed to represent the area of the rectangle?\n4. How can you rewrite the equation to express the length in terms of the width?\n5. Can you determine the maximum possible width of the rectangle given that it needs to contain at least 100 sq. ft?\n6. How did you arrive at your solution for the width? Can you explain your reasoning?\n7. What is the final value or measurement of the width that satisfies all the given conditions?\n8. Can you think of any real-life situations where solving similar problems involving optimizing area would be applicable?"
+}

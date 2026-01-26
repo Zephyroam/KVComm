@@ -1,0 +1,7 @@
+{
+    "problem": "Suppose we flip four coins simultaneously: a penny, a nickel, a dime, and a quarter.  What is the probability that the penny and nickel both come up heads?",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "There are $2^4=16$ possible outcomes, since each of the 4 coins can land 2 different ways (heads or tails). There are 2 possibilities for the dime and 2 for the quarter, so there are $2 \\times 2 = 4$ successful outcomes, and the probability of this is $\\dfrac{4}{16} = \\boxed{\\dfrac{1}{4}}$.",
+    "socratic_questions": "1. How many possible outcomes are there when flipping four coins simultaneously?\n2. If each coin can land heads or tails, how many possibilities are there for each coin?\n3. How many possibilities are there for just the penny and nickel, since we want both to come up heads?\n4. How many possibilities are there for the dime and quarter? Why are there 2 possibilities for each?\n5. How can we determine the total number of successful outcomes for the penny, nickel, dime, and quarter all coming up heads?\n6. What fraction represents the probability of the penny and nickel both coming up heads out of all the possible outcomes?\n7. Is this probability the same as the probability of any other combination of coin outcomes? Why or why not?\n8. Can you think of a similar scenario where we can use similar reasoning to determine the probability of an event occurring?"
+}

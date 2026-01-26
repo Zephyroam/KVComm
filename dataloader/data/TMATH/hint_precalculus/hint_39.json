@@ -1,0 +1,7 @@
+{
+    "problem": "For real numbers $t,$ the point\n\\[(x,y) = (2^t - 3, 4^t - 5 \\cdot 2^t - 1)\\]is plotted.  All the plotted points lie on what kind of curve?\n\n(A) Line\n(B) Circle\n(C) Parabola\n(D) Ellipse\n(E) Hyperbola\n\nEnter the letter of the correct option.",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "Let $x = 2^t - 3.$  Then $2^t = x + 3,$ and\n\\begin{align*}\ny &= 4^t - 5 \\cdot 2^t - 1 \\\\\n&= (2^t)^2 - 5 \\cdot 2^t - 1 \\\\\n&= (x + 3)^2 - 5(x + 3) - 1 \\\\\n&= x^2 + x - 7.\n\\end{align*}Thus, all the plotted points lie on a parabola.  The answer is $\\boxed{\\text{(C)}}.$",
+    "socratic_questions": "1. How are the coordinates of the plotted points related to the value of $t$?\n2. If we let $x = 2^t - 3$, what are the advantages of this substitution in analyzing the curve?\n3. By substituting $x = 2^t - 3$ into the given expression for $y$, how can we simplify the equation?\n4. What kind of curve does the simplified equation represent?\n5. What are the general characteristics of a parabola?\n6. How can we further analyze the equation $y = x^2 + x - 7$ to determine the specific properties of this parabola?\n7. Can you think of any other equations that might have similar properties or require similar steps to analyze?"
+}

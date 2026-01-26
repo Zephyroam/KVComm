@@ -1,0 +1,7 @@
+{
+    "problem": "Marty wants to paint a box.  He can choose to use either blue, green, yellow, or black paint.  Also, he can style the paint by painting with a brush, a roller, or a sponge.  How many different combinations of color and painting method can Marty choose?",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "Marty can choose his paint in 4 ways and his style in 3 ways.  Thus there are a total of $4\\cdot 3 = \\boxed{12}$ different combinations he can choose.",
+    "socratic_questions": "1. What is the problem we are trying to solve in this scenario?\n2. How many different paint colors can Marty choose from? How many painting styles are there?\n3. Why do we multiply the number of paint colors by the number of painting styles? What does this represent?\n4. Can Marty choose the same paint color and painting style combination twice? Why or why not?\n5. What other factors might influence Marty's decision in choosing a paint color and style? How might we account for these factors in our analysis?\n6. Can you think of any other real-world scenarios where a similar counting problem might arise? How would you adapt your approach to solve these problems?"
+}

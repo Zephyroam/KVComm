@@ -1,0 +1,7 @@
+{
+    "problem": "A box contains 5 white balls and 6 black balls.  A ball is drawn out of the box at random.  What is the probability that the ball is white?",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "There are 5 white balls and 11 balls total, which means there is a $\\boxed{\\dfrac{5}{11}}$ probability that the ball drawn out will be white.",
+    "socratic_questions": "1. Can you describe the first step in finding the probability of drawing a white ball?\n2. Are there any other ways to find the probability in this situation?\n3. If you were to use a different method, how would you approach finding the probability?\n4. Why is it important to consider the total number of balls in the box when calculating probability?\n5. What would happen to the probability if there were more white balls in the box? How about if there were more black balls?\n6. Can you think of any other scenarios where probability can be calculated in a similar manner?"
+}

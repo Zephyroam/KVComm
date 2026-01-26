@@ -1,0 +1,7 @@
+{
+    "problem": "What is the sum of all positive integers less than 100 that are squares of perfect squares?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "Squares of perfect squares are fourth powers. $1^4=1$, $2^4=16$, and $3^4=81$ are the only fourth powers less than 100. Their sum is $1+16+81=\\boxed{98}$.",
+    "socratic_questions": "1. What does it mean for an integer to be a square of a perfect square? Can you provide an example?\n2. Can you list all the fourth powers that are less than 100?\n3. How can the sum of these fourth powers be calculated?\n4. Why are only the fourth powers considered in this problem? Are there any specific characteristics of fourth powers that make them relevant here?\n5. Are there any other types of perfect powers (such as cubes or fifth powers) that could be considered? Why or why not?\n6. Can you generalize a method to find the sum of all positive integers less than 100 that are squares of perfect squares?\n7. How would the approach change if we wanted to find the sum of all positive integers less than a different number (e.g., 200 or 500)?"
+}

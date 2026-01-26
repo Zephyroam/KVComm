@@ -1,0 +1,7 @@
+{
+    "problem": "How many integers from 1 through 9999, inclusive, do not contain any of the digits 2, 3, 4 or 5?",
+    "level": "Level 5",
+    "type": "Counting & Probability",
+    "solution": "We have 6 digits to choose from: 0, 1, 6, 7, 8, and 9.  We therefore have 6 choices for each of the digits in a 4-digit number, where we think of numbers with fewer than four digits as having leading 0s.  (For example, 0097 is 97.)  Since we have 6 choices for each of the four digits in the number, there are $6^4 = 1296$ ways to form the number.  However, we must exclude 0000 since this is not between 1 and 9999, inclusive,  so there are $1296-1 = \\boxed{1295}$ numbers.",
+    "socratic_questions": "1. What is the range of numbers that we need to consider for this problem?\n2. How many digits do we need to create a 4-digit number?\n3. What are the possible choices for each digit in the number?\n4. How many choices do we have for each digit?\n5. How many total ways can we form a 4-digit number using the given digits?\n6. Is there any number that we need to exclude from the total count? If so, why?\n7. How many numbers are there in total after excluding the excluded number?\n8. Can you explain the reasoning behind each step in this problem?\n9. Can you think of any similar problems where we can apply similar thinking and steps?"
+}

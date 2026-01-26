@@ -1,0 +1,7 @@
+{
+    "problem": "What is the sum of the positive factors of 48?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "Prime factorize $48=2^4\\cdot3$. The sum of the the positive factors of 48 is $1+2+2^2+2^3+2^4+3+2\\cdot3+2^2\\cdot3+2^3\\cdot3+2^4\\cdot3=\\boxed{124}$. Note that this also could be obtained from multiplying $(2^0+2^1+2^2+2^3+2^4)(3^0+3^1)=(31)(4)$, since expanding the left-hand side of this equation yields the left-hand side of the previous equation.",
+    "socratic_questions": "1. Can you prime factorize 48?\n2. What are the prime factors of 48 and their respective exponents?\n3. How would you find the sum of the positive factors of 48 using prime factorization?\n4. Can you list all the factors of 48?\n5. What is the relationship between the sum of the factors of 48 and prime factorization?\n6. Is there another method you can think of to find the sum of the positive factors of 48? How does it compare to using prime factorization?\n7. Can you generalize this approach to find the sum of the positive factors of any number given its prime factorization?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "How many square units are in the area of the triangle whose vertices are the $x$ and $y$ intercepts of the curve $y = (x-3)^2 (x+2)$?",
+    "level": "Level 5",
+    "type": "Algebra",
+    "solution": "First, we need to find where this curve intersects the $x$ and $y$ axes.  If $y=0$, then $(x-3)^2(x+2)=0$, which has solutions of $x=3$ and $x=-2$.  If $x=0$, then $y=(-3)^2(2)=18$.  So, the curve has two $x$-intercepts and one $y$-intercept.  The length of the base along the $x$-axis is $3-(-2)=5$.  The height from this base is equal to the $y$-intercept, 18.  The area of the triangle is $\\frac{1}{2}\\cdot 5\\cdot 18=\\boxed{45}$.",
+    "socratic_questions": "1. What are the $x$ and $y$ intercepts of the curve $y = (x-3)^2 (x+2)$?\n2. How can we find the $x$ intercepts of the curve by setting $y$ to zero?\n3. What is the significance of the $x$ intercepts in terms of the graph of the curve and the triangle's vertices?\n4. How can we find the $y$ intercept of the curve?\n5. What is the relationship between the $x$ and $y$ intercepts and the area of the triangle?\n6. How can we calculate the area of a triangle using the coordinates of its vertices?\n7. How can we express the coordinates of the triangle's vertices in terms of the intercepts of the curve?\n8. Once we have the coordinates of the triangle's vertices, how can we calculate the length of its base and height?\n9. How can we calculate the area of the triangle using the base and height?\n10. What is the final result of the area of the triangle in terms of square units?"
+}

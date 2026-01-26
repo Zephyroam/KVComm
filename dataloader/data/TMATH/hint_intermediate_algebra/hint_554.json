@@ -1,0 +1,7 @@
+{
+    "problem": "Simplify\n\\[\\frac{1}{\\log_{15} 2 + 1} + \\frac{1}{\\log_{10} 3 + 1} + \\frac{1}{\\log_6 5 + 1}.\\]",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "By the change-of-base formula,\n\\begin{align*}\n\\frac{1}{\\log_{15} 2 + 1} + \\frac{1}{\\log_{10} 3 + 1} + \\frac{1}{\\log_6 5 + 1} &= \\frac{1}{\\frac{\\log 2}{\\log 15} + 1} + \\frac{1}{\\frac{\\log 3}{\\log 10} + 1} + \\frac{1}{\\frac{\\log 5}{\\log 6} + 1} \\\\\n&= \\frac{\\log 15}{\\log 2 + \\log 15} + \\frac{\\log 10}{\\log 3 + \\log 10} + \\frac{\\log 6}{\\log 5 + \\log 6} \\\\\n&= \\frac{\\log 15}{\\log 30} + \\frac{\\log 10}{\\log 30} + \\frac{\\log 6}{\\log 30} \\\\\n&= \\frac{\\log 15 + \\log 10 + \\log 6}{\\log 30} \\\\\n&= \\frac{\\log 900}{\\log 30} = \\frac{2 \\log 30}{\\log 30} = \\boxed{2}.\n\\end{align*}",
+    "socratic_questions": "1. What is the first step to simplify the expression?\n2. Do you remember the change-of-base formula for logarithms? How can it be applied here?\n3. Why do we need to use the change-of-base formula in this problem? What are the advantages?\n4. Can you explain how each term in the expression is simplified using the change-of-base formula?\n5. What similarities do you notice in the simplified terms? How can we combine them?\n6. What is the final simplified expression? How does it relate to the original expression?\n7. Can you verify the result using a calculator or by approximating the logarithms involved?"
+}

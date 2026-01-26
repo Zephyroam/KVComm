@@ -1,0 +1,7 @@
+{
+    "problem": "Let $f : \\mathbb{R} \\to \\mathbb{R}$ be a function such that\n\\[f(x) f(y) - f(xy) = x + y\\]for all real numbers $x$ and $y.$\n\nLet $n$ be the number of possible values of $f(2),$ and let $s$ be the sum of all possible values of $f(2).$  Find $n \\times s.$",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "Setting $x = y = 1,$ we get\n\\[f(1)^2 - f(1) = 2,\\]so $f(1)^2 - f(1) - 2 = 0.$  This factors as $(f(1) + 1)(f(1) - 2) = 0,$ so $f(1) = -1$ or $f(1) = 2.$\n\nSetting $y = 1,$ we get\n\\[f(x) f(1) - f(x) = x + 1\\]for all $x.$  Then $f(x) (f(1) - 1) = x + 1.$  Since $f(1) \\neq 1,$ we can write\n\\[f(x) = \\frac{x + 1}{f(1) - 1}.\\]If $f(1) = -1,$ then\n\\[f(x) = \\frac{x + 1}{-2},\\]and we can check that this function does not work.\n\nIf $f(1) = 2,$ then\n\\[f(x) = x + 1\\]and we can check that this function works.\n\nTherefore, $n = 1$ and $s = 3,$ so $n \\times s = \\boxed{3}.$",
+    "socratic_questions": "1. Can you state the given functional equation?\n2. What is the explicit formula for $f(x)$ in terms of $f(1)$, as derived from the given equation?\n3. What are the possible values of $f(1)$, and how do they affect the function $f(x)$?\n4. How did we check that the function $f(x) = x + 1$ works?\n5. Are there any other possible functions $f(x)$ that satisfy the given equation, and how can we rule them out?\n6. Can you explain why $n=1$ and $s=3$ for this particular problem?"
+}

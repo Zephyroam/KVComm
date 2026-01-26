@@ -1,0 +1,7 @@
+{
+    "problem": "What is the sum of the roots of $x^2 - 4x + 3 = 0$?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "The sum of the roots of $ax^2+bx+c=0$ is $\\frac{-b}{a}$. Plugging in the given values, we see the answer is $\\frac{-(-4)}{1}=\\boxed{4}$.",
+    "socratic_questions": "1. Can you describe the steps involved in solving this equation?\n2. Do you know any different methods that can be used to solve quadratic equations like this one?\n3. If you choose factoring as the method, how would you identify the appropriate factors?\n4. Why can this equation be factored? What are the characteristics that make it suitable for this method?\n5. What are the factors you found, and how can they validate that your solution is correct?\n6. Can you think of other types of equations where similar thinking and steps might be used in their solution?"
+}

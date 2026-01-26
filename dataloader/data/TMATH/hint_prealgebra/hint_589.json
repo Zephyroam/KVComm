@@ -1,0 +1,7 @@
+{
+    "problem": "What is the value of $\\sqrt{36 \\times \\sqrt{16}}$?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Calculating from the inside out, $$\\sqrt{36 \\times \\sqrt{16}} = \\sqrt{36 \\times 4} = \\sqrt{144} = \\boxed{12}.$$",
+    "socratic_questions": "1. What is the first step in simplifying the expression $\\sqrt{36 \\times \\sqrt{16}}$?\n2. Can you describe the order in which the operations should be performed to evaluate this expression?\n3. How can we simplify $\\sqrt{16}$ and then multiply it by 36?\n4. What is the value of $\\sqrt{16}$?\n5. After finding the value of $\\sqrt{16}$, what is the next step in simplifying the expression?\n6. By simplifying the expression further, what is the final result?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Find the integer $n,$ $-90 \\le n \\le 90,$ such that $\\sin n^\\circ = \\sin 604^\\circ.$",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "Since the sine function has period $360^\\circ,$\n\\[\\sin 604^\\circ = \\sin (604^\\circ - 2 \\cdot 360^\\circ) = \\sin (-116^\\circ).\\]Since sine is an odd function,\n\\[\\sin (-116^\\circ) = -\\sin 116^\\circ.\\]Since $\\sin x = \\sin (180^\\circ - x)$ for all angles $x,$\n\\[-\\sin 116^\\circ = \\sin (180^\\circ - 116^\\circ) = -\\sin 64^\\circ.\\]Then $-\\sin 64^\\circ = \\sin (-64^\\circ),$ so $n = \\boxed{-64}.$",
+    "socratic_questions": "1. Can you explain what the question is asking in your own words?\n2. How can we simplify the problem using the periodicity of the sine function?\n3. What does it mean for the sine function to be odd? How does this help us simplify the problem further?\n4. Can you recall any trigonometric identity that relates sine of an angle to sine of its supplementary angle?\n5. How can we apply that trigonometric identity to the given problem?\n6. What is the resulting angle we obtain from applying the trigonometric identity?\n7. Can you confirm whether the sine of the resulting angle is equal to the sine of the initial angle?\n8. Can you think of any similarities to this problem that might involve applying similar reasoning and steps?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Antonette gets $70\\%$ on a 10-problem test, $80\\%$ on a 20-problem test and $90\\%$ on a 30-problem test. If the three tests are combined into one 60-problem test, which percent is her overall score, rounded to the nearest percent?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "Note that $70\\%$ of 10 is 7, $80\\%$ of 20 is 16 and $90\\%$ of 30 is 27. Antonette answers $7+16+27=50$ problems correctly out of 60 problems in all. Her overall score is $\\frac{50}{60}$ or $83.\\overline{3}\\%$. Rounded to the nearest percent, the answer is $\\boxed{83\\%}$.",
+    "socratic_questions": "1. How does Antonette's individual test scores contribute to her overall score?\n2. What is the weighting of each test in the overall score?\n3. How can we calculate the overall score based on the individual test scores and weightings?\n4. What is the total number of correct answers Antonette got on each test?\n5. How can we convert the number of correct answers to a percentage score for each test?\n6. How can we calculate the weighted sum of the percentage scores to get the overall score?\n7. Can you calculate the overall score by plugging in the given test scores and weightings into the formula?\n8. How would rounding to the nearest percent affect Antonette's overall score?\n9. Can you determine Antonette's overall score by rounding the calculated score to the nearest percent?"
+}

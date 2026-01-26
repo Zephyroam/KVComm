@@ -1,0 +1,7 @@
+{
+    "problem": "What is the arithmetic mean of 14, 22 and 36?",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "Adding 14 and 36 yields 50, and then adding 22 yields 72.  Dividing by 3 yields $\\boxed{24}$.",
+    "socratic_questions": "1. Can you define what the arithmetic mean is?\n2. How can we find the sum of the three given numbers?\n3. What is the sum of 14, 22, and 36?\n4. What should we do after finding the sum?\n5. How many numbers are we dealing with?\n6. How can we find the arithmetic mean using the sum and the number of items?\n7. What is the formula for arithmetic mean?\n8. Can you apply the formula to calculate the arithmetic mean of 14, 22, and 36?\n9. Can you generalize the formula for finding the arithmetic mean of any set of numbers? \n10. How does the arithmetic mean help us in understanding data sets?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "How many different positive integers can be represented as a difference of two distinct members of the set $\\{1, 2, 3, \\ldots, 14, 15, 16 \\}?$",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "We can see that the maximum positive difference is $16 - 1 = 15.$ Some quick calculations show that we can get all values between $1$ and $15.$ \\begin{align*}\n16 - 1 &= 15 \\\\\n16 - 2 &= 14 \\\\\n16 - 3 &= 13 \\\\\n& \\ \\,\\vdots \\\\\n16-14&=2\\\\\n16-15&=1\n\\end{align*} Therefore there are $\\boxed{15}$ different positive integers that can be represented as a difference of two distinct members of the set $\\{1, 2, 3, \\ldots, 14, 15, 16 \\}.$",
+    "socratic_questions": "1. What is the maximum positive difference that can be obtained from the set $\\{1, 2, 3, \\ldots, 14, 15, 16 \\}$?\n2. Can you find the minimum positive difference that can be obtained from the set? If so, what is it?\n3. Based on our observations, what range of positive differences can be achieved by subtracting two distinct members of the set? \n4. Can you identify any patterns in the sequence of positive differences?\n5. How does the number of positive differences relate to the size of the set?\n6. Is it possible to obtain all positive integers between 1 and the maximum positive difference? Why or why not?\n7. What would happen if we included negative differences in our calculations? How would that affect the number of different positive integers that can be represented?"
+}

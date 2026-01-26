@@ -1,0 +1,7 @@
+{
+    "problem": "Jason borrowed money from his parents to buy a new surfboard. His parents have agreed to let him work off his debt by babysitting under the following conditions: his first hour of babysitting is worth $\\$1$, the second hour worth $\\$2$, the third hour $\\$3$, the fourth hour $\\$4$, the fifth hour $\\$5$, the sixth hour $\\$6$, the seventh hour $\\$1$, the eighth hour $\\$2$, etc. If he repays his debt by babysitting for 39 hours, how many dollars did he borrow?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "Every $6$ hours, Jason earns $1+2+3+4+5+6=\\$21$. Since $39=6(6)+3$, he earns $6\\cdot 21=\\$126$ from $36$ hours, and in the next $3$ hours, he earns $1+2+3=\\$6$. So he borrowed $126+6=\\boxed{\\$132}$.",
+    "socratic_questions": "1. What are the conditions for Jason's debt repayment in terms of babysitting hours and payment?\n2. How much money does Jason earn every 6 hours of babysitting? Can you explain the calculation behind it?\n3. How can the total amount of money earned in 36 hours be calculated using the given conditions?\n4. What is the additional amount Jason earns in the next 3 hours of babysitting? How is it calculated?\n5. How can the total amount of money earned in 39 hours be determined using the information provided?\n6. What is the relationship between the total amount earned by babysitting for 39 hours and the amount of money Jason borrowed?"
+}

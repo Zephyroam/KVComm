@@ -1,0 +1,7 @@
+{
+    "problem": "Find the value of $k$ for which $kx^2 -5x-12 = 0$ has solutions $x=3$ and $ x = -\\frac{4}{3}$.",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "Recall that for an equation of the form $ax^2 + bx + c = 0$, the sum of roots is equal to $-b/a$ and the product of the roots is equal to $c/a$.\n\nSo, we can write the set of equations \\begin{align*}\n3 - \\frac{4}{3} &= \\frac{5}{k} \\\\\n-4 &= \\frac{-12}{k}\n\\end{align*}\n\nThe second equation tells us immediately that $k = \\boxed{3}$.",
+    "socratic_questions": "1. What is the first step you would take to solve the given equation $kx^2 - 5x - 12 = 0$?\n2. How would you determine the value of $k$ based on the given solutions $x = 3$ and $x = -\\frac{4}{3}$?\n3. Can you explain the significance of the quadratic equation having these specific solutions in terms of the factors or roots of the equation?\n4. What would be the result if you substitute $x = 3$ and $x = -\\frac{4}{3}$ into the equation $kx^2 - 5x - 12 = 0$? Does it satisfy the equation?\n5. Based on the provided solutions, can you determine any relationship between $k$ and the coefficients of the quadratic equation?\n6. Are there any other possible values of $k$ that can satisfy the equation? If so, what would be the corresponding solutions?"
+}

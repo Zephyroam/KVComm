@@ -1,0 +1,7 @@
+{
+    "problem": "When Joyce counts the pennies in her bank by fives, she has one left over. When she counts them by threes, there are two left over. What is the least possible number of pennies in the bank?",
+    "level": "Level 1",
+    "type": "Number Theory",
+    "solution": "Let $a$ be the least number of pennies that Joyce could have in the bank. Then \\begin{align*}\na & \\equiv 1\\pmod 5\\\\\na & \\equiv 2\\pmod 3\n\\end{align*} The first few positive solutions to $a\\equiv 1\\pmod 5$ are $1,6,11$. Luckily, while the first two do not satisfy $a\\equiv 2\\pmod 3$, $\\boxed{11}$ does!",
+    "socratic_questions": "1. Can you restate the problem in your own words? What are we trying to find?\n2. What information do we have about Joyce's counting? How can we represent this information mathematically?\n3. Why do we use the congruence notation in the problem? What does it mean?\n4. Can you think of any properties or rules of congruence that can help us solve this problem?\n5. Let's consider the equation $a\\equiv 1\\pmod 5$. Can you find the first few positive solutions? Do any of them satisfy the second congruence, $a\\equiv 2\\pmod 3$?\n6. What is the significance of finding a solution that satisfies both congruences? How does it relate to the least possible number of pennies?\n7. Can you think of any other similar problems where congruence could be used to find a solution?\n8. Can we verify that 11 is indeed the least possible number of pennies in the bank? How can we prove it?"
+}

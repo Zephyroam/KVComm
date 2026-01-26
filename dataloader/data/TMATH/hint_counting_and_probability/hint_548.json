@@ -1,0 +1,7 @@
+{
+    "problem": "What is the expected value of the roll of a standard 6-sided die?",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "Each outcome of rolling a 6-sided die has probability $\\frac16$, and the possible outcomes are 1, 2, 3, 4, 5, and 6.  So the expected value is $$ \\frac16(1) + \\frac16(2) + \\frac16(3) + \\frac16(4) + \\frac16(5) + \\frac16(6) = \\frac{21}{6} = \\boxed{3.5}. $$",
+    "socratic_questions": "1. What does \"expected value\" mean in the context of rolling a standard 6-sided die?\n2. How do we calculate the probability of each outcome when rolling a fair die?\n3. Can you explain why each outcome has a probability of $\\frac{1}{6}$?\n4. Using the concept of probability, what are the possible outcomes of rolling a 6-sided die?\n5. How can we calculate the expected value by utilizing the concept of probability?\n6. Can you walk me through the step-by-step process of calculating the expected value of a roll of a 6-sided die?\n7. What is the rationale behind multiplying each outcome by its corresponding probability?\n8. How do we sum up the products of the outcomes and their probabilities to find the expected value?\n9. Can you simplify the expression $\\frac{1}{6}(1) + \\frac{1}{6}(2) + \\frac{1}{6}(3) + \\frac{1}{6}(4) + \\frac{1}{6}(5) + \\frac{1}{6}(6)$ to find the expected value?\n10. Based on the calculations, what is the expected value of rolling a standard 6-sided die?"
+}

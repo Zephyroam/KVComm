@@ -1,0 +1,7 @@
+{
+    "problem": "Margo walks to her friend's house in 10 minutes. Using the same route, it takes Margo 20 minutes to get back home. If her average walking rate for the entire trip is 4 miles per hour, how many total miles did she walk?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "Margo walked for a total of $10+20=30$ minutes, or 0.5 hours.  To find the total distance traveled, we can multiply the total time by the rate: \\begin{align*}\n\\text{distance}&=\\text{rate}\\times \\text{time} \\\\\n&=0.5\\times 4 \\\\\n&=\\boxed{2}\\text{ miles}.\n\\end{align*}",
+    "socratic_questions": "1. Can you describe the first step you would take to solve this problem?\n2. What are some different methods you know that could be used to solve this type of problem?\n3. If you choose to use a formula or equation, what would it look like in this scenario?\n4. Why do you think using the average walking rate is useful in finding the total distance walked?\n5. Based on the information provided, what equation or formula would you use to find the total distance?\n6. How would you determine the time it took Margo to walk to her friend's house?\n7. How would you determine the time it took Margo to walk back home?\n8. To find the total distance, how would you combine the information about time and average walking rate?\n9. Can you think of any other scenarios where you might use similar steps to solve a problem involving distance, time, and average rate?\n10. How would you check your final answer to ensure it is accurate?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Determine the number of ways to arrange the letters of the word ALABAMA.",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "First we count the arrangements if the four A's are unique, which is $7!$. Then since the A's are not unique, we divide by $4!$ for the arrangements of A, for an answer of $\\dfrac{7!}{4!} = \\boxed{210}$.",
+    "socratic_questions": "1. What is the word that we are trying to arrange?\n2. How many letters are there in the word \"ALABAMA\"?\n3. What does it mean for the four A's to be unique in this context?\n4. How many unique arrangements are there if the A's are considered to be unique?\n5. Why do we divide the number of unique arrangements when the A's are not unique?\n6. What is the mathematical expression that represents dividing the number of unique arrangements by the arrangements of A?\n7. Can you simplify the expression $\\dfrac{7!}{4!}$? What is the result?\n8. What is the final answer to the problem?"
+}

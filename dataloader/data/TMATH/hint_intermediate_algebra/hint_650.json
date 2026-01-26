@@ -1,0 +1,7 @@
+{
+    "problem": "Find the minimum value of $9^x - 3^x + 1$ over all real numbers $x.$",
+    "level": "Level 4",
+    "type": "Intermediate Algebra",
+    "solution": "Let $y = 3^x.$  Then\n\\[9^x - 3^x + 1 = y^2 - y + 1 = \\left( y - \\frac{1}{2} \\right)^2 + \\frac{3}{4}.\\]Thus, the minimum value is $\\boxed{\\frac{3}{4}},$ which occurs when $y = \\frac{1}{2},$ or $x = \\log_3 \\frac{1}{2}.$",
+    "socratic_questions": "1. Could you explain what the problem is asking us to find?\n2. How can we rewrite the expression $9^x - 3^x + 1$ using the variable $y$?\n3. What happens to the expression $y^2 - y + 1$ as $y$ approaches infinity or negative infinity?\n4. Is it possible to find the minimum value of $y^2 - y + 1$ for all real values of $y$? Why or why not?\n5. What happens to the graph of $y^2 - y + 1$ as $y$ approaches the vertex of the parabola?\n6. How can we find the vertex of the parabola $y^2 - y + 1$? What does this tell us about the minimum value of the original expression?\n7. Can you think of any other problems where rewriting the expression with a new variable can help us find the minimum or maximum value?"
+}

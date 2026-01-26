@@ -1,0 +1,7 @@
+{
+    "problem": "What two-digit positive integer is one more than a multiple of 2, 3, 4, 5 and 6?",
+    "level": "Level 1",
+    "type": "Number Theory",
+    "solution": "The least common multiple of these integers is $4\\cdot3\\cdot5=60$. Thus, a positive integer that is one more than a multiple of all the given integers is $60+1=\\boxed{61}$.",
+    "socratic_questions": "1. Can you restate the problem in your own words?\n2. What mathematical concepts or principles might be useful in solving this problem?\n3. How can we determine which positive integers are multiples of 2, 3, 4, 5, and 6?\n4. Are there any properties of even or odd numbers that can help us in this problem?\n5. What is the definition of the least common multiple (LCM) of a set of integers? How can we use it to solve this problem?\n6. Can you explain why the LCM of the given integers is 60?\n7. How can we use the LCM to find a positive integer that is one more than a multiple of all the given integers?\n8. Is there only one positive integer that satisfies the conditions of the problem? Can you prove it?\n9. Are there any other interesting patterns or properties that we can discover from this problem?\n10. Can you come up with a similar problem that involves finding a positive integer that is one less than a multiple of certain integers?"
+}

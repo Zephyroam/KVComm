@@ -1,0 +1,7 @@
+{
+    "problem": "Find the sum of the infinite series $1+2\\left(\\dfrac{1}{1998}\\right)+3\\left(\\dfrac{1}{1998}\\right)^2+4\\left(\\dfrac{1}{1998}\\right)^3+\\cdots$.",
+    "level": "Level 4",
+    "type": "Intermediate Algebra",
+    "solution": "Let\n\\[S = 1+2\\left(\\dfrac{1}{1998}\\right)+3\\left(\\dfrac{1}{1998}\\right)^2+4\\left(\\dfrac{1}{1998}\\right)^3+\\dotsb.\\]Then\n\\[1998S = 1998 + 2 + \\frac{3}{1998} + \\frac{4}{1998^2} + \\dotsb.\\]Subtracting these equations, we get\n\\[1997S = 1998 + 1 + \\frac{1}{1998} + \\frac{1}{1988^2} + \\dotsb = \\frac{1998}{1 - 1/1998} = \\frac{3992004}{1997},\\]so $S = \\boxed{\\frac{3992004}{3988009}}.$",
+    "socratic_questions": "1. What is the series that we are trying to find the sum of? Can you write out the first few terms of the series?\n2. How did we come up with the equation $1998S = 1998 + 2 + \\frac{3}{1998} + \\frac{4}{1998^2} + \\dotsb$?\n3. Why did we subtract the equation $1998S = 1998 + 2 + \\frac{3}{1998} + \\frac{4}{1998^2} + \\dotsb$ from $S = 1+2\\left(\\dfrac{1}{1998}\\right)+3\\left(\\dfrac{1}{1998}\\right)^2+4\\left(\\dfrac{1}{1998}\\right)^3+\\dotsb$?\n4. How did we simplify $\\frac{1998}{1 - 1/1998}$ to get $\\frac{3992004}{1997}$?\n5. What is the value of $S$? Does this answer make sense given the original series that we were trying to sum? \n6. Can you think of other examples of infinite series where we can use a similar approach to find their sums?"
+}

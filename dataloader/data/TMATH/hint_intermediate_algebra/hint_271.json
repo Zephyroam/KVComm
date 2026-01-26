@@ -1,0 +1,7 @@
+{
+    "problem": "Let $a_1,$ $a_2,$ $\\dots,$ $a_{12}$ be positive real numbers such that $a_1 + a_2 + \\dots + a_{12} = 1.$  Find the minimum value of\n\\[\\frac{1}{a_1} + \\frac{1}{a_2} + \\dots + \\frac{1}{a_{12}}.\\]",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "By Cauchy-Schwarz,\n\\[(a_1 + a_2 + \\dots + a_{12}) \\left( \\frac{1}{a_1} + \\frac{1}{a_2} + \\dots + \\frac{1}{a_{12}} \\right) \\ge (1 + 1 + \\dots + 1)^2 = 12^2 = 144,\\]so\n\\[\\frac{1}{a_1} + \\frac{1}{a_2} + \\dots + \\frac{1}{a_{12}} \\ge 144.\\]Equality occurs when $a_i = \\frac{1}{12}$ for all $i,$ so the minimum value is $\\boxed{144}.$",
+    "socratic_questions": "1. What is the given problem asking us to find?\n2. What is the significance of the fact that $a_1,$ $a_2,$ $\\dots,$ $a_{12}$ are positive real numbers?\n3. The solution uses Cauchy-Schwarz inequality. How does the inequality work and why is it applicable in this context?\n4. How did the solution arrive at the lower bound of $\\frac{1}{a_1} + \\frac{1}{a_2} + \\dots + \\frac{1}{a_{12}} \\ge 144$?\n5. When does equality occur in the inequality and what does this result imply about the values of $a_1,a_2,...,a_{12}$?\n6. Can you think of other problems that can be solved using similar techniques or concepts?"
+}

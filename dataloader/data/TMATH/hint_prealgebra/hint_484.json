@@ -1,0 +1,7 @@
+{
+    "problem": "A teacher has a class with $24$ students in it. If she wants to split the students into equal groups of at most $10$ students each, what is the least number of groups that she needs?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "For the teacher to be able to split her students into $x$ groups of $y$ students each, $y$ must be a divisor of $24$. Since we want to create as few groups as possible, we need to maximize the number of students in each group. Thus, $y$ should be the greatest divisor of $24$ that is less than or equal to $10$. This means that $y=8$ and $x=3$. The teacher can create $\\boxed{3}$ groups of $8$ students each.",
+    "socratic_questions": "1. What is the problem asking for?\n2. How many students are there in total?\n3. How many students does the teacher want in each group?\n4. In order to split the students into equal groups, what must be true about the number of students in each group?\n5. What does it mean for a number to be a divisor of another number?\n6. What are the divisors of 24?\n7. What is the greatest divisor of 24 that is less than or equal to 10?\n8. What does it mean to create as few groups as possible?\n9. What is the value of y in this problem?\n10. What is the value of x in this problem?\n11. How many groups of students can the teacher create?\n12. What is the least number of groups that the teacher needs?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "A hyperbola has its two foci at $(5, 0)$ and $(9, 4).$ Find the coordinates of its center.",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "The center lies at the midpoint of the line segment connecting the two foci, so the center has coordinates $\\left(\\frac{5+9}{2}, \\frac{0+4}{2}\\right) = \\boxed{(7,2)}.$",
+    "socratic_questions": "1. Can you describe what a hyperbola is and how its foci relate to its shape?\n2. What is the definition of the center of a hyperbola?\n3. How can we find the coordinates of the center using the given foci?\n4. What is the formula for finding the midpoint of a line segment?\n5. How can we apply the midpoint formula to find the coordinates of the center?\n6. Can you calculate the midpoint of the line segment connecting (5, 0) and (9, 4)?\n7. What are the coordinates of the center based on the midpoint calculation?"
+}

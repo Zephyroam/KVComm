@@ -1,0 +1,7 @@
+{
+    "problem": "Mr. Stewart's math class has 16 boys, and 22 of his students bring their calculators to class.  If 13 of the students who brought calculators are girls, then how many boys didn't bring their calculators to class?",
+    "level": "Level 1",
+    "type": "Prealgebra",
+    "solution": "We can solve this using basic arithmetic: If 13 of the students with calculators are girls, and 22 students total have calculators, then $22 - 13 = 9$ of the students with calculators are boys.  So if 9 boys have calculators, and there are 16 boys total, then $16 - 9 = \\boxed{7}$ boys don't have calculators.  Alternatively, we could solve this problem using a Venn diagram.",
+    "socratic_questions": "1. Can you explain what the problem is asking us to find? \n2. How many students total are in Mr. Stewart's math class? \n3. How can we use the given information about the number of students who brought calculators to class to help us find the number of boys who didn't bring calculators? \n4. Can you draw a Venn diagram to represent the given information? \n5. How many students are in the group that represents students who brought calculators and are girls? \n6. How many students are in the group that represents students who brought calculators and are boys? \n7. How can we use the Venn diagram to determine how many boys didn't bring calculators to class? \n8. Is there another method you can think of to solve this problem?"
+}

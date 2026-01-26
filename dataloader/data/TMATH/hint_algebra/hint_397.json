@@ -1,0 +1,7 @@
+{
+    "problem": "If $a*b=a^2+ab-b^2$, find $3*2$.",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "We have: $3*2=3^2+3\\cdot 2-2^2=9+6-4=\\boxed{11}$.",
+    "socratic_questions": "1. What is the definition of the operation $*$?\n2. How do we evaluate $3*2$?\n3. What are the values of $a$ and $b$ in the expression $3*2$?\n4. According to the definition of $*$, what does $3*2$ simplify to?\n5. Can we simplify the expression $3^2+3*2-2^2$ further? If so, how?\n6. What is the final result of $3*2$?"
+}

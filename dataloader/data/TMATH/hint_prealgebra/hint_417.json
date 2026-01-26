@@ -1,0 +1,7 @@
+{
+    "problem": "How many whole numbers lie in the interval between $\\frac{5}{3}$ and $2\\pi$ ?",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "The smallest whole number in the interval is 2 because $\\frac{5}{3}$ is more than 1 but less than 2. The largest whole number in the interval is 6 because $2\\pi$ is more than 6 but less than 7. There are $\\boxed{5}$ whole numbers in the interval. They are 2, 3, 4, 5, and 6.",
+    "socratic_questions": "1. What is the interval in which we are looking for whole numbers?\n2. Can you determine the smallest whole number in the interval? How?\n3. How can we find the largest whole number in the interval? \n4. What is the significance of the number $\\frac{5}{3}$ in relation to whole numbers?\n5. How does the number $2\\pi$ fit into the interval?\n6. How many whole numbers are there between the smallest and largest whole numbers in the interval?\n7. Can you list all the whole numbers that lie in the given interval?\n8. Are there any other types of numbers in the interval that are not whole numbers?\n9. Can you think of any strategies or techniques that could be applied to similar problems involving intervals and whole numbers?"
+}

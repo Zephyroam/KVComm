@@ -1,0 +1,7 @@
+{
+    "problem": "Simplify\n\\[\\left( \\frac{1 + i}{1 - i} \\right)^{1000}.\\]",
+    "level": "Level 1",
+    "type": "Intermediate Algebra",
+    "solution": "First,\n\\[\\frac{1 + i}{1 - i} = \\frac{(1 + i)(1 + i)}{(1 - i)(1 + i)} = \\frac{1 + 2i + i^2}{1 - i^2} = \\frac{1 + 2i - 1}{1 + 1} = \\frac{2i}{2} = i.\\]So,\n\\[\\left( \\frac{1 + i}{1 - i} \\right)^{1000} = i^{1000} = (i^2)^{500} = (-1)^{500} = \\boxed{1}.\\]",
+    "socratic_questions": "1. Can you explain how to simplify the expression \\(\\left( \\frac{1 + i}{1 - i} \\right)^{1000}\\) step by step?\n2. What is the value of \\(\\frac{1 + i}{1 - i}\\)? How did you come to that conclusion?\n3. Why did you raise \\(\\frac{1 + i}{1 - i}\\) to the power of 1000? What mathematical property allows you to do that?\n4. Can you simplify the expression \\(i^{1000}\\) further? How did you simplify it?\n5. What is the value of \\(i^{1000}\\) when expressed in real number form?\n6. Is there a general pattern or property that allows you to simplify expressions of the form \\((a + bi)^n\\)? If so, can you explain it?"
+}

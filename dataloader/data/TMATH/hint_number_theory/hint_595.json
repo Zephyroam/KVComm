@@ -1,0 +1,7 @@
+{
+    "problem": "Alicia has $n$ candies, where $n$ is a positive integer with three digits. If she buys $5$ more, she will have a multiple of $8$. If she loses $8$, she will have a multiple of $5$. What is the smallest possible value of $n$?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "The given information can be expressed by the congruences \\begin{align*}n+5\\equiv 0\\pmod 8 \\quad\\implies\\quad& n\\equiv 3\\pmod 8,\\\\n-8\\equiv 0\\pmod 5 \\quad\\implies\\quad& n\\equiv 3\\pmod 5.\\end{align*}Since $\\gcd(5,8)=1$, the above congruences imply $n\\equiv 3\\pmod{40}$. This also implies the original congruences so $n$ is of the form $3+40m$ for an integer $m$. The first few positive integers of that form are $3,43,83,123$. Thus $\\boxed{123}$ is the smallest such number with three digits.",
+    "socratic_questions": "1. Can you restate the problem in your own words?\n2. What does it mean for a number to be a multiple of $8$ or $5$?\n3. What do the given congruences tell us about the value of $n$?\n4. How can we use the Chinese Remainder Theorem to simplify the congruences?\n5. Why does the Chinese Remainder Theorem work in this case?\n6. What is the general form of the solutions to the congruences in terms of an integer $m$?\n7. How can we find the smallest possible solution with three digits?\n8. Is it possible to have more than one solution for $n$? Why or why not?\n9. Can you think of a similar problem involving congruences that can be solved using a similar approach?"
+}

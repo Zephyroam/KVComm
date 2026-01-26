@@ -1,0 +1,7 @@
+{
+    "problem": "How many positive integers, including $1,$ are divisors of both $40$ and $72?$",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "The positive integers that divide exactly into $40$ are $1,$ $2,$ $4,$ $5,$ $8,$ $10,$ $20,$ $40.$\n\nThe positive integers that divide exactly into $72$ are $1,$ $2,$ $3,$ $4,$ $6,$ $8,$ $9,$ $12,$ $18,$ $24,$ $36,$ $72.$\n\nThe numbers that occur in both lists are $1,$ $2,$ $4,$ $8,$ or $\\boxed{\\mbox{four}}$ numbers in total.",
+    "socratic_questions": "1. What does it mean for a positive integer to be a divisor of another positive integer? \n2. Can you list all the positive integers that are factors of $40$? \n3. Can you list all the positive integers that are factors of $72$? \n4. Are there any numbers that are common factors of $40$ and $72$? If so, what are they? \n5. How many positive integers are common factors of $40$ and $72$, including $1$?"
+}

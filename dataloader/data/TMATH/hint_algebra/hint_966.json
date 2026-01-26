@@ -1,0 +1,7 @@
+{
+    "problem": "Let $X,$ $Y,$ and $Z$ be points such that $\\frac{XZ}{XY} = \\frac{ZY}{XY} = \\frac{1}{2}.$ If $Y = (1, 7)$, $Z = (-1, -7)$, then what is the sum of the coordinates of $X$?",
+    "level": "Level 5",
+    "type": "Algebra",
+    "solution": "From the problem, we can see that $XZ = ZY$ and $XZ + ZY = XY$, which means that $X,$ $Y,$ and $Z$ form a degenerate triangle. In other words, $Z$ is the midpoint of $XY$. Since from Y to Z, we go 2 steps left and 14 steps down, we do the same to arrive at $X = (-1 - 2, -7 -14) = (-3, -21).$ Therefore, the sum of the coordinates of $X$ is $\\boxed{-24}.$",
+    "socratic_questions": "1. Can you describe the given scenario and identify any relationships or ratios mentioned?\n2. How can we interpret the given information about the ratios of $XZ$ to $XY$ and $ZY$ to $XY$? What does this tell us about the relative positions of the points $X, Y,$ and $Z$?\n3. Using the given information about the coordinates of $Y$ and $Z$, can you determine the coordinates of $X$? If not, what additional information do we need?\n4. If the ratio of $XZ$ to $XY$ is $\\frac{1}{2}$, what does this imply about the lengths of $XZ$ and $XY$? How can we use this information to find the coordinates of $X$?\n5. Based on the given coordinates of $Y$ and $Z$, what is the relative position of $X$ in relation to these points? How does this help us determine the coordinates of $X$?\n6. Can you calculate the coordinates of $X$ using the information we have established so far? What is the sum of the coordinates of $X$?"
+}

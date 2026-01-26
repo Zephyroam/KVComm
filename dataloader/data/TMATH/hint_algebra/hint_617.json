@@ -1,0 +1,7 @@
+{
+    "problem": "What is the area enclosed by the region defined by the equation $x^2+y^2+6x+8y=0$?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "We complete the square on the quadratic in $x$ by adding $(6/2)^2=9$ to both sides, and complete the square on the quadratic in $y$ by adding $(8/2)^2=16$ to both sides. We have the equation  \\[(x^2+6x+9)+(y^2+8y+16)=25 \\Rightarrow (x+3)^2+(y+4)^2=25\\]We see that this is the equation of a circle with center $(-3,-4)$ and radius 5. Thus, the area of the region enclosed by this circle is $\\pi \\cdot 5^2=\\boxed{25\\pi}$.",
+    "socratic_questions": "1. Can you describe the first step you would take to find the area enclosed by the region defined by the equation $x^2+y^2+6x+8y=0$?\n2. Are you familiar with any specific methods or techniques for finding the area enclosed by a curve or equation?\n3. If you were to graph the equation $x^2+y^2+6x+8y=0$, what shape would it form? How does this shape help us determine the area enclosed?\n4. What additional information or techniques do you think we might need in order to find the area enclosed by this equation?\n5. Can you think of any other equations or curves where finding the enclosed area may require similar thinking or steps?\n6. How would you approach finding the area if the equation were slightly different, such as $x^2+y^2+6x+8y=10$ instead? What changes would you need to make to your approach?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "What is the greatest prime factor of $3^7+6^6$?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "$3^7+6^6 = 3^6\\cdot3+3^6\\cdot 2^6 = 3^6(3+2^6) = 3^6\\cdot 67.$ Thus the greatest prime factor is $\\boxed{67}$.",
+    "socratic_questions": "1. Can you describe the steps you would take to find the prime factorization of $3^7+6^6$?\n2. What are the prime factorizations of $3^7$ and $6^6$ individually?\n3. How can you combine the prime factorizations of $3^7$ and $6^6$ to find the prime factorization of their sum?\n4. What is the common factor between $3^7$ and $6^6$? How did you determine it?\n5. Are there any additional factors in the prime factorization of $3^7+6^6$? If so, what are they and how did you identify them?\n6. Given another expression, how would you approach finding its greatest prime factor using a similar thought process and steps?"
+}

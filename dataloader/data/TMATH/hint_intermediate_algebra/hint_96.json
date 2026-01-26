@@ -1,0 +1,7 @@
+{
+    "problem": "The polynomial $f(x)=x^4+ax^3+bx^2+cx+d$ has real coefficients, and $f(2i)=f(2+i)=0$.  What is $a+b+c+d$?",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "Because $f(x)$ has real coefficients and $2i$ and $2+i$ are zeros, so are their conjugates $-2i$ and $2-i$. Therefore\n\n\\begin{align*}\nf(x)=(x+2i)(x-2i)(x-(2+i))(x-(2-i))&=(x^2+4)(x^2-4x+5)\\\\\n&=x^4-4x^3+9x^2-16x+20.\n\\end{align*}Hence $a+b+c+d=-4+9-16+20=\\boxed{9}$.",
+    "socratic_questions": "1. What is the polynomial $f(x)$ and what are its roots?\n2. How do we know that the conjugates of $2i$ and $2+i$ are also roots of $f(x)$?\n3. Show the process of factoring $f(x)$ using its roots.\n4. Can we factor $f(x)$ in another way? If so, what is it and why is it equivalent to the previous factorization?\n5. What is the coefficient of $x^3$ in the factored form of $f(x)$? How does this relate to $a$?\n6. What is the sum of the coefficients of $f(x)$? How does this relate to $a+b+c+d$?\n7. Can we use the same method to find the sum of coefficients for any polynomial given its roots? If so, how? If not, why not?\n8. What is the significance of having real coefficients for $f(x)$? How does this restrict the possible roots of $f(x)$?\n9. Can you think of an example of a polynomial with non-real coefficients that has real roots?"
+}

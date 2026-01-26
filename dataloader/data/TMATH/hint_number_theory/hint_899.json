@@ -1,0 +1,7 @@
+{
+    "problem": "Solve the congruence $11n \\equiv 7 \\pmod{43}$, as a residue modulo 43.  (Give an answer between 0 and 42.)",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "Note that 43 is a close to a multiple of 11, namely 44.  Multiplying both sides of the given congruence by 4, we get $44n \\equiv 28 \\pmod{43}$, which reduces to $n \\equiv \\boxed{28} \\pmod{43}$.",
+    "socratic_questions": "1. What is a congruence in modular arithmetic?\n2. How does the notation \"a \u2261 b mod n\" differ from the usual equality \"a = b\"?\n3. How can we solve a congruence of the form \"ax \u2261 b mod n\", where a, b, and n are integers and x is the unknown?\n4. In the given congruence, why do we choose to multiply both sides by 4?\n5. How does the fact that 43 is close to a multiple of 11 help us simplify the congruence?\n6. Can you think of other examples where using a similar strategy of multiplying by a clever choice of integer helps in solving a congruence?\n7. How do we know that the given solution x = 28 is unique modulo 43?"
+}

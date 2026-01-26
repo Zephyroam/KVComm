@@ -1,0 +1,7 @@
+{
+    "problem": "How many ways are there to divide a group of 6 friends among the basketball team, the soccer team, and the track team?  (Each team could have anywhere from 0 to 6 of the friends on it.  Assume the friends are distinguishable.)",
+    "level": "Level 5",
+    "type": "Counting & Probability",
+    "solution": "For each friend, there are 3 options for which team to put them on. Since each of the 6 people have 3 options, there are $3^6=\\boxed{729}$ to divide the group of friends.",
+    "socratic_questions": "1. What is the initial step in determining the number of ways to divide a group of friends among three teams? \n2. What does it mean for the friends to be distinguishable in this problem? \n3. Can you explain why there are three options for each friend to be placed on a team? \n4. What is the significance of raising three to the sixth power in determining the total number of ways the friends can be divided among the three teams? \n5. Is it possible to divide the group of friends in such a way that one team has all six friends on it? If so, how many ways are there to do this? \n6. What are some other scenarios in which the principle of counting and probability could be applied in similar ways?"
+}

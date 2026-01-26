@@ -1,0 +1,7 @@
+{
+    "problem": "Find the distance between the points $(1,1)$ and $(4,7)$. Express your answer in simplest radical form.",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "The horizontal separation between $(1,1)$ and $(4,7)$ is $4-1=3$ units.  The vertical separation between the points is $7-1=6$ units.  Therefore, the segment whose endpoints are (1,1) and (4,7) is the hypotenuse of a right triangle whose legs measure 3 units and 6 units.  By the Pythagorean, the length of this segment is $\\sqrt{3^2+6^2}=3\\sqrt{1^2+2^2}=\\boxed{3\\sqrt{5}}$.",
+    "socratic_questions": "1. How would you define the distance between two points in a coordinate plane?\n2. What is the formula for calculating the distance between two points in a coordinate plane?\n3. Can you identify the coordinates of the given points?\n4. What is the difference between the x-coordinates of the two points? And what about the y-coordinates?\n5. Following the distance formula, how would you calculate the differences in x and y, and how would you use those values to calculate the distance?\n6. Can you simplify the expression for the distance? If so, what is the simplified form?\n7. Are there any other ways to express the distance without radicals?\n8. How does the distance between these two points correspond to their positioning in the coordinate plane?\n9. Can you think of any other scenarios where finding the distance between two points would be useful?\n10. Finally, can you generalize the process of finding the distance between two points in a coordinate plane?"
+}

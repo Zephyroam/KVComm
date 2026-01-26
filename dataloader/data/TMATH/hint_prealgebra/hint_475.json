@@ -1,0 +1,7 @@
+{
+    "problem": "What is the value of $x$ if \\begin{align*}x &= y+5,\\\\\ny &= z+10,\\\\\nz &= w+20,\\\\\n\\text{and }\\qquad w &= 80?\n\\end{align*}",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Plugging the known value of $w$ into the third given equation, we find that $z=100$. Plugging $z$ into the second given equation, we find that $y=110$. Plugging $y$ into the first given equation gives $x=\\boxed{115}$.",
+    "socratic_questions": "1. What is the value of $w$?\n2. Can you find the value of $z$ using the given equations? \n3. How can we find the value of $y$ using the information provided?\n4. What does the equation $x = y + 5$ represent?\n5. How can we determine the value of $x$ in terms of $w$?\n6. Is there a specific order in which we should solve the equations? Why or why not?\n7. Is there a way to check if our solution for $x$ is correct? If so, how?\n8. Can you think of any other scenario where a similar problem-solving approach can be utilized?"
+}

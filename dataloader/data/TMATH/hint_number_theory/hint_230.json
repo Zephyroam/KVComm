@@ -1,0 +1,7 @@
+{
+    "problem": "What is the value of the least positive base ten number which requires six digits for its binary representation?",
+    "level": "Level 2",
+    "type": "Number Theory",
+    "solution": "The least base 10 number which requires six digits for its binary representation is the one whose binary representation is $100000_2$. $100000_2=1\\cdot2^5=32_{10}$. Thus the answer is $\\boxed{32}$.",
+    "socratic_questions": "1. What is the binary representation of a base ten number?\n2. How can we determine the number of digits needed for the binary representation of a base ten number?\n3. What does it mean when we say a number requires six digits for its binary representation?\n4. Can you explain how binary numbers work and how they are related to base ten numbers?\n5. How do we convert a base ten number to its binary representation?\n6. What is the least positive base ten number that requires six digits in its binary representation?\n7. How can we find the value of this number using binary representation and base ten conversion?\n8. Can you show step-by-step how to convert $100000_2$ to base ten representation?\n9. Is there a pattern or formula we can use to determine the value of a binary number in base ten?\n10. Can you think of any other scenarios where we may need to convert between different number systems and apply similar thinking and steps?"
+}

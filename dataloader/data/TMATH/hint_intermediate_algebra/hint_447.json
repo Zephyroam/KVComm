@@ -1,0 +1,7 @@
+{
+    "problem": "Find the monic quadratic polynomial, in $x,$ with real coefficients, which has $1 - i$ as a root.",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "If a polynomial has real coefficients, then any complex conjugate of a root must also be a root.  Hence, the other root is $1 + i.$  Thus, the polynomial is\n\\[(x - 1 - i)(x - 1 + i) = (x - 1)^2 - i^2 = \\boxed{x^2 - 2x + 2}.\\]",
+    "socratic_questions": "1. What is the definition of a monic quadratic polynomial?\n2. How can we find the roots of a quadratic polynomial?\n3. Based on the given information, what is one of the roots of the polynomial?\n4. What property of polynomial roots can we use to find the other root?\n5. Can you explain why the complex conjugate of a root is also a root of a polynomial with real coefficients?\n6. Based on the given root, how can we form the quadratic polynomial using its factors?\n7. Can you simplify the expression $(x - 1)^2 - i^2$?\n8. What is the final result of the monic quadratic polynomial with real coefficients?"
+}

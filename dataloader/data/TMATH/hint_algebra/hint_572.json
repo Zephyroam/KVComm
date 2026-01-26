@@ -1,0 +1,7 @@
+{
+    "problem": "Let $\\log_{4}3=x$. Then $\\log_{2}27=kx$. Find $k$.",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "We know $\\log_{4}3=x$ so $4^x=3$. We also know $\\log_{2}27=kx$ so $2^{kx}=27$. We need to combine these equations, but note that $27=3^3$, so cube the first equation: $(4^x)^3=3^3=27$, so $4^{3x}=27=2^{kx}$. But $4=2^2$, so we can substitute to get the same base: $(2^2)^{3x}=2^{kx}$, so $2^{6x}=2^{kx}$. Then $6x=kx$ and $\\boxed{k=6}$.",
+    "socratic_questions": "1. Can you explain the relationship between $\\log_{4}3$ and the unknown variable $x$?\n2. How can we rewrite the equation $\\log_{2}27=kx$ in terms of $x$ using the given relationship?\n3. What properties or rules of logarithms can we use to simplify the equation further?\n4. Once we simplify the equation, what can we conclude about the value of $k$?\n5. Can you think of any other logarithmic equations that can be solved using similar reasoning and steps?\n6. How can we verify our solution for $k$ using substitution or other methods?"
+}

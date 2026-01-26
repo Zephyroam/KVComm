@@ -1,0 +1,7 @@
+{
+    "problem": "Let $a$ and $b$ be positive real numbers such that $a + b = 1.$  Find set of all possible values of $\\frac{1}{a} + \\frac{1}{b}.$",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "By AM-HM,\n\\[\\frac{a + b}{2} \\ge \\frac{2}{\\frac{1}{a} + \\frac{1}{b}}.\\]Hence,\n\\[\\frac{1}{a} + \\frac{1}{b} \\ge \\frac{4}{a + b} = 4.\\]Equality occurs when $a = b = \\frac{1}{2}.$\n\nNote that as $a$ approaches 0 and $b$ approaches 1, $\\frac{1}{a} + \\frac{1}{b}$ becomes arbitrarily large.  Therefore, the set of all possible values of $\\frac{1}{a} + \\frac{1}{b}$ is $\\boxed{[4,\\infty)}.$",
+    "socratic_questions": "1. Can you explain what the AM-HM inequality states?\n2. How does the AM-HM inequality relate to the expression in the problem, $\\frac{1}{a} + \\frac{1}{b}$?\n3. What is the significance of the condition $a + b = 1$ in this problem?\n4. Can you describe the situation when the equality condition of the AM-HM inequality is met?\n5. How does the value of $\\frac{1}{a} + \\frac{1}{b}$ change as $a$ approaches 0 and $b$ approaches 1?\n6. Based on the previous reasoning, what can we conclude about the set of all possible values of $\\frac{1}{a} + \\frac{1}{b}$?"
+}

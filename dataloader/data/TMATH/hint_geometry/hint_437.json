@@ -1,0 +1,7 @@
+{
+    "problem": "Find $\\tan Y$ in the right triangle shown below.\n\n[asy]\npair X,Y,Z;\nX = (0,0);\nY = (24,0);\nZ = (0,7);\ndraw(X--Y--Z--X);\ndraw(rightanglemark(Y,X,Z,23));\nlabel(\"$X$\",X,SW);\nlabel(\"$Y$\",Y,SE);\nlabel(\"$Z$\",Z,N);\nlabel(\"$25$\",(Y+Z)/2,NE);\nlabel(\"$24$\",Y/2,S);\n[/asy]",
+    "level": "Level 2",
+    "type": "Geometry",
+    "solution": "The Pythagorean Theorem gives us $XZ= \\sqrt{YZ^2 - XY^2} = \\sqrt{625-576} = \\sqrt{49}=7$, so $\\tan Y = \\frac{XZ}{XY} = \\ \\boxed{\\frac{7}{24}}$.",
+    "socratic_questions": "1. Can you identify the right angle in the triangle?\n2. What is the Pythagorean Theorem and how is it relevant to this triangle?\n3. What are the lengths of the two sides adjacent to angle $Y$?\n4. How can we use the Pythagorean Theorem to find the length of the remaining side?\n5. What is the formula for tangent and how does it relate to the sides of a right triangle?\n6. How can we use the lengths we found to determine $\\tan Y$?\n7. Can you simplify the expression for $\\tan Y$?\n8. Can you think of any other ways to find the value of $\\tan Y$ in this triangle?\n9. How does the value of $\\tan Y$ relate to the angles and sides of the triangle?"
+}

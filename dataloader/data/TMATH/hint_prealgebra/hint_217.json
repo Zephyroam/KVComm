@@ -1,0 +1,7 @@
+{
+    "problem": "Calculate $\\frac{1}{2} \\cdot \\frac{3}{5} \\cdot \\frac{7}{11}$.",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "We have \\[\\frac{1}{2} \\cdot \\frac{3}{5} \\cdot \\frac{7}{11} = \\frac{1\\cdot 3 \\cdot 7}{2\\cdot 5\\cdot 11} = \\boxed{\\frac{21}{110}}.\\]",
+    "socratic_questions": "1. How can we represent the multiplication of fractions mathematically?\n2. What is the result when we multiply two fractions together?\n3. How do we multiply fractions with different denominators?\n4. Can we simplify the fraction 1/2 * 3/5 * 7/11? If so, how?\n5. What are the factors of the numerator and the denominator in the expression?\n6. What is the concept of cancellation when multiplying fractions?\n7. Is the result of multiplying fractions always a fraction or can it be a whole number as well?\n8. How can we confirm that our answer of 21/110 is simplified or in its simplest form?\n9. Can you think of other examples where we multiply fractions in a similar way?\n10. What would happen if any of the fractions we were multiplying were negative?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Circle $B$ has its center at $(-6, 2)$ and a radius of $10$ units. What is the sum of the $y$-coordinates of the two points on circle $B$ that are also on the $y$-axis?",
+    "level": "Level 4",
+    "type": "Geometry",
+    "solution": "Note that if the $y$-coordinate of one of the two points is $2+c$, then the $y$-coordinate of the other point must be $2-c$ because the two points must be equidistant from the line $y=2$. Therefore, the sum of the $y$-coordinates of the two points on circle $B$ that are also on the $y$-axis is $\\boxed{4}$.",
+    "socratic_questions": "1. How can we determine the $y$-coordinates of the two points on circle $B$ that are also on the $y$-axis?\n2. What is the equation of the circle $B$ with center $(-6, 2)$ and radius $10$ units?\n3. How can we find the coordinates of the points where the circle $B$ intersects the $y$-axis?\n4. What does it mean for two points to be equidistant from a line?\n5. Based on the given information, how can we determine the sum of the $y$-coordinates of the two points on circle $B$ that are also on the $y$-axis?\n6. Can you think of any other scenarios in geometry where a similar approach to finding coordinates is used?"
+}

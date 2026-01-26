@@ -1,0 +1,7 @@
+{
+    "problem": "For some real numbers $a$ and $b$, the equation $9x^3 + 5ax^2 + 4bx + a = 0$ has three distinct positive roots. If the sum of the base-2 logarithms of the roots is 4, what is the value of $a$?",
+    "level": "Level 4",
+    "type": "Intermediate Algebra",
+    "solution": "Let the roots of the cubic be $r$, $s$, and $t$. We are given that $\\log_2 r + \\log_2 s + \\log_2 t = 4$. Using a property of logarithms, we can rewrite the equation as $\\log_2(rst)=4$, or $rst=2^4=16$. Notice that this is just the product of the roots of the given polynomial. The product of the roots is also equal to $-\\frac{a}{9}$. Thus, we have $-\\frac{a}{9}=16$ and $a=\\boxed{-144}$.",
+    "socratic_questions": "1. Can you explain the relationship between the sum of the base-2 logarithms of the roots and the given equation?\n2. How can we express the sum of logarithms in terms of the roots of the equation?\n3. What does it mean for the equation to have three distinct positive roots? How does this information relate to the logarithms of the roots?\n4. Can you think of a property of logarithms that can help us rewrite the equation in a more useful form?\n5. What does it mean for the product of the roots to be equal to $-\\frac{a}{9}$? How does this relate to the given equation?\n6. How can we use the information about the product of the roots to solve for the value of $a$ in the equation?\n7. Are there any other properties of logarithms that might be useful in solving this problem?"
+}

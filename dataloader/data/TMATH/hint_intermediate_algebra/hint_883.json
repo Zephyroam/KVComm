@@ -1,0 +1,7 @@
+{
+    "problem": "Let $a,$ $b,$ $c$ be complex numbers such that\n\\[a + b + c = ab + ac + bc = abc = 1.\\]Enter the values $a,$ $b,$ $c,$ separated by commas, in any order.",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "By Vieta's formulas, $a,$ $b,$ and $c$ are the roots of\n\\[x^3 - x^2 + x - 1 = 0.\\]We can write this as $x^2 (x - 1) + (x - 1) = 0,$ or $(x - 1)(x^2 + 1) = 0.$  The roots are $\\boxed{1,i,-i}.$",
+    "socratic_questions": "1. What are Vieta's formulas and how are they used to find the roots of a polynomial equation?\n2. How can we apply Vieta's formulas to find the values of $a,$ $b,$ and $c$ in the equation $a + b + c = ab + ac + bc = abc = 1$?\n3. What is the significance of the equation $x^3 - x^2 + x - 1 = 0$ in relation to the values of $a,$ $b,$ and $c$?\n4. How can we verify that the values $a = 1,$ $b = i,$ and $c = -i$ actually satisfy the equation $a + b + c = ab + ac + bc = abc = 1$?\n5. Are there any other complex values of $a,$ $b,$ and $c$ that satisfy the given conditions? How can we prove that these are the only solutions?\n6. What are some other examples of problems that can be solved using Vieta's formulas or related techniques? How do these relate to the concept of the roots of a polynomial equation?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "What is the units digit in the product of all natural numbers from 1 to 99, inclusive?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "$99!$, the product of all natural numbers from 1 to 99, inclusive, includes the product $2\\times5=10$, and since 0 multiplied by any number is 0, the units digit of 99! is $\\boxed{0}$.",
+    "socratic_questions": "1. What is the definition of the units digit in a number?\n2. How can we find the units digit of a product of multiple numbers?\n3. What is the units digit of 1 multiplied by any number? \n4. How can we determine the units digit of a product when there is a factor of 10 involved?\n5. Can you identify any patterns or observations about the units digits in the products of consecutive numbers?\n6. Can you generalize how the units digit in the product of all natural numbers is affected by certain factors?"
+}

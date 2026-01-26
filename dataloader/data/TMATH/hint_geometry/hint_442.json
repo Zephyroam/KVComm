@@ -1,0 +1,7 @@
+{
+    "problem": "Points $P$ and $R$ are located at (2, 1) and (12, 15) respectively. Point $M$ is the midpoint of segment $\\overline{PR}$. Segment $\\overline{PR}$ is reflected over the $x$-axis. What is the sum of the coordinates of the image of point $M$ (the midpoint of the reflected segment)?",
+    "level": "Level 4",
+    "type": "Geometry",
+    "solution": "Point $M$ has coordinates $(7,8)$. Therefore, its image has coordinates $(7,-8)$. Thus the sum is $7-8 = \\boxed{-1}$.\n\nAlternatively, the image of point $M$ is the midpoint of the images of points $P$ and $R$ and thus is the midpoint of $(2,-1)$ and $(12,-15)$, which is also $(7,-8)$.",
+    "socratic_questions": "1. Can you describe the process of finding the midpoint of segment PR?\n2. How does reflecting a point over the x-axis affect its coordinates?\n3. How do we determine the coordinates of the image of point M after reflecting segment PR over the x-axis?\n4. What is the formula to calculate the midpoint of two points?\n5. Can you apply the formula to find the midpoint of segment PR?\n6. How can you use the midpoint of segment PR to find the image of point M after reflecting over the x-axis?\n7. Can you calculate the coordinates of the image of point M using the information you've gathered?\n8. What is the sum of the coordinates of the image of point M?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\dbinom{8}{2}$.",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "$\\dbinom{8}{2} = \\dfrac{8!}{2!6!}=\\dfrac{8\\times 7}{2\\times 1}=\\boxed{28}.$",
+    "socratic_questions": "1. What does the notation $\\dbinom{8}{2}$ represent in counting and probability?\n2. How would you interpret the expression $\\dfrac{8!}{2!6!}$ in terms of counting objects or events?\n3. Can you think of a real-life scenario where you would want to use the combination formula?\n4. In the expression $\\dfrac{8\\times 7}{2\\times 1}$, what do the numbers 8, 7, 2, and 1 represent in the context of combinations?\n5. Is it possible to compute $\\dbinom{8}{2}$ using a different method? If so, what would that method be and how would it relate to combinations?\n6. How would the calculation change if we wanted to find $\\dbinom{8}{6}$ instead? Can you see any patterns or connections between the different combinations?"
+}

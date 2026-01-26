@@ -1,0 +1,7 @@
+{
+    "problem": "Let \\[f(x) =\n\\begin{cases}\n2x + 9 &\\text{if }x<-2, \\\\\n5-2x&\\text{if }x\\ge -2.\n\\end{cases}\n\\]Find $f(3).$",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "Because $3\\ge -2,$ we use the second case to determine that $f(3) = 5-2(3) = \\boxed{-1}.$",
+    "socratic_questions": "1. Can you explain what the function $f(x)$ represents in this context?\n2. What does the statement \"if $x < -2$\" tell us about the domain of the function?\n3. What does the statement \"if $x \\geq -2$\" tell us about the domain of the function?\n4. Can you determine the value of $f(3)$ by considering the given conditions?\n5. What does it mean to evaluate $f(3)$ algebraically?\n6. How can we determine which condition of the function applies for the input value $x = 3$?\n7. What is the value of $f(3)$ according to the first condition of the function?\n8. What is the value of $f(3)$ according to the second condition of the function?\n9. How do we decide which value of $f(3)$ is the correct one?\n10. Can you summarize the steps involved in finding the value of $f(3)$?"
+}

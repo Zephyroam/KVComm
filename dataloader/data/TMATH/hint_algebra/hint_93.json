@@ -1,0 +1,7 @@
+{
+    "problem": "What is the value of \\[\\frac{x^1\\cdot x^2\\cdot x^3\\cdots x^{15}}{x^2\\cdot x^4 \\cdot x^6 \\cdots x^{20}}\\]if $x=2$?",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "The numerator is equal to $x^{1+2+3+\\cdots + 15}$. The exponent is the sum of the first 15 consecutive positive integers, so its sum is $\\frac{15\\cdot16}{2}=120$. So the numerator is $x^{120}$.\n\nThe denominator is equal to $x^{2+4+6+\\cdots + 20}=x^{2(1+2+3+\\cdots + 10)}$. The exponent is twice the sum of the first 10 consecutive positive integers, so its sum is $2\\cdot \\frac{10\\cdot11}{2}=110$. So the denominator is $x^{110}$.\n\nThe entire fraction becomes $\\frac{x^{120}}{x^{110}}=x^{120-110}=x^{10}$. Plugging in $x=2$ yields $2^{10}=\\boxed{1024}$.",
+    "socratic_questions": "1. What does the expression represent? Can you explain it in your own words?\n2. How can we simplify the expression by combining the exponents?\n3. What happens when we divide two numbers with the same base but different exponents?\n4. Can you simplify the expression further by canceling out common factors?\n5. What is the resulting expression after canceling out the common factors?\n6. How can we evaluate the expression when x has a specific value, such as x=2?\n7. By substituting x=2 into the simplified expression, what is the final value that we get?"
+}

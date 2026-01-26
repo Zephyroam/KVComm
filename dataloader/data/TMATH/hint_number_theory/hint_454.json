@@ -1,0 +1,7 @@
+{
+    "problem": "What is the greatest common divisor of 1407 and 903?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "We can use the Euclidean algorithm to compute the greatest common divisor of 1407 and 903. \\begin{align*}\n\\gcd(1407, 903) &= \\gcd(903, 1407 - 903) \\\\\n&= \\gcd(903, 504) \\\\\n&= \\gcd(504, 903 - 504) \\\\\n&= \\gcd(504, 399) \\\\\n&= \\gcd(399, 504 - 399) \\\\\n&= \\gcd(399, 105) \\\\\n&= \\gcd(105, 399 - 3\\cdot 105) \\\\\n&= \\gcd(105, 84) \\\\\n&= \\gcd(84, 105-84) \\\\\n&= \\gcd(84, 21) \\\\\n&= \\boxed{21}.\n\\end{align*}",
+    "socratic_questions": "1. What is the first step in solving this problem using the Euclidean algorithm?\n2. Can you explain the logic behind subtracting the smaller number from the larger number in each step?\n3. How do you determine when to stop the algorithm and declare the current remainder as the greatest common divisor?\n4. Is there any relationship between the remainders in each step and the greatest common divisor?\n5. Can you think of any other numbers for which you could use the Euclidean algorithm to compute the greatest common divisor in a similar way?"
+}

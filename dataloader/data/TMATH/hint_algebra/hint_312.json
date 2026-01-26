@@ -1,0 +1,7 @@
+{
+    "problem": "If $\\sqrt{5 + x} + \\sqrt{20 - x} = 7$, what is the value of $(5 + x)(20 - x)$?",
+    "level": "Level 4",
+    "type": "Algebra",
+    "solution": "Square both sides of the equation to obtain \\[\n(5+x)+2\\sqrt{5+x}\\sqrt{20-x}+(20-x)=49.\n\\]This equation simplifies to \\[\n2\\sqrt{(5+x)(20-x)}=24,\n\\]so $(5+x)(20-x)=(24/2)^2=\\boxed{144}$.",
+    "socratic_questions": "1. Can you describe the first step you would take to solve the given equation?\n2. Have you encountered similar equations before where you needed to combine square roots? If yes, what approaches did you use to solve them?\n3. How can you isolate one radical term in the equation to simplify it?\n4. Are there any restrictions on the values of x that you need to consider in order to evaluate the expression (5 + x)(20 - x)? If yes, what are they and how do they affect the expression?\n5. Can you think of any strategies or techniques that could help simplify or manipulate the expression (5 + x)(20 - x) based on the given equation?\n6. Are there any other similar equations that you can think of where you might encounter a similar thought process and steps to find the value of an expression?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Find the remainder when $8\\cdot10^{18}+1^{18}$ is divided by 9.",
+    "level": "Level 3",
+    "type": "Prealgebra",
+    "solution": "First we know that $1^{18}=1$. Then we see that $8\\cdot10^{18}$ is 8 followed by 18 zeroes. So the sum is $800\\cdots001$. A number is divisible by 9 if the sum of its digits is a multiple of 9. In this case, the sum of the digits is $8+1=9$, so the number itself is a multiple of 9 and leaves a remainder of $\\boxed{0}$ when divided by 9.",
+    "socratic_questions": "1. What is the value of $1^{18}$?\n2. How can we represent $8\\cdot10^{18}$ using digits?\n3. Can you determine the sum of the digits in the number $800\\cdots001$?\n4. What does it mean for a number to be divisible by 9?\n5. Is the sum of the digits in $800\\cdots001$ a multiple of 9? If so, what does that tell us about the number itself?\n6. Based on the concept we just explored, what can we conclude about the remainder when $8\\cdot10^{18}+1^{18}$ is divided by 9?"
+}

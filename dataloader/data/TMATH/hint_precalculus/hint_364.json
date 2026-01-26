@@ -1,0 +1,7 @@
+{
+    "problem": "The line segment connecting $(-2,7)$ and $(3,11)$ can be parameterized by the equations\n\\begin{align*}\nx &= at + b, \\\\\ny &= ct + d,\n\\end{align*}where $0 \\le t \\le 1,$ and $t = 0$ corresponds to the point $(-2,7).$  Find $a^2 + b^2 + c^2 + d^2.$",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "Taking $t = 0,$ we get $(x,y) = (b,d) = (-2,7),$ so $b = -2$ and $d = 7.$\n\nTaking $t = 1,$ we get $(x,y) = (a + b, c + d) = (3,11),$ so $a + b = 3$ and $c + d = 11.$  Hence, $a = 5$ and $c = 4.$\n\nThen $a^2 + b^2 + c^2 + d^2 = 5^2 + (-2)^2 + 4^2 + 7^2 = \\boxed{94}.$",
+    "socratic_questions": "1. Can you describe what a parameterized equation represents in terms of the line segment connecting two points?\n2. How can we use the given points $(-2,7)$ and $(3,11)$ to determine the parameterized equation of the segment?\n3. How do we find a, b, c, and d for the parameterized equation using the given information?\n4. Can you explain why we use t values in the range of [0,1] to parameterize the line segment?\n5. What do a, b, c, and d represent in the parameterized equation?\n6. How do we use the parameterized equation to find the length and midpoint of the line segment?\n7. How can we generalize the process of parameterizing a line segment using given points to other segments or shapes in a coordinate plane?"
+}

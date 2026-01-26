@@ -1,0 +1,7 @@
+{
+    "problem": "Which digit will appear in the 534th place after the decimal point in the decimal representation of $\\frac{5}{13}$?",
+    "level": "Level 3",
+    "type": "Number Theory",
+    "solution": "The decimal representation of $\\frac{5}{13}$ is $0.\\overline{384615}$, which repeats every 6 digits. Since 534 is a multiple of 6, the 534th digit is the same as the last digit in the repeating block, which is $\\boxed{5}$.",
+    "socratic_questions": "1. Can you identify the pattern in the decimal representation of $\\frac{5}{13}$?\n2. How many digits are there in each repeating block?\n3. If the repeating block starts with the digit 3, what would be the digit in the 534th place?\n4. How can you determine which repeating block corresponds to the 534th digit?\n5. Can you explain why the 534th digit will be the same as the last digit in the repeating block?\n6. Are there any other similar problems in which finding the digit in a certain place after the decimal point requires identifying a pattern in the decimal representation?"
+}

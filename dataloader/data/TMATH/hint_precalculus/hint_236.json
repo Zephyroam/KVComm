@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\arcsin \\frac{1}{\\sqrt{2}}.$  Express your answer in radians.",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "Since $\\sin \\frac{\\pi}{4} = \\frac{1}{\\sqrt{2}},$ $\\arcsin \\frac{1}{\\sqrt{2}} = \\boxed{\\frac{\\pi}{4}}.$",
+    "socratic_questions": "1. Can you explain what the function $\\arcsin$ represents?\n2. What is the definition of $\\arcsin$ in terms of the sine function?\n3. What is the value of $\\sin \\frac{\\pi}{4}$?\n4. How does the value of $\\sin \\frac{\\pi}{4}$ relate to $\\arcsin \\frac{1}{\\sqrt{2}}$?\n5. Can you use the relationship between $\\sin$ and $\\arcsin$ to find the value of $\\arcsin \\frac{1}{\\sqrt{2}}$?\n6. What is the final answer when expressing $\\arcsin \\frac{1}{\\sqrt{2}}$ in radians?"
+}

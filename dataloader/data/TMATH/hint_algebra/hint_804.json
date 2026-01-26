@@ -1,0 +1,7 @@
+{
+    "problem": "The sum of the squares of two positive integers is 193. The product of the two integers is 84. What is the sum of the two integers?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "Let the two integers be $x$ and $y$. We are given that $x^2 + y^2 = 193$ and that $xy = 84$. We want to find $x + y$. Note that $(x + y)^2 = x^2 + y^2 + 2xy = 193 + 2\\cdot 84 = 361$. Taking the square root of 361, we see that $x + y = \\boxed{19}$.",
+    "socratic_questions": "1. Can you describe the first step in solving this problem? \n2. How would you represent the sum of the squares of the two positive integers algebraically? \n3. Can you think of any factors of 84 that may help you find the two positive integers? \n4. Why is it important to find the product of the two integers? \n5. How can we use the given information to set up an equation? \n6. What algebraic expressions can we use to represent the sum of the squares and the product of the two integers? \n7. Why is it useful to set up an equation to solve this problem? \n8. How can we simplify the equation to make it easier to solve? \n9. What steps can we take to solve the equation and find the two positive integers? \n10. How can we check if our solution is correct? \n11. Are there any other problem-solving strategies or approaches that can be applied to similar questions in algebra?"
+}

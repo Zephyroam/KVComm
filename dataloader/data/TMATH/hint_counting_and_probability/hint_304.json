@@ -1,0 +1,7 @@
+{
+    "problem": "Compute $\\frac{6! + 7!}{5!}$",
+    "level": "Level 1",
+    "type": "Counting & Probability",
+    "solution": "This simplifies nicely because $5!$ divides both $6!$ and $7!$ evenly:\n\n\n\\begin{align*}\n\\frac{6! + 7!}{5!} &=\\frac{6!}{5!} + \\frac{7!}{5!}\\\\&= 6 + 6 \\cdot 7\\\\\n&= 6 \\cdot 8 \\\\\n&= \\boxed{48}\n\\end{align*}",
+    "socratic_questions": "1. Can you explain what the factorial function represents and how it is calculated?\n2. What is the factorial of 6? What is the factorial of 7?\n3. How would you simplify $\\frac{6! + 7!}{5!}$ by expanding the factorials?\n4. Is it possible to cancel out any common factors in the numerator and denominator? If so, which factors?\n5. Can you express $\\frac{6! + 7!}{5!}$ in terms of $\\frac{6!}{5!}$ and $\\frac{7!}{5!}$?\n6. How can you simplify the expression $\\frac{6!}{5!} + \\frac{7!}{5!}$ even further?\n7. Can you evaluate $\\frac{6!}{5!}$ and $\\frac{7!}{5!}$ separately?\n8. What is the sum of $\\frac{6!}{5!}$ and $\\frac{7!}{5!}$?\n9. How can you simplify the final expression $\\frac{6! + 7!}{5!}$?\n10. What is the value of $\\frac{6! + 7!}{5!}$?"
+}

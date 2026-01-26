@@ -1,0 +1,7 @@
+{
+    "problem": "Twenty switches in an office computer network are to be connected so that each switch has a direct connection to exactly three other switches. How many connections will be necessary?",
+    "level": "Level 5",
+    "type": "Prealgebra",
+    "solution": "Each switch has three connections. So, with twenty switches, there would seem to be $20 \\cdot 3 = 60$ connections. However, each connection corresponds to two switches. Thus, there are $\\frac{20\\cdot 3}{2} = \\boxed{30}$ connections.",
+    "socratic_questions": "1. How many switches are in the office computer network?\n2. How many connections does each switch need to have?\n3. What is the initial calculation for the total number of connections?\n4. Why do we need to divide the initial calculation by 2?\n5. How does each connection correspond to two switches?\n6. What is the final calculation for the necessary connections?\n7. Can you explain why the final calculation gives the correct answer?\n8. Can you think of any other scenarios where a similar approach would be used to determine the necessary connections?"
+}

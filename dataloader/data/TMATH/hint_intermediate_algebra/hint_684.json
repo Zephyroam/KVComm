@@ -1,0 +1,7 @@
+{
+    "problem": "Let $f(x) = 4x + c$ and $g(x) = cx + 2.$  If $f(g(x)) = 12x + d,$ then find $d.$",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "We have that\n\\[f(g(x)) = f(cx + 2) = 4(cx + 2) + c = 4cx + c + 8 = 12x + d.\\]Matching coefficients, we get $4c = 12$ and $d = c + 8,$ so $c = 3,$ and $d = 3 + 8 = \\boxed{11}.$",
+    "socratic_questions": "1. Can you describe what the function $f(x)$ represents? \n2. How about the function $g(x)$? \n3. What is the composition function $f(g(x))$ and how do we evaluate it? \n4. Using $f(g(x))$ and the given equation, can we solve for any unknown coefficients such as $c$ or $d$? \n5. Given the equation $f(g(x)) = 12x + d,$ what is the equation for $f(x)$ in terms of $x$? \n6. How can we use the equation for $f(x)$ to solve for $d$? \n7. Are there any alternative methods for solving this problem other than using composition functions? \n8. How might this problem be similar to or different from other problems involving composition functions?"
+}

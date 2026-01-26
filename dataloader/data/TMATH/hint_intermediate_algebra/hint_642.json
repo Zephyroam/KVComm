@@ -1,0 +1,7 @@
+{
+    "problem": "The line $y = 2x + c$ is tangent to the parabola $y^2 = 8x.$  Find $c.$",
+    "level": "Level 2",
+    "type": "Intermediate Algebra",
+    "solution": "Rearranging $y = 2x + c$ gives $2x = y - c.$  Substituting into $y^2 = 8x,$ we get\n\\[y^2 = 4(y - c) = 4y - 4c,\\]or $y^2 - 4y + 4c = 0.$  Since we have a tangent, this quadratic will have a double root.  In other words, its discriminant will be 0.  Hence, $(-4)^2 - 4(4c) = 16 - 16c = 0,$ which means $c = \\boxed{1}.$",
+    "socratic_questions": "1. Can you describe the characteristics of a tangent line to a parabola, from a geometric perspective?\n2. How can we use this knowledge to find the value of $c$ in the equation $y = 2x + c$ tangent to $y^2 = 8x$?\n3. By substituting the expression for $y$ in terms of $x$ from the given equation, we obtain a quadratic equation. Can you derive this equation and explain why it is necessary to solve for $c$?\n4. We know that to have a tangent line, the quadratic equation obtained should have a double root. What is the discriminant of a quadratic equation and how can we use it to find the value of $c$?\n5. Using the discriminant, what value of $c$ do we get for the given quadratic equation, and how does this satisfy the requirements for the line to be a tangent to the parabola?\n6. Can you think of other examples where finding the tangent line to a curve or solving for a double root of a quadratic equation is relevant? How can the techniques used in this problem be extended to other situations?"
+}

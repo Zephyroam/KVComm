@@ -1,0 +1,7 @@
+{
+    "problem": "For a given positive integer $n > 2^3$, what is the greatest common divisor of $n^3 + 3^2$ and $n + 2$?",
+    "level": "Level 4",
+    "type": "Number Theory",
+    "solution": "Notice that by the sum of cubes factorization, $n^3 + 8 = (n+2)(n^2 - 2n + 4)$ is an integer divisible by $n+2$. Thus,\n\\begin{align*}\n\\text{gcd}\\,(n^3 + 9, n+2) &= \\text{gcd}\\,(n^3 + 9 - (n^3 + 8), n+2) \\\\ \n& = \\text{gcd}\\,(1,n+2) \\\\\n& = \\boxed{1}.\n\\end{align*}",
+    "socratic_questions": "1. Can you explain the concept of greatest common divisor (gcd) and how it relates to finding the common factors between two numbers?\n2. How does the sum of cubes factorization help us in analyzing the expression $n^3 + 8$?\n3. Why can we write $n^3 + 8$ as $(n+2)(n^2 - 2n + 4)$?\n4. Based on the factorization, what can we say about the divisibility of $(n+2)$ and $n^3 + 8$?\n5. What can we deduce about the gcd of $(n+2)$ and $n^3 + 8$ based on their divisibility?\n6. How can we simplify the expression $n^3 + 9 - (n^3 + 8)$ and what does it tell us about the gcd of $(n+2)$ and $n^3 + 9$?\n7. Can you determine the gcd of $n+2$ and $n^3 + 9$ based on our previous deductions? If so, what is it?\n8. Why do we conclude that the greatest common divisor of $n^3 + 3^2$ and $n + 2$ is 1?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "How many diagonals does a regular seven-sided polygon contain?",
+    "level": "Level 3",
+    "type": "Counting & Probability",
+    "solution": "A seven-sided polygon has seven vertices. There are ${7 \\choose 2} = 21$ ways to connect the pairs of these 7 points. But 7 of those pairs are pairs of consecutive vertices, so they are counted as sides. So, only $21 - 7 = \\boxed{14}$ of these segments are diagonals.",
+    "socratic_questions": "1. What is a regular seven-sided polygon?\n2. How many vertices does a regular seven-sided polygon have?\n3. What is a diagonal of a polygon? Can you provide a definition?\n4. How many ways are there to connect pairs of the vertices in a seven-sided polygon?\n5. Why do we need to subtract the count of pairs of consecutive vertices?\n6. Can you explain why those pairs are counted as sides and not as diagonals?\n7. How many segments remain after subtracting the pairs of consecutive vertices from the total count?\n8. How did you arrive at the answer of 14 as the number of diagonals?\n9. Can you think of any other examples where the same counting principle can be applied?\n10. What connections can you make between the number of vertices and the number of diagonals in a regular polygon?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "As $x$ ranges over all real numbers, find the range of\n\\[f(x) = \\sin^4 x + \\cos ^2 x.\\]Enter your answer using interval notation.",
+    "level": "Level 3",
+    "type": "Precalculus",
+    "solution": "We can write\n\\begin{align*}\nf(x) &= \\sin^4 x + 1 - \\sin^2 x \\\\\n&= \\left( \\sin^2 x - \\frac{1}{2} \\right)^2 + \\frac{3}{4}.\n\\end{align*}Since $\\sin^2 x$ varies between 0 and 1, the range of $f(x)$ is $\\boxed{\\left[ \\frac{3}{4}, 1 \\right]}.$",
+    "socratic_questions": "1. Can you describe the function $f(x)$ and what it represents?\n2. Is there a way to simplify or rewrite $f(x)$ using trigonometric identities?\n3. What is the maximum and minimum value of $\\sin^2 x$ and how does it affect the range of $f(x)$?\n4. How do we find the range of a function? Can you explain the steps and process involved?\n5. Can you determine if the range of $f(x)$ is bounded or unbounded?\n6. Are there any other trigonometric functions that could be combined to create a similar function? How would their range compare to that of $f(x)$?\n7. How does the range of $f(x)$ change if we modify the function by adding or multiplying other terms?"
+}

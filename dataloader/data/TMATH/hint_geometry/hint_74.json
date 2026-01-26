@@ -1,0 +1,7 @@
+{
+    "problem": "A two-inch cube ($2\\times2\\times2$) of silver weighs 3 pounds and is worth $\\$200$. How much is a three-inch cube of silver worth?  Round your answer to the nearest dollar.",
+    "level": "Level 3",
+    "type": "Geometry",
+    "solution": "The volume of a two-inch cube is $2^3=8$ cu inches, while that of a three-inch cube is 27 cu inches. Therefore, the weight and value of the larger cube is $\\frac{27}{8}$ times that of the smaller. $\\$200(\\frac{27}{8})=\\boxed{\\$675}$.",
+    "socratic_questions": "1. What are the dimensions of the two-inch cube of silver? \n2. How much does the two-inch cube of silver weigh? \n3. What is the value of the two-inch cube of silver? \n4. How does the volume of the two-inch cube compare to the volume of the three-inch cube? \n5. What is the weight of the three-inch cube of silver? \n6. How much is the three-inch cube of silver worth? \n7. How can you calculate the value of the three-inch cube of silver based on the information given? \n8. Are there any assumptions being made in determining the value of the three-inch cube of silver? \n9. How does the weight and value of the larger cube compare to that of the smaller cube? \n10. Can you think of any other scenarios where the same principles of volume, weight, and value apply?"
+}

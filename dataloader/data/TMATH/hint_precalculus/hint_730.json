@@ -1,0 +1,7 @@
+{
+    "problem": "Suppose that $wz = 12-8i$, and $|w| = \\sqrt{13}$.  What is $|z|$?",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "Since $wz = 12-8i$, we have  \\[|wz| = |12-8i| = |4(3-2i)| = 4|3-2i| = 4\\sqrt{3^2 + (-2)^2} = 4\\sqrt{13}.\\]Since $|wz| = |w|\\cdot |z|$, we have $|w|\\cdot |z| = 4\\sqrt{13}$.  Finally, since we are given that $|w| = \\sqrt{13}$, we have $|z| = \\boxed{4}$.",
+    "socratic_questions": "1. Can you explain what the given equation represents and what the variables $w$ and $z$ stand for?\n2. What is the significance of the absolute value notation in the equation? How does it relate to the concept of magnitude?\n3. How can we use the given equation to find the magnitude of $z$?\n4. Why do we have $|wz| = |w|\\cdot |z|$? What properties or rules does this equation rely on?\n5. Considering that $|w| = \\sqrt{13}$ and $|wz| = 4\\sqrt{13}$, can you derive an equation involving $|z|$? How does it relate to the previous equation?\n6. By solving the equation derived in the previous step, what can we conclude about the magnitude of $z$?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "The function $f(x)$ satisfies\n\\[b^2 f(a) = a^2 f(b)\\]for all real numbers $a$ and $b.$  If $f(2) \\neq 0,$ find\n\\[\\frac{f(5) - f(1)}{f(2)}.\\]",
+    "level": "Level 3",
+    "type": "Intermediate Algebra",
+    "solution": "Setting $a = 5$ and $b = 2,$ we get\n\\[4f(5) = 25f(2),\\]so $\\frac{f(5)}{f(2)} = \\frac{25}{4}.$\n\nSetting $a = 1$ and $b = 2,$ we get\n\\[4f(1) = f(2),\\]so $\\frac{f(1)}{f(2)} = \\frac{1}{4}.$  Hence,\n\\[\\frac{f(5) - f(1)}{f(2)} = \\frac{25}{4} - \\frac{1}{4} = \\boxed{6}.\\]",
+    "socratic_questions": "1. What is the given condition of the function $f(x)$? How can we express it mathematically?\n2. Can you simplify the given equation by rearranging it? What can you observe from the rearranged equation?\n3. If we set $a$ and $b$ to specific values, can we derive new equations from the given condition? Can you provide an example?\n4. What can we conclude about the value of $f(2)$ based on the given condition? How did we arrive at this conclusion? \n5. If $f(2) \\neq 0$, how can we use this information to compute $\\frac{f(5) - f(1)}{f(2)}$? Can you provide the steps involved?\n6. Can you think of any other function or equation where similar techniques could be applied to solve for an unknown variable or expression? How are they similar or different from the given problem?"
+}

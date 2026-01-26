@@ -1,0 +1,7 @@
+{
+    "problem": "Two years ago there were 20 trailer homes on Elm Street with an average age of 18 years. At that time, a group of brand new trailer homes was then added to Elm Street. Today, the average age of all the trailer homes on Elm Street is 14 years. How many new trailer homes were added two years ago?",
+    "level": "Level 5",
+    "type": "Prealgebra",
+    "solution": "The 20 original trailers are now an average of 20 years old, and the $n$ new trailers are all 2 years old.  There are $20+n$ trailers, and the sum of their ages is $20\\cdot20+2n$.  This gives us the equation  \\[\n\\frac{400+2n}{20+n}=14,\n\\] which we solve like this: \\begin{align*}\n400+2n &= 14(20+n) \\\\\n400+2n &= 280+14n \\\\\n120 &= 12n\n\\end{align*} We find that there are $n=\\boxed{10}$ new trailer homes.",
+    "socratic_questions": "1. Can you summarize the problem and identify the key information given?\n2. What is the average age of the original 20 trailers before the new ones were added? What information does this give us?\n3. How can we represent the average age of all the trailers on Elm Street after the new ones were added?\n4. How can we set up an equation to relate the average age, the number of original trailers, the number of new trailers, and their respective ages?\n5. What do we know about the ages of the original and new trailers?\n6. How can we use the equation to solve for the number of new trailers that were added?\n7. Are there any other types of problems where a similar line of thinking and steps would be useful?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Bill can buy jags, jigs and jogs for $\\$1$, $\\$2$ and $\\$7$ each, respectively. What is the largest number of jogs he can purchase if he must buy at least one of each item and will spend exactly $\\$50$?",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "Bill cannot purchase 7 jogs, because then he would only have one dollar left over and could not purchase at least one jag and one jig as well.  However, Bill can purchase $\\boxed{6}$ jogs if, for example, he also purchases 2 jags and 3 jigs.",
+    "socratic_questions": "1. What items can Bill purchase and what is the cost of each item?\n2. What is the total amount of money that Bill has available to spend?\n3. If Bill wants to buy at least one of each item, how much money would be spent on jags, jigs, and jogs?\n4. How many different combinations of jags, jigs, and jogs can Bill purchase to spend exactly $50?\n5. Can Bill purchase 7 jogs? Why or why not?\n6. What is the maximum number of jogs that Bill can purchase?\n7. Can you provide an example of a combination of jags, jigs, and jogs that would allow Bill to spend exactly $50 while buying the largest number of jogs?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Given that $\\binom{17}{10}=19448$, $\\binom{17}{11}=12376$ and $\\binom{19}{12}=50388$, find $\\binom{18}{12}$.",
+    "level": "Level 4",
+    "type": "Counting & Probability",
+    "solution": "We know that $\\binom{19}{12}=\\binom{18}{11}+\\binom{18}{12}$ from Pascal's identity. Solving for $\\binom{18}{12}$ and substituting the value that we have for $\\binom{19}{12}$ gives us $\\binom{18}{12}=50388-\\binom{18}{11}$. Once again using Pascal's identity, we know that $\\binom{18}{11}=\\binom{17}{11}+\\binom{17}{10}$. Substituting the values that we have for the terms on the right side gives us $\\binom{18}{11}=31824$ and substituting that into our expression for $\\binom{18}{12}$ gives us $\\binom{18}{12}=50388-31824=\\boxed{18564}$.",
+    "socratic_questions": "1. What is the given relationship between binomial coefficients that we can use to solve this problem?\n2. How can we express $\\binom{18}{12}$ in terms of other known binomial coefficients?\n3. Using Pascal's identity, what is the relationship between $\\binom{18}{12}$ and $\\binom{17}{12}$, as well as $\\binom{17}{11}$?\n4. Based on the given values, what are the specific values of $\\binom{17}{12}$ and $\\binom{17}{11}$?\n5. What is the equation we can form using the relationships we've discovered?\n6. How can we solve this equation to find the value of $\\binom{18}{12}$?\n7. What is the final answer for $\\binom{18}{12}$ based on our calculations?"
+}

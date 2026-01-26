@@ -1,0 +1,7 @@
+{
+    "problem": "Given that $\\triangle+q=59$ and $(\\triangle+q)+q=106$, what is the value of $\\triangle$?",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "Substituting $\\triangle + q = 59$ into the second equation gives $59 + q = 106$, so $q= 106-59 = 47$.  Substituting $q=47$ into $\\triangle + q =59$ gives $\\triangle + 47 = 59$, so $\\triangle = \\boxed{12}$.",
+    "socratic_questions": "1. What does the variable triangle represent in this problem?\n2. What does q represent in this problem?\n3. Can you rewrite the first equation using the given information?\n4. What relationship can you observe between triangle, q, and their sum in the second equation?\n5. How can you rewrite the second equation using the variables triangle and q?\n6. Can you combine the equations to form an equation with only the variable triangle?\n7. What is the value of triangle based on the combined equation?\n8. Can you explain how you arrived at that value using the information given?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Determine the number of ways to arrange the letters of the word PROOF.",
+    "level": "Level 2",
+    "type": "Counting & Probability",
+    "solution": "There are two O's and five total letters, so the answer is $\\dfrac{5!}{2!} = \\boxed{60}$.",
+    "socratic_questions": "1. Can you explain the concept of permutations and combinations? \n2. How does the given problem relate to permutations and combinations? \n3. What are the total number of arrangements possible for the letters in the word PROOF? \n4. Why do we need to divide by 2 when calculating the arrangements? \n5. Can you identify any other problems where dividing by a factor is necessary? \n6. Is it possible to apply the same method to other words with repeated letters? \n7. What would happen if we changed the number of letters or the number of repeated letters? \n8. Can you think of a real-world scenario where permutations and combinations might be useful?"
+}

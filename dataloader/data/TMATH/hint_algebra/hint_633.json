@@ -1,0 +1,7 @@
+{
+    "problem": "Simplify $\\frac{3^4+3^2}{3^3-3}$  . Express your answer as a common fraction.",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "The common factor of 3 in the numerator and the common factor of 3 in the denominator will cancel: \\[\n\\frac{3^4+3^2}{3^3-3}=\\frac{3(3^3+3^1)}{3(3^2-1)}=\\frac{3^3+3^1}{3^2-1}\n\\] Now the numerator is $3^3+3=27+3=30$, and the denominator is $3^2-1=9-1=8$.  Therefore, the fraction simplifies to $\\dfrac{30}{8}=\\boxed{\\dfrac{15}{4}}$.",
+    "socratic_questions": "1. How would you start simplifying this expression? Can you identify any patterns or rules that might be helpful in simplifying it?\n2. Are you familiar with any properties or rules of exponents that might be applicable here? How can you use them to simplify the expression?\n3. Can you simplify each exponent separately before combining them? How does simplifying each exponent individually help in simplifying the entire expression?\n4. Is there a common factor that can be factored out from the numerator or denominator? How does factoring out common factors simplify the expression?\n5. What can you do with the common factor in the numerator and denominator after factoring it out? How does canceling out the common factor further simplify the expression?\n6. Are there any other alternative methods or approaches you can think of that might simplify this expression in a different way? How would you compare the different methods and decide which one to use?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Simplify $\\sqrt{288}$.",
+    "level": "Level 4",
+    "type": "Prealgebra",
+    "solution": "We have:\n\n$\\sqrt{288}=\\sqrt{144\\cdot 2}=\\boxed{12\\sqrt{2}}$.",
+    "socratic_questions": "1. Can you simplify the square root of 288?\n2. How can you break down 288 into its factors to simplify the square root expression?\n3. What is the largest perfect square factor of 288?\n4. Why can we simplify the square root of 288 by separating it into the square root of a perfect square multiplied by another number?\n5. What is the value of the perfect square factor in the simplified form of $\\sqrt{288}$?\n6. How can you verify that the simplified form, $12\\sqrt{2}$, is correct?"
+}

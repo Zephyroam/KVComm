@@ -1,0 +1,7 @@
+{
+    "problem": "Find the domain of the expression $\\frac{\\sqrt{x-2}}{\\sqrt{5-x}}$.",
+    "level": "Level 5",
+    "type": "Algebra",
+    "solution": "The expressions inside each square root must be non-negative. Therefore, $x-2 \\ge 0$, so $x\\ge2$, and $5 - x \\ge 0$, so $x \\le 5$. Also, the denominator cannot be equal to zero, so $5-x>0$, which gives $x<5$. Therefore, the domain of the expression is $\\boxed{[2,5)}$.",
+    "socratic_questions": "1. What are the restrictions on the values of x for the expression to be defined?\n2. Can you identify any potential values of x that might cause the expression to be undefined? Why?\n3. What are the domain limitations imposed by the square root functions?\n4. What values of x make the expressions under the square roots equal to or greater than zero?\n5. Are there any values of x that make the denominator zero? If so, what is the significance of such values?\n6. Can you think of any examples where a similar thought process and steps might be needed to determine the domain of an expression?"
+}

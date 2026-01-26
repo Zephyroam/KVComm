@@ -1,0 +1,7 @@
+{
+    "problem": "Let \\[f(x) =\n\\begin{cases}\n9x+4 &\\text{if }x\\text{ is an integer}, \\\\\n\\lfloor{x}\\rfloor+5 &\\text{if }x\\text{ is not an integer}.\n\\end{cases}\n\\]Find $f(\\sqrt{29})$.",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "Since 29 is not a perfect square, we know that $\\sqrt{29}$ cannot equal an integer. Therefore, $f(\\sqrt{29})=\\lfloor\\sqrt{29}\\rfloor+5=5+5=\\boxed{10}$.",
+    "socratic_questions": "1. How would you define the given function $f(x)$ based on the provided expression?\n2. Can you identify the two different cases in the definition of $f(x)$ based on the given conditions?\n3. How would you compute the value of $f(\\sqrt{29})$ using the definition of $f(x)$? \n4. What is the value of the expression $f(\\sqrt{29})$ if $\\sqrt{29}$ is an integer? Why?\n5. What happens when $\\sqrt{29}$ is not an integer? How would you compute the value of $f(\\sqrt{29})$ in that case?\n6. Can you simplify the expression $\\lfloor{\\sqrt{29}}\\rfloor+5$? How does it relate to the final value of $f(\\sqrt{29})$?\n7. Are there any other types of numbers for which we need to consider different cases when finding $f(x)$? If so, can you provide examples and explain the process?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "What is the sum of all the integers between -12.1 and 3.3?",
+    "level": "Level 3",
+    "type": "Algebra",
+    "solution": "The problem is asking for the sum of the integers from $-12$ to 3.  The sum of an arithmetic series is equal to the average of the first and last term, multiplied by the number of terms.  The number of integers from $-12$ to 3 is $3 - (-12) + 1 = 16$, so the sum is $(-12 + 3)/2 \\cdot 16 = \\boxed{-72}$.",
+    "socratic_questions": "1. How do you define the term \"integers\"?\n2. Can you name the integers between -12.1 and 3.3?\n3. How many integers are there between -12.1 and 3.3?\n4. Is there a pattern or rule to determine the sum of an arithmetic sequence?\n5. How can you find the sum of an arithmetic sequence using the formula?\n6. What is the common difference between consecutive integers in this sequence?\n7. How can you determine the number of terms in this arithmetic sequence?\n8. How can you use the formula for the sum of an arithmetic sequence to find the total sum in this case?\n9. After calculating the sum, how can you verify if your answer is correct?\n10. Can you generalize this method to find the sum of any arithmetic sequence?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Evaluate $3x^y + 4y^x$ when $x=2$ and $y=3$.",
+    "level": "Level 1",
+    "type": "Algebra",
+    "solution": "We have $3x^y + 4y^x = 3\\cdot 2^3 + 4\\cdot 3^2 = 3\\cdot 8 + 4\\cdot 9 = 24 + 36 = \\boxed{60}$.",
+    "socratic_questions": "1. What is the first step in evaluating the expression $3x^y + 4y^x$ when $x=2$ and $y=3$?\n2. Are there any laws or principles that can help simplify the expression before substituting the values of $x$ and $y$?\n3. How does the order of the variables affect the result? Would the expression be the same if we interchange the values of $x$ and $y$?\n4. Can we simplify $3x^y$ and $4y^x$ separately before adding them together? If so, how can we simplify each part?\n5. What does it mean to substitute the values of $x$ and $y$ into the expression? How does this affect the calculation?\n6. Is there a specific order in which we should perform the calculations? Are there any rules for combining exponents and different bases?\n7. Can we rearrange the expression in any way to make the evaluation easier or more efficient?\n8. Are there any properties of exponents or algebraic operations that can help us simplify the expression further?\n9. Are there any other examples or similar expressions where we can apply the same principles and methods of evaluation?\n10. How can we check the accuracy of our evaluation? Are there alternative approaches or methods to verify the result?"
+}

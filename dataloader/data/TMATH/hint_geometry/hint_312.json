@@ -1,0 +1,7 @@
+{
+    "problem": "What is the volume, in cubic units, of a cube whose surface area is 600 square units?",
+    "level": "Level 1",
+    "type": "Geometry",
+    "solution": "The surface area of a cube equals 6 times the area of each face (since there are 6 faces). If the cube has a sidelength of $s$, then the surface area equals $6s^2$. We set that equal to 600 and solve for $s$, which must be positive. $$600=6s^2\\qquad\\Rightarrow 100=s^2\\qquad\\Rightarrow 10=s$$ The volume of the cube is $s^3=10^3=\\boxed{1000}$ cubic units.",
+    "socratic_questions": "1. Can you describe the first step in solving this problem?\n2. How do you calculate the surface area of a cube and what is the formula for it?\n3. If the surface area of a cube is given as 600 square units, what equation can you set up to represent this information?\n4. How can you solve the equation to find the side length of the cube?\n5. What is the formula for calculating the volume of a cube?\n6. What is the value of the side length of the cube and can you substitute it into the volume formula to find the volume?\n7. Are there any specific units mentioned in the question for the volume? If not, what should be the units of the volume?\n8. How can you interpret the final volume value in the context of this problem?\n9. Can you think of any other geometric shapes where you can use similar thinking and steps to find the volume when surface area is given?"
+}

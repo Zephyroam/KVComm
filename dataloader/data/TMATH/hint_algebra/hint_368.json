@@ -1,0 +1,7 @@
+{
+    "problem": "Machiavelli added together $1+3i$ and $2-4i$. What number did he get?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "Adding together the real part and imaginary parts separately, we have $(1+2)+(3-4)i=\\boxed{3-i}$.",
+    "socratic_questions": "1. How would you represent the numbers $1+3i$ and $2-4i$ using the complex number notation?\n2. What operation does \"added together\" represent in this context?\n3. Can you perform the addition of complex numbers $1+3i$ and $2-4i$ step by step? What are the individual steps involved in this addition?\n4. Can you simplify the expression $1+3i+2-4i$ to obtain a single complex number?\n5. How did you determine the real and imaginary parts of the resulting complex number?\n6. Can you explain the significance of adding the real and imaginary parts separately when performing addition of complex numbers?\n7. Is there another method or representation that could be used to add the complex numbers $1+3i$ and $2-4i$?\n8. Can you think of any other scenarios or problems where adding complex numbers may be involved? How would you approach and solve them?\n9. How does the concept of adding complex numbers relate to the broader field of algebra?"
+}

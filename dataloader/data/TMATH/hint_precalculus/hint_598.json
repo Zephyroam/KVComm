@@ -1,0 +1,7 @@
+{
+    "problem": "Express $\\sin (a + b) - \\sin (a - b)$ as the product of trigonometric functions.",
+    "level": "Level 2",
+    "type": "Precalculus",
+    "solution": "By sum-to-product,\n\\[\\sin (a + b) - \\sin (a - b) = \\boxed{2 \\sin b \\cos a}.\\]",
+    "socratic_questions": "1. Can you explain what the expression $\\sin(a + b) - \\sin(a - b)$ represents? What is the difference between these two trigonometric functions?\n2. How can we apply the sum-to-product trigonometric identity to simplify this expression? Are there any specific steps involved in using this identity?\n3. What are the key components of the sum-to-product identity? How does it relate to the given expression?\n4. Can you elaborate on why the expression simplifies to $2\\sin b \\cos a$ using the sum-to-product identity? What is the reasoning behind this result?\n5. Can you show the steps that lead to the final expression of $2\\sin b \\cos a$? What intermediate steps or substitutions were made?\n6. Are there any limitations or conditions for applying the sum-to-product identity? Can you think of any scenarios where this identity might not be applicable?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Factor $(x^2 + 3x + 2)(x^2 + 7x + 12) + (x^2 + 5x - 6)$ as the product of two non-constant polynomials.",
+    "level": "Level 4",
+    "type": "Intermediate Algebra",
+    "solution": "We can factor $x^2 + 3x + 2 = (x + 1)(x + 2)$ and $x^2 + 7x + 12 = (x + 3)(x + 4).$  Then the given polynomial is\n\\begin{align*}\n(x + 1)(x + 2)(x + 3)(x + 4) + (x^2 + 5x - 6) &= (x + 1)(x + 4)(x + 2)(x + 3) + (x^2 + 5x - 6) \\\\\n&= (x^2 + 5x + 4)(x^2 + 5x + 6) + (x^2 + 5x - 6).\n\\end{align*}Let $y = x^2 + 5x.$  Then\n\\begin{align*}\n(x^2 + 5x + 4)(x^2 + 5x + 6) + (x^2 + 5x - 6) &= (y + 4)(y + 6) + (y - 6) \\\\\n&= y^2 + 10y + 24 + y - 6 \\\\\n&= y^2  + 11y + 18 \\\\\n&= (y + 2)(y + 9) \\\\\n&= \\boxed{(x^2 + 5x + 2)(x^2 + 5x + 9)}.\n\\end{align*}",
+    "socratic_questions": "1. What is the initial step to factor the given expression into two non-constant polynomials?\n2. Are there any common factors that can be factored out from each term?\n3. Can we factor each quadratic expression $(x^2 + 3x + 2)$ and $(x^2 + 7x + 12)$ further? If so, how?\n4. What does it mean to \"factor\" a polynomial? How does it help us understand the expression better?\n5. How can we combine the factored expressions of $(x^2 + 3x + 2)$ and $(x^2 + 7x + 12)$ with the third term $(x^2 + 5x - 6)$?\n6. Can we simplify the expression further? If so, how?\n7. What does the final factored form $(x^2 + 5x + 2)(x^2 + 5x + 9)$ tell us about the original expression?\n8. Are there any other methods or techniques that can be used to factor the original expression?"
+}

@@ -1,0 +1,7 @@
+{
+    "problem": "Find the integer $n,$ $0 \\le n \\le 180,$ such that $\\cos n^\\circ = \\cos 259^\\circ.$",
+    "level": "Level 1",
+    "type": "Precalculus",
+    "solution": "Since the cosine function has period $360^\\circ,$\n\\[\\cos 259^\\circ = \\cos (259^\\circ - 360^\\circ) = \\cos (-101^\\circ).\\]And since the cosine function is even, $\\cos (-101^\\circ) = \\cos 101^\\circ,$ so $n = \\boxed{101}.$",
+    "socratic_questions": "1. Can you describe the concept of cosine and how it relates to angles?\n2. What is the general period of the cosine function and what does that mean for its values?\n3. How can we use the evenness of the cosine function to simplify our calculations?\n4. In this problem, what is the relationship between 259 degrees and the solution we are trying to find?\n5. How can we use the evenness of the cosine function and the periodicity of the cosine function to find the solution?\n6. Can you think of any other problems where knowing about the evenness and periodicity of the cosine function might be helpful?"
+}
