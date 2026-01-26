@@ -1,6 +1,6 @@
 # KVComm
 
-Official implementation of the paper [KVComm: Communication Between Language Models via Transferring Key-Value Cache](https://openreview.net/forum?id=F7rUng23nw) (ICLR 2026).
+Official implementation of the paper [KVComm: Enabling Efficient LLM Communication through Selective KV Sharing](https://openreview.net/forum?id=F7rUng23nw) (ICLR 2026).
 
 A framework for communicating between Large Language Models (LLMs), focusing on how models can effectively share information to improve collaborative reasoning and question-answering performance.
 
