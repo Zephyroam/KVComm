@@ -146,3 +146,7 @@ python com.py \
 ```
 
 This automatically identifies which layers are most important for communication and selects them for the main evaluation.
+
+### Reproducibility note
+
+The repository does not currently include the code used for FLOPs and memory measurement. Clarification on the exact measurement setup (e.g., execution path and whether lm_head is included) would be helpful for reproducing the reported results.
